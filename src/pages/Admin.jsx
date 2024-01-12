@@ -1,15 +1,49 @@
-import { Helmet } from "react-helmet";
+import { Helmet, HelmetProvider } from "react-helmet-async";
+import CardItem from "../components/admin/CardItem";
+import Jumbotron from "../components/admin/Jumbotron";
 
 const Admin = () => {
   return (
-    <section>
-      <Helmet>
-        <title>Dashboard</title>
-      </Helmet>
+    <HelmetProvider>
       <section>
-        <h1>ini halaman admin</h1>
+        <Helmet>
+          <title>Dashboard</title>
+        </Helmet>
+        <section>
+          <Jumbotron />
+          <section className="flex flex-wrap gap-14 justify-between px-14">
+            <CardItem
+              title={"hello world"}
+              tanggal={Date.now().toString()}
+              img={
+                "https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+              }
+            />
+            <CardItem
+              title={"hello world"}
+              tanggal={Date.now().toString()}
+              img={
+                "https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+              }
+            />
+            <CardItem
+              title={"hello world"}
+              tanggal={Date.now().toString()}
+              img={
+                "https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+              }
+            />
+            <CardItem
+              title={"hello world"}
+              tanggal={Date.now().toString()}
+              img={
+                "https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+              }
+            />
+          </section>
+        </section>
       </section>
-    </section>
+    </HelmetProvider>
   );
 };
 
