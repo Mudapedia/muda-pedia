@@ -1,12 +1,18 @@
 import { Editor } from "@tinymce/tinymce-react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import LoadingAnimate from "../LoadingAnimate";
 import Notif from "./Notif";
 import Content from "../../api/content";
 import { useRef } from "react";
 
-const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
+const FormUpdate = ({
+  formUpdateShowHide,
+  setFormUpdateShowHide,
+  setContents,
+  dataUpdate,
+  setDataUpdate,
+}) => {
   const [text, setText] = useState("");
   const [btnLoading, setBtnLoading] = useState(false);
   const [btnDisable, setBtnDisable] = useState(false);
@@ -17,37 +23,38 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
   const [judul, setJudul] = useState("");
   const [thumbnail, setThumbnail] = useState("");
 
+  // ref
   const formRef = useRef(null);
 
+  useEffect(
+    function () {
+      setJudul(dataUpdate.title);
+      setThumbnail(dataUpdate.thumbnail);
+      setText(dataUpdate.description);
+    },
+    [dataUpdate]
+  );
+
   const back = () => {
-    formRef.current.reset();
+    setFormUpdateShowHide("-translate-x-full");
     setText("");
     setJudul("");
     setThumbnail("");
-    setFormAddShowHide("translate-x-full");
+    setDataUpdate({});
+    formRef.current.reset();
   };
 
-  const btnAdd = async (e) => {
+  const btnUpdate = async (e) => {
     try {
       e.preventDefault();
       setBtnLoading(true);
       setBtnDisable(true);
 
-      const res = await Content.Add({
+      const res = await Content.Update(dataUpdate._id, {
         title: judul,
         thumbnail: thumbnail,
         description: text,
       });
-
-      const addItemList = {
-        _id: res.data.idContent,
-        title: judul,
-        thumbnail: thumbnail,
-        description: text,
-        created_at: Date.now().toString(),
-        _v: 0,
-      };
-      setContents((prev) => [...prev, addItemList]);
 
       setBtnDisable(false);
       setBtnLoading(false);
@@ -56,11 +63,28 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
         msg: res.data.message,
       });
 
+      setContents((prev) => {
+        let i = 0;
+        let run = true;
+        while (i < prev.length && run) {
+          if (prev[i]._id === dataUpdate._id) {
+            prev[i].title = judul;
+            prev[i].thumbnail = thumbnail;
+            prev[i].description = text;
+            run = false;
+          }
+
+          i++;
+        }
+        return prev;
+      });
+
       setNotifShowHide("");
       setText("");
       formRef.current.reset();
       setJudul("");
       setThumbnail("");
+      setDataUpdate({});
     } catch (err) {
       setBtnDisable(false);
       setBtnLoading(false);
@@ -69,17 +93,17 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
         msg: err.response.data.message,
       });
       setNotifShowHide("");
-      console.log(err);
     }
   };
 
   const closeNotif = () => {
     setNotifShowHide("hidden");
+    setFormUpdateShowHide("-translate-x-full");
   };
 
   return (
     <section
-      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formAddShowHide}`}
+      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formUpdateShowHide}`}
     >
       <Notif
         notifShowHide={notifShowHide}
@@ -87,9 +111,9 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
         notifType={notifType}
       />
       <section className="text-center">
-        <h1 className="text-xl font-bold">Tambahin artikel</h1>
+        <h1 className="text-xl font-bold">Ubah artikel</h1>
       </section>
-      <form onSubmit={btnAdd} ref={formRef}>
+      <form onSubmit={btnUpdate} ref={formRef}>
         <section className="flex items-start gap-10">
           <Editor
             required
@@ -134,6 +158,7 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
                 className="border outline-none py-1 px-2 text-sm rounded-md focus:shadow-inner focus:shadow-blue-50 w-56"
                 onChange={(e) => setJudul(e.target.value)}
                 required
+                defaultValue={dataUpdate.title}
               />
             </section>
             <section className="flex flex-col">
@@ -147,9 +172,10 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
                 placeholder="url"
                 onChange={(e) => setThumbnail(e.target.value)}
                 required
+                defaultValue={dataUpdate.thumbnail}
               />
             </section>
-            {thumbnail.length > 0 ? (
+            {thumbnail?.length > 0 ? (
               <>
                 <p className="text-sm mt-10">Preview</p>
                 <img
@@ -170,15 +196,14 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
             type="submit"
             className="inline-flex justify-center items-center py-2 px-5 text-sm font-medium text-center text-white rounded-md bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900 gap-2"
           >
-            {btnLoading ? <LoadingAnimate /> : "Tambahin"}
+            {btnLoading ? <LoadingAnimate /> : "Ubah"}
           </button>
           <p
             className="flex justify-center items-center cursor-pointer"
             onClick={back}
           >
-            Kembali
             <svg
-              className="w-3.5 h-3.5 ms-2"
+              className="w-3.5 h-3.5 ms-2 rotate-180 mr-2"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -192,6 +217,7 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
                 d="M1 5h12m0 0L9 1m4 4L9 9"
               />
             </svg>
+            Kembali
           </p>
         </section>
       </form>
@@ -199,10 +225,12 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
   );
 };
 
-export default FormAdd;
+export default FormUpdate;
 
-FormAdd.propTypes = {
-  formAddShowHide: PropTypes.string,
-  setFormAddShowHide: PropTypes.func,
+FormUpdate.propTypes = {
+  formUpdateShowHide: PropTypes.string,
+  setFormUpdateShowHide: PropTypes.func,
   setContents: PropTypes.func,
+  dataUpdate: PropTypes.object,
+  setDataUpdate: PropTypes.func,
 };
