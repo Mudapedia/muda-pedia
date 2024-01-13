@@ -1,17 +1,13 @@
 import Proptypes from "prop-types";
 
-const Jumbotron = ({ setFormAddShowHide, formAddShowHide }) => {
+const Jumbotron = ({ setFormAddShowHide }) => {
   const btnAddArticle = () => {
-    if (formAddShowHide.length) {
-      setFormAddShowHide("");
-    } else {
-      setFormAddShowHide("translate-x-full");
-    }
+    setFormAddShowHide("");
   };
 
   return (
     <section className="bg-white dark:bg-gray-900">
-      <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:pt-12 lg:pb-16">
+      <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:pt-4 lg:pb-20">
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
           Selamat datang Admin
         </h1>
@@ -51,5 +47,4 @@ export default Jumbotron;
 
 Jumbotron.propTypes = {
   setFormAddShowHide: Proptypes.func,
-  formAddShowHide: Proptypes.string,
 };
