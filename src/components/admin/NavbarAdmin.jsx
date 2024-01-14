@@ -16,7 +16,12 @@ const NavbarAdmin = () => {
         <img src={Logo} width={"60"} alt="mudapedia" />
         <p className="font-bold text-xl">Muda pedia</p>
       </section>
-      <Button color="primary" className="font-bold" onClick={logout}>
+      <Button
+        color="primary"
+        radius="sm"
+        className="font-bold"
+        onClick={logout}
+      >
         Logout
       </Button>
     </nav>

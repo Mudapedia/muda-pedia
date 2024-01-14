@@ -47,7 +47,7 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
         created_at: Date.now().toString(),
         _v: 0,
       };
-      setContents((prev) => [...prev, addItemList]);
+      setContents((prev) => [addItemList, ...prev]);
 
       setBtnDisable(false);
       setBtnLoading(false);

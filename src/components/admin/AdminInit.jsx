@@ -8,6 +8,7 @@ import CardLoading from "./CardLoading.jsx";
 import InfiniteScroll from "react-infinite-scroll-component";
 import Content from "../../api/content.js";
 import LoadingAnimate from "../LoadingAnimate.jsx";
+import { Button } from "@nextui-org/react";
 
 const AdminInit = ({
   setFormAddShowHide,
@@ -75,9 +76,16 @@ const AdminInit = ({
           </section>
         }
         endMessage={
-          <p className="text-center mt-20 mb-20 font-bold">
-            Total {contents.length} data artikel 🎉
-          </p>
+          <section className="flex flex-col justify-center items-center gap-4">
+            <p className="text-center mt-20  font-bold">
+              Total {contents.length} data artikel 🎉
+            </p>
+            <a href="#admin-top" className="mb-20">
+              <Button color="primary" radius="sm" className="font-bold">
+                Kembali keatas
+              </Button>
+            </a>
+          </section>
         }
       >
         <section className="flex flex-wrap gap-14 justify-between px-14">
