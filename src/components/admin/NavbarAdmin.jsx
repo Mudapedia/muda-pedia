@@ -6,8 +6,8 @@ import { useNavigate } from "react-router-dom";
 const NavbarAdmin = () => {
   const redirect = useNavigate();
   const logout = async () => {
-    const res = await Auth.Logout();
-    console.log(res);
+    await Auth.Logout();
+    redirect("/login-admin");
   };
 
   return (
