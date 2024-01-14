@@ -103,7 +103,7 @@ const FormUpdate = ({
 
   return (
     <section
-      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formUpdateShowHide}`}
+      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formUpdateShowHide}  overflow-y-scroll`}
     >
       <Notif
         notifShowHide={notifShowHide}

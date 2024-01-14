@@ -4,8 +4,8 @@ class Content {
   static Add(body) {
     return axiosIns.post("/admin/dashboard/content", body);
   }
-  static All() {
-    return axiosIns.get("/user/content");
+  static All(offsite = 0) {
+    return axiosIns.get(`/user/content?offset=${offsite}`);
   }
   static Del(id) {
     return axiosIns.delete(`/admin/dashboard/content/${id}`);
