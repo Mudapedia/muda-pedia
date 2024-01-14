@@ -79,7 +79,7 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
 
   return (
     <section
-      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formAddShowHide}`}
+      className={`fixed z-10 top-0 left-0 right-0 bottom-0 bg-white flex flex-col justify-between items-center py-2  transition-all ${formAddShowHide} overflow-y-scroll`}
     >
       <Notif
         notifShowHide={notifShowHide}

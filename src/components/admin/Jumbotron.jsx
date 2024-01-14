@@ -1,6 +1,7 @@
 import Proptypes from "prop-types";
+import TextLoading from "./TextLoading.jsx";
 
-const Jumbotron = ({ setFormAddShowHide }) => {
+const Jumbotron = ({ setFormAddShowHide, contents }) => {
   const btnAddArticle = () => {
     setFormAddShowHide("");
   };
@@ -11,10 +12,21 @@ const Jumbotron = ({ setFormAddShowHide }) => {
         <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
           Selamat datang Admin
         </h1>
-        <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
-          muda pedia yang suka berimajinasi terangi hari 😆🎉
+        <p className="mb-2 mt-4 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
+          Muda pedia yang suka berimajinasi terangi hari 😆🎉
         </p>
-        <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
+        {contents.length === 0 ? (
+          <TextLoading />
+        ) : (
+          <p className="mb-8 text-lg text-gray-500">
+            Ada
+            <span className="ml-1 text-xl font-bold">
+              {contents.length}
+            </span>{" "}
+            article
+          </p>
+        )}
+        <div className="mt-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
           <button
             type="button"
             className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900 gap-2"
@@ -47,4 +59,5 @@ export default Jumbotron;
 
 Jumbotron.propTypes = {
   setFormAddShowHide: Proptypes.func,
+  contents: Proptypes.array,
 };
