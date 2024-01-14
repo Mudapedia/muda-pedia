@@ -14,10 +14,7 @@ const Admin = () => {
   const [contents, setContents] = useState([]);
 
   useEffect(function () {
-    Content.All().then((res) => {
-      setContents(res.data);
-      console.log(res.data);
-    });
+    Content.All().then((res) => setContents(res.data));
   }, []);
 
   return (
