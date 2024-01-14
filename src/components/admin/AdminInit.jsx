@@ -4,6 +4,7 @@ import Jumbotron from "./Jumbotron.jsx";
 import Proptypes from "prop-types";
 import { useState } from "react";
 import Confirm from "./Confirm.jsx";
+import CardLoading from "./CardLoading.jsx";
 
 const AdminInit = ({
   setFormAddShowHide,
@@ -34,6 +35,7 @@ const AdminInit = ({
       <NavbarAdmin />
       <Jumbotron setFormAddShowHide={setFormAddShowHide} />
       <section className="flex flex-wrap gap-14 justify-between px-14">
+        {contents.length === 0 ? <CardLoading count={6} /> : ""}
         {contents.map((content, i) => (
           <CardItem
             key={i}
