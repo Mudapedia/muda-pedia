@@ -4,7 +4,7 @@ import { useState } from "react";
 import LoadingAnimate from "../LoadingAnimate";
 import Content from "../../api/content";
 
-const Confirm = ({ setShowHideConfirm, setContents, id }) => {
+const Confirm = ({ setShowHideConfirm, setContents, id, setIsEmpty }) => {
   const [btnDisableDelete, setBtnDisableDelete] = useState(false);
   const [btnDisableClose, setBtnDisableClose] = useState(false);
   const [btnLoading, setBtnLoading] = useState(false);
@@ -26,7 +26,13 @@ const Confirm = ({ setShowHideConfirm, setContents, id }) => {
         status: true,
         msg: "berhasil",
       });
-      setContents((prev) => prev.filter((val) => val._id != id));
+      setContents((prev) => {
+        const result = prev.filter((val) => val._id != id);
+        if (result.length === 0) {
+          setIsEmpty(true);
+        }
+        return result;
+      });
     } catch (err) {
       setProsesFetch(true);
       setBtnDisableClose(false);
@@ -111,4 +117,5 @@ Confirm.propTypes = {
   setShowHideConfirm: PropTypes.func,
   id: PropTypes.string,
   setContents: PropTypes.func,
+  setIsEmpty: PropTypes.func,
 };
