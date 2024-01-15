@@ -1,7 +1,17 @@
 import Proptypes from "prop-types";
 import TextLoading from "./TextLoading.jsx";
+import SearchInput from "./SearchInput.jsx";
 
-const Jumbotron = ({ setFormAddShowHide, contents }) => {
+const Jumbotron = ({
+  setFormAddShowHide,
+  contents,
+  setContents,
+  loadingContents,
+  setLoadingContents,
+  setSrc,
+  setContentsHasMore,
+  setStartContent,
+}) => {
   const btnAddArticle = () => {
     setFormAddShowHide("");
   };
@@ -15,7 +25,7 @@ const Jumbotron = ({ setFormAddShowHide, contents }) => {
         <p className="mb-2 mt-4 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
           Muda pedia yang suka berimajinasi terangi hari 😆🎉
         </p>
-        {contents.length === 0 ? (
+        {loadingContents || contents.length === 0 ? (
           <TextLoading />
         ) : (
           <p className="mb-8 text-lg text-gray-500">
@@ -50,6 +60,13 @@ const Jumbotron = ({ setFormAddShowHide, contents }) => {
             Tambahin artikel yuk
           </button>
         </div>
+        <SearchInput
+          setContents={setContents}
+          setLoadingContents={setLoadingContents}
+          setSrc={setSrc}
+          setContentHasMore={setContentsHasMore}
+          setStartContent={setStartContent}
+        />
       </div>
     </section>
   );
@@ -60,4 +77,10 @@ export default Jumbotron;
 Jumbotron.propTypes = {
   setFormAddShowHide: Proptypes.func,
   contents: Proptypes.array,
+  setContents: Proptypes.func,
+  loadingContents: Proptypes.bool,
+  setLoadingContents: Proptypes.func,
+  setSrc: Proptypes.func,
+  setContentsHasMore: Proptypes.func,
+  setStartContent: Proptypes.func,
 };

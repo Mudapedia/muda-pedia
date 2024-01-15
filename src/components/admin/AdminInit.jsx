@@ -16,11 +16,14 @@ const AdminInit = ({
   setContents,
   setFormUpdateShowHide,
   setDataUpdate,
+  loadingContents,
+  setLoadingContents,
 }) => {
   const [idDelete, setIdDelete] = useState("");
   const [showHideConfirm, setShowHideConfirm] = useState(false);
   const [contentsHasMore, setContentsHasMore] = useState(true);
   const [startContent, setStartContent] = useState(0);
+  const [src, setSrc] = useState("");
 
   const btnDelete = (id) => {
     setIdDelete(id);
@@ -34,11 +37,11 @@ const AdminInit = ({
       if (contents.length === 0) {
         return;
       } else if (startContent === 0) {
-        const res = await Content.All(contents.length);
+        const res = await Content.All(contents.length, 20, src);
         data = res.data;
         setStartContent(contents.length);
       } else {
-        const res = await Content.All(startContent + 20);
+        const res = await Content.All(startContent + 20, 20, src);
         setStartContent(startContent + 20);
         data = res.data;
       }
@@ -65,7 +68,17 @@ const AdminInit = ({
         ""
       )}
       <NavbarAdmin />
-      <Jumbotron setFormAddShowHide={setFormAddShowHide} contents={contents} />
+      <Jumbotron
+        setFormAddShowHide={setFormAddShowHide}
+        contents={contents}
+        loadingContents={loadingContents}
+        setLoadingContents={setLoadingContents}
+        setContents={setContents}
+        src={src}
+        setSrc={setSrc}
+        setContentsHasMore={setContentsHasMore}
+        setStartContent={setStartContent}
+      />
       <InfiniteScroll
         dataLength={contents.length}
         hasMore={contentsHasMore}
@@ -89,7 +102,7 @@ const AdminInit = ({
         }
       >
         <section className="flex flex-wrap gap-14 justify-between px-14">
-          {contents.length === 0 ? <CardLoading count={6} /> : ""}
+          {loadingContents ? <CardLoading count={6} /> : ""}
           {contents.map((content, i) => (
             <CardItem
               key={i}
@@ -117,4 +130,6 @@ AdminInit.propTypes = {
   contents: Proptypes.array,
   setContents: Proptypes.func,
   setDataUpdate: Proptypes.func,
+  loadingContents: Proptypes.bool,
+  setLoadingContents: Proptypes.func,
 };

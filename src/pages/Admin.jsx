@@ -12,9 +12,21 @@ const Admin = () => {
   const [dataUpdate, setDataUpdate] = useState({});
 
   const [contents, setContents] = useState([]);
+  const [loadingContents, setLoadingContents] = useState(false);
+
+  const getAllContent = async () => {
+    try {
+      setLoadingContents(true);
+      const res = await Content.All();
+      setContents(res.data);
+      setLoadingContents(false);
+    } catch (err) {
+      console.log(err);
+    }
+  };
 
   useEffect(function () {
-    Content.All().then((res) => setContents(res.data));
+    getAllContent();
   }, []);
 
   return (
@@ -30,6 +42,8 @@ const Admin = () => {
             setContents={setContents}
             setFormUpdateShowHide={setFormUpdateShowHide}
             setDataUpdate={setDataUpdate}
+            loadingContents={loadingContents}
+            setLoadingContents={setLoadingContents}
           />
           <FormAdd
             formAddShowHide={formAddShowHide}
