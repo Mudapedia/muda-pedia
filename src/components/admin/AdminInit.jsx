@@ -7,8 +7,6 @@ import Confirm from "./Confirm.jsx";
 import CardLoading from "./CardLoading.jsx";
 import InfiniteScroll from "react-infinite-scroll-component";
 import Content from "../../api/content.js";
-import LoadingAnimate from "../LoadingAnimate.jsx";
-import { Button } from "@nextui-org/react";
 
 const AdminInit = ({
   setFormAddShowHide,
@@ -93,25 +91,8 @@ const AdminInit = ({
           dataLength={contents.length}
           hasMore={contentsHasMore}
           next={getContentNext}
-          loader={
-            <section className="p-10 mt-10 mb-10 flex justify-center items-center">
-              <LoadingAnimate />
-            </section>
-          }
-          endMessage={
-            <section className="flex flex-col justify-center items-center gap-4">
-              <p className="text-center mt-20  font-bold">
-                Total {contents.length} data artikel 🎉
-              </p>
-              <a href="#admin-top" className="mb-20">
-                <Button color="primary" radius="sm" className="font-bold">
-                  Kembali keatas
-                </Button>
-              </a>
-            </section>
-          }
         >
-          <section className="flex flex-wrap gap-14 justify-between px-14">
+          <section className="flex flex-wrap gap-14 justify-between px-14 pb-40">
             {loadingContents ? <CardLoading count={6} /> : ""}
             {contents.map((content, i) => (
               <CardItem
