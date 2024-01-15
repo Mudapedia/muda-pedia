@@ -6,7 +6,12 @@ import Notif from "./Notif";
 import Content from "../../api/content";
 import { useRef } from "react";
 
-const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
+const FormAdd = ({
+  formAddShowHide,
+  setFormAddShowHide,
+  setContents,
+  setIsEmpty,
+}) => {
   const [text, setText] = useState("");
   const [btnLoading, setBtnLoading] = useState(false);
   const [btnDisable, setBtnDisable] = useState(false);
@@ -55,6 +60,7 @@ const FormAdd = ({ formAddShowHide, setFormAddShowHide, setContents }) => {
         status: true,
         msg: res.data.message,
       });
+      setIsEmpty(false);
 
       setNotifShowHide("");
       setText("");
@@ -205,4 +211,5 @@ FormAdd.propTypes = {
   formAddShowHide: PropTypes.string,
   setFormAddShowHide: PropTypes.func,
   setContents: PropTypes.func,
+  setIsEmpty: PropTypes.func,
 };

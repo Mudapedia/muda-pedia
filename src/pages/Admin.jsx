@@ -13,6 +13,7 @@ const Admin = () => {
 
   const [contents, setContents] = useState([]);
   const [loadingContents, setLoadingContents] = useState(false);
+  const [isEmpty, setIsEmpty] = useState(false);
 
   const getAllContent = async () => {
     try {
@@ -20,6 +21,9 @@ const Admin = () => {
       const res = await Content.All();
       setContents(res.data);
       setLoadingContents(false);
+      if (res.data.length === 0) {
+        setIsEmpty(true);
+      }
     } catch (err) {
       console.log(err);
     }
@@ -44,11 +48,14 @@ const Admin = () => {
             setDataUpdate={setDataUpdate}
             loadingContents={loadingContents}
             setLoadingContents={setLoadingContents}
+            isEmpty={isEmpty}
+            setIsEmpty={setIsEmpty}
           />
           <FormAdd
             formAddShowHide={formAddShowHide}
             setFormAddShowHide={setFormAddShowHide}
             setContents={setContents}
+            setIsEmpty={setIsEmpty}
           />
           <FormUpdate
             formUpdateShowHide={formUpdateShowHide}

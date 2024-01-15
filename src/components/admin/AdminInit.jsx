@@ -18,6 +18,8 @@ const AdminInit = ({
   setDataUpdate,
   loadingContents,
   setLoadingContents,
+  isEmpty,
+  setIsEmpty,
 }) => {
   const [idDelete, setIdDelete] = useState("");
   const [showHideConfirm, setShowHideConfirm] = useState(false);
@@ -37,12 +39,12 @@ const AdminInit = ({
       if (contents.length === 0) {
         return;
       } else if (startContent === 0) {
-        const res = await Content.All(contents.length, 20, src);
+        const res = await Content.All(contents.length, 12, src);
         data = res.data;
         setStartContent(contents.length);
       } else {
-        const res = await Content.All(startContent + 20, 20, src);
-        setStartContent(startContent + 20);
+        const res = await Content.All(startContent + 12, 12, src);
+        setStartContent(startContent + 12);
         data = res.data;
       }
 
@@ -63,6 +65,7 @@ const AdminInit = ({
           setShowHideConfirm={setShowHideConfirm}
           id={idDelete}
           setContents={setContents}
+          setIsEmpty={setIsEmpty}
         />
       ) : (
         ""
@@ -78,46 +81,54 @@ const AdminInit = ({
         setSrc={setSrc}
         setContentsHasMore={setContentsHasMore}
         setStartContent={setStartContent}
+        isEmpty={isEmpty}
+        setIsEmpty={setIsEmpty}
       />
-      <InfiniteScroll
-        dataLength={contents.length}
-        hasMore={contentsHasMore}
-        next={getContentNext}
-        loader={
-          <section className="p-10 mt-10 mb-10 flex justify-center items-center">
-            <LoadingAnimate />
-          </section>
-        }
-        endMessage={
-          <section className="flex flex-col justify-center items-center gap-4">
-            <p className="text-center mt-20  font-bold">
-              Total {contents.length} data artikel 🎉
-            </p>
-            <a href="#admin-top" className="mb-20">
-              <Button color="primary" radius="sm" className="font-bold">
-                Kembali keatas
-              </Button>
-            </a>
-          </section>
-        }
-      >
-        <section className="flex flex-wrap gap-14 justify-between px-14">
-          {loadingContents ? <CardLoading count={6} /> : ""}
-          {contents.map((content, i) => (
-            <CardItem
-              key={i}
-              title={content.title}
-              tanggal={content["created_at"]}
-              img={content.thumbnail}
-              callbackDelete={() => btnDelete(content._id)}
-              callbackUpdate={() => {
-                setFormUpdateShowHide("");
-                setDataUpdate(content);
-              }}
-            />
-          ))}
+      {isEmpty ? (
+        <section className="flex justify-center">
+          <p className="font-bold">Artikel kosong</p>
         </section>
-      </InfiniteScroll>
+      ) : (
+        <InfiniteScroll
+          dataLength={contents.length}
+          hasMore={contentsHasMore}
+          next={getContentNext}
+          loader={
+            <section className="p-10 mt-10 mb-10 flex justify-center items-center">
+              <LoadingAnimate />
+            </section>
+          }
+          endMessage={
+            <section className="flex flex-col justify-center items-center gap-4">
+              <p className="text-center mt-20  font-bold">
+                Total {contents.length} data artikel 🎉
+              </p>
+              <a href="#admin-top" className="mb-20">
+                <Button color="primary" radius="sm" className="font-bold">
+                  Kembali keatas
+                </Button>
+              </a>
+            </section>
+          }
+        >
+          <section className="flex flex-wrap gap-14 justify-between px-14">
+            {loadingContents ? <CardLoading count={6} /> : ""}
+            {contents.map((content, i) => (
+              <CardItem
+                key={i}
+                title={content.title}
+                tanggal={content["created_at"]}
+                img={content.thumbnail}
+                callbackDelete={() => btnDelete(content._id)}
+                callbackUpdate={() => {
+                  setFormUpdateShowHide("");
+                  setDataUpdate(content);
+                }}
+              />
+            ))}
+          </section>
+        </InfiniteScroll>
+      )}
     </section>
   );
 };
@@ -132,4 +143,6 @@ AdminInit.propTypes = {
   setDataUpdate: Proptypes.func,
   loadingContents: Proptypes.bool,
   setLoadingContents: Proptypes.func,
+  isEmpty: Proptypes.bool,
+  setIsEmpty: Proptypes.func,
 };

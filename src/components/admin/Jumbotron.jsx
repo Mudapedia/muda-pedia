@@ -11,6 +11,8 @@ const Jumbotron = ({
   setSrc,
   setContentsHasMore,
   setStartContent,
+  isEmpty,
+  setIsEmpty,
 }) => {
   const btnAddArticle = () => {
     setFormAddShowHide("");
@@ -26,7 +28,18 @@ const Jumbotron = ({
           Muda pedia yang suka berimajinasi terangi hari 😆🎉
         </p>
         {loadingContents || contents.length === 0 ? (
-          <TextLoading />
+          !isEmpty ? (
+            <TextLoading />
+          ) : (
+            <p className="mb-8 text-lg text-gray-500">
+              Ada
+              <span className="ml-1 text-xl font-bold">
+                {contents.length}
+              </span>{" "}
+              {""}
+              article
+            </p>
+          )
         ) : (
           <p className="mb-8 text-lg text-gray-500">
             Ada
@@ -66,6 +79,7 @@ const Jumbotron = ({
           setSrc={setSrc}
           setContentHasMore={setContentsHasMore}
           setStartContent={setStartContent}
+          setIsEmpty={setIsEmpty}
         />
       </div>
     </section>
@@ -83,4 +97,6 @@ Jumbotron.propTypes = {
   setSrc: Proptypes.func,
   setContentsHasMore: Proptypes.func,
   setStartContent: Proptypes.func,
+  isEmpty: Proptypes.bool,
+  setIsEmpty: Proptypes.func,
 };
