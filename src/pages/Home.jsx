@@ -1,19 +1,21 @@
 import { Button } from "@nextui-org/react";
-import { Helmet } from "react-helmet";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 
 const Home = () => {
   return (
-    <section>
-      <Helmet>
-        <title>Home</title>
-      </Helmet>
+    <HelmetProvider>
       <section>
+        <Helmet>
+          <title>Home</title>
+        </Helmet>
         <section>
-          <h1>ini halaman home</h1>
-          <Button color="primary">Button</Button>
+          <section>
+            <h1>ini halaman home</h1>
+            <Button color="primary">Button</Button>
+          </section>
         </section>
       </section>
-    </section>
+    </HelmetProvider>
   );
 };
 
