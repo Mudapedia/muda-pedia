@@ -2,11 +2,47 @@ import image from "../../../assets/5395108.jpg"
 
 const AboutUs = () => {
     return(
-        <section className="text-slate-50 grid place-items-center px-6 py-4 md:px-9 lg:px-16 xl:px-28 bg-slate-900 gap-8">
-            <h1 className="text-4xl mb-3 bg-gradient-to-br from-blue-600 to-purple-700 bg-clip-text text-transparent font-extrabold">WHO ARE WE?</h1>
-            <img src={ image } alt="images" className="rounded-full w-3/6 sm:w-1/6" />
-            <p className="max-w-screen-md"
-            >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa eveniet magni repudiandae dicta veritatis neque deserunt quia totam alias hic similique voluptas voluptatem voluptates esse quas inventore doloremque velit eaque culpa sapiente, consequatur fugit ipsam. Laboriosam amet quia consectetur rem, quo perferendis sint quasi. Asperiores animi sint nobis ipsam iure.</p>
+        <section className="bg-[#F5F5F5] sm:grid sm:grid-cols-2 max-w-screen-lg mx-auto gap-9 p-9 rounded-lg my-8">
+            <div className="flex flex-col gap-4">
+                <h1 className="text-4xl font-medium  text-[#091232]">
+                    Ayo Kembangkan Bisnismu Bersama kami!
+                </h1>
+                <h2
+                className="text-lg sm:text-xl text-[#66676A] font-medium"
+                >
+                    Muda Pedia solusi terpercaya
+                </h2>
+                <div className="rounded-lg p-2 sm:p-5 flex flex-col sm:flex-row gap-5 justify-between place-items-center sm:bg-white lg:gap-20">
+                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
+                        <p className="text-[#091232] font-semibold text-2xl">
+                            1+
+                        </p>
+                        <p className="text-[#66676A]">
+                            Tahun Pengalaman
+                        </p>
+                    </div>
+                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
+                        <p className="text-[#091232] font-semibold text-2xl">
+                            50+
+                        </p>
+                        <p className="text-[#66676A]">
+                            Proyek Terselesaikan
+                        </p>
+                    </div>
+                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
+                        <p className="text-[#091232] font-semibold text-2xl">
+                            92%
+                        </p>
+                        <p className="text-[#66676A]">
+                            Kepuasan Pelanggan
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div className="text-[#66676A] flex flex-col gap-5">
+                <p>Kami, di Mudapedia, memahami bahwa era digital telah membuka pintu menuju peluang yang tak terbatas, dan kami hadir sebagai solusi yang cerdas dan terpercaya untuk membantu Anda mengembangkan bisnis dalam dunia yang terus berubah. Sebagai perusahaan inovatif, kami menawarkan rangkaian layanan yang dirancang khusus untuk memenuhi kebutuhan bisnis modern.</p>
+                <p>Visi kami menjadi Perusahaan Digital Agency yang terdepan dalam membantu para pebisnis mengembangkan usahanya</p>
+            </div>
         </section>
     )
 }
