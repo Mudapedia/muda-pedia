@@ -1,17 +1,24 @@
-import { Button } from "@nextui-org/react";
+// import { Button } from "@nextui-org/react";
 import { Helmet } from "react-helmet";
+
+// components
+import Navbar1 from "../components/user/Navbar"
+import Hero from "../components/user/landing page/Hero";
+import AboutUs from "../components/user/landing page/AboutUs";
+import Features from "../components/user/landing page/Features";
 
 const Home = () => {
   return (
-    <section>
+    <section> {/* wrapper html */}
       <Helmet>
         <title>Home</title>
       </Helmet>
-      <section>
-        <section>
-          <h1>ini halaman home</h1>
-          <Button color="primary">Button</Button>
-        </section>
+
+      <section> {/* wrapper body */}
+        <Navbar1 />
+        {/* <Hero />
+        <AboutUs />
+        <Features /> */}
       </section>
     </section>
   );
