@@ -6,6 +6,8 @@ import Navbar1 from "../components/user/Navbar"
 import Hero from "../components/user/landing page/Hero";
 import AboutUs from "../components/user/landing page/AboutUs";
 import Features from "../components/user/landing page/Features";
+import Team from "../components/user/landing page/Team";
+import Faq from "../components/user/landing page/Faq";
 
 const Home = () => {
   return (
@@ -18,7 +20,9 @@ const Home = () => {
         <Navbar1 />
         {/* <Hero />
         <AboutUs /> */}
-        <Features />
+        {/* <Features /> */}
+        {/* <Team/> */}
+        <Faq/>
       </section>
       
     </section>
