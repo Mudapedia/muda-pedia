@@ -12,28 +12,28 @@ const AboutUs = () => {
                 >
                     Muda Pedia solusi terpercaya
                 </h2>
-                <div className="rounded-lg p-2 sm:p-5 flex flex-col sm:flex-row gap-5 justify-between place-items-center sm:bg-white lg:gap-20">
-                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
-                        <p className="text-[#091232] font-semibold text-2xl">
+                <div className="rounded-lg p-2 sm:p-5 flex flex-col sm:flex-row gap-5 justify-between place-items-center sm:bg-white overflow-hidden">
+                    <div className="bg-white flex w-full sm:block sm:gap-0 sm:p-0 p-5 rounded-lg gap-10">
+                        <p className="text-[#091232] font-semibold text-2xl sm:text-[18px] md:text-2xl">
                             1+
                         </p>
-                        <p className="text-[#66676A]">
+                        <p className="text-[#66676A] sm:text-[11px] md:text-base">
                             Tahun Pengalaman
                         </p>
                     </div>
-                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
-                        <p className="text-[#091232] font-semibold text-2xl">
+                    <div className="bg-white flex w-full sm:block sm:gap-0 sm:p-0 p-5 rounded-lg gap-5">
+                        <p className="text-[#091232] font-semibold text-2xl sm:text-[18px] md:text-2xl">
                             50+
                         </p>
-                        <p className="text-[#66676A]">
+                        <p className="text-[#66676A] sm:text-[11px] md:text-base">
                             Proyek Terselesaikan
                         </p>
                     </div>
-                    <div className="bg-white flex w-full sm:flex-col sm:gap-0 sm:p-0 gap-3 p-5 rounded-lg">
-                        <p className="text-[#091232] font-semibold text-2xl">
+                    <div className="bg-white flex w-full sm:block sm:gap-0 sm:p-0 p-5 rounded-lg gap-5">
+                        <p className="text-[#091232] font-semibold text-2xl sm:text-[18px] md:text-2xl">
                             92%
                         </p>
-                        <p className="text-[#66676A]">
+                        <p className="text-[#66676A] sm:text-[11px] md:text-base">
                             Kepuasan Pelanggan
                         </p>
                     </div>
