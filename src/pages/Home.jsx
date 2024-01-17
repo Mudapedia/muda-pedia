@@ -10,17 +10,18 @@ import Features from "../components/user/landing page/Features";
 const Home = () => {
   return (
     <section> {/* wrapper html */}
-      <Helmet>
+      {/* <Helmet>
         <title>Home</title>
-      </Helmet>
+      </Helmet> */}
 
       <section> {/* wrapper body */}
         <Navbar1 />
         {/* <Hero />
-        <AboutUs />
-        <Features /> */}
+        <AboutUs /> */}
+        <Features />
       </section>
-    </HelmetProvider>
+      
+    </section>
   );
 };
 
