@@ -1,5 +1,5 @@
-// import { Button } from "@nextui-org/react";
-import { Helmet } from "react-helmet";
+import { Button } from "@nextui-org/react";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 
 // components
 import Navbar1 from "../components/user/Navbar"
@@ -20,7 +20,7 @@ const Home = () => {
         <AboutUs />
         <Features /> */}
       </section>
-    </section>
+    </HelmetProvider>
   );
 };
 
