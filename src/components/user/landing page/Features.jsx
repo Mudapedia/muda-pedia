@@ -1,27 +1,55 @@
+import { Accordion, AccordionItem } from "@nextui-org/react";
+import React from 'react';
+
 const Features = () => {
-    return(
-        <section className="grid gap-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center px-6 py-4 md:px-9 lg:px-16 xl:px-28">
-            <div className="px-5 pt-5 pb-24 grid gap-4 place-items-center max-w-72 rounded-tr-[3em] rounded-bl-[3em] border-b-purple-700 border-b-[22px] shadow-md shadow-slate-500">
-                <div className="w-20 h-20 rounded-full bg-slate-600"></div>
-                <p className="font-bold text-xl">Web Design</p>
-                <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, neque. Mollitia vitae eius voluptatem molestiae autem aspernatur fuga repudiandae! Minus?</p>
-            </div>
-            <div className="px-5 pt-5 pb-24 grid gap-4 place-items-center max-w-72 rounded-tl-[3em] rounded-br-[3em] border-b-purple-700 border-b-[22px] shadow-md shadow-slate-500">
-                <div className="w-20 h-20 rounded-full bg-slate-600"></div>
-                <p className="font-bold text-xl">Web Design</p>
-                <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, neque. Mollitia vitae eius voluptatem molestiae autem aspernatur fuga repudiandae! Minus?</p>
-            </div>
-            <div className="px-5 pt-5 pb-24 grid gap-4 place-items-center max-w-72 rounded-tr-[3em] rounded-bl-[3em] border-b-purple-700 border-b-[22px] shadow-md shadow-slate-500">
-                <div className="w-20 h-20 rounded-full bg-slate-600"></div>
-                <p className="font-bold text-xl">Web Design</p>
-                <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, neque. Mollitia vitae eius voluptatem molestiae autem aspernatur fuga repudiandae! Minus?</p>
-            </div>
-            <div className="px-5 pt-5 pb-24 grid gap-4 place-items-center max-w-72 rounded-tl-[3em] rounded-br-[3em] border-b-purple-700 border-b-[22px] shadow-md shadow-slate-500">
-                <div className="w-20 h-20 rounded-full bg-slate-600"></div>
-                <p className="font-bold text-xl">Web Design</p>
-                <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, neque. Mollitia vitae eius voluptatem molestiae autem aspernatur fuga repudiandae! Minus?</p>
-            </div>
-        </section>
-    )
-}
-export default Features
+  return (
+    <div className='max-w-screen-lg mx-auto flex flex-col justify-between gap-16 items-center py-10 lg:px-0 px-6'>
+      <div className='flex flex-col justify-between gap-3 items-center'>
+        <h4 className='text-lg text-[#4F5CDF] font-normal'>Layanan Kami</h4>
+        <h1 className='text-4xl font-medium text-center text-[#091232]'>Apa yang Kami Kerjakan</h1>
+        <p className='text-center text-[#66676A]'>Tim kami menawarkan solusi inovatif untuk membantu Anda mencapai <br /> tujuan bisnis Anda dalam era digital yang terus berkembang.</p>
+      </div>
+
+      <div className="w-full flex flex-col">
+        <div className="flex gap-8 pb-5 border-b lg:flex-row flex-col lg:items-center items-start">
+          <div className="pe-3">
+            <p className="text-[#66676A] text-lg">01</p>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h1 className="text-3xl font-medium">Pembuatan Konten & Kelola Sosial Media</h1>
+            <p className="text-[#66676A] text-base">Dengan tim yang berdedikasi dan solusi yang cerdas, Viraliz siap membantu usaha anda mencapai keberhasilan di dunia digital melalui strategi pengelolaan sosial media yang efektif</p>
+          </div>
+          <div>
+            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          </div>
+        </div>
+        <div className="flex gap-8 pb-5 border-b lg:flex-row flex-col lg:items-center items-start">
+          <div className="pe-3">
+            <p className="text-[#66676A] text-lg">02</p>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h1 className="text-3xl font-medium">Pembuatan Aplikasi Mobile & Website</h1>
+            <p className="text-[#66676A] text-base">Brogrammer, sebagai ahli dalam pembuatan aplikasi web dan mobile. Dengan tim pengembang yang berpengalaman kami siap memberikan solusi teknologi terdepan untuk memenuhi kebutuhan bisnis anda</p>
+          </div>
+          <div>
+            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          </div>
+        </div>
+        <div className="flex gap-8 pb-5 border-b lg:flex-row flex-col lg:items-center items-start">
+          <div className="pe-3">
+            <p className="text-[#66676A] text-lg">03</p>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h1 className="text-3xl font-medium">UI/UX Desain</h1>
+            <p className="text-[#66676A] text-base">Sebagai UI/UX Design agency, UIStellar Studio memahami bahwa antarmuka pengguna yang menarik dan pengalaman pengguna yang optimal adalah fondasi kesuksesan digital.</p>
+          </div>
+          <div>
+            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Features;
