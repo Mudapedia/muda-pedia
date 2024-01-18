@@ -7,7 +7,7 @@ const Faq = () => {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
   return (
-    <div className='max-w-screen-md mx-auto flex flex-col justify-between gap-16 items-center py-10 lg:px-0 px-6'>
+    <div className='max-w-screen-md mx-auto flex flex-col justify-between gap-16 items-center py-10 lg:px-0 px-6 scroll-mt-[6vh]' id='faq'>
       <div className='flex flex-col justify-between gap-3 items-center'>
         <h4 className='text-lg text-[#4F5CDF] font-normal'>FAQ</h4>
         <h1 className='text-4xl font-medium text-center text-[#091232]'>Frequently Asked Question</h1>
