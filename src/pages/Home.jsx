@@ -8,6 +8,7 @@ import AboutUs from "../components/user/landing page/AboutUs";
 import Features from "../components/user/landing page/Features";
 import Team from "../components/user/landing page/Team";
 import Faq from "../components/user/landing page/Faq";
+import Footer from "../components/user/Footer";
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
           <Features />
           <Team />
           <Faq />
+          <Footer/>
         </section>
     </HelmetProvider>
   );
