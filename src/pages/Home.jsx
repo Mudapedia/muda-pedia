@@ -8,6 +8,8 @@ import AboutUs from "../components/user/landing page/AboutUs";
 import Features from "../components/user/landing page/Features";
 import Team from "../components/user/landing page/Team";
 import Faq from "../components/user/landing page/Faq";
+import Blog from "../components/user/landing page/Blog";
+import Footer from "../components/user/Footer";
 
 const Home = () => {
   return (
