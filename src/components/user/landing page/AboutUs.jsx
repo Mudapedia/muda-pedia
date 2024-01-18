@@ -2,7 +2,7 @@ import image from "../../../assets/5395108.jpg"
 
 const AboutUs = () => {
     return(
-        <section className="bg-[#F5F5F5] sm:grid sm:grid-cols-2 max-w-screen-lg mx-auto gap-9 p-9 rounded-lg my-8">
+        <section id="aboutUs" className="bg-[#F5F5F5] sm:grid sm:grid-cols-2 max-w-screen-lg mx-auto gap-9 p-9 rounded-lg my-8 scroll-mt-[8vh]" >
             <div className="flex flex-col gap-4">
                 <h1 className="text-4xl font-medium  text-[#091232]">
                     Ayo Kembangkan Bisnismu Bersama kami!

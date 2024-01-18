@@ -34,7 +34,9 @@ const NavigationBar = () => {
 
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarBrand>
-          <AcmeLogo />
+          <Link href="/">
+            <AcmeLogo />
+          </Link>
         </NavbarBrand>
       </NavbarContent>
 
@@ -43,7 +45,7 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#"
+              href="#aboutUs"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Tentang
@@ -51,7 +53,7 @@ const NavigationBar = () => {
           </NavbarItem>
           <NavbarItem>
             <Link
-              href="#"
+              href="#features"
               color="foreground"
               className="hover:text-[#4F5CDF] font-semibold"
             >
@@ -61,7 +63,7 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#"
+              href="#team"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Tim Kami
@@ -79,7 +81,7 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#"
+              href="#faq"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               FAQ
@@ -88,9 +90,8 @@ const NavigationBar = () => {
         </NavbarContent>
         <NavbarItem>
           <Button
-            as={Link}
             size="lg"
-            href="#"
+            onClick={()=>{open("https://linktr.ee/Muda_Pedia")}}
             variant="flat"
             className="bg-[#4F5CDF] text-cyan-50 rounded-full text-sm py-2 px-3 sm:text-base sm:py-4 sm:px-5"
           >
