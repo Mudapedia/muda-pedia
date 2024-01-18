@@ -98,13 +98,13 @@ const AdminInit = ({
           loader={
             <section
               key={contents.length}
-              className="flex justify-center pb-20"
+              className="flex justify-center pb-10"
             >
               <LoadingAnimate />
             </section>
           }
         >
-          <section className="flex flex-wrap gap-14 justify-between px-14 pb-20">
+          <section className="flex flex-wrap gap-14 justify-between px-14 pb-10">
             {loadingContents ? <CardLoading count={6} /> : ""}
             {contents.map((content, i) => (
               <CardItem
@@ -119,23 +119,20 @@ const AdminInit = ({
                 }}
               />
             ))}
-
-            {endMessage ? (
-              <section className="m-auto">
-                <p className="mb-2 font-bold">
-                  Total {contents.length} artikel
-                </p>
-                <a href="#admin-top">
-                  <Button size="sm" color="primary">
-                    Kembali keatas
-                  </Button>
-                </a>
-              </section>
-            ) : (
-              ""
-            )}
           </section>
         </InfiniteScroll>
+      )}
+      {endMessage ? (
+        <section className="flex flex-col justify-center items-center pb-10">
+          <p className="mb-2 font-bold">Total {contents.length} artikel</p>
+          <a href="#admin-top">
+            <Button size="sm" color="primary">
+              Kembali keatas
+            </Button>
+          </a>
+        </section>
+      ) : (
+        ""
       )}
     </section>
   );
