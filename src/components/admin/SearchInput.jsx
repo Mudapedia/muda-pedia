@@ -11,6 +11,7 @@ const SearchInput = ({
   setContentHasMore,
   setStartContent,
   setIsEmpty,
+  setEndMessage,
 }) => {
   const [btnLoading, setBtnLoading] = useState(false);
   const [search, setSearch] = useState("");
@@ -18,7 +19,9 @@ const SearchInput = ({
   const enter = async (e) => {
     if (e.key === "Enter") {
       try {
+        setEndMessage(false);
         setLoadingContents(true);
+        setContents([]);
         const res = await Content.All(0, 12, search);
         setContentHasMore(true);
         setSrc(search);
@@ -42,6 +45,8 @@ const SearchInput = ({
       setSrc("");
       setSearch("");
       setContentHasMore(true);
+      setEndMessage(false);
+      setContents([]);
       setIsEmpty(false);
       let isLoading = btnLoading;
       setLoadingContents(true);
@@ -92,4 +97,5 @@ SearchInput.propTypes = {
   setContentHasMore: PropType.func,
   setStartContent: PropType.func,
   setIsEmpty: PropType.func,
+  setEndMessage: PropType.func,
 };
