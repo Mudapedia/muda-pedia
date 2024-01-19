@@ -4,7 +4,7 @@ import heroImg2 from "../../../assets/images/hero-img2.png";
 
 const Hero = () => {
   return (
-    <section className="grid sm:grid-cols-2 gap-5 max-w-screen-lg mx-auto py-5 lg:py-8 px-6 lg:px-0">
+    <section className="grid sm:grid-cols-2 gap-5 max-w-screen-lg mx-auto pt-5 lg:pt-8 px-6 lg:px-0">
       <div className="flex flex-col gap-5 lg:gap-9">
         <h1 className="text-[#091232] text-4xl lg:text-[52px] font-medium lg:leading-[78px]">We Launch, Refine and Redefine Your Brand Through Creative Innovation.</h1>
         <h2 className="text-[#66676A] text-lg lg:leading-9 font-normal">

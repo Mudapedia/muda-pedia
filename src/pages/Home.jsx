@@ -19,16 +19,19 @@ const Home = () => {
           <title>Home</title>
         </Helmet>
       </section>
-
-        <section> {/* wrapper body */}
+        <section>
           <Navbar />
+        </section>
+        <section className="scroll-mt-[10vh] grid gap-28"> {/* wrapper body */}
           <Hero />
           <AboutUs/>
           <Features />
           <Team />
           <Blog />
           <Faq />
-          <Footer/>
+          <section>
+            <Footer/>
+          </section>
         </section>
     </HelmetProvider>
   );
