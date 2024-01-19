@@ -25,9 +25,10 @@ const CardSection = () => {
     console.log(data)
   }, [page])
 
-  const setHtml = (str) =>{
+  const setHtml = (str) => {
+    let myContent = str.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, '').substring(0, 250) + '. . .'
     return (
-      <div dangerouslySetInnerHTML={{__html: str}} />
+    myContent  
     )
   }
   return (
