@@ -1,5 +1,6 @@
 import { Button, Input } from '@nextui-org/react';
 import React, { useState } from 'react';
+import { Facebook, Instagram, Tiktok } from '../../assets/icons/Icons';
 
 const Footer = () => {
   return (
@@ -29,9 +30,16 @@ const Footer = () => {
             </div>
             <p className='text-lg text-[#D9D9D9]'>Jl. Sutawijaya, No.89, Sumberrejo, <br /> Kec.Banyuwangi, Kab. Banyuwangi</p>
             <div className='flex gap-3 text-white'>
-              <p>icon</p>
-              <p>icon</p>
-              <p>icon</p>
+              <div className='bg-[#1A2756] p-3 rounded-full'>
+                <Instagram />
+              </div>
+              <div className='bg-[#1A2756] p-3 rounded-full'>
+                <Facebook/>
+              </div>
+              <div className='bg-[#1A2756] p-3 rounded-full'>
+                <Tiktok/>
+              </div>
+              
             </div>
           </div>
         </div>

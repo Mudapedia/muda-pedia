@@ -3,7 +3,7 @@ import React from 'react';
 
 const Team = () => {
   return (
-    <div className='max-w-screen-lg mx-auto flex flex-col justify-between gap-16 items-center py-10 lg:px-0 px-6'>
+    <div className='max-w-screen-lg mx-auto flex flex-col justify-between gap-16 items-center py-10 lg:px-0 px-6 scroll-mt-[8vh' id='team'>
       <div className='flex flex-col justify-between gap-3 items-center'>
         <h4 className='text-lg text-[#4F5CDF] font-normal'>Tim Kami</h4>
         <h1 className='text-4xl font-medium text-center text-[#091232]'>Meet Our Team</h1>
