@@ -9,6 +9,9 @@ class Content {
       `/user/content?offset=${offsite}&limit=${limit}&src=${src}`
     );
   }
+  static getByID(id) {
+    return axiosIns.get(`/user/content/${id}`);
+  }
   static Del(id) {
     return axiosIns.delete(`/admin/dashboard/content/${id}`);
   }
