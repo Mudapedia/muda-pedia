@@ -13,6 +13,7 @@ const Jumbotron = ({
   setStartContent,
   isEmpty,
   setIsEmpty,
+  setEndMessage,
 }) => {
   const btnAddArticle = () => {
     setFormAddShowHide("");
@@ -80,6 +81,7 @@ const Jumbotron = ({
           setContentHasMore={setContentsHasMore}
           setStartContent={setStartContent}
           setIsEmpty={setIsEmpty}
+          setEndMessage={setEndMessage}
         />
       </div>
     </section>
@@ -99,4 +101,5 @@ Jumbotron.propTypes = {
   setStartContent: Proptypes.func,
   isEmpty: Proptypes.bool,
   setIsEmpty: Proptypes.func,
+  setEndMessage: Proptypes.func,
 };

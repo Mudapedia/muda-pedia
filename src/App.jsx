@@ -4,6 +4,9 @@ import Admin from "./pages/Admin";
 import LoginAdmin from "./pages/LoginAdmin";
 import OnlyNotLogin from "./utililty/OnlyNotLogin";
 import OnlyLogin from "./utililty/OnlyLogin";
+import Blog from "./pages/Blog";
+import DetailBlog from "./pages/DetailBlog";
+
 
 function App() {
   return (
@@ -26,6 +29,8 @@ function App() {
             </OnlyNotLogin>
           }
         />
+        <Route path="/blog" element={<Blog/>}/>
+        <Route path="/blog/:article" element={<DetailBlog/>}/>
       </Routes>
     </BrowserRouter>
   );
