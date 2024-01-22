@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import LoadingPage from "../components/LoadingPage";
 import Proptypes from "prop-types";
-import Auth from "../api/Auth";
+import Auth from "../api/auth";
 import { useNavigate } from "react-router-dom";
 import ServerError from "../components/ServerError";
 
