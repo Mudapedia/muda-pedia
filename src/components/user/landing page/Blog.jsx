@@ -1,7 +1,6 @@
 import React from 'react';
-import { Button } from '@nextui-org/react';
+import { Button,Link } from '@nextui-org/react';
 import {ArrowGreyRight} from '../../../assets/icons/Icons.jsx'
-import { Link } from 'react-router-dom';
 
 const Blog = () => {
   return (
@@ -13,7 +12,7 @@ const Blog = () => {
         <h1 className='text-4xl text-[#091232] font-medium py-3'>Tulisan Terbaru</h1>
         <p className='text-lg text-[#66676A]'
         >Mulai Eksplor dan temukan tips, insight dan inspirasi menarik</p>
-        <Button className='font-medium text-[#66676A] bg-[#F5F5F5] hover:bg-[#4F5CDF] hover:text-[#ffff] rounded-full mt-9 '>Semua Blog</Button>
+        <Button className='font-medium text-[#66676A] bg-[#F5F5F5] hover:bg-[#4F5CDF] hover:text-[#ffff] rounded-full mt-9 ' as={Link} href='/blog'>Semua Blog</Button>
       </div>
 
       {/* right content */}
