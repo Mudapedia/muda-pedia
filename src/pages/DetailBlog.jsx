@@ -11,8 +11,9 @@ import Content from '../api/Content';
 
 
 const DetailBlog = () => {
-  const { article } = useParams();
-  console.log('paramID = ', article);
+  const queryString = window.location.search;
+  const params = new URLSearchParams(queryString);
+  const article = params.get('article');
 
   const [ title, setTitle ] = useState('')
   const [ thumbnail, setThumbnail ] = useState('')
@@ -27,7 +28,7 @@ const DetailBlog = () => {
       setContent(datas.data.description);
       setDate(datas.data.created_at);
     } catch (error) {
-      console.log(error.message);
+      console.log(error);
     }
   }
 
