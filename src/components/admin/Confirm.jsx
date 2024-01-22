@@ -2,7 +2,7 @@ import { Button } from "@nextui-org/react";
 import PropTypes from "prop-types";
 import { useState } from "react";
 import LoadingAnimate from "../LoadingAnimate";
-import Content from "../../../api/content";
+import Content from "../../api/Content";
 
 const Confirm = ({ setShowHideConfirm, setContents, id, setIsEmpty }) => {
   const [btnDisableDelete, setBtnDisableDelete] = useState(false);
