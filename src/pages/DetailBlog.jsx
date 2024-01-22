@@ -7,7 +7,7 @@ import {} from "@nextui-org/react";
 import "./DetailBlog.css";
 import dateformat from "dateformat";
 import { ArrowGreyRight } from "../assets/icons/Icons";
-import Content from "../../api/content";
+import Content from "../api/content";
 import SimpleCrypto from "simple-crypto-js";
 
 const DetailBlog = () => {

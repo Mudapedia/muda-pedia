@@ -2,7 +2,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Alert from "../components/admin/Alert";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Auth from "../../api/Auth";
+import Auth from "../api/auth";
 
 const LoginAdmin = () => {
   const [alertShow, setAlertShow] = useState({
