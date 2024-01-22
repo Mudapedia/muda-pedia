@@ -6,7 +6,7 @@ import { useState } from "react";
 import Confirm from "./Confirm.jsx";
 import CardLoading from "./CardLoading.jsx";
 import InfiniteScroll from "react-infinite-scroller";
-import Content from "../../../api/content.js";
+import Content from "../../api/content.js";
 import LoadingAnimate from "../LoadingAnimate.jsx";
 import { Button } from "@nextui-org/react";
 

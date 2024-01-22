@@ -1,7 +1,7 @@
 import PropType from "prop-types";
 import { useState } from "react";
 import { Button } from "@nextui-org/react";
-import Content from "../../../api/content";
+import Content from "../../api/content";
 import LoadingAnimate from "../LoadingAnimate";
 
 const SearchInput = ({

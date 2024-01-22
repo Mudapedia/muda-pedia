@@ -2,7 +2,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import AdminInit from "../components/admin/AdminInit";
 import FormAdd from "../components/admin/FormAdd";
 import { useState, useEffect } from "react";
-import Content from "../../api/content";
+import Content from "../api/Content";
 import FormUpdate from "../components/admin/FormUpdate";
 
 const Admin = () => {

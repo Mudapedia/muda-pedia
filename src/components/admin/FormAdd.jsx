@@ -3,7 +3,7 @@ import { useState } from "react";
 import PropTypes from "prop-types";
 import LoadingAnimate from "../LoadingAnimate";
 import Notif from "./Notif";
-import Content from "../../../api/content";
+import Content from "../../api/content";
 import { useRef } from "react";
 
 const FormAdd = ({
