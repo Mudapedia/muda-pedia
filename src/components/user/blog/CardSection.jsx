@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ArrowGreyRight } from '../../../assets/icons/Icons';
 import { Pagination } from '@nextui-org/react';
-import Content from '../../../api/content';
+import Content from '../../../api/Content';
 import dateFormat from 'dateformat';
 
 const CardSection = () => {

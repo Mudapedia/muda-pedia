@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Blog = () => {
   return (
-    <section className='max-w-screen-lg mx-auto sm:flex gap-8 px-6 lg:px-0'>
+    <section id='Blog' className='max-w-screen-lg mx-auto sm:flex gap-8 px-6 lg:px-0 scroll-mt-[10vh]'>
 
       {/* left content */}
       <div className='mb-10'>

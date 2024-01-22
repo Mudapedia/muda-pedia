@@ -14,6 +14,11 @@ import {
 import AcmeLogo from "../AcmeLogo.jsx";
 
 const NavigationBar = () => {
+  let showMenu = true
+  if(window.location.pathname === '/blog'){
+    showMenu = false
+  }
+
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
   const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ"];
@@ -25,7 +30,7 @@ const NavigationBar = () => {
       onMenuOpenChange={setIsMenuOpen}
       maxWidth="xl"
     >
-      <NavbarContent className="sm:hidden gap-0" justify="start">
+      <NavbarContent className={`${showMenu ? '' : 'hidden'} sm:hidden gap-0` } justify="start">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
         />
@@ -41,7 +46,7 @@ const NavigationBar = () => {
       </NavbarContent>
 
       <NavbarContent justify="end">
-        <NavbarContent justify="end" className="hidden sm:flex">
+        <NavbarContent justify="end" className={`hidden sm:${showMenu?'flex':''}`}>
           <NavbarItem>
             <Link
               color="foreground"
@@ -72,7 +77,7 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#"
+              href="#Blog"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Blog
