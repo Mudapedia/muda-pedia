@@ -1,6 +1,6 @@
 import Logo from "../../assets/logo-muda-pedia.png";
 import { Button } from "@nextui-org/react";
-import Auth from "../../api/Auth";
+import Auth from "../../../api/Auth";
 import { useNavigate } from "react-router-dom";
 
 const NavbarAdmin = () => {
