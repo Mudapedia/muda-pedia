@@ -28,7 +28,7 @@ export function Frame() {
 
 export function ArrowRightUp() {
   return (
-    <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="30" height="30" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect width="44" height="44" rx="22" fill="#4F5CDF" />
       <path d="M15.75 28.25L28.25 15.75M28.25 15.75H18.875M28.25 15.75V25.125" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     </svg>
