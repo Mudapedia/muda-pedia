@@ -1,5 +1,6 @@
 import { Accordion, AccordionItem } from "@nextui-org/react";
 import React from 'react';
+import { ArrowRightUp } from "../../../assets/icons/Icons";
 
 const Features = () => {
   return (
@@ -19,8 +20,8 @@ const Features = () => {
             <h1 className="text-3xl font-medium">Pembuatan Konten & Kelola Sosial Media</h1>
             <p className="text-[#66676A] text-base">Dengan tim yang berdedikasi dan solusi yang cerdas, Viraliz siap membantu usaha anda mencapai keberhasilan di dunia digital melalui strategi pengelolaan sosial media yang efektif</p>
           </div>
-          <div>
-            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          <div className={`w-[50px] h-[50px]`} onClick={() => open('https:youtube.com')}>
+            <ArrowRightUp/>
           </div>
         </div>
         <div className="flex gap-8 pb-5 border-b lg:flex-row flex-col lg:items-center items-start">
@@ -31,8 +32,8 @@ const Features = () => {
             <h1 className="text-3xl font-medium">Pembuatan Aplikasi Mobile & Website</h1>
             <p className="text-[#66676A] text-base">Brogrammer, sebagai ahli dalam pembuatan aplikasi web dan mobile. Dengan tim pengembang yang berpengalaman kami siap memberikan solusi teknologi terdepan untuk memenuhi kebutuhan bisnis anda</p>
           </div>
-          <div>
-            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          <div className={`w-[50px] h-[50px]`} onClick={() => open('https:youtube.com')}>
+            <ArrowRightUp/>
           </div>
         </div>
         <div className="flex gap-8 pb-5 border-b lg:flex-row flex-col lg:items-center items-start">
@@ -43,8 +44,8 @@ const Features = () => {
             <h1 className="text-3xl font-medium">UI/UX Desain</h1>
             <p className="text-[#66676A] text-base">Sebagai UI/UX Design agency, UIStellar Studio memahami bahwa antarmuka pengguna yang menarik dan pengalaman pengguna yang optimal adalah fondasi kesuksesan digital.</p>
           </div>
-          <div>
-            <img src="/src/assets/icons/ArrowRightUp.svg" alt="" className="hover:cursor-pointer" onClick={() => open('https:youtube.com')} />
+          <div className={`w-[50px] h-[50px]`} onClick={() => open('https:youtube.com')}>
+            <ArrowRightUp/>
           </div>
         </div>
       </div>

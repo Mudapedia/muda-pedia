@@ -30,13 +30,19 @@ const Footer = () => {
             </div>
             <p className='text-lg text-[#D9D9D9]'>Jl. Sutawijaya, No.89, Sumberrejo, <br /> Kec.Banyuwangi, Kab. Banyuwangi</p>
             <div className='flex gap-3 text-white'>
-              <div className='bg-[#1A2756] p-3 rounded-full'>
+              <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer'onClick={()=>{
+                window.open('https://www.instagram.com/muda_pedia/')
+              }}>
                 <Instagram />
               </div>
-              <div className='bg-[#1A2756] p-3 rounded-full'>
+              <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer' onClick={()=>{
+                window.open('https://www.instagram.com/muda_pedia/')
+              }}>
                 <Facebook/>
               </div>
-              <div className='bg-[#1A2756] p-3 rounded-full'>
+              <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer' onClick={()=>{
+                window.open('https://www.tiktok.com/@mudapediabwi/')
+              }}>
                 <Tiktok/>
               </div>
               
