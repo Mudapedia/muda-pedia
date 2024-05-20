@@ -5,6 +5,7 @@ import "./index.css";
 import { NextUIProvider } from "@nextui-org/react";
 import { SkeletonTheme } from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
+import 'swiper/css'
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
