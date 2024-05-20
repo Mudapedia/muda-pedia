@@ -10,6 +10,7 @@ import Team from "../components/user/landing page/Team";
 import Faq from "../components/user/landing page/Faq";
 import Blog from "../components/user/landing page/Blog";
 import Footer from "../components/user/Footer";
+import Ourclient from "../components/user/landing page/Ourclient";
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
             <Features />
             <Team />
             <Blog />
+            <Ourclient/>
             <Faq />
             <div>
               <Footer/>
