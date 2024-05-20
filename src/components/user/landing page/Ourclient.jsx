@@ -12,7 +12,7 @@ const Ourclient = () => {
 
   const getClient = async () => {
     try {
-      const resp = await axios.get('/src/data/client.json');
+      const resp = await axios.get('./client.json');
       setData(resp.data.client);
       // console.log(data)
     } catch (error) {
