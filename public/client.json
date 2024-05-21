@@ -1,39 +1,17 @@
 {
   "client": [
     {
-      "name": "Facebook",
-      "descriptions": "Platform media sosial untuk berhubungan dengan teman, berbagi foto, video, dan status, serta mengikuti berbagai halaman dan komunitas.",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" 
+      "name": "Dolay Cut",
+      "descriptions": "Dengan sentuhan profesional, kami memastikan Anda mendapatkan potongan rambut yang rapi dan stylish. Datang dan buktikan sendiri!",
+      "logo": "./dolaycut-logo.png",
+      "link": "https://dolaycut.vercel.app/"
     },
     {
-      "name": "Instagran",
-      "descriptions": "Aplikasi berbagi foto dan video yang memungkinkan pengguna mengunggah konten visual, menggunakan filter, dan mengikuti akun lain.",
-      "logo": "https://w7.pngwing.com/pngs/815/101/png-transparent-www-mevrouwpak-nl-advertising-graphic-design-instagram-instagram-logo-business-advertising-thumbnail.png" 
-    },
-    {
-      "name": "Twitter",
-      "descriptions": "Layanan mikroblogging untuk berbagi pesan singkat, berita, dan opini dalam tweet yang terbatas hingga 280 karakter.",
-      "logo": "https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" 
-    },
-    {
-      "name": "Youtube",
-      "descriptions": "Situs web berbagi video di mana pengguna dapat mengunggah, menonton, berkomentar, dan berlangganan saluran video dari berbagai kategori.",
-      "logo": "https://images.vexels.com/media/users/3/137425/isolated/lists/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo.png" 
-    },
-    {
-      "name": "Youtube",
-      "descriptions": "Situs web berbagi video di mana pengguna dapat mengunggah, menonton, berkomentar, dan berlangganan saluran video dari berbagai kategori.",
-      "logo": "https://images.vexels.com/media/users/3/137425/isolated/lists/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo.png" 
-    },
-    {
-      "name": "Youtube",
-      "descriptions": "Situs web berbagi video di mana pengguna dapat mengunggah, menonton, berkomentar, dan berlangganan saluran video dari berbagai kategori.",
-      "logo": "https://images.vexels.com/media/users/3/137425/isolated/lists/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo.png" 
-    },
-    {
-      "name": "Youtube",
-      "descriptions": "Situs web berbagi video di mana pengguna dapat mengunggah, menonton, berkomentar, dan berlangganan saluran video dari berbagai kategori.",
-      "logo": "https://images.vexels.com/media/users/3/137425/isolated/lists/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo.png" 
+      "name": "Dewa - Dewi Oleh Oleh",
+      "descriptions": "Pusat Oleh-Oleh Terlengkap dan Terlezat di rogojampi banyuwangi, rasakan kenikmatannya",
+      "logo": "/src/assets/logo-muda-pedia.png",
+      "link": "https://dewadewi-oleholeh.vercel.app/"
     }
+
   ]
 }
