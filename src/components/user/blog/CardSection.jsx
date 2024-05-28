@@ -15,7 +15,7 @@ const CardSection = () => {
 
   const getData = async () => {
     try {
-      const resp = await axios(`https://mudapedia.vercel.app/api/user/pagenation?page=${page}&limit=10`)
+      const resp = await axios(`https://mudapedia-khcg.vercel.app/api/user/pagenation?page=${page}&limit=10`)
       setData(resp.data.content)
       setTotalPage(resp.data.totalPages)
     } catch (error) {

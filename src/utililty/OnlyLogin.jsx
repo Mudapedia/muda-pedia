@@ -15,6 +15,7 @@ const OnlyLogin = ({ children }) => {
       Auth.IsLogin()
         .then(() => setIslogin(true))
         .catch((err) => {
+          console.log(err)
           const statusCode = err.response.status;
           if (statusCode === 403) {
             redirect("/login-admin");

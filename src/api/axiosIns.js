@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosIns = axios.create({
-  baseURL: "https://mudapedia.vercel.app/api",
+  baseURL: "https://mudapedia-khcg.vercel.app/api",
   withCredentials: true,
 });
 
