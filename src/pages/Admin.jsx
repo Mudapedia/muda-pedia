@@ -37,6 +37,7 @@ const Admin = () => {
     <HelmetProvider>
       <section id="admin-top">
         <Helmet>
+          <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
           <title>Dashboard</title>
         </Helmet>
         <section className="">

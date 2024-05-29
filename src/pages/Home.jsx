@@ -2,7 +2,7 @@ import { Button } from "@nextui-org/react";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 
 // components
-import Navbar from "../components/user/Navbar"
+import Navbar from "../components/user/Navbar";
 import Hero from "../components/user/landing page/Hero";
 import AboutUs from "../components/user/landing page/AboutUs";
 import Features from "../components/user/landing page/Features";
@@ -15,26 +15,31 @@ import Ourclient from "../components/user/landing page/Ourclient";
 const Home = () => {
   return (
     <HelmetProvider>
-      <section> {/* wrapper html */}
+      <section>
+        {" "}
+        {/* wrapper html */}
         <Helmet>
+          <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
           <title>Home</title>
         </Helmet>
       </section>
-        <section> {/* wrapper body */}
-          <Navbar />
-          <div className="grid gap-28">
-            <Hero />
-            <AboutUs/>
-            <Features />
-            <Team />
-            <Blog />
-            <Ourclient/>
-            <Faq />
-            <div>
-              <Footer/>
-            </div>
+      <section>
+        {" "}
+        {/* wrapper body */}
+        <Navbar />
+        <div className="grid gap-28">
+          <Hero />
+          <AboutUs />
+          <Features />
+          <Team />
+          <Blog />
+          <Ourclient />
+          <Faq />
+          <div>
+            <Footer />
           </div>
-        </section>
+        </div>
+      </section>
     </HelmetProvider>
   );
 };
