@@ -24,6 +24,7 @@ const data = {
       img: "/img/dewa-dewi/dewa.jpg",
     },
     about: {
+      title:"Produk Kami",
       txt: "Lebih dari Sekedar Toko Oleh-Oleh",
       deskripsi:
         "Menjelajahi Banyuwangi tak lengkap tanpa mencicipi kekayaan kuliner dan kerajinannya yang khas. Di sinilah, Pusat Oleh-Oleh Dewa Dewi hadir sebagai gerbang utama untuk membawa pulang kenangan rasa dan budaya Banyuwangi yang tak terlupakan.",
@@ -89,6 +90,7 @@ const data = {
       img: "/img/andini-milk/hero.jpeg",
     },
     about: {
+      title:"Produk Kami",
       txt: "Susu Sehat untuk Tumbuh Cerdas dan Berprestasi",
 
       deskripsi:
@@ -130,7 +132,6 @@ const data = {
       alamat: "Blambangan",
     },
   },
-
   "aneka-es": {
     title: "Aneka Es",
     icon: null,

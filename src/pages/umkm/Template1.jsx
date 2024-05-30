@@ -37,12 +37,12 @@ const Template1 = ({ data }) => {
             color={data.color}
           />
           <main>
+            <Product product={data.product} color={data.color} />
             <About
               data={data.about}
               color={data.color}
               ctaLink={data.ctaLink}
             />
-            <Product product={data.product} color={data.color} />
             <Location location={data.location} />
             <Footer
               data={data.footer}

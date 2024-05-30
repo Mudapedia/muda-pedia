@@ -24,6 +24,7 @@ const dataUmkmkuy = {
       img: "/public/img/dewa-dewi/dewa.jpg",
     },
     about: {
+      title:null,
       txt: "Lebih dari Sekedar Toko Oleh-Oleh",
 
       deskripsi: null, // optional
