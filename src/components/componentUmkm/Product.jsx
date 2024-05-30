@@ -1,9 +1,25 @@
 /* eslint-disable react/prop-types */
 // eslint-disable-next-line react/prop-types
+import hexRgb from "hex-rgb";
+import { useEffect, useState } from "react";
+
 const Product = ({
   product: { data, title },
-  color: { textColor, accentColor },
+  color: { textColor, accentColor, primary },
 }) => {
+  const [hexObj, setHexObjs] = useState({});
+
+  useEffect(
+    function () {
+      let hexPrimary = primary.slice(4, -1);
+      hexPrimary = hexRgb(hexPrimary);
+
+      setHexObjs(
+        `rgba(${hexPrimary.red},${hexPrimary.green},${hexPrimary.blue},0.1)`
+      );
+    },
+    [primary]
+  );
   return (
     <section
       className={`${textColor} pt-10 pb-20 max-w-screen-lg mx-auto px-5`}
@@ -19,7 +35,8 @@ const Product = ({
         {data.map((v, i) => (
           <div
             key={i}
-            className="max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words"
+            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words `}
+            style={{ backgroundColor: hexObj }}
           >
             <a href="#">
               <div
