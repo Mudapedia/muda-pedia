@@ -63,7 +63,10 @@ const data = {
       alamat: "Lemabang dewo, Rogojampi, Banyuwangi",
     },
   },
-
+  "warunge maz ramz" :{
+    lokasi : "banyuwangi",
+    noHp : "08812635123213"
+  },
   "jokowow": {
     title: "Dewa Dewi Oleh-Oleh",
     icon: null,
@@ -127,7 +130,7 @@ const data = {
       noHp: "0821-4251-5874",
       alamat: "Lemabang dewo, Rogojampi, Banyuwangi",
     },
-  },
+  }
 }
 
 export default data

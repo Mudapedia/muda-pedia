@@ -1,5 +1,5 @@
 const dataUmkmkuy = {
-  "dewa-dewi": {
+  "nama umkm": {
     title: "required",
     icon: null,
     navbarTitle: "required",
@@ -62,10 +62,6 @@ const dataUmkmkuy = {
       noHp: null,
       alamat: null,
     },
-  },
-  "warunge om ramzi" : {
-    lokasi : "banyuwangi",
-    noHp : "0812375547"
   }
 };
 
