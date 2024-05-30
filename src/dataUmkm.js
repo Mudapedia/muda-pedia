@@ -63,6 +63,10 @@ const dataUmkmkuy = {
       alamat: null,
     },
   },
+  "warunge om ramzi" : {
+    lokasi : "banyuwangi",
+    noHp : "0812375547"
+  }
 };
 
 export default dataUmkmkuy;
