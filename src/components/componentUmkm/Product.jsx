@@ -15,10 +15,13 @@ const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
             className="max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words"
           >
             <a href="#">
-              {/* <div
-                className={`w-full h-56 bg-[url('${v.img}')] bg-cover bg-center`}
-              ></div> */}
-              <img className="rounded-t-lg" src={v.img} alt />
+              <div className="w-full h-48 rounded-lg" style={{
+                background: `url(${v.img})`,
+                backgroundPosition: 'center',
+                backgroundRepeat: 'no-repeat',
+                backgroundSize: 'cover'
+              }}></div>
+              
             </a>
             <div className="p-5">
               <a href="#">
