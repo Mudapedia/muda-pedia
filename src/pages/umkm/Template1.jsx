@@ -8,8 +8,6 @@ import Location from "../../components/componentUmkm/Location";
 import Footer from "../../components/componentUmkm/Footer";
 
 const Template1 = ({ data }) => {
-
-  console.log(typeof(data.color.primary))
   return (
     <>
       <HelmetProvider>
@@ -19,7 +17,7 @@ const Template1 = ({ data }) => {
             type="image/x-icon"
             href={data.icon || ""}
           />
-          <title>Dewa Dewi Oleh-Oleh</title>
+          <title>{data.title}</title>
         </Helmet>
         <section className={data.color.backgroundColor}>
           <Navbar
@@ -46,7 +44,13 @@ const Template1 = ({ data }) => {
             />
             <Product product={data.product} color={data.color} />
             <Location location={data.location} />
-            <Footer data={data.footer} title={data.title} color={data.color} />
+            <Footer
+              data={data.footer}
+              title={data.title}
+              color={data.color}
+              icon={data.icon}
+              ctaLink={data.ctaLink}
+            />
           </main>
         </section>
       </HelmetProvider>

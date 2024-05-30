@@ -1,20 +1,29 @@
 /* eslint-disable react/prop-types */
 const Footer = ({
-  data: { noHP, alamat },
+  data: { noHp, alamat },
   title,
   color: { textColor, secondary },
+  icon,
+  ctaLink,
 }) => {
   return (
     <footer className={`p-4 ${secondary} md:p-8 lg:p-10  ${textColor}`}>
       <div className="mx-auto max-w-screen-xl text-center">
         <a
-          href="#"
-          className="flex justify-center items-center text-2xl font-semibold"
+          href={ctaLink ? ctaLink : "#"}
+          target={ctaLink ? "_blank" : "_self"}
+          rel="noreferrer"
+          className="flex justify-center items-center text-2xl font-semibold gap-2  "
         >
+          {icon ? (
+            <img src={icon} alt={title} className="w-8 rounded-md" />
+          ) : (
+            ""
+          )}
           {title}
         </a>
         <p className="my-6 ">
-          No Hp: {noHP ? noHP : "- "} Alamat: {alamat ? alamat : "-"}
+          No Hp: {noHp ? noHp : "- "} Alamat: {alamat ? alamat : "-"}
         </p>
         <span className="text-sm  sm:text-center">
           © 2024
@@ -24,7 +33,7 @@ const Footer = ({
             rel="noreferrer"
             className="hover:underline"
           >
-            didukung oleh Mudapedia™
+            &nbsp; didukung oleh Mudapedia™
           </a>
           . All Rights Reserved.
         </span>

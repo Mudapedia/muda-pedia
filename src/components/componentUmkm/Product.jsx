@@ -12,10 +12,16 @@ const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
         {data.map((v, i) => (
           <div
             key={i}
-            className="max-w-sm border border-gray-200 rounded-lg shadow"
+            className="max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words"
           >
             <a href="#">
-              <img className="rounded-t-lg" src={v.img} alt />
+              <div className="w-full h-48 rounded-lg" style={{
+                background: `url(${v.img})`,
+                backgroundPosition: 'center',
+                backgroundRepeat: 'no-repeat',
+                backgroundSize: 'cover'
+              }}></div>
+              
             </a>
             <div className="p-5">
               <a href="#">
@@ -31,7 +37,9 @@ const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
                 ""
               )}
               {v.price ? (
-                <p className={`mb-3 text-xl ${accentColor} font-bold `}>
+                <p
+                  className={`mb-3 text-xl ${accentColor} font-bold absolute bottom-0`}
+                >
                   {v.price}
                 </p>
               ) : (
