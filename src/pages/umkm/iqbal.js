@@ -1,67 +1,60 @@
 const dataIqbal = {
-  "nama-umkm": {
-    title: "required",
+  "camilanringan": {
+    title: "Cemilan Ringan",
     icon: null,
-    navbarTitle: "required",
-    ctaLink: null,
+    navbarTitle: "Cemilan Ringan",
+    ctaLink: "https://wa.me/6282143040493",
 
     color: {
       // required
-      primary: "bg-[#F87171]",
-      secondary: "bg-[#FD7382]",
-      backgroundColor: "bg-white",
+      primary: "bg-[#f87171]",
+      secondary: "bg-[#e89494]",
+      backgroundColor: "bg-[#faf1f1]",
       hoverColor: "hover:bg-[#ef4444]",
-      textColor: "text-[#010010]",
+      textColor: "text-[#180c0c]",
       btnTextColor: "text-white",
-      accentColor: "text-[#F87171]",
+      accentColor: "text-[#e85a5a]",
     },
 
     hero: {
-      tagLine: "Oleh-Oleh Istimewa, untuk Orang Tersayang",
-      deskripsi: null,
-      btn: true, // optional
+      tagLine: "Cemilan Favorit untuk Segala Suasana",
+      deskripsi: "Cemilan favorit yang cocok untuk segala suasana! Nikmati kelezatan dan kerenyahan dalam setiap gigitan, baik saat bersantai, bekerja, atau berkumpul bersama teman.",
+      btn: false, // optional
       btnText: "Pesan sekarang",
-      img: "/img/dewa-dewi/dewa.jpg",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056530/umkm/camilan-ringan/about_krpu4f.jpg",
     },
     about: {
       title: null,
-      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+      txt: "Jangan lewatkan Kelezatan camilan ringan kami!",
 
-      deskripsi: null, // optional
-      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      deskripsi: "Segera beli sekarang dan nikmati sensasi gurih dan renyahnya di setiap gigitan. Ayo, manjakan lidah Anda dengan camilan favorit untuk segala suasana", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056529/umkm/camilan-ringan/hero_hqy6wf.jpg",
       btn: true, // optional
-      btnText: "Order yuk",
+      btnText: "Pesan Sekarang",
     },
     product: {
-      title: "required",
+      title: "Produk Terlaris Kami Nih!",
       // required
       data: [
         {
-          name: "Madu mongso",
+          name: "MACJOS MIE LIDI",
           deskripsi:
-            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
-          price: "Rp24.000",
-          img: "/img/dewa-dewi/IMG20240520104153.jpg",
+            "Rasa Original",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056291/umkm/camilan-ringan/produk1_ckhgb1.jpg",
         },
         {
-          name: "Pisar lumer",
+          name: "MACJOS BASRENG",
           deskripsi:
-            "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
-          price: "Rp15.000",
-          img: "/img/dewa-dewi/pisang lumer.jpg",
-        },
-        {
-          name: "Nastar nanas",
-          deskripsi:
-            "kue kering dari adonan tepung terigu, mentega, dan telur yang diisi dengan selai nanas, cokelat, maupun rasa lainnya.",
-          price: "Rp20.000",
-          img: "/img/dewa-dewi/nastar.jpg",
+            "Pedas Level 5",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056470/umkm/camilan-ringan/produk2_revum2.jpg",
         },
       ],
     },
     location: null,
     footer: {
-      noHp: null,
+      noHp: "082143040493",
       alamat: null,
     },
   },
