@@ -8,6 +8,8 @@ import Location from "../../components/componentUmkm/Location";
 import Footer from "../../components/componentUmkm/Footer";
 
 const Template1 = ({ data }) => {
+
+  console.log(typeof(data.color.primary))
   return (
     <>
       <HelmetProvider>
