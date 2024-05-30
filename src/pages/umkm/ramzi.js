@@ -34,6 +34,7 @@ const dataRamzi = {
     },
     product: {
       // required
+      title: "required",
       data: [
         {
           name: "Madu mongso",

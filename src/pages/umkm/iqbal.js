@@ -33,6 +33,7 @@ const dataIqbal = {
       btnText: "Order yuk",
     },
     product: {
+      title: "required",
       // required
       data: [
         {
