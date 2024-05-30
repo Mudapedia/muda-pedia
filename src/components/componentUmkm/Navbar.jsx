@@ -13,8 +13,10 @@ const Navbar = ({
     >
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a
-          href="tel:6282142515874"
+          href={ctaLink ? ctaLink : "#"}
           className="flex items-center space-x-3 rtl:space-x-reverse"
+          target={ctaLink ? "_blank" : "_self"}
+          rel="noreferrer"
         >
           {icon ? <img src={icon} className="h-8 w-8" alt={title} /> : ""}
 
