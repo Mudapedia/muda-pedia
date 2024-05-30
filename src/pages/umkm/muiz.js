@@ -176,7 +176,7 @@ const dataMuiz = {
         {
           name: "Es Capcin",
           deskripsi:
-            "merupakan perpaduan rasa manis, gurih, dan segar yang tak terlupakan. Es ini terdiri dari es serut, potongan buah nangka, alpukat, tape singkong, dan cincau hitam..",
+            "merupakan perpaduan rasa manis, gurih, dan segar yang tak terlupakan. Es ini terdiri dari es serut, potongan buah nangka, alpukat, tape singkong, dan cincau hitam.",
           price: "Rp5.000",
           img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhsvmwNUFBSa32oxdIxXmqfxbOczbMrXVXSUKjt6jysxo4y4eeGfOFKRvAkqVU5mwqwk&usqp=CAU",
         },
@@ -221,20 +221,20 @@ const dataMuiz = {
     },
 
     hero: {
-      tagLine: "Segarkan Harimu dengan Aneka Es Sensasi yang Memanjakan!",
+      tagLine: "Kesegaran Buah Segar di Setiap Tegukan",
       deskripsi:
-        "Kami hadir untuk menghadirkan berbagai pilihan minuman es yang siap menyegarkan hari-hari Anda. Dari Es Capcin yang menggugah selera dengan perpaduan kopi dan cincau yang sempurna, hingga Es Kopyor yang menghadirkan sensasi kenikmatan daging kelapa yang lembut dan manis, setiap varian es kami dirancang untuk memuaskan dahaga Anda dengan cita rasa yang istimewa.",
+        "Selamat datang di Kedai Cak Ndut, destinasi utama untuk menikmati kesegaran jus buah segar! Kami menyajikan berbagai pilihan minuman buah yang kaya akan vitamin dan rasa, termasuk jus jeruk yang menyegarkan, jus alpukat yang creamy, jus mangga yang manis, jus durian yang eksotis, dan jus buah naga yang unik.",
       btn: true, // optional
       btnText: "Pesan sekarang",
       img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717055404/umkm/kedai-cak-ndut-tar/photo1716683582_oy5h5o.jpg",
     },
     about: {
       title: "Tentang",
-      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+      txt: "Setiap minuman diolah dari buah-buahan pilihan terbaik yang dijamin segar dan alami.",
 
       deskripsi:
-        "Setiap varian Aneka Es kami dibuat dengan bahan-bahan berkualitas tinggi, menjamin rasa yang enak dan menyehatkan. Dengan Aneka Es kami, hari Anda akan terasa lebih segar dan penuh energi. Temukan kesegaran alami dari Aneka Es, dan jadikan setiap momen lebih istimewa!", // optional
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717052008/umkm/aneka-es/photo1716684193_znrrtq.jpg",
+        "Pilihan tepat untuk meningkatkan energi, menyegarkan tubuh, dan menjaga kesehatan dengan rasa yang lezat dan menyegarkan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056676/umkm/kedai-cak-ndut-tar/photo1716683582_1_s1rxjy.jpg",
       btn: true, // optional
       btnText: "Pesan sekarang",
     },
@@ -243,30 +243,30 @@ const dataMuiz = {
       // required
       data: [
         {
-          name: "Es Capcin",
+          name: "Jeruk Peras",
           deskripsi:
-            "merupakan perpaduan rasa manis, gurih, dan segar yang tak terlupakan. Es ini terdiri dari es serut, potongan buah nangka, alpukat, tape singkong, dan cincau hitam..",
-          price: "Rp5.000",
-          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhsvmwNUFBSa32oxdIxXmqfxbOczbMrXVXSUKjt6jysxo4y4eeGfOFKRvAkqVU5mwqwk&usqp=CAU",
+            "Minuman klasik Jeruk Peras kaya akan vitamin C yang membantu meningkatkan daya tahan tubuh, melancarkan pencernaan, dan menjaga kesehatan kulit.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056097/umkm/kedai-cak-ndut-tar/ffa4ad84-c1d5-4f68-be0f-a7d52687586f_mfbfkl.jpg",
         },
         {
-          name: "Es Kopyor",
+          name: "Alpukat Kocok",
           deskripsi:
-            "Daging kelapa muda yang kenyal dan berair, dipadukan dengan es serut, santan kental manis, dan gula merah cair, menghasilkan rasa manis, gurih, dan segar yang unik.",
-          price: "Rp5.000",
-          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717053046/umkm/aneka-es/IMG-20220814-WA0003_qodrfg.jpg",
+            "Teksturnya yang lembut dan rasa yang creamy menjadikannya pilihan minuman favorit bagi banyak orang.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056225/umkm/kedai-cak-ndut-tar/3722cb1854b3203da7d8cf671a11fe46_qv7vr3.jpg",
         },
         {
-          name: "Es Kuwut Melon",
+          name: "Aneka Buah",
           deskripsi:
-            "hidangan penutup khas Bali yang memadukan kesegaran melon dan kelapa muda dengan aroma khas jeruk nipis.",
-          price: "Rp5.000",
-          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/03/20/8JsQ6yO/resep-es-kuwut-melon-minuman-segar-cocok-untuk-buka-puasa40.jpg",
+            "Kami juga menghadirkan aneka jus buah segar dengan menggunakan buah-buahan segar dan berkualitas tinggi untuk menghasilkan jus yang kaya akan vitamin, mineral, dan rasa yang lezat.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717056278/umkm/kedai-cak-ndut-tar/hq720_sqhicl.jpg",
         },
       ],
     },
     location:
-      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.7971805397265!2d114.37598231346807!3d-8.21295283091228!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuNiJTIDExNMKwMjInMzMuNSJF!5e0!3m2!1sid!2sid!4v1717053739204!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.795947222115!2d114.37595874137615!3d-8.213014821307366!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuOSJTIDExNMKwMjInMzMuNSJF!5e0!3m2!1sid!2sid!4v1717056617756!5m2!1sid!2sid",
     footer: {
       noHp: null,
       alamat: "Blambangan",
