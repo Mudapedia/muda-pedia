@@ -63,6 +63,10 @@ const data = {
       alamat: "Lemabang dewo, Rogojampi, Banyuwangi",
     },
   },
+  "warunge maz ramz" :{
+    lokasi : "banyuwangi",
+    noHp : "08812635123213"
+  }
 }
 
 export default data
