@@ -1,15 +1,19 @@
 /* eslint-disable react/prop-types */
 // eslint-disable-next-line react/prop-types
 const About = ({
-  data: { txt, deskripsi, img, btn, btnText },
+  data: { title, txt, deskripsi, img, btn, btnText },
   ctaLink,
   color: { textColor, primary, btnTextColor, hoverColor },
 }) => {
   return (
     <section className={`max-w-screen-xl mx-auto  ${textColor} mt-24`}>
-      <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl ">
-        Tentang
+      {title ? (
+        <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl ">
+        {title}
       </p>
+      ) : (
+        ""
+      )}
       <div className="flex flex-col md:flex-row px-4 py-8 mx-auto gap-8 lg:py-16">
         <div className="lg:mt-0 mb-10">
           <img src={img} alt="mockup" className="rounded-xl w-[28rem]" />
