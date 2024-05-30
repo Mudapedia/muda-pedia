@@ -1,7 +1,11 @@
 /* eslint-disable react/prop-types */
-const Footer = ({ data: { noHP, alamat }, title, btnColor, btnTextColor }) => {
+const Footer = ({
+  data: { noHP, alamat },
+  title,
+  color: { textColor, secondary },
+}) => {
   return (
-    <footer className={`p-4 ${btnColor} md:p-8 lg:p-10  ${btnTextColor}`}>
+    <footer className={`p-4 ${secondary} md:p-8 lg:p-10  ${textColor}`}>
       <div className="mx-auto max-w-screen-xl text-center">
         <a
           href="#"
@@ -26,7 +30,7 @@ const Footer = ({ data: { noHP, alamat }, title, btnColor, btnTextColor }) => {
         </span>
         <a href="https://mudapedia.my.id" target="_blank" rel="noreferrer">
           <img
-            src="/src/assets/logo-muda-pedia.png"
+            src="/public/logo-muda-pedia.png"
             alt="mudapedia"
             className="w-16 m-auto mt-5"
           />

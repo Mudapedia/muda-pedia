@@ -1,16 +1,18 @@
 /* eslint-disable react/prop-types */
 // eslint-disable-next-line react/prop-types
-const Product = ({ product: { priceColor, data } }) => {
+const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
   return (
-    <section className="pt-10 pb-20 max-w-screen-lg mx-auto px-5">
-      <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl dark:text-white">
+    <section
+      className={`${textColor} pt-10 pb-20 max-w-screen-lg mx-auto px-5`}
+    >
+      <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl ">
         Produk kami
       </p>
       <section className="gap-5 md:gap-10 lg:gap-20 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3">
         {data.map((v, i) => (
           <div
             key={i}
-            className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
+            className="max-w-sm border border-gray-200 rounded-lg shadow"
           >
             <a href="#">
               <img className="rounded-t-lg" src={v.img} alt />
@@ -29,9 +31,7 @@ const Product = ({ product: { priceColor, data } }) => {
                 ""
               )}
               {v.price ? (
-                <p
-                  className={`mb-3 dark:text-gray-400 text-xl ${priceColor} font-bold `}
-                >
+                <p className={`mb-3 text-xl ${accentColor} font-bold `}>
                   {v.price}
                 </p>
               ) : (

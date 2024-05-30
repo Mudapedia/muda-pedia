@@ -2,19 +2,18 @@
 const Header = ({
   tagLine,
   deskripsi,
-  btnColor,
-  btnHoverColor,
-  btnTextColor,
   ctaLink,
   btn,
   btnText,
+  img,
+  color: { textColor, primary, btnTextColor, hoverColor },
 }) => {
   return (
-    <header className="bg-white dark:bg-gray-900 pt-20">
+    <header className={`${textColor} pt-20`}>
       <div className="flex flex-col  md:flex-row max-w-screen-xl px-4 py-8 mx-auto gap-8 lg:py-16">
         <div className="lg:mt-0 md:order-2">
           <img
-            src="/src/assets/dewa-dewi/dewa.jpg"
+            src={img}
             alt="mockup"
             className="rounded-xl w-full   lg:w-[500px] mx-auto"
           />
@@ -36,7 +35,7 @@ const Header = ({
               href={ctaLink ? ctaLink : "#"}
               rel="noreferrer"
               target={ctaLink ? "_blank" : "_self"}
-              className={`${btnTextColor} ${btnColor} ${btnHoverColor}  font-medium rounded-lg text-sm px-4 py-2 text-center`}
+              className={`${btnTextColor} ${primary} ${hoverColor}  font-medium rounded-lg text-sm px-4 py-2 text-center`}
             >
               {btnText}
             </a>
