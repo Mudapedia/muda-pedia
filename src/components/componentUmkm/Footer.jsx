@@ -14,7 +14,7 @@ const Footer = ({
           {title}
         </a>
         <p className="my-6 ">
-          No Hp: {noHP} Alamat: {alamat}
+          No Hp: {noHP ? noHP : "- "} Alamat: {alamat ? alamat : "-"}
         </p>
         <span className="text-sm  sm:text-center">
           © 2024

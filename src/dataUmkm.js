@@ -1,23 +1,67 @@
 const dataUmkmkuy = {
   "dewa-dewi": {
-    title: "Dewa Dewi Oleh-Oleh",
-    icon: "/src/assets/3714842.jpg",
-    navbarTitle: "Dewa Dewi Oleh-Oleh",
-    navbarCtaLink: "tel:6282142515874",
-    navbarBgColor: "bg-[#fff]",
-    btnColor: "bg-[#F87171]",
-    btnHoverColor: "hover:bg-[#ef4444]",
-    btnTextColor: "text-[#fff]",
-  },
-  de: {
-    title: "KUY",
-    icon: "/src/assets/3714842.jpg",
-    navbarTitle: "KUY",
-    navbarCtaLink: "tel:6282142515874",
-    navbarBgColor: "bg-[#32a852]",
-    btnColor: "bg-[#32a852]",
-    btnHoverColor: "hover:bg-[#ef9444]",
-    btnTextColor: "text-[#fff]",
+    title: "required",
+    icon: null,
+    navbarTitle: "required",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Oleh-Oleh Istimewa, untuk Orang Tersayang",
+      deskripsi: null,
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "/public/img/dewa-dewi/dewa.jpg",
+    },
+    about: {
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      data: [
+        {
+          name: "Madu mongso",
+          deskripsi:
+            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+          price: "Rp24.000",
+          img: "/img/dewa-dewi/IMG20240520104153.jpg",
+        },
+        {
+          name: "Pisar lumer",
+          deskripsi:
+            "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
+          price: "Rp15.000",
+          img: "/img/dewa-dewi/pisang lumer.jpg",
+        },
+        {
+          name: "Nastar nanas",
+          deskripsi:
+            "kue kering dari adonan tepung terigu, mentega, dan telur yang diisi dengan selai nanas, cokelat, maupun rasa lainnya.",
+          price: "Rp20.000",
+          img: "/img/dewa-dewi/nastar.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
   },
 };
 
