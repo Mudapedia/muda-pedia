@@ -11,7 +11,7 @@ const Umkm = () => {
       <section className="flex justify-center items-center h-[100vh] ">
         <section className="flex flex-col items-center gap-4">
           <section className="relative flex justify-center">
-            <img src="/public/spongebob.gif" alt="notfound" />
+            <img src="/spongebob.gif" alt="notfound" />
             <h1 className="font-bold text-xl text-white absolute bottom-10 drop-shadow-md">
               Ga ada, Ga da
             </h1>

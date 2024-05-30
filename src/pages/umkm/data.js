@@ -1,5 +1,5 @@
 const data = {
-  "dewa-dewi": {
+  dewadewioleholeh: {
     title: "Dewa Dewi Oleh-Oleh",
     icon: null,
     navbarTitle: "Dewa Dewi Oleh-Oleh",
@@ -21,7 +21,7 @@ const data = {
         "Pusat Oleh-Oleh Terlengkap dan Terlezat di rogojampi banyuwangi,rasakan kenikmatannya",
       btn: true,
       btnText: "Pesan sekarang",
-      img: "/public/img/dewa-dewi/dewa.jpg",
+      img: "/img/dewa-dewi/dewa.jpg",
     },
     about: {
       txt: "Lebih dari Sekedar Toko Oleh-Oleh",
@@ -65,7 +65,7 @@ const data = {
   },
   "andini-milk": {
     title: "Andini Milk",
-    icon: "/public/img/andini-milk/logo.jpg",
+    icon: "/img/andini-milk/logo.jpg",
     navbarTitle: "Andini Milk",
     ctaLink: "https://wa.me/6281335679197",
 
@@ -86,7 +86,7 @@ const data = {
         "Kami menawarkan berbagai pilihan susu yang tak hanya lezat tapi juga kaya akan nutrisi, memastikan Anda mendapatkan manfaat maksimal di setiap tetesnya. Mulai dari Susu Coklat yang nikmat dengan rasa coklat asli, Susu Murni yang diambil langsung dari peternakan pilihan untuk kesegaran alami, hingga berbagai varian aneka susu yang bisa memenuhi kebutuhan harian Anda. ",
       btn: true, // optional
       btnText: "Pesan sekarang",
-      img: "/public/img/andini-milk/hero.jpeg",
+      img: "/img/andini-milk/hero.jpeg",
     },
     about: {
       txt: "Susu Sehat untuk Tumbuh Cerdas dan Berprestasi",
