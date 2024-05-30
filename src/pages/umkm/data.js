@@ -45,7 +45,7 @@ const data = {
           deskripsi:
             "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
           price: "Rp15.000",
-          img: "/img/dewa-dewi/pisang lumer.jpg",
+          img: "/img/dewa-dewi/pisang-lumer.jpg",
         },
         {
           name: "Nastar nanas",

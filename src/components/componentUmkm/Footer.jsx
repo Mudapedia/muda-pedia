@@ -39,7 +39,7 @@ const Footer = ({
         </span>
         <a href="https://mudapedia.my.id" target="_blank" rel="noreferrer">
           <img
-            src="/public/logo-muda-pedia.png"
+            src="/logo-muda-pedia.png"
             alt="mudapedia"
             className="w-16 m-auto mt-5"
           />
