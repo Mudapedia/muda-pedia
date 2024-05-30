@@ -1,5 +1,5 @@
-const dataUmkmkuy = {
-  "nama umkm": {
+const dataIqbal = {
+  "nama-umkm": {
     title: "required",
     icon: null,
     navbarTitle: "required",
@@ -66,4 +66,4 @@ const dataUmkmkuy = {
   },
 };
 
-export default dataUmkmkuy;
+export default dataIqbal;

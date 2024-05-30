@@ -1,11 +1,15 @@
 import { useParams } from "react-router-dom";
 import Template1 from "./Template1";
-import data from "./data";
+import dataMuiz from "./muiz";
+import dataIqbal from "./iqbal";
+import dataRamzi from "./ramzi";
 
 const Umkm = () => {
   let { umkm } = useParams();
 
-  const objKeys = Object.keys(data);
+  const dataUmkm = Object.assign({}, dataMuiz, dataIqbal, dataRamzi);
+
+  const objKeys = Object.keys(dataUmkm);
   if (!objKeys.includes(umkm)) {
     return (
       <section className="flex justify-center items-center h-[100vh] ">
@@ -27,7 +31,7 @@ const Umkm = () => {
     );
   }
 
-  return <Template1 data={data[umkm]} />;
+  return <Template1 data={dataUmkm[umkm]} />;
 };
 
 export default Umkm;

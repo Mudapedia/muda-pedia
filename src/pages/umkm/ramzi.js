@@ -1,6 +1,6 @@
-const dataUmkmkuy = {
-  "nama umkm": {
-    title: "required",
+const dataRamzi = {
+  "nama-ramzi": {
+    title: "tes",
     icon: null,
     navbarTitle: "required",
     ctaLink: null,
@@ -66,4 +66,4 @@ const dataUmkmkuy = {
   },
 };
 
-export default dataUmkmkuy;
+export default dataRamzi;
