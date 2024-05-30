@@ -132,11 +132,11 @@ const data = {
       alamat: "Blambangan",
     },
   },
-  camilanringan: {
-    title: "Camilan Ringan",
+  "aneka-es": {
+    title: "Aneka Es",
     icon: null,
-    navbarTitle: "Camilan Ringan",
-    ctaLink: "https://wa.me/6282143040493",
+    navbarTitle: "Aneka Es",
+    ctaLink: null,
 
     color: {
       // required
@@ -150,53 +150,55 @@ const data = {
     },
 
     hero: {
-      tagLine: "Cemilan Favorit untuk Segala Suasana",
-      deskripsi: "Cemilan favorit yang cocok untuk segala suasana! Nikmati kelezatan dan kerenyahan dalam setiap gigitan, baik saat bersantai, bekerja, atau berkumpul bersama teman.",
-      btn: false, // optional
+      tagLine: "Segarkan Harimu dengan Aneka Es Sensasi yang Memanjakan!",
+      deskripsi:
+        "Kami hadir untuk menghadirkan berbagai pilihan minuman es yang siap menyegarkan hari-hari Anda. Dari Es Capcin yang menggugah selera dengan perpaduan kopi dan cincau yang sempurna, hingga Es Kopyor yang menghadirkan sensasi kenikmatan daging kelapa yang lembut dan manis, setiap varian es kami dirancang untuk memuaskan dahaga Anda dengan cita rasa yang istimewa.",
+      btn: true, // optional
       btnText: "Pesan sekarang",
-      img: "/public/img/dewa-dewi/dewa.jpg",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717052008/umkm/aneka-es/photo1716684193_znrrtq.jpg",
     },
     about: {
-      title:"Produk Terlaris Kami",
       txt: "Lebih dari Sekedar Toko Oleh-Oleh",
 
-      deskripsi: null, // optional
-      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      deskripsi:
+        "Setiap varian Aneka Es kami dibuat dengan bahan-bahan berkualitas tinggi, menjamin rasa yang enak dan menyehatkan. Dengan Aneka Es kami, hari Anda akan terasa lebih segar dan penuh energi. Temukan kesegaran alami dari Aneka Es, dan jadikan setiap momen lebih istimewa!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717052008/umkm/aneka-es/photo1716684193_znrrtq.jpg",
       btn: true, // optional
-      btnText: "Order yuk",
+      btnText: "Pesan sekarang",
     },
     product: {
       // required
       data: [
         {
-          name: "Madu mongso",
+          name: "Es Capcin",
           deskripsi:
-            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
-          price: "Rp24.000",
-          img: "/img/dewa-dewi/IMG20240520104153.jpg",
+            "merupakan perpaduan rasa manis, gurih, dan segar yang tak terlupakan. Es ini terdiri dari es serut, potongan buah nangka, alpukat, tape singkong, dan cincau hitam..",
+          price: "Rp5.000",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhsvmwNUFBSa32oxdIxXmqfxbOczbMrXVXSUKjt6jysxo4y4eeGfOFKRvAkqVU5mwqwk&usqp=CAU",
         },
         {
-          name: "Pisar lumer",
+          name: "Es Kopyor",
           deskripsi:
-            "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
-          price: "Rp15.000",
-          img: "/img/dewa-dewi/pisang lumer.jpg",
+            "Daging kelapa muda yang kenyal dan berair, dipadukan dengan es serut, santan kental manis, dan gula merah cair, menghasilkan rasa manis, gurih, dan segar yang unik.",
+          price: "Rp5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717053046/umkm/aneka-es/IMG-20220814-WA0003_qodrfg.jpg",
         },
         {
-          name: "Nastar nanas",
+          name: "Es Kuwut Melon",
           deskripsi:
-            "kue kering dari adonan tepung terigu, mentega, dan telur yang diisi dengan selai nanas, cokelat, maupun rasa lainnya.",
-          price: "Rp20.000",
-          img: "/img/dewa-dewi/nastar.jpg",
+            "hidangan penutup khas Bali yang memadukan kesegaran melon dan kelapa muda dengan aroma khas jeruk nipis.",
+          price: "Rp5.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/03/20/8JsQ6yO/resep-es-kuwut-melon-minuman-segar-cocok-untuk-buka-puasa40.jpg",
         },
       ],
     },
-    location: null,
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.7971805397265!2d114.37598231346807!3d-8.21295283091228!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuNiJTIDExNMKwMjInMzMuNSJF!5e0!3m2!1sid!2sid!4v1717053739204!5m2!1sid!2sid",
     footer: {
       noHp: null,
-      alamat: null,
+      alamat: "Blambangan",
     },
-  }
+  },
 };
 
 export default data;
