@@ -412,7 +412,7 @@ const dataMuiz = {
     title: "Tahu Bulat",
     icon: null,
     navbarTitle: "Tahu Bulat",
-    ctaLink: null,
+    ctaLink: "https://wa.me/6283136585497",
 
     color: {
       // required
@@ -475,6 +475,73 @@ const dataMuiz = {
     footer: {
       noHp: "0831-3658-5497",
       alamat: "Gurit Rogojampi",
+    },
+  },
+  esdawetlemahbang: {
+    title: "Es Dawet",
+    icon: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122182/umkm/es-dawet/images_jopvos.jpg",
+    navbarTitle: "Es Dawet",
+    ctaLink: "https://wa.me/6282132624952",
+
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Alami di Setiap Seruput!",
+      deskripsi:
+        "Dibuat dari bahan-bahan alami tanpa pengawet, es dawet kami menonjolkan kelezatan cendol yang kenyal, manisnya gula aren, dan gurihnya santan segar.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122185/umkm/es-dawet/whatsapp-image-2024-05-21-at-18.25.50-00607d37_uctfvd.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Es Dawet Alami",
+          deskripsi:
+            "menghadirkan kenikmatan tradisional yang murni dari bahan-bahan alami terbaik.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122667/umkm/es-dawet/images_qn1ipi.jpg",
+        },
+        {
+          name: "Es Dawet Manis",
+          deskripsi:
+            "memadukan kelezatan tradisional dengan sentuhan manis yang memanjakan lidah anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122183/umkm/es-dawet/es-cendol_umhb8c.webp",
+        },
+        {
+          name: "Es Dawet Tape",
+          deskripsi:
+            "membawa inovasi menarik ke dalam minuman tradisional dengan menambahkan tape yang lezat.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122183/umkm/es-dawet/es-cendoldawet-jawa-foto-resep-utama_zckn4h.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "0821-3262-4952",
+      alamat: "Lebahbang Dewo",
     },
   },
 };
