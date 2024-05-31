@@ -350,7 +350,7 @@ const dataMuiz = {
       // required
       primary: "bg-[#AF8F6E]",
       secondary: "bg-[#E6B483]",
-      backgroundColor: "bg-white",
+      backgroundColor: "bg-[#FAF5F0]",
       hoverColor: "hover:bg-[#ad875f]",
       textColor: "text-[#010010]",
       btnTextColor: "text-white",
@@ -406,6 +406,75 @@ const dataMuiz = {
     footer: {
       noHp: "0812-3047-9947",
       alamat: null,
+    },
+  },
+  tahubulat: {
+    title: "Tahu Bulat",
+    icon: null,
+    navbarTitle: "Tahu Bulat",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#EF4444]",
+      secondary: "bg-[#DD8D8D]",
+      backgroundColor: "bg-[#FBF4F4]",
+      hoverColor: "hover:bg-[#f02b2b]",
+      textColor: "text-[#0F0707]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#D96666]",
+    },
+
+    hero: {
+      tagLine: "Gurih, Renyah, dan Menggoda",
+      deskripsi:
+        "Kami menyediakan tahu bulat yang digoreng dadakan, menghasilkan kerenyahan sempurna dan rasa yang lezat. Dibuat dari bahan berkualitas dan resep terbaik, tahu bulat kami adalah pilihan sempurna untuk menemani waktu santai Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717121402/umkm/tahu-bulat/gaskun_rrcroo.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Camilan Murah Meriah, Rasa Luar Biasa!",
+
+      deskripsi:
+        "Tahu Bulat hadir untuk memberikan camilan berkualitas dengan harga terjangkau. Setiap tahu bulat kami digoreng dadakan, memberikan kerenyahan dan kelezatan yang sempurna di setiap gigitan. Dibuat dari bahan-bahan pilihan dan tanpa bahan pengawet, tahu bulat kami adalah camilan sehat yang bisa dinikmati oleh semua kalangan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717121402/umkm/tahu-bulat/WhatsApp_Image_2024-05-21_at_18.29.35_4c510ee7_bdcsof.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Cimol",
+          deskripsi:
+            "terbuat dari adonan tepung tapioka, menawarkan sensasi kenyal dan gurih di setiap gigitan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717121401/umkm/tahu-bulat/cimol_l9zuqk.jpg",
+        },
+        {
+          name: "Sotong",
+          deskripsi:
+            "digoreng dengan adonan berbumbu, menghasilkan rasa gurih dan kelezatan yang tak tertandingi.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717121401/umkm/tahu-bulat/sotong_tc16nh.jpg",
+        },
+        {
+          name: "Tahu Bulat",
+          deskripsi:
+            "camilan khas Indonesia yang digoreng dadakan, menghadirkan kerenyahan di luar dan kelembutan di dalam.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717121402/umkm/tahu-bulat/tahu_bulat_exwrs3.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.986519024669!2d114.28642457501063!3d-8.304137591731076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTQuOSJTIDExNMKwMTcnMjAuNCJF!5e0!3m2!1sid!2sid!4v1716797779116!5m2!1sid!2sid",
+    footer: {
+      noHp: "0831-3658-5497",
+      alamat: "Gurit Rogojampi",
     },
   },
 };
