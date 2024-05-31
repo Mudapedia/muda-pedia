@@ -35,17 +35,18 @@ const Product = ({
         {data.map((v, i) => (
           <div
             key={i}
-            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words `}
+            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words w-full`}
             style={{ backgroundColor: hexObj }}
           >
-            <a href="#">
+            <a href="#" className="">
               <div
-                className="w-full h-80 rounded-lg"
+                className="w-80 h-80 rounded-lg"
                 style={{
                   background: `url(${v.img})`,
                   backgroundPosition: "center",
                   backgroundRepeat: "no-repeat",
                   backgroundSize: "cover",
+                  
                 }}
               ></div>
             </a>
