@@ -1239,6 +1239,74 @@ const dataMuiz = {
       alamat: "Blambangan",
     },
   },
+  "lapak-ddd": {
+    title: "Lapak DDD",
+    icon: null,
+    navbarTitle: "Lapak DDD",
+    ctaLink: "https://wa.me/6285232152837",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Toko Kami Menyajikan Sensasi Baru dalam Kuliner Tradisional",
+      deskripsi:
+        "tempat di mana kelezatan tak terduga menanti untuk Anda jelajahi. Kami dengan bangga menawarkan beragam olahan masakan khas, termasuk usus yang gurih, baby crab lembut, dan corndog yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139484/umkm/lapak-ddd/photo1716688717_3_v1y2gz.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Usus",
+          deskripsi:
+            "Temukan keunikan cita rasa dalam setiap gigitan olahan masakan usus kami.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139478/umkm/lapak-ddd/photo1716688717_1_ivv9fo.jpg",
+        },
+        {
+          name: "Baby Crab",
+          deskripsi:
+            "setiap hidangan baby crab kami menghadirkan kelezatan tersembunyi yang akan memanjakan lidah Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139475/umkm/lapak-ddd/photo1716688717_tgcdav.jpg",
+        },
+        {
+          name: "Corndog",
+          deskripsi:
+            "Nikmati kelezatan corndog, camilan klasik yang tak pernah memudar. Dibuat dengan sosis berkualitas dan dilapisi dengan adonan jagung yang garing, corndog kami siap memanjakan selera Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139467/umkm/lapak-ddd/photo1716688717_2_xiirbv.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.819643781791!2d114.37716244781542!3d-8.211823676888185!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuNiJTIDExNMKwMjInMzcuOCJF!5e0!3m2!1sid!2sid!4v1717140009620!5m2!1sid!2sid",
+    footer: {
+      noHp: "085232152837",
+      alamat: "Blambangan",
+    },
+  },
 };
 
 export default dataMuiz;
