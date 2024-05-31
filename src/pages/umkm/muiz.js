@@ -1107,6 +1107,69 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "lumpia-martabak": {
+    title: "Lumpia dan Martabak",
+    icon: null,
+    navbarTitle: "Lumpia dan Martabak",
+    ctaLink: "https://wa.me/6285704084569",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Meriahkan Harimu dengan Kebasahan Lumpia dan Manisnya Martabak.",
+      deskripsi:
+        "Kami dengan bangga menghadirkan lumpia dan martabak khas Indonesia dengan sentuhan rasa yang memikat. Setiap gulungan lumpia kami diisi dengan bahan-bahan segar dan dibungkus dengan kulit yang renyah, memberikan sensasi kelezatan yang tak terlupakan di setiap gigitannya",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_kwqo3n.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lumpia dan Martabak di Pilihan Anda",
+
+      deskripsi:
+        "Lumpia kami dibuat dengan kulit yang renyah dan isian yang lezat, sementara martabak kami dipanggang dengan sempurna dan diisi dengan berbagai pilihan toping yang memikat selera.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_kwqo3n.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Lumpia",
+          deskripsi:
+            "Dengan balutan kulit yang renyah dan isian yang lezat, setiap gigitan lumpia mini menghadirkan cita rasa autentik lumpia dalam ukuran yang lebih kecil dan mudah dinikmati.",
+          price: "Rp5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_1_rwbr9h.jpg",
+        },
+        {
+          name: "Martabak Mini",
+          deskripsi:
+            "Tak perlu menunggu lama untuk menikmati kelezatan martabak, karena kini kami hadirkan dalam versi mini yang menggoda.",
+          price: "Rp5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137427/umkm/lumpia-martabak/mini-martabak-mini-but-mighty-1_ofvsxs.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.818826098142!2d114.37584785538628!3d-8.211864781886561!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuNyJTIDExNMKwMjInMzMuMSJF!5e0!3m2!1sid!2sid!4v1717137632727!5m2!1sid!2sid",
+    footer: {
+      noHp: "085704084569",
+      alamat: "Blambangan",
+    },
+  },
 };
 
 export default dataMuiz;
