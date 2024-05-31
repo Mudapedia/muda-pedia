@@ -58,8 +58,7 @@ const dataMuiz = {
         },
       ],
     },
-    location:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17872.83557644627!2d114.36904324719598!3d-8.213929612844236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd145c0bdc88d6d%3A0x5258dd80434ae4d!2sWarung%20rujak%20mbak%20Atik!5e1!3m2!1sid!2sid!4v1716970642742!5m2!1sid!2sid",
+    location: null,
     footer: {
       noHp: "0821-4251-5874",
       alamat: "Lemabang dewo, Rogojampi, Banyuwangi",
@@ -270,6 +269,75 @@ const dataMuiz = {
     footer: {
       noHp: null,
       alamat: "Blambangan",
+    },
+  },
+  gorenganmabang: {
+    title: "Gorengan Mabang",
+    icon: null,
+    navbarTitle: "Gorengan Mabang",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#FFEA64]",
+      secondary: "bg-[#EBDC7C]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#13120D]",
+      btnTextColor: "text-[#645600]",
+      accentColor: "text-[#F6E04D]",
+    },
+
+    hero: {
+      tagLine: "Gorengan Gurih, Suasana Ramai",
+      deskripsi:
+        "Kami menawarkan berbagai jenis gorengan yang renyah dan penuh cita rasa, mulai dari bakwan yang kaya akan sayuran segar, tahu isi yang lembut dengan isian yang nikmat, hingga pisang goreng yang manis dan tempe mendoan yang harum.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717119169/umkm/gorengan-mabang/whatsapp-image-2024-05-21-at-18.04.44-630fec36-1280x576_d43fte.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Gorengan Mabang",
+
+      deskripsi:
+        "Warung Gorengan kami selalu mengutamakan kebersihan dan kualitas bahan baku. Setiap hari, kami memastikan semua gorengan diolah dari bahan-bahan terbaik dan digoreng dengan minyak yang selalu baru. Dengan resep tradisional yang sudah terkenal kelezatannya, kami berkomitmen untuk memberikan pengalaman makan yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717119169/umkm/gorengan-mabang/whatsapp-image-2024-05-21-at-18.04.44-630fec36-1280x576_d43fte.jpg",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+    },
+    product: {
+      title: "Gorengan Kami",
+      // required
+      data: [
+        {
+          name: "Gedang Goreng",
+          deskripsi:
+            "Terbuat dari pisang pilihan yang manis dan matang sempurna, pisang ini kemudian dibalut dengan adonan tepung yang renyah dan digoreng hingga keemasan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717119201/umkm/gorengan-mabang/pisang-goreng-foto-resep-utama-680x482_ucwahe.jpg",
+        },
+        {
+          name: "Weci",
+          deskripsi:
+            "Gorengan khas yang terbuat dari campuran sayuran seperti wortel, kol, dan tauge yang dicampur dalam adonan tepung..",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717119170/umkm/gorengan-mabang/weci-malang-foto-resep-utama-680x482_ubob4a.jpg",
+        },
+        {
+          name: "Aneka Gorengan",
+          deskripsi:
+            "oleksi gorengan kami selalu segar karena digoreng langsung di tempat saat Anda memesannya, sehingga Anda bisa menikmati kelezatan gorengan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717119168/umkm/gorengan-mabang/201911021055343b438107-aff9-442e-ba87-5331b9ea475c-700x525_y4kn1o.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9259996663723!2d114.26968417501064!3d-8.310152891725236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMzYuNiJTIDExNMKwMTYnMjAuMSJF!5e0!3m2!1sid!2sid!4v1716867278191!5m2!1sid!2sid",
+    footer: {
+      noHp: "082338977195",
+      alamat: "Lemahbang Dewo",
     },
   },
 };
