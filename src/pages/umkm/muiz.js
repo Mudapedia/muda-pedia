@@ -866,6 +866,123 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "salad-buah": {
+    title: "Salad Buah",
+    icon: null,
+    navbarTitle: "Salad Buah",
+    ctaLink: "https://wa.me/6281252886592",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Warna-warni Kelezatan yang Menyegarkan",
+      deskripsi:
+        "Nikmati keindahan dan kelezatan dalam setiap mangkok Salad Buah kami. Kombinasi buah segar yang berwarna-warni tidak hanya menyegarkan mata tetapi juga memberikan manfaat kesehatan yang luar biasa. Setiap gigitan adalah perpaduan rasa yang menggugah selera dan menyehatkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717131991/umkm/salad-buah/photo1716685287_fjkbhl.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kombinasi Sempurna Rasa dan Nutrisi",
+
+      deskripsi:
+        "Salad Buah kami menawarkan kombinasi sempurna antara rasa dan nutrisi. Dengan beragam buah segar yang dipilih dengan hati-hati, salad ini memberikan rasa yang lezat sekaligus manfaat kesehatan yang optimal. Pilihan tepat untuk Anda yang menginginkan keseimbangan antara rasa dan nutrisi dalam setiap gigitan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717131991/umkm/salad-buah/photo1716685287_fjkbhl.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Salad Buah",
+          deskripsi:
+            "Terbuat dari beragam buah-buahan segar yang dipilih dengan teliti, Salad Buah kami menghadirkan kombinasi rasa manis, asam, dan renyah yang sempurna dalam setiap suapan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717132273/umkm/salad-buah/Screenshot_20231019_183649_Instagram-2200477020_fdxttn.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.812580740863!2d114.37583572961162!3d-8.212178729572766!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDMuOCJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717132586202!5m2!1sid!2sid",
+    footer: {
+      noHp: "081252886592",
+      alamat: "Blambangan",
+    },
+  },
+  "bakso-sempol": {
+    title: "Bakso Sempol",
+    icon: null,
+    navbarTitle: "Bakso Sempol",
+    ctaLink: "https://wa.me/6281236779113",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#E89595]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Lezatnya Menggoda, Gurihnya Melekat.",
+      deskripsi:
+        "Bakso Sempol kami menghadirkan kelezatan tradisional dengan sentuhan inovatif yang menggugah selera. Setiap tusukan Bakso Sempol adalah perpaduan sempurna antara cita rasa gurih dan tekstur yang kenyal. Terbuat dari bahan-bahan berkualitas tinggi dan rempah-rempah pilihan, setiap gigitan memberikan pengalaman kuliner yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717132734/umkm/bakso-sampol/photo1716685392_oc0nij.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Perpaduan Sempurna Rasa dan Tekstur",
+
+      deskripsi:
+        "Bakso Sempol kami menghadirkan kelezatan tradisional dengan sentuhan inovatif yang menggugah selera. Setiap tusukan Bakso Sempol adalah perpaduan sempurna antara cita rasa gurih dan tekstur yang kenyal. Terbuat dari bahan-bahan berkualitas tinggi dan rempah-rempah pilihan, setiap gigitan memberikan pengalaman kuliner yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133319/umkm/bakso-sampol/photo1716685392_1_cjdvlz.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Bakso",
+          deskripsi:
+            "Terbuat dari campuran daging sapi cincang yang lembut dan bumbu-bumbu rempah pilihan, bakso memiliki tekstur yang kenyal dan cita rasa yang gurih.",
+          price: "Rp24.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133183/umkm/bakso-sampol/ini-resep-kuah-bakso-sap-yang-mudah-dibuat-di-rumah_skkimo.jpg",
+        },
+        {
+          name: "Sempol",
+          deskripsi:
+            "Sempol merupakan variasi dari bakso yang berbentuk bulat dan diikat menggunakan tusuk sate atau lidi.",
+          price: "Rp15.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133181/umkm/bakso-sampol/1016178478_wxhhnq.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.821009469259!2d114.37590150875694!3d-8.211755023254286!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuMyJTIDExNMKwMjInMzMuMyJF!5e0!3m2!1sid!2sid!4v1717133525182!5m2!1sid!2sid",
+    footer: {
+      noHp: "081236779113",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
