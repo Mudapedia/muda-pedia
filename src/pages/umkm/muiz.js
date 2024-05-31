@@ -612,6 +612,74 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-dawet-ayu": {
+    title: "Es Dawet Ayu",
+    icon: null,
+    navbarTitle: "Es Dawet Ayu",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Es Dawet Ayu Alami!",
+      deskripsi:
+        "Nikmati kesegaran Es Dawet Ayu, minuman tradisional yang penuh dengan rasa dan kesegaran alami. Dibuat dari santan kelapa murni, gula merah asli, dan cendol kenyal, Es Dawet Ayu siap menyegarkan harimu dengan cita rasa khas yang otentik. Setiap tegukan adalah kombinasi sempurna dari manisnya gula merah dan lembutnya santan, menciptakan sensasi yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124316/umkm/es-dawet-ayu/photo1716684420_inlnqz.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124316/umkm/es-dawet-ayu/photo1716684420_inlnqz.jpg",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Es Dawet Segar",
+          deskripsi:
+            "Setiap tegukan memberikan sensasi dingin yang menyegarkan, cocok untuk menghilangkan dahaga di tengah hari yang panas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124554/umkm/es-dawet-ayu/209419605-1767077453477383-2586162789757881782-n-3498b77de5c933a89d52721cf50d1384_esdqi3.jpg",
+        },
+        {
+          name: "Es Dawet Manis",
+          deskripsi:
+            "Rasakan kelezatan autentik dengan Es Dawet Manis, minuman tradisional yang menawarkan rasa manis alami dari gula merah pilihan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124591/umkm/es-dawet-ayu/maxresdefault_c1gqa0.jpg",
+        },
+        {
+          name: "Aneka Es Dawet",
+          deskripsi:
+            "Kami menawarkan berbagai pilihan es dawet yang memadukan cita rasa klasik dengan sentuhan modern.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124753/umkm/es-dawet-ayu/1bb4f441-aeec-4bb2-a26b-c9563149e771_Go-Biz_20210526_104012_jxdzo8.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.79692415608!2d114.37595357852796!3d-8.212965717593317!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuNyJTIDExNMKwMjInMzMuNCJF!5e0!3m2!1sid!2sid!4v1717124373127!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
