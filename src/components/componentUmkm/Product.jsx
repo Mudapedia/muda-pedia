@@ -31,7 +31,7 @@ const Product = ({
       ) : (
         ""
       )}
-      <section className="gap-5 md:gap-10 lg:gap-20 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3 mx-auto">
+      <section className="gap-5 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3 mx-auto">
         {data.map((v, i) => (
           <div
             key={i}
