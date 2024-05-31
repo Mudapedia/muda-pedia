@@ -742,6 +742,130 @@ const dataMuiz = {
       alamat: "Blambangan",
     },
   },
+  warungisun: {
+    title: "Warung Isun",
+    icon: null,
+    navbarTitle: "Warung Isun",
+    ctaLink: "https://wa.me/6285204990058",
+
+    color: {
+      // required
+      primary: "bg-[#F92C50]",
+      secondary: "bg-[#DA8E9C]",
+      backgroundColor: "bg-[#FAF7F7]",
+      hoverColor: "hover:bg-[#f5163d]",
+      textColor: "text-[#181012]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#D96277]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Sensasi Kuliner yang Tiada Duanya.",
+      deskripsi:
+        "Warung Makanan dan Minuman kami menawarkan pengalaman kuliner yang tiada duanya. Dengan menu yang beragam mulai dari hidangan nusantara hingga pilihan minuman yang menyegarkan, kami siap memanjakan selera Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126957/umkm/warung-isun/photo1716458194-1-1280x1280_jyf8bv.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kenikmatan Khas Nusantara di Setiap Sajian",
+
+      deskripsi:
+        "Di Warung Makanan dan Minuman kami, Anda akan menemukan lebih dari sekadar makanan dan minuman. Kami menciptakan suasana yang hangat dan ramah, di mana Anda bisa menikmati berbagai hidangan lezat dan minuman segar. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126959/umkm/warung-isun/photo1716458194-1280x1280_mmllv7.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Sego Tempong",
+          deskripsi:
+            "Sego Tempong menjadikannya favorit bagi pencinta makanan pedas. Nikmati setiap gigitan dan rasakan kelezatan yang menggugah selera",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126953/umkm/warung-isun/sego-tempong-banyuwangi-966970904_r5iqit.webp",
+        },
+        {
+          name: "Ketoprak",
+          deskripsi:
+            "Cocok dinikmati sebagai sarapan atau makan malam, ketoprak selalu berhasil memuaskan selera dengan citarasa tradisionalnya yang khas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126955/umkm/warung-isun/ketoprak-815x408_fnsyxb.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Kami juga menyediakan berbagai pilihan minuman yang menyegarkan untuk melengkapi hidangan,dibuat dengan penuh cinta dan di setiap tegukan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126953/umkm/warung-isun/63300cfd403f0-1-750x500_xostaq.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7895.855285318333!2d114.27546958046936!3d-8.309989644140614!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMzYuMCJTIDExNMKwMTYnMzEuNyJF!5e0!3m2!1sid!2sid!4v1716800186312!5m2!1sid!2sid",
+    footer: {
+      noHp: "085204990058",
+      alamat: null,
+    },
+  },
+  "lumpur-lumer": {
+    title: "Lumpur Lumer",
+    icon: null,
+    navbarTitle: "Lumpur Lumer",
+    ctaLink: "https://wa.me/6281239028659",
+
+    color: {
+      // required
+      primary: "bg-[#D7DEBA]",
+      secondary: "bg-[#C5D097]",
+      backgroundColor: "bg-[#FCFDFC]",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#0B0C0A]",
+      btnTextColor: "text-[#0B0C0A]",
+      accentColor: "text-[#B9CB6F]",
+    },
+
+    hero: {
+      tagLine: "Dari Gigitan Pertama, Rasakan Lumerannya.",
+      deskripsi:
+        "Nikmati sensasi lelehan manis yang menggoda di setiap gigitan dengan Lumpur Lumer. Dibuat dengan bahan-bahan berkualitas dan teknik pengolahan yang sempurna, kue ini menghadirkan perpaduan tekstur yang lembut dan lumer di mulut. Setiap potongan membawa kelezatan yang tak terlupakan, menjadikan Lumpur Lumer pilihan ideal untuk berbagai momen spesial Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128361/umkm/lumpur-lumer/photo1716685139_vweatl.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan yang Lumer di Lidah, Melekat di Hati.",
+
+      deskripsi:
+        "Setiap potongan membawa kelezatan yang tak terlupakan, menjadikan Lumpur Lumer pilihan ideal untuk berbagai momen spesial Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128382/umkm/lumpur-lumer/photo1716685139_1_oye5vu.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Lumpur Lumer",
+          deskripsi:
+            "Rasakan kenikmatan tanpa akhir dengan Lumpur Lumer, kue yang memadukan kelembutan dan rasa manis yang mengalir.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128996/umkm/lumpur-lumer/kue-lumpur-lumer-foto-resep-utama_c4zrhb.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.803793504942!2d114.37569160242985!3d-8.212620434700595!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDUuNCJTIDExNMKwMjInMzIuNSJF!5e0!3m2!1sid!2sid!4v1717128850856!5m2!1sid!2sid",
+    footer: {
+      noHp: "081239028659",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
