@@ -275,14 +275,14 @@ const dataMuiz = {
     title: "Gorengan Mabang",
     icon: null,
     navbarTitle: "Gorengan Mabang",
-    ctaLink: null,
+    ctaLink: "https://wa.me/6285233826271",
 
     color: {
       // required
       primary: "bg-[#FFEA64]",
       secondary: "bg-[#EBDC7C]",
       backgroundColor: "bg-white",
-      hoverColor: "hover:bg-[#ef4444]",
+      hoverColor: "hover:bg-[#fce54e]",
       textColor: "text-[#13120D]",
       btnTextColor: "text-[#645600]",
       accentColor: "text-[#F6E04D]",
@@ -338,6 +338,74 @@ const dataMuiz = {
     footer: {
       noHp: "082338977195",
       alamat: "Lemahbang Dewo",
+    },
+  },
+  siomaytitin: {
+    title: "Siomay Titin",
+    icon: null,
+    navbarTitle: "Siomay Titin",
+    ctaLink: "https://wa.me/6281230479947",
+
+    color: {
+      // required
+      primary: "bg-[#AF8F6E]",
+      secondary: "bg-[#E6B483]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ad875f]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#E9A25B]",
+    },
+
+    hero: {
+      tagLine: "Bikin Ketagihan, dari Gigitan Pertama!",
+      deskripsi:
+        "Dibuat dengan bahan-bahan segar dan berkualitas tinggi, siomai kami menawarkan rasa yang lezat, gurih, dan autentik. Setiap gigitan siomai akan membawa Anda pada petualangan rasa yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717120064/umkm/siomai-titin/pemilik1_jorw3w.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Siomay terenak yang pernah kamu rasakan.",
+
+      deskripsi:
+        "Menjelajahi Banyuwangi tak lengkap tanpa mencicipi kekayaan kuliner dan kerajinannya yang khas. Di sinilah, Pusat Oleh-Oleh Dewa Dewi hadir sebagai gerbang utama untuk membawa pulang kenangan rasa dan budaya Banyuwangi yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717120065/umkm/siomai-titin/siomai_mnu723.jpg",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Siomay Original",
+          deskripsi:
+            "Siomay original kami dibuat dengan bahan-bahan segar dan berkualitas tinggi, menghasilkan tekstur yang lembut dan kenyal.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717120087/umkm/siomai-titin/WhatsApp_Image_2024-05-21_at_18.16.12_2b7aa295_smqdsr.jpg",
+        },
+        {
+          name: "Siomay Tahu",
+          deskripsi:
+            "Dibuat dengan tahu berkualitas tinggi yang lembut dan halus. Perpaduan tekstur ini dengan siomai yang kenyal dan gurih menghasilkan sensasi makan yang istimewa.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717120074/umkm/siomai-titin/WhatsApp_Image_2024-05-21_at_18.16.11_a8eb6825_zytcgw.jpg",
+        },
+        {
+          name: "Siomai",
+          deskripsi:
+            "bukan hanya tentang rasa, tetapi juga tentang tradisi dan budaya. Menikmati siomai original berarti menyelami kekayaan kuliner Indonesia yang tak ternilai.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717120075/umkm/siomai-titin/WhatsApp_Image_2024-05-21_at_18.16.11_75a818a6_j0zby2.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "0812-3047-9947",
+      alamat: null,
     },
   },
 };
