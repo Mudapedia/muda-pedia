@@ -325,7 +325,7 @@ const dataRamzi = {
       alamat: "Rogojampi, Banyuwangi",
     },
   },
-  "pentol-bakar-buto": {
+  "pentol-bakar-buto-rgj": {
     title: "Pentol Bakar Bu.to",
     icon: null,
     navbarTitle: "Pentol Bakar Bu.to",
@@ -387,6 +387,70 @@ const dataRamzi = {
     footer: {
       noHp: '085806573520',
       alamat: "Singotrunan, Banyuwangi",
+    },
+  },
+  "sate-pemuda": {
+    title: "Sate Pemuda",
+    icon: null,
+    navbarTitle: "Sate Pemuda",
+    ctaLink: 'tel:6283849430525', 
+
+    color: {
+      // required
+      primary: "bg-[#bf7e58]",
+      secondary: "bg-[#c9d593]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#c9d593]",
+      textColor: "text-[#190e09]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#a6ca75]",
+    },
+
+    hero: {
+      tagLine: "Sate gurih dan Enoy",
+      deskripsi: "Sate pemuda Blambangan adalah toko yang menyediakan olahan sate yang nikmat",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138448/umkm/sate%20pemuda/6240170487464442446-121_a0cshf.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sate enak untuk pemuda",
+
+      deskripsi: "", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138447/umkm/sate%20pemuda/6240170487464442449-121_moivtj.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Sate Tahu",
+          deskripsi:
+            "",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138449/umkm/sate%20pemuda/6240170487464442445-121_wcfr1e.jpg",
+        },
+        {
+          name: "Sate Pentol",
+          deskripsi:"",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138448/umkm/sate%20pemuda/6240170487464442444-121_sy0ofw.jpg",
+        },
+        {
+          name: "Sate Ayam",
+          deskripsi: "",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138447/umkm/sate%20pemuda/sate-ayam-medan-1452017243_u9sfwp.webp",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.7093429663882!2d114.30557287505907!3d-8.430177991609156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717139472153!5m2!1sen!2sid`,
+    footer: {
+      noHp: '6283849430525',
+      alamat: "RTH Blambangan, Banyuwangi",
     },
   },
 };
