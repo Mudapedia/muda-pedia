@@ -31,21 +31,22 @@ const Product = ({
       ) : (
         ""
       )}
-      <section className="gap-5 md:gap-10 lg:gap-20 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3 mx-auto">
+      <section className="gap-5 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3 mx-auto">
         {data.map((v, i) => (
           <div
             key={i}
-            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words `}
+            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words w-full`}
             style={{ backgroundColor: hexObj }}
           >
-            <a href="#">
+            <a href="#" className="">
               <div
-                className="w-full h-80 rounded-lg"
+                className="w-80 h-80 rounded-lg"
                 style={{
                   background: `url(${v.img})`,
                   backgroundPosition: "center",
                   backgroundRepeat: "no-repeat",
                   backgroundSize: "cover",
+                  
                 }}
               ></div>
             </a>

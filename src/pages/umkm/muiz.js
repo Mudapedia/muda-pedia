@@ -612,6 +612,701 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-dawet-ayu": {
+    title: "Es Dawet Ayu",
+    icon: null,
+    navbarTitle: "Es Dawet Ayu",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Es Dawet Ayu Alami!",
+      deskripsi:
+        "Nikmati kesegaran Es Dawet Ayu, minuman tradisional yang penuh dengan rasa dan kesegaran alami. Dibuat dari santan kelapa murni, gula merah asli, dan cendol kenyal, Es Dawet Ayu siap menyegarkan harimu dengan cita rasa khas yang otentik. Setiap tegukan adalah kombinasi sempurna dari manisnya gula merah dan lembutnya santan, menciptakan sensasi yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124316/umkm/es-dawet-ayu/photo1716684420_inlnqz.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124316/umkm/es-dawet-ayu/photo1716684420_inlnqz.jpg",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Es Dawet Segar",
+          deskripsi:
+            "Setiap tegukan memberikan sensasi dingin yang menyegarkan, cocok untuk menghilangkan dahaga di tengah hari yang panas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124554/umkm/es-dawet-ayu/209419605-1767077453477383-2586162789757881782-n-3498b77de5c933a89d52721cf50d1384_esdqi3.jpg",
+        },
+        {
+          name: "Es Dawet Manis",
+          deskripsi:
+            "Rasakan kelezatan autentik dengan Es Dawet Manis, minuman tradisional yang menawarkan rasa manis alami dari gula merah pilihan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124591/umkm/es-dawet-ayu/maxresdefault_c1gqa0.jpg",
+        },
+        {
+          name: "Aneka Es Dawet",
+          deskripsi:
+            "Kami menawarkan berbagai pilihan es dawet yang memadukan cita rasa klasik dengan sentuhan modern.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124753/umkm/es-dawet-ayu/1bb4f441-aeec-4bb2-a26b-c9563149e771_Go-Biz_20210526_104012_jxdzo8.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.79692415608!2d114.37595357852796!3d-8.212965717593317!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuNyJTIDExNMKwMjInMzMuNCJF!5e0!3m2!1sid!2sid!4v1717124373127!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
+  },
+  "madu-murni": {
+    title: "Madu Murni",
+    icon: null,
+    navbarTitle: "Madu Murni",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#DA7E39]",
+      secondary: "bg-[#ECB992]",
+      backgroundColor: "bg-[#FCF8F6]",
+      hoverColor: "hover:bg-[#DE701D]",
+      textColor: "text-[#0B0805]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#ED9552]",
+    },
+
+    hero: {
+      tagLine: "Keaslian Rasa, Kesehatan Alami dalam Setiap Tetes",
+      deskripsi:
+        "Nikmati keajaiban alam dengan madu murni kami yang dipanen langsung dari sarang lebah terbaik. Madu murni kami menawarkan kelezatan alami dan berbagai manfaat kesehatan tanpa tambahan bahan kimia.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125710/umkm/madu-murni/photo1716684582_f8uxbb.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Madu Klanceng Alami Menemani Sehatmu dengan Kebaikan Alam",
+
+      deskripsi:
+        "menghadirkan Madu Klanceng Alami yang dihasilkan dari lebah klanceng (Trigona spp) yang dikenal dengan rasa dan aromanya yang khas.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126521/umkm/madu-murni/photo1716684582_1_bgt2ai.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Madu Klanceng",
+          deskripsi:
+            "Rasakan keajaiban alam dengan Madu Klanceng, madu berkualitas tinggi yang dihasilkan oleh lebah klanceng.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125768/umkm/madu-murni/8121e9fb-042d-440f-9c12-8bb3990a09b7_lyzrci.jpg",
+        },
+        {
+          name: "Madu Murni",
+          deskripsi:
+            "Dipanen langsung dari sarang lebah tanpa melalui proses pemanasan atau tambahan bahan kimia.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125779/umkm/madu-murni/610b43db658a8_wysrn6.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.806953965!2d114.37574009420044!3d-8.212461571600569!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDQuOSJTIDExNMKwMjInMzIuNyJF!5e0!3m2!1sid!2sid!4v1717126328625!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Blambangan",
+    },
+  },
+  warungisun: {
+    title: "Warung Isun",
+    icon: null,
+    navbarTitle: "Warung Isun",
+    ctaLink: "https://wa.me/6285204990058",
+
+    color: {
+      // required
+      primary: "bg-[#F92C50]",
+      secondary: "bg-[#DA8E9C]",
+      backgroundColor: "bg-[#FAF7F7]",
+      hoverColor: "hover:bg-[#f5163d]",
+      textColor: "text-[#181012]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#D96277]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Sensasi Kuliner yang Tiada Duanya.",
+      deskripsi:
+        "Warung Makanan dan Minuman kami menawarkan pengalaman kuliner yang tiada duanya. Dengan menu yang beragam mulai dari hidangan nusantara hingga pilihan minuman yang menyegarkan, kami siap memanjakan selera Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126957/umkm/warung-isun/photo1716458194-1-1280x1280_jyf8bv.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kenikmatan Khas Nusantara di Setiap Sajian",
+
+      deskripsi:
+        "Di Warung Makanan dan Minuman kami, Anda akan menemukan lebih dari sekadar makanan dan minuman. Kami menciptakan suasana yang hangat dan ramah, di mana Anda bisa menikmati berbagai hidangan lezat dan minuman segar. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126959/umkm/warung-isun/photo1716458194-1280x1280_mmllv7.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Sego Tempong",
+          deskripsi:
+            "Sego Tempong menjadikannya favorit bagi pencinta makanan pedas. Nikmati setiap gigitan dan rasakan kelezatan yang menggugah selera",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126953/umkm/warung-isun/sego-tempong-banyuwangi-966970904_r5iqit.webp",
+        },
+        {
+          name: "Ketoprak",
+          deskripsi:
+            "Cocok dinikmati sebagai sarapan atau makan malam, ketoprak selalu berhasil memuaskan selera dengan citarasa tradisionalnya yang khas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126955/umkm/warung-isun/ketoprak-815x408_fnsyxb.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Kami juga menyediakan berbagai pilihan minuman yang menyegarkan untuk melengkapi hidangan,dibuat dengan penuh cinta dan di setiap tegukan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126953/umkm/warung-isun/63300cfd403f0-1-750x500_xostaq.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7895.855285318333!2d114.27546958046936!3d-8.309989644140614!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMzYuMCJTIDExNMKwMTYnMzEuNyJF!5e0!3m2!1sid!2sid!4v1716800186312!5m2!1sid!2sid",
+    footer: {
+      noHp: "085204990058",
+      alamat: null,
+    },
+  },
+  "lumpur-lumer": {
+    title: "Lumpur Lumer",
+    icon: null,
+    navbarTitle: "Lumpur Lumer",
+    ctaLink: "https://wa.me/6281239028659",
+
+    color: {
+      // required
+      primary: "bg-[#D7DEBA]",
+      secondary: "bg-[#C5D097]",
+      backgroundColor: "bg-[#FCFDFC]",
+      hoverColor: "hover:bg-[#D3E09C]",
+      textColor: "text-[#0B0C0A]",
+      btnTextColor: "text-[#0B0C0A]",
+      accentColor: "text-[#B9CB6F]",
+    },
+
+    hero: {
+      tagLine: "Dari Gigitan Pertama, Rasakan Lumerannya.",
+      deskripsi:
+        "Nikmati sensasi lelehan manis yang menggoda di setiap gigitan dengan Lumpur Lumer. Dibuat dengan bahan-bahan berkualitas dan teknik pengolahan yang sempurna, kue ini menghadirkan perpaduan tekstur yang lembut dan lumer di mulut. Setiap potongan membawa kelezatan yang tak terlupakan, menjadikan Lumpur Lumer pilihan ideal untuk berbagai momen spesial Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128361/umkm/lumpur-lumer/photo1716685139_vweatl.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan yang Lumer di Lidah, Melekat di Hati.",
+
+      deskripsi:
+        "Setiap potongan membawa kelezatan yang tak terlupakan, menjadikan Lumpur Lumer pilihan ideal untuk berbagai momen spesial Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128382/umkm/lumpur-lumer/photo1716685139_1_oye5vu.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Lumpur Lumer",
+          deskripsi:
+            "Rasakan kenikmatan tanpa akhir dengan Lumpur Lumer, kue yang memadukan kelembutan dan rasa manis yang mengalir.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128996/umkm/lumpur-lumer/kue-lumpur-lumer-foto-resep-utama_c4zrhb.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.803793504942!2d114.37569160242985!3d-8.212620434700595!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDUuNCJTIDExNMKwMjInMzIuNSJF!5e0!3m2!1sid!2sid!4v1717128850856!5m2!1sid!2sid",
+    footer: {
+      noHp: "081239028659",
+      alamat: null,
+    },
+  },
+  "salad-buah": {
+    title: "Salad Buah",
+    icon: null,
+    navbarTitle: "Salad Buah",
+    ctaLink: "https://wa.me/6281252886592",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Warna-warni Kelezatan yang Menyegarkan",
+      deskripsi:
+        "Nikmati keindahan dan kelezatan dalam setiap mangkok Salad Buah kami. Kombinasi buah segar yang berwarna-warni tidak hanya menyegarkan mata tetapi juga memberikan manfaat kesehatan yang luar biasa. Setiap gigitan adalah perpaduan rasa yang menggugah selera dan menyehatkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717131991/umkm/salad-buah/photo1716685287_fjkbhl.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kombinasi Sempurna Rasa dan Nutrisi",
+
+      deskripsi:
+        "Salad Buah kami menawarkan kombinasi sempurna antara rasa dan nutrisi. Dengan beragam buah segar yang dipilih dengan hati-hati, salad ini memberikan rasa yang lezat sekaligus manfaat kesehatan yang optimal. Pilihan tepat untuk Anda yang menginginkan keseimbangan antara rasa dan nutrisi dalam setiap gigitan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717131991/umkm/salad-buah/photo1716685287_fjkbhl.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Salad Buah",
+          deskripsi:
+            "Terbuat dari beragam buah-buahan segar yang dipilih dengan teliti, Salad Buah kami menghadirkan kombinasi rasa manis, asam, dan renyah yang sempurna dalam setiap suapan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717132273/umkm/salad-buah/Screenshot_20231019_183649_Instagram-2200477020_fdxttn.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.812580740863!2d114.37583572961162!3d-8.212178729572766!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDMuOCJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717132586202!5m2!1sid!2sid",
+    footer: {
+      noHp: "081252886592",
+      alamat: "Blambangan",
+    },
+  },
+  "bakso-sempol": {
+    title: "Bakso Sempol",
+    icon: null,
+    navbarTitle: "Bakso Sempol",
+    ctaLink: "https://wa.me/6281236779113",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#E89595]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Lezatnya Menggoda, Gurihnya Melekat.",
+      deskripsi:
+        "Bakso Sempol kami menghadirkan kelezatan tradisional dengan sentuhan inovatif yang menggugah selera. Setiap tusukan Bakso Sempol adalah perpaduan sempurna antara cita rasa gurih dan tekstur yang kenyal. Terbuat dari bahan-bahan berkualitas tinggi dan rempah-rempah pilihan, setiap gigitan memberikan pengalaman kuliner yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717132734/umkm/bakso-sampol/photo1716685392_oc0nij.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Perpaduan Sempurna Rasa dan Tekstur",
+
+      deskripsi:
+        "Bakso Sempol kami menghadirkan kelezatan tradisional dengan sentuhan inovatif yang menggugah selera. Setiap tusukan Bakso Sempol adalah perpaduan sempurna antara cita rasa gurih dan tekstur yang kenyal. Terbuat dari bahan-bahan berkualitas tinggi dan rempah-rempah pilihan, setiap gigitan memberikan pengalaman kuliner yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133319/umkm/bakso-sampol/photo1716685392_1_cjdvlz.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Bakso",
+          deskripsi:
+            "Terbuat dari campuran daging sapi cincang yang lembut dan bumbu-bumbu rempah pilihan, bakso memiliki tekstur yang kenyal dan cita rasa yang gurih.",
+          price: "Rp24.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133183/umkm/bakso-sampol/ini-resep-kuah-bakso-sap-yang-mudah-dibuat-di-rumah_skkimo.jpg",
+        },
+        {
+          name: "Sempol",
+          deskripsi:
+            "Sempol merupakan variasi dari bakso yang berbentuk bulat dan diikat menggunakan tusuk sate atau lidi.",
+          price: "Rp15.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717133181/umkm/bakso-sampol/1016178478_wxhhnq.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.821009469259!2d114.37590150875694!3d-8.211755023254286!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuMyJTIDExNMKwMjInMzMuMyJF!5e0!3m2!1sid!2sid!4v1717133525182!5m2!1sid!2sid",
+    footer: {
+      noHp: "081236779113",
+      alamat: null,
+    },
+  },
+  "roti-golek": {
+    title: "Roti Golek",
+    icon: null,
+    navbarTitle: "Roti Golek",
+    ctaLink: "https://wa.me/6281321837223",
+
+    color: {
+      // required
+      primary: "bg-[#E89AE6]",
+      secondary: "bg-[#D4A4D2]",
+      backgroundColor: "bg-[#FCFBFC]",
+      hoverColor: "hover:bg-[#E872E5]",
+      textColor: "text-[#0C080C]",
+      btnTextColor: "text-[#0C080C]",
+      accentColor: "text-[#C778C5]",
+    },
+
+    hero: {
+      tagLine: "Manisnya Kenikmatan dalam Setiap Gigitan.",
+      deskripsi:
+        "tempat di mana Anda dapat menemukan kenikmatan yang tak terlupakan dalam setiap gigitan donat kami. Kami bangga menyajikan berbagai macam donat yang lezat, segar, dan dipanggang dengan cinta setiap hari. Dari donat klasik yang disalut dengan gula hingga inovasi rasa yang kreatif, setiap produk kami dipersembahkan dengan kualitas terbaik dan rasa yang autentik.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134481/umkm/roti-golek/photo1716685498_3_p7jcm2.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: " Memanjakan Lidah Anda dengan Setiap Gigitan",
+
+      deskripsi:
+        "tidak hanya menyediakan donat untuk dinikmati sendiri, tetapi juga menjadi pilihan sempurna untuk merayakan momen-momen istimewa dalam hidup Anda. Dari pesta ulang tahun hingga perayaan kantor, donat kami siap memeriahkan acara Anda dengan sentuhan manis yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134200/umkm/roti-golek/photo1716685498_jj075s.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Donat Strawberry ",
+          deskripsi:
+            "Setiap gigitan Donat Strawberry adalah perjalanan rasa yang memikat. Terbuat dari adonan lembut yang menghadirkan kelezatan manis dan segar yang tak terlupakan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134202/umkm/roti-golek/photo1716685498_1_vxfqer.jpg",
+        },
+        {
+          name: "Donat Messes",
+          deskripsi:
+            "Perpaduan unik antara donat lembut dengan taburan beragam topping yang menggoda.",
+          price: null,
+          img: "https://kurio-img.kurioapps.com/21/10/29/77d8a709-9c6a-4a55-9e77-20c3a3d88ad6.jpe",
+        },
+        {
+          name: "Aneka Donat lainnya",
+          deskripsi:
+            "Anda dapat menemukan beragam donat dengan rasa yang menggugah selera. ",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134198/umkm/roti-golek/photo1716685498_2_tkafci.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.8121166247065!2d114.37589836145669!3d-8.212202059738745!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDMuOSJTIDExNMKwMjInMzMuMiJF!5e0!3m2!1sid!2sid!4v1717134836895!5m2!1sid!2sid",
+    footer: {
+      noHp: "081321837223",
+      alamat: "Blambangan",
+    },
+  },
+  "alya-dimsum": {
+    title: "Alya Dimsum",
+    icon: null,
+    navbarTitle: "Alya Dimsum",
+    ctaLink: "https://wa.me/6282331840452",
+
+    color: {
+      // required
+      primary: "bg-[#FA9754]",
+      secondary: "bg-[#EBB48F]",
+      backgroundColor: "bg-[#FCFAF8]",
+      hoverColor: "hover:bg-[#F9873A]",
+      textColor: "text-[#070504]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F08C4A]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Dimsum dengan Sentuhan Terbaru",
+      deskripsi:
+        "Dimsam menghadirkan pengalaman kuliner yang tak terlupakan dengan perpaduan unik antara cita rasa tradisional dimsum dan kreasi baru yang segar. Setiap hidangan Dimsam adalah harmoni antara kelezatan yang autentik dan kejutan rasa yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_hdjzye.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan Dimsum dengan Sentuhan Kreatif",
+
+      deskripsi:
+        "Dari dimsum kukus yang lembut hingga yang digoreng garing, setiap gigitan dimsum kami menawarkan pengalaman kuliner yang tak terlupakan. Temukan kelezatan dimsum yang tak tertandingi.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_3_xrqb2m.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Dimsum",
+          deskripsi:
+            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_1_huaoqp.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.808545202319!2d114.3758420130269!3d-8.212381585604986!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDQuNiJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717136017328!5m2!1sid!2sid",
+    footer: {
+      noHp: "082331840452",
+      alamat: null,
+    },
+  },
+  "lumpia-martabak": {
+    title: "Lumpia dan Martabak",
+    icon: null,
+    navbarTitle: "Lumpia dan Martabak",
+    ctaLink: "https://wa.me/6285704084569",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Meriahkan Harimu dengan Kebasahan Lumpia dan Manisnya Martabak.",
+      deskripsi:
+        "Kami dengan bangga menghadirkan lumpia dan martabak khas Indonesia dengan sentuhan rasa yang memikat. Setiap gulungan lumpia kami diisi dengan bahan-bahan segar dan dibungkus dengan kulit yang renyah, memberikan sensasi kelezatan yang tak terlupakan di setiap gigitannya",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_kwqo3n.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lumpia dan Martabak di Pilihan Anda",
+
+      deskripsi:
+        "Lumpia kami dibuat dengan kulit yang renyah dan isian yang lezat, sementara martabak kami dipanggang dengan sempurna dan diisi dengan berbagai pilihan toping yang memikat selera.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_kwqo3n.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Lumpia",
+          deskripsi:
+            "Dengan balutan kulit yang renyah dan isian yang lezat, setiap gigitan lumpia mini menghadirkan cita rasa autentik lumpia dalam ukuran yang lebih kecil dan mudah dinikmati.",
+          price: "Rp5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137207/umkm/lumpia-martabak/photo1716686548_1_rwbr9h.jpg",
+        },
+        {
+          name: "Martabak Mini",
+          deskripsi:
+            "Tak perlu menunggu lama untuk menikmati kelezatan martabak, karena kini kami hadirkan dalam versi mini yang menggoda.",
+          price: "Rp5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717137427/umkm/lumpia-martabak/mini-martabak-mini-but-mighty-1_ofvsxs.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.818826098142!2d114.37584785538628!3d-8.211864781886561!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuNyJTIDExNMKwMjInMzMuMSJF!5e0!3m2!1sid!2sid!4v1717137632727!5m2!1sid!2sid",
+    footer: {
+      noHp: "085704084569",
+      alamat: "Blambangan",
+    },
+  },
+  "ice-cream-tayo-cup": {
+    title: "Ice Cream Tayo Cup",
+    icon: "https://w7.pngwing.com/pngs/28/586/png-transparent-tayo-the-little-bus-season-1-birthday-cake-birthday-cake-bus-compact-car-blue-game-thumbnail.png",
+    navbarTitle: "Ice Cream Tayo Cup",
+    ctaLink: "https://wa.me/6282247231381",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Kesegaran dalam Setiap Gigitan Ice Cream Tayo Cup",
+      deskripsi:
+        "Selamat datang di dunia Ice Cream Tayo Cup, di mana kesegaran dan kelezatan bertemu dalam setiap gigitan. Ice Cream Tayo Cup menghadirkan sensasi yang menyegarkan dengan paduan es krim lembut dan rasa yang menggoda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138145/umkm/ice-cream-tayo-cup/photo1716688107_1_aqd72q.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Santapan Manis Tiada Tanding Ice Cream Tayo Cup untuk Semua Kesempatan!",
+
+      deskripsi:
+        " Ice Cream Tayo Cup adalah teman setia untuk semua kesempatan! Nikmati es krim lembut yang dikemas dalam cup praktis, siap memanjakan lidah Anda dengan berbagai pilihan rasa yang menggoda. Dengan kualitas premium dan kesegaran yang tak tertandingi, setiap cup Ice Cream Tayo adalah jaminan kelezatan dan kepuasan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138146/umkm/ice-cream-tayo-cup/photo1716688107_z1zb0n.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Ice Cream Coklat",
+          deskripsi:
+            "Nikmati kenikmatan yang klasik dengan Ice Cream Coklat kami. Dibuat dengan menggunakan kakao berkualitas tinggi, ice cream ini menghadirkan cita rasa coklat yang lezat dan memikat.",
+          price: null,
+          img: "https://www.cfcindonesia.com/img/produk/ice-cone-coklat.jpg",
+        },
+        {
+          name: "Ice Cream Strawberry",
+          deskripsi:
+            "Rasakan segarnya musim panas dengan Ice Cream Strawberry kami. Dibuat dengan buah strawberry segar yang dipilih dengan teliti, ice cream ini menghadirkan cita rasa manis dan segar yang memikat hati Anda.",
+          price: null,
+          img: "https://www.cfcindonesia.com/img/produk/ice-cone-strawberry.jpg",
+        },
+        {
+          name: "Aneka Ice Cream",
+          deskripsi:
+            "selain varian klasik coklat dan segar strawberry, kami juga menawarkan berbagai pilihan ice cream lainnya yang tak kalah menggugah selera.",
+          price: null,
+          img: "https://www.tokomesin.com/wp-content/uploads/2016/02/Peluang-Usaha-Es-Krim-Cone-dan-Analisa-Usahanya-tokomesin.jpg  ",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.806180404806!2d114.37584448109259!3d-8.212500455516139!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDUuMCJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717138208944!5m2!1sid!2sid",
+    footer: {
+      noHp: "082247231381",
+      alamat: "Blambangan",
+    },
+  },
+  "lapak-ddd": {
+    title: "Lapak DDD",
+    icon: null,
+    navbarTitle: "Lapak DDD",
+    ctaLink: "https://wa.me/6285232152837",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Toko Kami Menyajikan Sensasi Baru dalam Kuliner Tradisional",
+      deskripsi:
+        "tempat di mana kelezatan tak terduga menanti untuk Anda jelajahi. Kami dengan bangga menawarkan beragam olahan masakan khas, termasuk usus yang gurih, baby crab lembut, dan corndog yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139484/umkm/lapak-ddd/photo1716688717_3_v1y2gz.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Usus",
+          deskripsi:
+            "Temukan keunikan cita rasa dalam setiap gigitan olahan masakan usus kami.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139478/umkm/lapak-ddd/photo1716688717_1_ivv9fo.jpg",
+        },
+        {
+          name: "Baby Crab",
+          deskripsi:
+            "setiap hidangan baby crab kami menghadirkan kelezatan tersembunyi yang akan memanjakan lidah Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139475/umkm/lapak-ddd/photo1716688717_tgcdav.jpg",
+        },
+        {
+          name: "Corndog",
+          deskripsi:
+            "Nikmati kelezatan corndog, camilan klasik yang tak pernah memudar. Dibuat dengan sosis berkualitas dan dilapisi dengan adonan jagung yang garing, corndog kami siap memanjakan selera Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717139467/umkm/lapak-ddd/photo1716688717_2_xiirbv.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.819643781791!2d114.37716244781542!3d-8.211823676888185!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuNiJTIDExNMKwMjInMzcuOCJF!5e0!3m2!1sid!2sid!4v1717140009620!5m2!1sid!2sid",
+    footer: {
+      noHp: "085232152837",
+      alamat: "Blambangan",
+    },
+  },
 };
 
 export default dataMuiz;
