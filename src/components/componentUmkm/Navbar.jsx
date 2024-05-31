@@ -18,7 +18,11 @@ const Navbar = ({
           target={ctaLink ? "_blank" : "_self"}
           rel="noreferrer"
         >
-          {icon ? <img src={icon} className="h-8 w-8" alt={title} /> : ""}
+          {icon ? (
+            <img src={icon} className="h-8 w-8 rounded-full" alt={title} />
+          ) : (
+            ""
+          )}
 
           <span className="self-center lg:text-2xl font-bold whitespace-nowrap dark:text-white">
             {navbarTitle}
