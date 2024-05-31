@@ -544,6 +544,74 @@ const dataMuiz = {
       alamat: "Lebahbang Dewo",
     },
   },
+  warungkopi: {
+    title: "Warung Kopi",
+    icon: null,
+    navbarTitle: "Warung Kopi",
+    ctaLink: "tel:6281230479947",
+
+    color: {
+      // required
+      primary: "bg-[#A67B5B]",
+      secondary: "bg-[#C9B19E]",
+      backgroundColor: "bg-[#FCFCFB]",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#121110]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#C09879]",
+    },
+
+    hero: {
+      tagLine: "Kopi, Cemilan, dan Belanja, Semua Ada di Sini.",
+      deskripsi:
+        "Di Warung Kopi kami, Anda bisa merasakan kelezatan kopi asli yang disajikan dengan penuh cinta. Sambil menikmati kopi, cicipi berbagai jajanan lezat yang kami tawarkan. Tidak hanya itu, kami juga menyediakan beragam bahan makanan berkualitas untuk kebutuhan dapur Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123337/umkm/warung-kopi/orang-1280x576_bybbjb.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Warung Kopi",
+
+      deskripsi:
+        "Warung Kopi kami mengajak Anda untuk menikmati pengalaman ngopi yang berbeda. Selain menyajikan kopi dengan cita rasa unggulan, kami juga menawarkan berbagai camilan yang enak dan bahan makanan berkualitas. Tempat ini cocok untuk menikmati waktu senggang, mencicipi jajanan, dan berbelanja kebutuhan sehari-hari dengan mudah. Kunjungi Warung Kopi kami dan nikmati kenyamanan serta kepraktisan dalam satu tempat.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123341/umkm/warung-kopi/intro-1280x576_nuo3ip.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Kopi Murni",
+          deskripsi:
+            "terbuat dari biji kopi pilihan yang dipetik langsung dari kebun kopi terbaik untuk anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123339/umkm/warung-kopi/kopi-klotok-815x546_sffoyx.jpg",
+        },
+        {
+          name: "Jajanan",
+          deskripsi:
+            "berbagai macam jajanan lezat yang kami sediakan, mulai dari kue tradisional hingga camilan modern.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123338/umkm/warung-kopi/e79741b2fa15129ec467dbdcf8b23ae6.jpg-720x720q80.jpg-_kfngop.webp",
+        },
+        {
+          name: "Minuman",
+          deskripsi:
+            "Kami menawarkan berbagai pilihan minuman segar untuk menemani waktu santai Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123337/umkm/warung-kopi/7e98ee02-3692-4381-bd19-733c119cfc39-500x500_v8pyek.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "081230479947",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
