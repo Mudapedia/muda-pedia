@@ -680,6 +680,68 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "madu-murni": {
+    title: "Madu Murni",
+    icon: null,
+    navbarTitle: "Madu Murni",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#DA7E39]",
+      secondary: "bg-[#ECB992]",
+      backgroundColor: "bg-[#FCF8F6]",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#0B0805]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#ED9552]",
+    },
+
+    hero: {
+      tagLine: "Keaslian Rasa, Kesehatan Alami dalam Setiap Tetes",
+      deskripsi:
+        "Nikmati keajaiban alam dengan madu murni kami yang dipanen langsung dari sarang lebah terbaik. Madu murni kami menawarkan kelezatan alami dan berbagai manfaat kesehatan tanpa tambahan bahan kimia.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125710/umkm/madu-murni/photo1716684582_f8uxbb.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Madu Klanceng Alami Menemani Sehatmu dengan Kebaikan Alam",
+
+      deskripsi:
+        "menghadirkan Madu Klanceng Alami yang dihasilkan dari lebah klanceng (Trigona spp) yang dikenal dengan rasa dan aromanya yang khas.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717126521/umkm/madu-murni/photo1716684582_1_bgt2ai.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Madu Klanceng",
+          deskripsi:
+            "Rasakan keajaiban alam dengan Madu Klanceng, madu berkualitas tinggi yang dihasilkan oleh lebah klanceng.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125768/umkm/madu-murni/8121e9fb-042d-440f-9c12-8bb3990a09b7_lyzrci.jpg",
+        },
+        {
+          name: "Madu Murni",
+          deskripsi:
+            "Dipanen langsung dari sarang lebah tanpa melalui proses pemanasan atau tambahan bahan kimia.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717125779/umkm/madu-murni/610b43db658a8_wysrn6.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.806953965!2d114.37574009420044!3d-8.212461571600569!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDQuOSJTIDExNMKwMjInMzIuNyJF!5e0!3m2!1sid!2sid!4v1717126328625!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Blambangan",
+    },
+  },
 };
 
 export default dataMuiz;
