@@ -1170,6 +1170,75 @@ const dataMuiz = {
       alamat: "Blambangan",
     },
   },
+  "ice-cream-tayo-cup": {
+    title: "Ice Cream Tayo Cup",
+    icon: "https://w7.pngwing.com/pngs/28/586/png-transparent-tayo-the-little-bus-season-1-birthday-cake-birthday-cake-bus-compact-car-blue-game-thumbnail.png",
+    navbarTitle: "Ice Cream Tayo Cup",
+    ctaLink: "https://wa.me/6282247231381",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Kesegaran dalam Setiap Gigitan Ice Cream Tayo Cup",
+      deskripsi:
+        "Selamat datang di dunia Ice Cream Tayo Cup, di mana kesegaran dan kelezatan bertemu dalam setiap gigitan. Ice Cream Tayo Cup menghadirkan sensasi yang menyegarkan dengan paduan es krim lembut dan rasa yang menggoda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138145/umkm/ice-cream-tayo-cup/photo1716688107_1_aqd72q.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Santapan Manis Tiada Tanding Ice Cream Tayo Cup untuk Semua Kesempatan!",
+
+      deskripsi:
+        " Ice Cream Tayo Cup adalah teman setia untuk semua kesempatan! Nikmati es krim lembut yang dikemas dalam cup praktis, siap memanjakan lidah Anda dengan berbagai pilihan rasa yang menggoda. Dengan kualitas premium dan kesegaran yang tak tertandingi, setiap cup Ice Cream Tayo adalah jaminan kelezatan dan kepuasan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138146/umkm/ice-cream-tayo-cup/photo1716688107_z1zb0n.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Ice Cream Coklat",
+          deskripsi:
+            "Nikmati kenikmatan yang klasik dengan Ice Cream Coklat kami. Dibuat dengan menggunakan kakao berkualitas tinggi, ice cream ini menghadirkan cita rasa coklat yang lezat dan memikat.",
+          price: null,
+          img: "https://www.cfcindonesia.com/img/produk/ice-cone-coklat.jpg",
+        },
+        {
+          name: "Ice Cream Strawberry",
+          deskripsi:
+            "Rasakan segarnya musim panas dengan Ice Cream Strawberry kami. Dibuat dengan buah strawberry segar yang dipilih dengan teliti, ice cream ini menghadirkan cita rasa manis dan segar yang memikat hati Anda.",
+          price: null,
+          img: "https://www.cfcindonesia.com/img/produk/ice-cone-strawberry.jpg",
+        },
+        {
+          name: "Aneka Ice Cream",
+          deskripsi:
+            "selain varian klasik coklat dan segar strawberry, kami juga menawarkan berbagai pilihan ice cream lainnya yang tak kalah menggugah selera.",
+          price: null,
+          img: "https://www.tokomesin.com/wp-content/uploads/2016/02/Peluang-Usaha-Es-Krim-Cone-dan-Analisa-Usahanya-tokomesin.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.806180404806!2d114.37584448109259!3d-8.212500455516139!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDUuMCJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717138208944!5m2!1sid!2sid",
+    footer: {
+      noHp: "082247231381",
+      alamat: "Blambangan",
+    },
+  },
 };
 
 export default dataMuiz;
