@@ -1228,7 +1228,7 @@ const dataMuiz = {
           deskripsi:
             "selain varian klasik coklat dan segar strawberry, kami juga menawarkan berbagai pilihan ice cream lainnya yang tak kalah menggugah selera.",
           price: null,
-          img: "https://www.tokomesin.com/wp-content/uploads/2016/02/Peluang-Usaha-Es-Krim-Cone-dan-Analisa-Usahanya-tokomesin.jpg",
+          img: "https://www.tokomesin.com/wp-content/uploads/2016/02/Peluang-Usaha-Es-Krim-Cone-dan-Analisa-Usahanya-tokomesin.jpg  ",
         },
       ],
     },
