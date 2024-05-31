@@ -23,7 +23,7 @@ const Footer = ({
           {title}
         </a>
         <p className="my-6 ">
-          No Hp: {noHp ? noHp : "- "} Alamat: {alamat ? alamat : "-"}
+          {noHp ? `No Hp: ${noHp}` : " "} {alamat ? `Alamat: ${alamat}` : ""}
         </p>
         <span className="text-sm  sm:text-center">
           © 2024
