@@ -691,7 +691,7 @@ const dataMuiz = {
       primary: "bg-[#DA7E39]",
       secondary: "bg-[#ECB992]",
       backgroundColor: "bg-[#FCF8F6]",
-      hoverColor: "hover:bg-[#ef4444]",
+      hoverColor: "hover:bg-[#DE701D]",
       textColor: "text-[#0B0805]",
       btnTextColor: "text-white",
       accentColor: "text-[#ED9552]",
@@ -822,7 +822,7 @@ const dataMuiz = {
       primary: "bg-[#D7DEBA]",
       secondary: "bg-[#C5D097]",
       backgroundColor: "bg-[#FCFDFC]",
-      hoverColor: "hover:bg-[#ef4444]",
+      hoverColor: "hover:bg-[#D3E09C]",
       textColor: "text-[#0B0C0A]",
       btnTextColor: "text-[#0B0C0A]",
       accentColor: "text-[#B9CB6F]",
@@ -980,6 +980,130 @@ const dataMuiz = {
       "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.821009469259!2d114.37590150875694!3d-8.211755023254286!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDIuMyJTIDExNMKwMjInMzMuMyJF!5e0!3m2!1sid!2sid!4v1717133525182!5m2!1sid!2sid",
     footer: {
       noHp: "081236779113",
+      alamat: null,
+    },
+  },
+  "roti-golek": {
+    title: "Roti Golek",
+    icon: null,
+    navbarTitle: "Roti Golek",
+    ctaLink: "https://wa.me/6281321837223",
+
+    color: {
+      // required
+      primary: "bg-[#E89AE6]",
+      secondary: "bg-[#D4A4D2]",
+      backgroundColor: "bg-[#FCFBFC]",
+      hoverColor: "hover:bg-[#E872E5]",
+      textColor: "text-[#0C080C]",
+      btnTextColor: "text-[#0C080C]",
+      accentColor: "text-[#C778C5]",
+    },
+
+    hero: {
+      tagLine: "Manisnya Kenikmatan dalam Setiap Gigitan.",
+      deskripsi:
+        "tempat di mana Anda dapat menemukan kenikmatan yang tak terlupakan dalam setiap gigitan donat kami. Kami bangga menyajikan berbagai macam donat yang lezat, segar, dan dipanggang dengan cinta setiap hari. Dari donat klasik yang disalut dengan gula hingga inovasi rasa yang kreatif, setiap produk kami dipersembahkan dengan kualitas terbaik dan rasa yang autentik.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134481/umkm/roti-golek/photo1716685498_3_p7jcm2.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: " Memanjakan Lidah Anda dengan Setiap Gigitan",
+
+      deskripsi:
+        "tidak hanya menyediakan donat untuk dinikmati sendiri, tetapi juga menjadi pilihan sempurna untuk merayakan momen-momen istimewa dalam hidup Anda. Dari pesta ulang tahun hingga perayaan kantor, donat kami siap memeriahkan acara Anda dengan sentuhan manis yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134200/umkm/roti-golek/photo1716685498_jj075s.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Donat Strawberry ",
+          deskripsi:
+            "Setiap gigitan Donat Strawberry adalah perjalanan rasa yang memikat. Terbuat dari adonan lembut yang menghadirkan kelezatan manis dan segar yang tak terlupakan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134202/umkm/roti-golek/photo1716685498_1_vxfqer.jpg",
+        },
+        {
+          name: "Donat Messes",
+          deskripsi:
+            "Perpaduan unik antara donat lembut dengan taburan beragam topping yang menggoda.",
+          price: null,
+          img: "https://kurio-img.kurioapps.com/21/10/29/77d8a709-9c6a-4a55-9e77-20c3a3d88ad6.jpe",
+        },
+        {
+          name: "Aneka Donat lainnya",
+          deskripsi:
+            "Anda dapat menemukan beragam donat dengan rasa yang menggugah selera. ",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717134198/umkm/roti-golek/photo1716685498_2_tkafci.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.8121166247065!2d114.37589836145669!3d-8.212202059738745!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDMuOSJTIDExNMKwMjInMzMuMiJF!5e0!3m2!1sid!2sid!4v1717134836895!5m2!1sid!2sid",
+    footer: {
+      noHp: "081321837223",
+      alamat: "Blambangan",
+    },
+  },
+  "alya-dimsum": {
+    title: "Alya Dimsum",
+    icon: null,
+    navbarTitle: "Alya Dimsum",
+    ctaLink: "https://wa.me/6282331840452",
+
+    color: {
+      // required
+      primary: "bg-[#FA9754]",
+      secondary: "bg-[#EBB48F]",
+      backgroundColor: "bg-[#FCFAF8]",
+      hoverColor: "hover:bg-[#F9873A]",
+      textColor: "text-[#070504]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F08C4A]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Dimsum dengan Sentuhan Terbaru",
+      deskripsi:
+        "Dimsam menghadirkan pengalaman kuliner yang tak terlupakan dengan perpaduan unik antara cita rasa tradisional dimsum dan kreasi baru yang segar. Setiap hidangan Dimsam adalah harmoni antara kelezatan yang autentik dan kejutan rasa yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_hdjzye.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan Dimsum dengan Sentuhan Kreatif",
+
+      deskripsi:
+        "Dari dimsum kukus yang lembut hingga yang digoreng garing, setiap gigitan dimsum kami menawarkan pengalaman kuliner yang tak terlupakan. Temukan kelezatan dimsum yang tak tertandingi.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_3_xrqb2m.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Dimsum",
+          deskripsi:
+            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717135223/umkm/alya-dimsam/photo1716685773_1_huaoqp.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7897.808545202319!2d114.3758420130269!3d-8.212381585604986!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDQuNiJTIDExNMKwMjInMzMuMCJF!5e0!3m2!1sid!2sid!4v1717136017328!5m2!1sid!2sid",
+    footer: {
+      noHp: "082331840452",
       alamat: null,
     },
   },
