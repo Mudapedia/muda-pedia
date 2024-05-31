@@ -153,7 +153,7 @@ const dataIqbal = {
       txt: "Segarkan Harimu dengan Es Lumpur Lapindo!",
 
       deskripsi: "Ayo, beli dan coba sekarang juga, dan biarkan Es Lumpur Lapindo memberikan kesegaran yang luar biasa di setiap gigitan!", // optional
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122896/umkm/warung-pak-soni/foto1_pmrb0i.jpg",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717123811/umkm/es-lumpur-lapindo/WhatsApp_Image_2024-05-21_at_18.31.15_eb71408e_nygaci.jpg",
       btn: true, // optional
       btnText: "Pesan Sekarang!",
     },
@@ -174,6 +174,116 @@ const dataIqbal = {
     footer: {
       noHp: "0822232226778",
       alamat: "Pengantigan",
+    },
+  },
+  "goldenpowerdrink": {
+    title: "Aneka Minuman Golden Power Drink",
+    icon: null,
+    navbarTitle: "Golden Power Drink",
+    ctaLink: "https://wa.me/6282228750815",
+
+    color: {
+      // required
+      primary: "bg-[#34c86e]",
+      secondary: "bg-[#9ae1b7]",
+      backgroundColor: "bg-[#f5fbf7]",
+      hoverColor: "hover:bg-[#09b049]",
+      textColor: "text-[#09130d]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#70db9b]",
+    },
+    hero: {
+      tagLine: "Kesegaran dan Energi dalam Tiap Tegukannya.",
+      deskripsi: "Nikmati kesegaran maksimal dalam tiap tegukan di Golden Power Drink, lezat dan menyegarkan. Minuman kami siap menemani aktivitas Anda sepanjang hari.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128568/umkm/aneka%20minuman%20golden%20power%20drink/foto1_hnlbey.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Pilih varian minuman yang siap menemani aktivitasmu.",
+      deskripsi: "Jangan lewatkan kesempatan untuk menikmati minuman berkualitas yang akan membuatmu kembali bersemangat. Ayo, beli sekarang dan rasakan sensasi minuman menyegarkan dari Golden Power Drink!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717128568/umkm/aneka%20minuman%20golden%20power%20drink/foto2_qvj5xk.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang!",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh",
+          deskripsi: "es teh manis dan segar dengan harga yang terjangkau. Dibuat dengan bahan berkualitas dan porsi besar. Rasakan kesegaran yang memuaskan setiap tegukannya.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/6/21/0496106c-e911-4500-baeb-f1d702da9d6a.jpg",
+        },
+        {
+          name: "Es Jeruk",
+          deskripsi: "es jeruk segar dan lezat dengan bahan 100% jeruk asli pilihan yang cocok untuk menyegarkan anda di hari yang panas.",
+          price: null,
+          img: "https://cdn.manisdansedap.com/img_thumb_list/2023/06/22-es-jeruk-peras-manis_8_6493cfdea8732.jpg",
+        },
+        {
+          name: "Pocari Sweat Dingin",
+          deskripsi: " Pocari Sweat Dingin! Minuman  rasa elektrolit yang menyegarkan dan kesejukan yang membangkitkan semangat.",
+          price: null,
+          img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-57120126/no-brand_pocari-sweat-ion-psupply-drink-330ml_full01.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.903015156864!2d114.3756748!3d-8.212507999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDUuMCJTIDExNMKwMjInMzIuNCJF!5e0!3m2!1sen!2sid!4v1717128263090!5m2!1sen!2sid",
+    footer: {
+      noHp: "082228750815",
+      alamat: "Blambangan",
+    },
+  },
+  "espotongcoklatclassic": {
+    title: "Es Potong Coklat Classic",
+    icon: null,
+    navbarTitle: "Es Potong Coklat Classic",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#784a36]",
+      secondary: "bg-[#d7b1a1]",
+      backgroundColor: "bg-[#f8f5f4]",
+      hoverColor: "hover:bg-[#612a11]",
+      textColor: "text-[#0f0e0d]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#cf896b]",
+    },
+    hero: {
+      tagLine: "Es Potong Coklat Classic.",
+      deskripsi: "Nikmati Sensasi Nostalgia dengan Es Potong Coklat Classic.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138155/umkm/es%20potong%20coklat%20classic/foto2_iqdunz.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo Datang dan Nikmati Kelezatan Dari Es Potong Coklat Classic",
+      deskripsi: null, // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138155/umkm/es%20potong%20coklat%20classic/foto3_xa1vu3.jpg",
+      btn: false, // optional
+      btnText: "Pesan Sekarang!",
+    },
+    product: {
+      title: "Varian Rasa",
+      // required
+      data: [
+        {
+          name: "Rasa Melon",
+          deskripsi: null,
+          price: null,
+          img: "https://asset-2.tstatic.net/style/foto/bank/images/es-potong-alpukat_20171009_152546.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.898310054187!2d114.37580469999999!3d-8.212981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDYuNyJTIDExNMKwMjInMzIuOSJF!5e0!3m2!1sen!2sid!4v1717137501275!5m2!1sen!2sid",
+    footer: {
+      noHp: "082228750815",
+      alamat: "Blambangan",
     },
   },
 };
