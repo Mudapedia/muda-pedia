@@ -1754,6 +1754,61 @@ const dataMuiz = {
       alamat: "Pertigaan rel",
     },
   },
+  "es-dawet-aqil-khas-bwi": {
+    title: "Es Dawet Aqil Khas Bwi",
+    icon: null,
+    navbarTitle: "Es Dawet Aqil Khas Bwi",
+    ctaLink: "https://wa.me/6287773232961",
+
+    color: {
+      // required
+      primary: "bg-[#7FDB41]",
+      secondary: "bg-[#B8E29C]",
+      backgroundColor: "bg-[#F4F9F1]",
+      hoverColor: "hover:bg-[#6CDE1E]",
+      textColor: "text-[#0F160A]",
+      btnTextColor: "text-[#0F160A]",
+      accentColor: "text-[#94DA66]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Tradisional Berkualitas Tinggi",
+      deskripsi:
+        "Selamat datang di Es Dawet Aqil, rumah bagi kelezatan tradisional yang tak tertandingi dengan sentuhan khas dari Banyuwangi. Kami dengan bangga menghadirkan Es Dawet Aqil, minuman legendaris yang telah menjadi bagian tak terpisahkan dari budaya dan tradisi kami.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717206048/umkm/es-dawet-aqil-khas-bwi/photo1716885559_kbrubo.jpg",
+    },
+    about: {
+      title: "Khas Bwi",
+      txt: "Kesejukan Tradisi dalam Setiap Sajian",
+
+      deskripsi:
+        "Mari rasakan kesejukan tradisi yang abadi di Es Dawet Aqil. Nikmati setiap tegukan sebagai perjalanan ke dalam masa lalu yang penuh kelezatan, di mana tiap sentuhan santan dan gula merah membawa kehangatan dari dalam hati.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717206048/umkm/es-dawet-aqil-khas-bwi/photo1716885559_kbrubo.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Dawet",
+          deskripsi:
+            "Di setiap gelasnya, Es Dawet menghadirkan perpaduan unik antara tekstur kenyal dawet, santan segar, gula merah yang manis, dan es serut yang menyegarkan.",
+          price: null,
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18QpXgdRlq8ohn783o9FXUo94a5v2hfBTKg&s",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7895.9083091380935!2d114.28832599344084!3d-8.30735498325245!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjYuNSJTIDExNMKwMTcnMTguMCJF!5e0!3m2!1sid!2sid!4v1717206235706!5m2!1sid!2sid",
+    footer: {
+      noHp: "087773232961",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
