@@ -1507,7 +1507,6 @@ const dataMuiz = {
       alamat: "Jalan baru",
     },
   },
-
   "es-sari-tebu": {
     title: "Es Sari Tebu",
     icon: null,
@@ -1560,6 +1559,75 @@ const dataMuiz = {
       "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.012247437594!2d114.27830910125334!3d-8.302188062119814!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDcuOSJTIDExNMKwMTYnNDEuOSJF!5e0!3m2!1sid!2sid!4v1717202877399!5m2!1sid!2sid",
     footer: {
       noHp: null,
+      alamat: null,
+    },
+  },
+  "warung-bang-cahyo": {
+    title: "Warung Bang Cahyo",
+    icon: null,
+    navbarTitle: "Warung Bang Cahyo",
+    ctaLink: "https://wa.me/6282150274752",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Rasa Nikmat, Harga Bersahabat",
+      deskripsi:
+        "Selamat datang di Warung Bang Cahyo, destinasi kuliner yang menawarkan hidangan lezat dengan harga yang bersahabat. Kami menyajikan berbagai menu favorit yang siap memanjakan lidah Anda, termasuk bakso kenyal, nasi tempong pedas, dan aneka minuman menyegarkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717203231/umkm/warung-bang-cahyo/photo1716884290_kzzqzw.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kenikmatan Rasa di Setiap Suapan",
+
+      deskripsi:
+        "kami mengutamakan kualitas dan kepuasan pelanggan. Setiap hidangan dipersiapkan dengan bahan-bahan terbaik dan cinta, menghadirkan kelezatan yang tak tertandingi. Ayo, kunjungi Warung Bang Cahyo dan rasakan sendiri kenikmatan yang kami tawarkan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717203231/umkm/warung-bang-cahyo/photo1716884290_1_egztdm.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Bakso Mercon",
+          deskripsi:
+            "Cicipi bakso kenyal kami yang dibuat dari daging pilihan dan disajikan dengan kuah kaldu yang kaya rasa. Dilengkapi dengan mie, tahu, dan sayuran, bakso Bang Cahyo adalah sajian yang selalu dinantikan.",
+          price: "Rp10.000",
+          img: "https://img.lazcdn.com/g/ff/kf/S4e579940ee2942a0840f2034c53de01fR.jpg_720x720q80.jpg",
+        },
+        {
+          name: "Nasi Tempong",
+          deskripsi:
+            "Nasi tempong kami disajikan dengan lauk pauk yang beragam dan sambal pedas yang khas, memberikan sensasi rasa yang kuat dan memuaskan. Hidangan ini adalah pilihan sempurna bagi Anda yang mencari cita rasa autentik dan pedas.",
+          price: "Rp8.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/77/2023/08/17/nasi-tempong-2084776819.jpg",
+        },
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Lengkapi santapan Anda dengan berbagai minuman segar dari Warung Bang Cahyo. Seperti Es teh manis yang menyegarkan yang cocok untuk segala suasana.",
+          price: "Rp3.000",
+          img: "https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.0195920181695!2d114.27862788680577!3d-8.30182283174788!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDYuNiJTIDExNMKwMTYnNDMuMSJF!5e0!3m2!1sid!2sid!4v1717203544028!5m2!1sid!2sid",
+    footer: {
+      noHp: "082150274752",
       alamat: null,
     },
   },
