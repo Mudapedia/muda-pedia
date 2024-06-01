@@ -1877,6 +1877,75 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "warung-aroma": {
+    title: "Warung Aroma",
+    icon: null,
+    navbarTitle: "Warung Aroma",
+    ctaLink: "https://wa.me/6282143983284",
+
+    color: {
+      // required
+      primary: "bg-[#A89F3E]",
+      secondary: "bg-[#F2E982]",
+      backgroundColor: "bg-[#FDFCF6]",
+      hoverColor: "hover:bg-[#A69913]",
+      textColor: "text-[#100F06]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F8E949]",
+    },
+
+    hero: {
+      tagLine: "Sentuhan Rasa yang Menggugah Selera",
+      deskripsi:
+        "Selamat datang di Warung Aroma, destinasi kuliner yang menjanjikan sentuhan rasa yang menggugah selera. Nikmati rujak lontong segar dengan saus kacang yang lezat, tahu lontong yang kenyal dengan kuah yang gurih, nasi goreng yang harum dengan tekstur yang pas, nasi tempong yang pedas dan menggugah selera, serta tempe penyet yang gurih dan renyah.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717208118/umkm/warung-aroma/photo1716885585_y9d0l4.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Cita Rasa Nusantara dalam Setiap Hidangan",
+
+      deskripsi:
+        "Warung Aroma tidak hanya menyajikan makanan, tapi juga sebuah pengalaman kuliner yang memikat. Tiap suapan membawa Anda merasakan kehangatan rumah dan kelezatan masakan tradisional Indonesia. Dibuat dengan cinta dan dipadukan dengan bahan-bahan segar pilihan, setiap hidangan kami adalah hasil dari dedikasi kami untuk memberikan yang terbaik bagi pelanggan kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717208119/umkm/warung-aroma/photo1716885585_1_am9uii.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Rujak Lontong",
+          deskripsi:
+            "hidangan tradisional Indonesia yang menggabungkan cita rasa segar dari sayuran dengan sensasi kenyal dari lontong, disiram dengan saus kacang yang kaya dan bumbu rempah yang memikat.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/21d35873a686d4d8/400x400cq70/photo.jpg",
+        },
+        {
+          name: "Nasi Tempong",
+          deskripsi:
+            "hidangan khas Jawa Timur yang terkenal dengan cita rasanya yang pedas dan menggugah selera. Terdiri dari nasi putih yang diulek bersama sambal terasi dan rempah-rempah, disajikan dengan lauk tempe goreng yang gurih dan renyah.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/1b5068c79aca5ce3/400x400cq70/photo.jpg",
+        },
+        {
+          name: "Tempe Penyet",
+          deskripsi:
+            "hidangan yang terkenal dengan kelezatan gurih dan renyah dari tempe yang digoreng hingga kecokelatan, disajikan dengan sambal ulek yang pedas dan menggugah selera.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/21d35873a686d4d8/400x400cq70/photo.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7895.907809153485!2d114.28842399605372!3d-8.307379830488344!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjYuNiJTIDExNMKwMTcnMTguMyJF!5e0!3m2!1sid!2sid!4v1717208852451!5m2!1sid!2sid",
+    footer: {
+      noHp: "082143983284",
+      alamat: "Pertigaan rel",
+    },
+  },
 };
 
 export default dataMuiz;
