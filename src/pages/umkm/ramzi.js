@@ -453,6 +453,197 @@ const dataRamzi = {
       alamat: "RTH Blambangan, Banyuwangi",
     },
   },
+  "raos-ece": {
+    title: "Raos Ece",
+    icon: null,
+    navbarTitle: "Raos Ece",
+    ctaLink: 'tel:6285157726367', 
+
+    color: {
+      // required
+      primary: "bg-[#e422e0]",
+      secondary: "bg-[#c7f18c]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#c7f18c]",
+      textColor: "text-[#120213]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4be964]",
+    },
+
+    hero: {
+      tagLine: "Raos Ece: Pedas Mantap, Bikin Ketagihan!",
+      deskripsi: "aos Ece adalah surga bagi pecinta pedas! Kami menawarkan berbagai cemilan pedas yang lezat dan menggugah selera.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717176891/umkm/raos-ece/6240170487464442451_121_aqakmm.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Cemilan Pedas yang Menggoyang Lidah!",
+
+      deskripsi: "", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717176892/umkm/raos-ece/6240170487464442453_121_srpbhc.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Keripik Ceker",
+          deskripsi:
+            "Cemilan renyah yang terbuat dari ceker ayam pilihan yang dibalut bumbu pedas gurih. Cocok untuk dinikmati kapan saja dan di mana saja.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQ7sIZ9acPLhGaauOHl5sElb36oC3IRxWv9i6kXFqJcuGQPUIndl8DzVCvK0Q",
+        },
+        {
+          name: " Keripik Pisang",
+          deskripsi:"Keripik pisang renyah yang dibalut bumbu pedas manis yang khas. Cocok untuk camilan saat santai atau sebagai teman nonton film",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28TRUWWoJIEZjOLaiiJJpUfGDJz0bzoA6l-40hqNrHdeO6688ck6FFHGdCUWD",
+        },
+        {
+          name: "Makaroni Goreng",
+          deskripsi: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUwpTPwt0aWkplZqO-J8Dz9mwbUQhK2XOe--fyvGCuU8XnqKKab_Zwoac-Nok9",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717138447/umkm/sate%20pemuda/sate-ayam-medan-1452017243_u9sfwp.webp",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.7093429663882!2d114.30557287505907!3d-8.430177991609156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717139472153!5m2!1sen!2sid`,
+    footer: {
+      noHp: '6285157726367',
+      alamat: "RTH Blambangan, Banyuwangi",
+    },
+  },
+  "warung-bu-murni": {
+    title: "Warung Bu Murni",
+    icon: null,
+    navbarTitle: "Warung Bu Murni",
+    ctaLink: 'tel:6281336131100', 
+
+    color: {
+      // required
+      primary: "bg-[#f6151c]",
+      secondary: "bg-[#77faf8]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#c7f18c]",
+      textColor: "text-[#210105]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#210105]",
+    },
+
+    hero: {
+      tagLine: "Nasi Bungkus Enak, Bikin Perut Kenyang!",
+      deskripsi: "Warung Bu Murni adalah pilihan tepat bagi Anda yang mencari nasi bungkus lezat dengan harga hemat. Kami menawarkan berbagai menu nasi bungkus dengan lauk pauk yang berlimpah dan beragam.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717177599/umkm/bu%20murni/6240170487464442491_121_kvysuh.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lauk Berlimpah, Harga Bersahabat!",
+
+      deskripsi: "Warung Bu Murni cocok untuk Anda yang tidak punya waktu untuk memasak atau bagi Anda yang ingin makan siang dengan praktis dan hemat. Kami juga melayani pemesanan untuk acara-acara khusus.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717177599/umkm/bu%20murni/6240170487464442490_121_yrrwyt.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Nasi Bungkus Ayam Goreng",
+          deskripsi:
+            "Nasi putih pulen dengan ayam goreng tepung yang renyah dan gurih. Dilengkapi dengan sambal goreng kentang, lalapan, dan kerupuk.",
+          price: "5K",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWzuMnc2sL7Ea0XGI7RAT9WNvW5hMzI0m_GffnMqca1PNXv2x7R1SWvEHA1Msj",
+        },
+        {
+          name: "Nasi Bungkus Rendang",
+          deskripsi:"Nasi putih pulen dengan rendang sapi yang empuk dan lezat. Dilengkapi dengan sambal, kerupuk, dan acar.",
+          price: "5K",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAHgJu9SEPA6Fk5BvOup-Fk1QYoSRLZ0aP_lxnSt7qfbGJws90JZdlf5kOvurK",
+        },
+        {
+          name: "Nasi Bungkus Ikan Asin Sambal Goreng",
+          deskripsi: "Nasi putih pulen dengan ikan asin goreng yang gurih dan pedas. Dilengkapi dengan sambal goreng kentang, lalapan, dan kerupuk.",
+          price: "5K",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWAbRwzEIQgeSPq0eD7osetuVypJoJxnybTnVuB89vIoSBdI0UJcdZNKtgOl1V",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.7093429663882!2d114.30557287505907!3d-8.430177991609156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717139472153!5m2!1sen!2sid`,
+    footer: {
+      noHp: '0813361311007',
+      alamat: "RTH Blambangan, Banyuwangi",
+    },
+  },
+  "tahu-kocek": {
+    title: "Tahu Kocek",
+    icon: null,
+    navbarTitle: "Tahu Kocek",
+    ctaLink: 'tel:6287858153878',
+
+    color: {
+      // required
+      primary: "bg-[#f6151c]",
+      secondary: "bg-[#77faf8]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#c7f18c]",
+      textColor: "text-[#210105]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#210105]",
+    },
+
+    hero: {
+      tagLine: "Digigit Sekali, Nggak Mau Berhenti!",
+      deskripsi: "Tahu Kocek adalah destinasi tepat untuk para pecinta tahu goreng krispi! Kami menawarkan tahu kocek yang terbuat dari 100% kedelai pilihan, dibalut dengan tepung bumbu spesial yang gurih dan renyah. Sensasi gigitan pertama yang krispi di luar dan lembut di dalam, dipadukan dengan bumbu rahasia kami yang bikin nagih.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717179078/umkm/tahu%20kocek/6246854242556034173_121_n32ksw.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lauk Berlimpah, Harga Bersahabat!",
+      deskripsi: "Tahu Kocek cocok untuk dinikmati sebagai cemilan saat santai, teman lauk, atau hidangan pembuka. Kami menggunakan bahan-bahan berkualitas dan tanpa pengawet, jadi Anda bisa menikmati tahu kocek kami dengan aman dan nyaman.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717179078/umkm/tahu%20kocek/6246854242556034172_121_z5tpro.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Tahu Kocek Original",
+          deskripsi:
+            "Tahu kocek dengan bumbu original yang gurih dan klasik. Pas untuk kamu yang suka rasa original.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKUFona2LyjdU4lQlu3SB0wBWBIEzwXlbX6uD3Woift-hCng7THVYcHWYms1TW",
+        },
+        {
+          name: "Tahu Kocek Pedas",
+          deskripsi:"Tahu kocek dengan bumbu pedas yang nendang, cocok untuk pecinta pedas!",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOZqTBqC-XdxwexAgh7NsKbUNdo1W72Tu7nSoCJ0pweWeQVUT8J-ZIua5l9emm",
+        },
+        {
+          name: "Tahu Kocek Bawang",
+          deskripsi: "Tahu kocek dengan taburan bawang goreng yang melimpah, menambah aroma dan cita rasa yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWsJC97Vov23_ItypmVzqRYWAax9IkplTj4qUu1jNyXEyjQ7K4Y_2GGonrNztE",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31580.437387438164!2d114.24306137431641!3d-8.346966499999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd157b2c2fb988f%3A0x2b39902abc8c8f28!2sRS%20Nahdlatul%20Ulama%20Banyuwangi!5e0!3m2!1sid!2sid!4v1717179348608!5m2!1sid!2si`,
+    footer: {
+      noHp: '087858153878',
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
 };
 
 export default dataRamzi;
