@@ -1307,6 +1307,206 @@ const dataMuiz = {
       alamat: "Blambangan",
     },
   },
+  "warung-mbak-ririn": {
+    title: "Warung Mbak Ririn",
+    icon: null,
+    navbarTitle: "Warung Mbak Ririn",
+    ctaLink: "https://wa.me/6282338685264",
+
+    color: {
+      // required
+      primary: "bg-[#DACE68]",
+      secondary: "bg-[#D3CE9F]",
+      backgroundColor: "bg-[#F9F8F5]",
+      hoverColor: "hover:bg-[#DBCB41]",
+      textColor: "text-[#10100B]",
+      btnTextColor: "text-[#10100B]",
+      accentColor: "text-[#C9C179]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Sejati dalam Setiap Hidangan",
+      deskripsi:
+        "Selamat datang di Warung Mbak Ririn, tempat di mana kelezatan sejati dan keramahtamahan bertemu dalam setiap hidangan. Kami dengan bangga menyajikan berbagai masakan khas yang siap memanjakan lidah Anda, mulai dari sego pecel yang penuh gizi hingga bakso yang kenyal dan mie goreng yang lezat.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717199419/umkm/warung-mbak-ririn/photo1716883531_amaf5w.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Cita Rasa Nusantara dalam Setiap Hidangan",
+
+      deskripsi:
+        "kuliner yang menyajikan cita rasa autentik Nusantara. Di sini, setiap hidangan diracik dengan bahan-bahan segar dan bumbu khas yang mencerminkan kelezatan kuliner Indonesia.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717199419/umkm/warung-mbak-ririn/photo1716883531_1_kagcqz.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Sego Pecel",
+          deskripsi:
+            "Nikmati sensasi segar dan gurih dari sego pecel kami. Dengan nasi hangat, aneka sayuran segar, dan siraman bumbu pecel khas Jawa yang kaya rasa, sego pecel kami adalah pilihan sempurna untuk makan sehat dan lezat.",
+          price: null,
+          img: "https://akcdn.detik.net.id/visual/2023/05/04/1335321174_43.jpeg?w=720&q=90",
+        },
+        {
+          name: "Bakso",
+          deskripsi:
+            "Rasakan kenyalnya bakso daging sapi asli yang disajikan dengan kuah kaldu gurih. Dilengkapi dengan mie, tahu, dan sayuran, semangkuk bakso dari Warung Mbak Ririn adalah kelezatan yang selalu dinantikan.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/25041221/ini-resep-kuah-bakso-sap-yang-mudah-dibuat-di-rumah.jpg",
+        },
+        {
+          name: "Mie Goreng",
+          deskripsi:
+            "Mie goreng kami dibuat dengan bumbu khas yang meresap sempurna dalam setiap helai mie. Disajikan dengan aneka sayuran segar, telur, dan irisan daging, mie goreng kami adalah hidangan yang memuaskan dan penuh rasa.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/25041221/ini-resep-kuah-bakso-sap-yang-mudah-dibuat-di-rumah.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Segarkan hari Anda dengan berbagai pilihan minuman kami. Dari es teh manis yang menyegarkan hingga jus buah segar yang menyehatkan, kami menyediakan aneka minuman yang cocok untuk menemani setiap hidangan.",
+          price: null,
+          img: "https://bebekbkb.com/wp-content/uploads/2020/02/es-teh-manis-1.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.016754469991!2d114.27865754752067!3d-8.301963938875398!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDcuMSJTIDExNMKwMTYnNDMuMiJF!5e0!3m2!1sid!2sid!4v1717200353331!5m2!1sid!2sid",
+    footer: {
+      noHp: "082338685264",
+      alamat: null,
+    },
+  },
+  "rumah-buah": {
+    title: "Rumah Buah",
+    icon: null,
+    navbarTitle: "Rumah Buah",
+    ctaLink: "https://wa.me/6285288787106",
+
+    color: {
+      // required
+      primary: "bg-[#7FDB41]",
+      secondary: "bg-[#B8E29C]",
+      backgroundColor: "bg-[#F4F9F1]",
+      hoverColor: "hover:bg-[#6CDE1E]",
+      textColor: "text-[#0F160A]",
+      btnTextColor: "text-[#0F160A]",
+      accentColor: "text-[#94DA66]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Alami dalam Setiap Gigitan",
+      deskripsi:
+        "Selamat datang di Rumah Buah, tempat di mana kesegaran dan kualitas buah menjadi prioritas utama. Kami dengan bangga menawarkan beragam buah terbaik, dipetik langsung dari kebun kami untuk memastikan Anda mendapatkan rasa dan kesegaran yang maksimal.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717200463/umkm/rumah-buah/photo1716883601_yaqekf.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Pilihan Segar untuk Setiap Momen",
+
+      deskripsi:
+        "Kami menghadirkan beragam buah dengan kualitas terbaik, dipilih langsung dari kebun terpercaya untuk memastikan kesegaran dan rasa yang luar biasa.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717200463/umkm/rumah-buah/photo1716883602_txpl03.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Buah Melon",
+          deskripsi:
+            "Nikmati manisnya buah melon kami yang segar dan berair. Setiap potongan melon menawarkan rasa yang manis dan tekstur yang renyah, sempurna untuk camilan sehat atau tambahan dalam salad buah favorit Anda.",
+          price: null,
+          img: "https://www.astronauts.id/blog/wp-content/uploads/2023/02/Mengenal-Manfaat-Buah-Melon-1200x900.jpg",
+        },
+        {
+          name: "Buah Semangka",
+          deskripsi:
+            "Rasakan kesegaran yang tiada duanya dengan buah semangka kami. Dengan daging yang merah dan juicy, semangka kami adalah pilihan sempurna untuk menyegarkan hari-hari panas Anda. Baik dinikmati langsung atau dijadikan jus, semangka kami selalu memberikan rasa yang memuaskan.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/06/27064845/Benarkah-Buah-Semangka-Baik-untuk-Kesehatan-Jantung_-Ini-Faktanya.jpg.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.037391625849!2d114.27853633075574!3d-8.300937628916644!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDMuNCJTIDExNMKwMTYnNDIuNyJF!5e0!3m2!1sid!2sid!4v1717200393520!5m2!1sid!2sid",
+    footer: {
+      noHp: "085288787106",
+      alamat: "Jalan baru",
+    },
+  },
+  "istana-buah": {
+    title: "Istana Buah",
+    icon: null,
+    navbarTitle: "Istana Buah",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#7FDB41]",
+      secondary: "bg-[#B8E29C]",
+      backgroundColor: "bg-[#F4F9F1]",
+      hoverColor: "hover:bg-[#6CDE1E]",
+      textColor: "text-[#0F160A]",
+      btnTextColor: "text-[#0F160A]",
+      accentColor: "text-[#94DA66]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Sejati, Kualitas Terbaik",
+      deskripsi:
+        "Selamat datang di Istana Buah, tempat di mana Anda bisa merasakan kesegaran dan kualitas terbaik dari buah-buahan pilihan. Kami dengan bangga menyajikan beragam buah yang dipetik langsung dari kebun terbaik kami, memastikan setiap gigitan penuh dengan rasa yang alami dan memuaskan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717201982/umkm/istana-buah/photo1716883830_rtdgdb.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Rasakan Kesegaran Alami Setiap Hari",
+
+      deskripsi:
+        "Kami menghadirkan berbagai buah pilihan yang dipetik langsung dari kebun terpercaya, memastikan kesegaran dan rasa yang tak tertandingi.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717201982/umkm/istana-buah/photo1716883830_1_gse1i2.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Buah Jeruk",
+          deskripsi:
+            "Buah jeruk kami menawarkan rasa manis dan segar dengan kandungan vitamin C yang tinggi. Setiap buah jeruk kami dipilih dengan teliti untuk memastikan kualitas terbaik, menjadikannya pilihan sempurna untuk camilan sehat atau jus yang menyegarkan.",
+          price: null,
+          img: "https://i.pinimg.com/736x/85/f2/d4/85f2d4de2f3891205ba40f1f2f018011.jpg",
+        },
+        {
+          name: "Buah Duku",
+          deskripsi:
+            "Nikmati kelezatan buah duku kami yang manis dan juicy. Dengan tekstur yang lembut dan rasa yang memikat, buah duku kami adalah pilihan yang tepat untuk menikmati kesegaran alami kapan saja. Setiap gigitan memberikan sensasi rasa yang alami dan memuaskan.",
+          price: null,
+          img: "https://cdn.rri.co.id/berita/Nabire/o/1714113945600-a63cfd120d832edb80452844196936ec/dbwh45s6krbvss7.jpeg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.030840471563!2d114.27845954685627!3d-8.301263439150825!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDQuNiJTIDExNMKwMTYnNDIuNSJF!5e0!3m2!1sid!2sid!4v1717202191321!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Jalan baru",
+    },
+  },
 };
 
 export default dataMuiz;
