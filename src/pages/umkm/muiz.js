@@ -1809,6 +1809,74 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  baksosuroso: {
+    title: "Bakso Suroso",
+    icon: null,
+    navbarTitle: "Bakso Suroso",
+    ctaLink: "https://wa.me/6283841675572",
+
+    color: {
+      // required
+      primary: "bg-[#ECB176]",
+      secondary: "bg-[#DCBB9A]",
+      backgroundColor: "bg-[#FDFCFC]",
+      hoverColor: "hover:bg-[#E9933D]",
+      textColor: "text-[#080706]",
+      btnTextColor: "text-[#080706]",
+      accentColor: "text-[#DBA065]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Tiada Duanya di Setiap Gigitan",
+      deskripsi:
+        "tempat yang sempurna untuk menikmati bakso dengan cita rasa yang istimewa. Kami menyajikan bakso yang terbuat dari daging sapi pilihan, diolah dengan bumbu rahasia yang telah diwariskan secara turun-temurun",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717207252/umkm/bakso-suroso/photo1716458586-1280x1280_hrqfif.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Bakso Suroso",
+
+      deskripsi:
+        "Kami menyajikan bakso yang terbuat dari daging sapi pilihan, diolah dengan bumbu rahasia yang telah diwariskan secara turun-temurun. Setiap mangkuk Bakso Suroso dilengkapi dengan kuah kaldu yang gurih, mie kuning atau bihun, dan taburan seledri serta bawang goreng yang melimpah, menciptakan harmoni rasa yang sulit untuk dilupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717207252/umkm/bakso-suroso/photo1716458586-1280x1280_hrqfif.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Bakso",
+          deskripsi:
+            "Terbuat dari campuran daging sapi giling berkualitas tinggi dan tepung tapioka, bakso kami diolah dengan resep tradisional yang kaya akan rasa.",
+          price: "Rp24.000",
+          img: "https://upload.wikimedia.org/wikipedia/commons/2/28/Bakso_mi_bihun.jpg",
+        },
+        {
+          name: "Tahu Pentol",
+          deskripsi:
+            "camilan khas yang menggabungkan kenikmatan tahu dan pentol dalam satu gigitan.",
+          price: "Rp24.000",
+          img: "https://img-global.cpcdn.com/recipes/ffe2954eef944e34/680x482cq70/pentol-tahu-tanpa-daging-foto-resep-utama.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Kami juga menyediakan berbagai pilihan minuman yang menyegarkan untuk melengkapi hidangan,dibuat dengan penuh cinta dan di setiap tegukan.",
+          price: "Rp24.000",
+          img: "https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "083841675572",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
