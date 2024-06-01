@@ -1631,6 +1631,75 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "kedai-cemal-cemil": {
+    title: "Kedai Cemal Cemil",
+    icon: null,
+    navbarTitle: "Kedai Cemal Cemil",
+    ctaLink: "https://wa.me/6282143181979",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan yang Menggoda Setiap Hari",
+      deskripsi:
+        "Selamat datang di Kedai Cemal Cemil, tempat di mana kelezatan yang menggoda menanti Anda setiap hari. Kami menawarkan berbagai hidangan dan minuman yang diracik dengan bahan-bahan segar dan resep terbaik, menjamin setiap suapan penuh dengan rasa yang memuaskan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717204402/umkm/kedai-cemal-cemil/photo1716884852_fkn4cx.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Petualangan Rasa di Setiap Suapan",
+
+      deskripsi:
+        "Setiap hidangan dibuat dengan bahan-bahan terbaik dan teknik masak yang mengutamakan cita rasa autentik. Dari makanan ringan hingga hidangan utama, kami memiliki beragam pilihan yang akan menggugah selera Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717204402/umkm/kedai-cemal-cemil/photo1716884852_fkn4cx.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Ayam Geprek",
+          deskripsi:
+            "Potongan ayam yang renyah dan lembut digoreng dengan teknik khusus, kemudian dilumuri dengan sambal pedas yang khas.",
+          price: null,
+          img: "https://pict-a.sindonews.net/dyn/850/pena/news/2021/01/20/185/307384/resep-ayam-geprek-crispy-dan-pedas-bikin-makan-berselera-mwy.jpg",
+        },
+        {
+          name: "Tahu Walik",
+          deskripsi:
+            "Setiap suapan Tahu Walik menghadirkan kombinasi rasa gurih dan tekstur yang renyah di luar, namun lembut di dalam.",
+          price: null,
+          img: "https://cdn.idntimes.com/content-images/post/20200716/tahu-0c803551644ce3c4a20f0966b30c1991_600x400.jpg",
+        },
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Teh segar diseduh dengan air panas, kemudian disajikan dingin dengan tambahan es batu. Minuman ini menghadirkan cita rasa teh yang khas, dilengkapi dengan sedikit rasa manis yang menyegarkan.",
+          price: null,
+          img: "https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.0195920181695!2d114.27862788680577!3d-8.30182283174788!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDYuNiJTIDExNMKwMTYnNDMuMSJF!5e0!3m2!1sid!2sid!4v1717204190574!5m2!1sid!2sid",
+    footer: {
+      noHp: "082143181979",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
