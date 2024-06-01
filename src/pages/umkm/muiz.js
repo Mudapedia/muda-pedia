@@ -1507,6 +1507,62 @@ const dataMuiz = {
       alamat: "Jalan baru",
     },
   },
+
+  "es-sari-tebu": {
+    title: "Es Sari Tebu",
+    icon: null,
+    navbarTitle: "Es Sari Tebu",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#7FDB41]",
+      secondary: "bg-[#B8E29C]",
+      backgroundColor: "bg-[#F4F9F1]",
+      hoverColor: "hover:bg-[#6CDE1E]",
+      textColor: "text-[#0F160A]",
+      btnTextColor: "text-[#0F160A]",
+      accentColor: "text-[#94DA66]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Tebu, Manisnya Alami",
+      deskripsi:
+        "Selamat datang di Es Sari Tebu Nur Khoiri, tempat di mana Anda dapat menikmati minuman es sari tebu yang murni dan menyegarkan. Kami menghadirkan sari tebu segar yang diproses langsung dari tebu berkualitas tinggi, memastikan setiap gelas penuh dengan rasa manis alami dan kesegaran sejati.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717202640/umkm/es-sari-tebu/photo1716883978_ty5km4.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Manis dan Segar dari Alam",
+
+      deskripsi:
+        "Kami berkomitmen untuk menyajikan sari tebu murni yang diperas langsung dari tebu pilihan, menghadirkan kesegaran dan rasa manis alami yang memanjakan lidah Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717202640/umkm/es-sari-tebu/photo1716883978_ty5km4.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Yang kami Jual",
+      // required
+      data: [
+        {
+          name: "Es Sari Tebu",
+          deskripsi:
+            "Es sari tebu kami dibuat dari tebu pilihan yang diproses dengan hati-hati untuk menjaga kemurnian dan kandungan nutrisinya.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/product-1/2021/1/4/487504757/487504757_a8faab76-0f69-425a-820e-874d68d71797_943_943.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7896.012247437594!2d114.27830910125334!3d-8.302188062119814!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDcuOSJTIDExNMKwMTYnNDEuOSJF!5e0!3m2!1sid!2sid!4v1717202877399!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
