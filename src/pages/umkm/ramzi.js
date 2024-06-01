@@ -644,6 +644,510 @@ const dataRamzi = {
       alamat: "Rogojampi, Banyuwangi",
     },
   },
+  "telur-congkel": {
+    title: "Telur Congkel",
+    icon: null,
+    navbarTitle: "Telur Congkel",
+    ctaLink: 'tel:6288211334336',
+
+    color: {
+      // required
+      primary: "bg-[#f6151c]",
+      secondary: "bg-[#77faf8]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#c7f18c]",
+      textColor: "text-[#210105]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#210105]",
+    },
+
+    hero: {
+      tagLine: "Legenda Cemilan Jadul yang Tak Lekang Oleh Waktu",
+      deskripsi: "Telur Congkel adalah jajanan tradisional yang terbuat dari campuran telur, tepung, dan bumbu rempah, kemudian digoreng hingga matang kecoklatan.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717258798/umkm/telur%20congkel/6248951530921245522_121_pw8mom.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Rasanya Mantap, Harganya Pas di Kantong",
+      deskripsi: "Rasanya yang gurih dan renyah, serta teksturnya yang unik, membuat Telur Congkel digemari oleh semua kalangan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717258798/umkm/telur%20congkel/6248951530921245521_121_yhsf6g.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Telur Congkel Original",
+          deskripsi:
+            "Telur Congkel klasik dengan rasa gurih original yang selalu disukai.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKUFona2LyjdU4lQlu3SB0wBWBIEzwXlbX6uD3Woift-hCng7THVYcHWYms1TW",
+        },
+        {
+          name: "Telur Congkel Pedas",
+          deskripsi:"Bagi pecinta pedas, Telur Congkel Pedas wajib dicoba! Sensasi pedasnya yang mantap dijamin bikin ketagihan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VJ3VdBELQW2fcDea-za943EGTMYjheMiz3vIs6HK5Icb9ZM5TzynNxgfrPZ2",
+        },
+        {
+          name: "Telur Congkel Keju",
+          deskripsi: "Perpaduan gurih telur dan asinnya keju menciptakan rasa yang istimewa pada Telur Congkel Keju.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyW81mLYWSnIVD9ihzw2tQ72g-OVtU-qcaX3TUf8l7scpe4wgXf50_6iDMmJ6b",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.759688668045!2d114.18057757501083!3d-8.326661091709273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1548f0481c2b7%3A0x5827d8df5f2cb6c8!2sSMP%20Negeri%201%20Sempu!5e0!3m2!1sen!2sid!4v1717258404793!5m2!1sen!2sid`,
+    footer: {
+      noHp: '6288211334336',
+      alamat: "Sempu, Banyuwangi",
+    },
+  },
+  "es-dawet-ayu": {
+    title: "Es Dawet Ayu",
+    icon: null,
+    navbarTitle: "Es Dawet Ayu",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#882fde]",
+      secondary: "bg-[#e4ec87]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#e4ec87]",
+      textColor: "text-[#090311]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6be458]",
+    },
+
+    hero: {
+      tagLine: "Manisnya Bikin Happy!",
+      deskripsi: "Es Dawet Ayu adalah minuman segar khas Banjarnegara yang terbuat dari tepung beras dan santan. Dawetnya berwarna hijau dan memiliki tekstur kenyal, disiram dengan kuah santan yang gurih dan manis..",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segarnya Dawet Ayu, Bikin Liburan Makin Semangat!",
+      deskripsi: "Ditambah dengan topping nangka, alpukat, dan cincau, Es Dawet Ayu menjadi hidangan yang sempurna untuk dinikmati saat cuaca panas.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Dawet Ayu Original",
+          deskripsi:
+            "Dawet hijau dengan kuah santan, gula merah, dan es batu.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXbzBmDJYpkfqfzy9yeQIXAWlvWqhvBY-3HqBoxahOUvUMl83vXRFLdwK3iVCs",
+        },
+        {
+          name: "Es Dawet Ayu Nangka",
+          deskripsi:"Dawet hijau dengan kuah santan, gula merah, es batu, dan topping nangka.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEGmp8-GFhYFaXDS4pfk0at3AbzHSXEkbgh5Y3JocYAkfQCxayYm4TajIGLZ5_",
+        },
+        {
+          name: "Es Dawet Ayu Alpukat",
+          deskripsi: "Dawet hijau dengan kuah santan, gula merah, es batu, dan topping alpukat.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiKdig8u9CQ-fNJ3WmPGhB0ayoQZb2WVPiKmwiScqlCE2cAccRwIGqOGQ5aTt",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3948.9672283054397!2d114.3574264!3d-8.20605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717259413750!5m2!1sen!2sid`,
+    footer: {
+      noHp: null,
+      alamat: "RTH Blambangan, Banyuwangi",
+    },
+  },
+  "pentol-pak-mul": {
+    title: "Pentol Pak Mul",
+    icon: null,
+    navbarTitle: "Pentol Pak Mul",
+    ctaLink: "tel:6281353483671",
+
+    color: {
+      // required
+      primary: "bg-[#882fde]",
+      secondary: "bg-[#e4ec87]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#e4ec87]",
+      textColor: "text-[#090311]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6be458]",
+    },
+
+    hero: {
+      tagLine: "Ngemil Enak, Harga Bersahabat!",
+      deskripsi: "Pentol Pak Mul legendaris dengan cita rasa yang istimewa. Pentol kami dibuat dari daging sapi segar pilihan, dibumbui dengan resep rahasia, dan disajikan dengan berbagai macam saus yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717260140/umkm/pentol%20pak%20mul/6248951530921245505_121_eumhjg.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kenyangin Perut, Senengin Hati dengan Pentol Pak Mul!",
+      deskripsi: "Tekstur pentolnya kenyal dan lembut, dijamin bikin Anda ketagihan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717260138/umkm/pentol%20pak%20mul/6248951530921245502_121_dux4h1.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Pentol Telur Puyuh",
+          deskripsi:
+            "Pentol berisi telur puyuh utuh, kenyal dan gurih.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR20l1kWe9XRotjCMhET_Oa8ft_X63icvzEZdwBgpUJTAFcGGCWLK-cdWOJfphR",
+        },
+        {
+          name: "Pentol Udang",
+          deskripsi:"Pentol lembut dengan sensasi udang yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk3IQPBNvzOl85nYEwRxLZsvoO_1MiFYz76w1yNEeXTrFV-VT3fZQcmohnbdog",
+        },
+        {
+          name: "Pentol Mozarella",
+          deskripsi: "Pentol berisi keju mozarella yang melted saat digigit, nikmat luar biasa!",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOd3EvnkrUK35XEJaPDX61vwwaKb-cb0w7EWUloCyiv-2hqC7NIb2oh1YN5YJC",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63162.13446205436!2d114.26371276871186!3d-8.339174574368094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd157bd50174233%3A0x1c00c5eb5b542f60!2sRogojampi%2C%20Banyuwangi%20Regency%2C%20East%20Java%2068462!5e0!3m2!1sen!2sid!4v1717260055120!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6281353483671",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "telur-gulung-jenggirat": {
+    title: "Telur Gulung Jenggirat",
+    icon: null,
+    navbarTitle: "Telur Gulung Jenggirat",
+    ctaLink: "tel:6281359507867",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Lebih Besar, Lebih Puas!",
+      deskripsi: "Telur Gulung Jenggirat hadir dengan sensasi telur gulung yang lebih besar dan lebih puas! Telur gulung kami dibuat dengan telur segar berkualitas, dibalut dengan kulit renyah yang gurih, dan disajikan dengan berbagai macam saus yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717260741/umkm/telur%20gulung%20jenggirat/6248951530921245498_121_bfepwo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Gigitan Pertama Langsung Jenggirat, Telur Gulung Jenggirat!",
+      deskripsi: "Isinya yang melimpah dan kulitnya yang super renyah dijamin bikin Anda ketagihan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717260741/umkm/telur%20gulung%20jenggirat/6248951530921245497_121_u95enb.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Telur Gulung Original",
+          deskripsi:
+            "Telur gulung klasik dengan isian telur dan saus sambal",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQop9-NH7ssJyWgbXxsXSzDldd70SMhdVcwWsQR6iiBcQJo2lXsWdl5S-Wa8dyW",
+        },
+        {
+          name: "elur Gulung Kornet",
+          deskripsi:"Telur gulung berisi kornet sapi yang gurih dan mengenyangkan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTh4XGAAcbZOk2VjE_X-ts02KQ4xtaMFcX6YtxrAiXp4JqB9XqMKOYdCZsdr2",
+        },
+        {
+          name: "Telur Gulung Sosis",
+          deskripsi: "Telur gulung dengan isian sosis sapi yang gurih dan juicy",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz_o-f1uW1QpWAauynhsyugBqwUbCchLmq3cen0vTijF8q7tsp_-VzEClHvyMj",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63162.13446205436!2d114.26371276871186!3d-8.339174574368094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd157bd50174233%3A0x1c00c5eb5b542f60!2sRogojampi%2C%20Banyuwangi%20Regency%2C%20East%20Java%2068462!5e0!3m2!1sen!2sid!4v1717260055120!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6281359507867",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "pempek-palembang": {
+    title: "Pempek Palembang",
+    icon: null,
+    navbarTitle: "Pempek Palembang",
+    ctaLink: "tel:6283134928569",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Lewat Sini Wajib Coba Pempek Palembang",
+      deskripsi: "Menyajikan cita rasa asli Palembang yang lezat dan otentik. Pempek kami dibuat dengan ikan segar pilihan dan tepung sagu berkualitas, diproses secara tradisional, dan digoreng dengan sempurna.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261033/umkm/pempek%20palembang/6248951530921245494_121_fhemd4.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Legenda Kuliner Palembang",
+      deskripsi: "Cocok untuk dinikmati kapan saja, baik sebagai camilan maupun hidangan utama.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261032/umkm/pempek%20palembang/6248951530921245493_121_d7nwvl.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Pempek Adaan",
+          deskripsi:
+            "Pempek klasik berbentuk bulat dengan tekstur kenyal dan rasa gurih.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwcipAwc7NKsIC1iX5ZlVBpYblFxL4Z59DoZsQawYPSdenXyijptqFVc1BZZEd",
+        },
+        {
+          name: "Pempek Lenjer",
+          deskripsi:"Pempek panjang dan tipis berisi telur, gurih dan renyah di luar, lembut di dalam.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4uAxuXOcM3lifMugEd-ZWFSiTY_kR4PErPFPuanOJzCPslaayOBTVv0tCmAwt",
+        },
+        {
+          name: "Pempek Kapal Selam",
+          deskripsi: "Pempek besar berisi telur dan ebi, perpaduan rasa gurih dan pedas yang mantap.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEX8hZyLMMhBSyFp7NQfPdOk1Xu3ko3YhBogYh7IhFJUP9N19P0EGQ8SNoSitP",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1231226505743!2d114.30002847505745!3d-8.290543991744203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd150c393e691df%3A0x4b23e3ebaf0fe565!2sJl.%20Lkr.%20Barat%20No.15%2C%20Sukadi%2C%20Labanasem%2C%20Kec.%20Kabat%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068461!5e0!3m2!1sen!2sid!4v1717261495834!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6283134928569",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "bengkel-las-faisal": {
+    title: "Pempek Palembang",
+    icon: null,
+    navbarTitle: "Pempek Palembang",
+    ctaLink: "tel:6285236677017",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Bengkel Las Faisal: Las Kuat, Hasil Memuaskan!",
+      deskripsi: "Bengkel Las Faisal adalah bengkel las berpengalaman yang melayani berbagai macam kebutuhan pengelasan Anda.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261591/umkm/bengkel%20las%20faisal/6246854242556034254_121_j0hv8r.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Bengkel Las Faisal: Spesialis Pengelasan Terpercaya!",
+      deskripsi: "Kami menggunakan peralatan las modern dan ditangani oleh tenaga profesional yang ahli di bidangnya. Kami berkomitmen untuk memberikan hasil las yang kuat, rapi, dan sesuai dengan keinginan Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261591/umkm/bengkel%20las%20faisal/6246854242556034255_121_vs1ftv.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Pagar Besi",
+          deskripsi:
+            "Pembuatan dan perbaikan pagar besi untuk rumah, gedung, dan lainnya.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNRpz1sSVmwKtxV8wSObtB_JFTiP3aUW_YCyHEtNIorvT1_MkBKDG64h6qNjS_",
+        },
+        {
+          name: "Kanopi",
+          deskripsi:"Pembuatan dan pemasangan kanopi besi untuk teras, garasi, dan lainnya.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIhjtxiAA1_AXH4Yye51nlb6_QC0vmZVFOHRDK9lwll5LSf820aCHs6B5gTF-d",
+        },
+        {
+          name: "Tangga Besi",
+          deskripsi: "Pembuatan dan pemasangan tangga besi untuk rumah, gedung, dan lainnya.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHQl4efSqNyf5MGMU4PwH_k1dMVQwY5ykIitudyy9PYeQw_TIQV6NXPnfeuuSk",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1231226505743!2d114.30002847505745!3d-8.290543991744203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd150c393e691df%3A0x4b23e3ebaf0fe565!2sJl.%20Lkr.%20Barat%20No.15%2C%20Sukadi%2C%20Labanasem%2C%20Kec.%20Kabat%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068461!5e0!3m2!1sen!2sid!4v1717261744473!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285236677017",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "plat-nomor-stempel": {
+    title: "Plat Nomor Stempel",
+    icon: null,
+    navbarTitle: "Plat Nomor Stempel",
+    ctaLink: "tel:6285334912208",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Plat Nomor Stempel: Plat Nomor Unik dan Berkualitas!",
+      deskripsi: "Plat Nomor Stempel hadir untuk memberikan solusi plat nomor kendaraan yang unik, keren, dan berkualitas tinggi. Kami menggunakan teknologi stempel khusus yang menghasilkan plat nomor dengan huruf dan angka yang tajam, jelas, dan tahan lama.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261880/umkm/plat%20nomer%20stempel/6246854242556034251_121_ds3k6m.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Bikin Tampilan Kendaraanmu Makin Keren dengan Plat Nomor Stempel!",
+      deskripsi: "Plat nomor kami juga terbuat dari bahan berkualitas tinggi yang anti pudar dan tidak mudah berkarat, sehingga aman digunakan dalam jangka panjang.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717261882/umkm/plat%20nomer%20stempel/6246854242556034250_121_pgy4hm.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Pembuatan Plat Nomor",
+          deskripsi:
+            "Kami melayani pembuatan plat nomor baru untuk kendaraan roda dua dan roda empat. Anda hanya perlu membawa dokumen kendaraan Anda dan memilih desain plat nomor yang Anda inginkan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5X3becmuXiOp9OBe_KyelwYEPIMFOzI35Jb6iqAdgAWPmRxvsLhRVsWGdepH_",
+        },
+        {
+          name: "Perpanjangan STNK",
+          deskripsi:"Kami juga melayani perpanjangan STNK yang telah habis masa berlakunya. Prosesnya cepat dan mudah, Anda hanya perlu membawa STNK lama dan kendaraan Anda.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2C_UfXDgaxistQ8FGWRYLt2Ppfjubn4_HbhTUloWjEwkiyxVPo9HpecZrV22f",
+        },
+        {
+          name: "Pencetakan Ulang Plat Nomor",
+          deskripsi: "Kami melayani pencetakan ulang plat nomor yang hilang atau rusak. Anda hanya perlu membawa surat keterangan kehilangan dari kepolisian dan dokumen kendaraan Anda.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbZbFtWM579JFq3CJeY3zrSXVQarC7e2KUbOEhZEnwUsiYSjqHD-ibQHZGs49b",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1231226505743!2d114.30002847505745!3d-8.290543991744203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd150c393e691df%3A0x4b23e3ebaf0fe565!2sJl.%20Lkr.%20Barat%20No.15%2C%20Sukadi%2C%20Labanasem%2C%20Kec.%20Kabat%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068461!5e0!3m2!1sen!2sid!4v1717261744473!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285334912208",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "martabak-darplok": {
+    title: "Martabak Darplok",
+    icon: null,
+    navbarTitle: "Martabak Darplok",
+    ctaLink: "tel:6285859143140",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Renyah, Gurih, dan Manisnya Bikin Nagih!",
+      deskripsi: " tempat terbaik untuk menikmati martabak yang lezat dan otentik.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717262373/umkm/martabak%20darplok/6246854242556034242_121_zqglel.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Pilihan Tepat untuk Camilan dan Hidangan Penutup!",
+      deskripsi: "kami selalu menggunakan bahan-bahan segar dan berkualitas untuk memastikan rasa yang selalu lezat. Martabak kami tersedia dalam berbagai pilihan rasa, baik manis maupun gurih, sehingga Anda dapat memilih sesuai dengan selera Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717262373/umkm/martabak%20darplok/6246854242556034244_121_wjdrpv.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Martabak Darplok Telur",
+          deskripsi:
+            "Martabak klasik dengan isian telur yang gurih dan renyah.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_e4OkNNW48xXVsM35RbXvih9nb-P4dGNjdDPYj9i_q06bhexo654gIjI0STa",
+        },
+        {
+          name: "Martabak Darplok Keju",
+          deskripsi:"Martabak dengan isian keju yang lumer di mulut dan gurih.",
+          price: "",
+          img: "https://img-global.cpcdn.com/recipes/fb242b56c8731a47/1200x630cq70/photo.jpg",
+        },
+        {
+          name: "Martabak Darplok Manis",
+          deskripsi: "Martabak dengan isian berbagai macam topping manis, seperti cokelat, kacang, pisang, dan lainnya.",
+          price: "",
+          img: "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1567699412/fqpmd9dkd6ar3vsqhlr1.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1231226505743!2d114.30002847505745!3d-8.290543991744203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd150c393e691df%3A0x4b23e3ebaf0fe565!2sJl.%20Lkr.%20Barat%20No.15%2C%20Sukadi%2C%20Labanasem%2C%20Kec.%20Kabat%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068461!5e0!3m2!1sen!2sid!4v1717261744473!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285859143140",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
 };
 
 export default dataRamzi;
