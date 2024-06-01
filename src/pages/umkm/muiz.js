@@ -1700,6 +1700,60 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-jagung": {
+    title: "Es Jagung",
+    icon: null,
+    navbarTitle: "Es Jagung",
+    ctaLink: "https://wa.me/6282338948654",
+
+    color: {
+      // required
+      primary: "bg-[#D7DE1E]",
+      secondary: "bg-[#DDDF95]",
+      backgroundColor: "bg-[#F9F9F4]",
+      hoverColor: "hover:bg-[#C0C700]",
+      textColor: "text-[#090906]",
+      btnTextColor: "text-[#090906]",
+      accentColor: "text-[#DCE066]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Alam, Manisnya Es Jagung",
+      deskripsi:
+        "Kami menggunakan jagung manis yang segar dan berkualitas sebagai bahan utama, yang diproses dengan hati-hati untuk mempertahankan cita rasa alami dan kaya nutrisinya. Es jagung kami disajikan dalam gelas besar, dengan tambahan susu kental manis yang menambahkan dimensi rasa yang khas dan kenikmatan ekstra.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717205151/umkm/es-jagung/photo1716885193_geo1f2.jpg",
+    },
+    about: {
+      title: "Aku mau",
+      txt: "Kesejukan Manis di Setiap Gigitan",
+
+      deskripsi:
+        "Rasakan kelezatan es jagung kami di setiap suapan, dan biarkan kesejukan manisnya menyapu dahaga Anda dalam sekejap.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717205152/umkm/es-jagung/photo1716885108_ftztix.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama kami",
+      // required
+      data: [
+        {
+          name: "Es Jagung",
+          deskripsi:
+            "Setiap tegukan es jagung membawa Anda merasakan kenikmatan musim panas yang menyegarkan, di mana rasa manis jagung dipadu dengan dinginnya es yang membuat tenggorokan Anda merasa sejuk.",
+          price: "Rp5.000",
+          img: "https://sumeks.disway.id/upload/d98aa9f1158ec82b5101a0b708daaa70.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082338948654",
+      alamat: "Pertigaan rel",
+    },
+  },
 };
 
 export default dataMuiz;
