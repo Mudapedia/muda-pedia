@@ -2119,6 +2119,61 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "seblak-mie": {
+    title: "Seblak Mie",
+    icon: null,
+    navbarTitle: "Seblak Mie",
+    ctaLink: "https://wa.me/6281215650494",
+
+    color: {
+      // required
+      primary: "bg-[#80E10C]",
+      secondary: "bg-[#FE98AD]",
+      backgroundColor: "bg-[#F7FEED]",
+      hoverColor: "hover:bg-[#6DC800]",
+      textColor: "text-[#0D1702]",
+      btnTextColor: "text-[#0D1702]",
+      accentColor: "text-[#F35676]",
+    },
+
+    hero: {
+      tagLine: "Ledakan Rasa Pedas dalam Setiap Suapan.",
+      deskripsi:
+        "Nikmati sensasi ledakan rasa pedas yang menggugah selera dengan Seblak Mie kami. Dibuat dari mie kenyal yang disiram dengan kuah pedas khas seblak, dipadukan dengan bumbu rempah yang kaya dan berbagai topping pilihan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717297468/umkm/seblak-mie/WhatsApp_Image_2024-05-27_at_15.18.43_d9874c53_no1vfc.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Nikmati Kelezatan Seblak Mie yang Menggugah Selera",
+
+      deskripsi:
+        "Dipadukan dengan berbagai bumbu dan rempah pilihan, Seblak Mie ini menawarkan rasa yang sempurna untuk Anda yang menyukai hidangan pedas. Setiap mangkuk Seblak Mie kami adalah perpaduan cita rasa pedas, gurih, dan nikmat yang sulit dilupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717297468/umkm/seblak-mie/WhatsApp_Image_2024-05-27_at_15.18.43_d9874c53_no1vfc.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Seblak Mie",
+          deskripsi:
+            "hidangan khas Indonesia yang memadukan mie kenyal dengan kuah pedas yang menggugah selera.",
+          price: null,
+          img: "https://www.herworld.co.id/gallery/teaser/seblak_anna_6720210610111700d8EN7m.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8243310643034!2d114.36630157500964!3d-8.22041449181212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNSJTIDExNMKwMjInMDguMCJF!5e0!3m2!1sid!2sid!4v1717298158029!5m2!1sid!2sid",
+    footer: {
+      noHp: "081215650494",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
