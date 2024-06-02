@@ -2050,6 +2050,75 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "kue-leker": {
+    title: "Kue Leker",
+    icon: null,
+    navbarTitle: "Kue Leker",
+    ctaLink: "https://wa.me/6281803467480",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Renyah di Setiap Gigitan",
+      deskripsi:
+        "Kue Leker, yang dikenal dengan teksturnya yang renyah dan isiannya yang lezat, adalah camilan tradisional yang selalu menggugah selera. Dibuat dengan adonan tipis yang digoreng hingga kecokelatan dan diisi dengan berbagai pilihan rasa seperti cokelat, keju, pisang, dan lainnya, setiap gigitan Kue Leker kami menawarkan perpaduan rasa manis dan gurih yang sempurna.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717296257/umkm/kue-leker/WhatsApp_Image_2024-05-27_at_15.18.08_551b0da7_zdwfew.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Renyah, Manis, Menggoda Selera",
+
+      deskripsi:
+        "Nikmati tekstur renyah dan rasa manis yang menyatu sempurna, memberikan pengalaman makan yang memanjakan lidah dan menyenangkan hati. Kue Leker kami siap menjadi teman setia di setiap momen spesial Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717296257/umkm/kue-leker/WhatsApp_Image_2024-05-27_at_15.18.07_a6ffbfcf_xeaquy.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Susu Coklat Keju",
+          deskripsi:
+            "Setiap gigitan menghadirkan perpaduan sempurna antara renyahnya adonan leker yang digoreng hingga kecokelatan, manisnya susu kental manis, coklat leleh yang melimpah, dan keju parut yang gurih.",
+          price: "Rp5.000",
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/09/30/2291723442.jpg",
+        },
+        {
+          name: "Susu Pisang Coklat Keju",
+          deskripsi:
+            "Dibuat dari adonan leker yang renyah, isian susu kental manis, potongan pisang segar, coklat leleh yang manis, dan keju parut yang gurih, menciptakan kombinasi rasa yang unik dan memikat.",
+          price: "Rp6.000",
+          img: "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/14e9b6c6-41c9-44f8-b234-613831453def_Go-Biz_20211113_163102.jpeg",
+        },
+        {
+          name: "Aneka Kue Kelar",
+          deskripsi:
+            "kami menyediakan beragam rasa yang siap memanjakan lidah Anda.",
+          price: null,
+          img: "https://www.senibudayabetawi.com/wp-content/uploads/2023/12/1613453545-Leker-pinterest-Bunda-Nina.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8243310643034!2d114.36630157500964!3d-8.22041449181212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNSJTIDExNMKwMjInMDguMCJF!5e0!3m2!1sid!2sid!4v1717297148793!5m2!1sid!2sid",
+    footer: {
+      noHp: "081803467480",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
