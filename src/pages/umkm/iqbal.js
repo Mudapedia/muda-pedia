@@ -298,6 +298,109 @@ const dataIqbal = {
       alamat: "Blambangan",
     },
   },
+  "twolek": {
+    title: "TwoLek Risoles Mayo Hotang & Corndog",
+    icon: null,
+    navbarTitle: "TwoLek",
+    ctaLink: "https://wa.me/628813505855",
+
+    color: {
+      // required
+      primary: "bg-[#e12d39]",
+      secondary: "bg-[#f5de84]",
+      backgroundColor: "bg-[#fbfaf1]",
+      hoverColor: "hover:bg-[#b8121d]",
+      textColor: "text-[#090303]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#f44450]",
+    },
+    hero: {
+      tagLine: "TwoLek Risoles Mayo Hotang & Corndog",
+      deskripsi: "Nikmati gurihnya Risoles Mayo, pedasnya Hotang, dan renyahnya Corndog. Camilan enak dan nikmat yang sempurna untuk setiap kesempatan. Coba sekarang dan rasakan kenikmatannya!",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717319223/umkm/twolek%20risoles%20mayo%20hotang%20dan%20corndog/foto1_jgs5yz.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo Jajan di TwoLek",
+      deskripsi: "Jangan Lewatkan! Dapatkan Risoles Mayo, Hotang & Corndog Enak & Nikmat di Twolek Sekarang Juga!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717319223/umkm/twolek%20risoles%20mayo%20hotang%20dan%20corndog/foto2_dmhjbl.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Varian Rasa",
+      // required
+      data: [
+        {
+          name: "Hotang Sosis",
+          deskripsi: null,
+          price: "Rp. 5000",
+          img: "https://akcdn.detik.net.id/visual/2020/03/13/91ec77bd-474b-481b-9294-88f41351af41_43.jpeg?w=720&q=90",
+        },
+        {
+          name: "Hotang Mozarella",
+          deskripsi: null,
+          price: "Rp. 5000",
+          img: "https://img2.biggo.com/syT7F9T2gJxfPYAI3LNpH1U-CUFTrwYHx6Ic_N2wqpDA/https://images.tokopedia.net/img/cache/700/VqbcmM/2022/8/16/b7961a88-dd34-425d-a6cf-c73aa7e76bb3.jpg",
+        },
+        {
+          name: "Corndog Sosis",
+          deskripsi: null,
+          price: "Rp. 5000",
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/10/3/10872934-a72a-4f87-adfa-8bd95d1fc033.jpg",
+        },
+        {
+          name: "Corndog Mozarella",
+          deskripsi: null,
+          price: "Rp. 5000",
+          img: "https://paxelmarket.co/wp-content/uploads/2022/10/Aloha-Frozen-Food-2022-10-03T152823.098.jpg",
+        },
+        {
+          name: "Risoles Mayo Sosis+keju",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://aslimasako.com/storage/post/new-title-22012024-065737.jpg",
+        },
+        {
+          name: "Risoles Mayo Beff+Telur",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://down-id.img.susercontent.com/file/id-11134207-7r98q-ls8do0yc3rnxa0",
+        },
+        {
+          name: "Risoles Mayo Original+Ayam",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/08/10/resep-risol-mayo-margo_43.jpeg?w=650",
+        },
+        {
+          name: "Lumpia",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://onolicioushawaii.com/wp-content/uploads/2022/08/lumpia-2-720x720.jpg",
+        },
+        {
+          name: "Martabak Mini",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://o-cdn-cas.sirclocdn.com/parenting/images/Martabak_Telur_Mini_Simpel.width-800.format-webp.webp",
+        },
+        {
+          name: "Pisang Coklat",
+          deskripsi: null,
+          price: "Rp. 3000",
+          img: "https://down-id.img.susercontent.com/file/a4f73343fa2010b1368dfe6d80357449",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d586.9963468200057!2d114.36872675348614!3d-8.220348264103173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sen!2sid!4v1717317020811!5m2!1sen!2sid",
+    footer: {
+      noHp: "08813505855",
+      alamat: "Jl. Letjen Sutoyo No.6, Tukangkayu (Depan Lapangan Scudetto Futsal Banyuwangi)",
+    },
+  },
 };
 
 export default dataIqbal;
