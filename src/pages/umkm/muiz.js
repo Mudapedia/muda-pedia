@@ -2174,6 +2174,61 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "lumpia-bidhag-oppa": {
+    title: "Lumpia Bidhag Oppa",
+    icon: null,
+    navbarTitle: "Lumpia Bidhag Oppa",
+    ctaLink: "https://wa.me/6281337549576",
+
+    color: {
+      // required
+      primary: "bg-[#E2AD9B]",
+      secondary: "bg-[#D0D499]",
+      backgroundColor: "bg-[#FDFCFB]",
+      hoverColor: "hover:bg-[#E0947A]",
+      textColor: "text-[#0E0806]",
+      btnTextColor: "text-[#0E0806]",
+      accentColor: "text-[#ADC77C]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Lumpia dengan Sentuhan Istimewa",
+      deskripsi:
+        "Nikmati kelezatan Lumpia Panggang Telur Bebek yang istimewa. Dibuat dengan bahan-bahan segar dan berkualitas, lumpia ini menghadirkan sensasi rasa yang unik dan menggugah selera. Kulit lumpia yang renyah dipadukan dengan isian telur bebek yang kaya akan protein, sayuran segar, dan bumbu pilihan, memberikan pengalaman kuliner yang tak terlupakan. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717298703/umkm/lumpia-bidhag-oppa/WhatsApp_Image_2024-05-27_at_15.19.41_45263097_mkfqzj.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Renyah di Luar, Lezat di Dalam",
+
+      deskripsi:
+        "Lumpia ini menawarkan perpaduan sempurna antara kulit yang renyah dan isian telur bebek yang lembut dan gurih.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717298703/umkm/lumpia-bidhag-oppa/WhatsApp_Image_2024-05-27_at_15.19.41_e79ab376_kfas4i.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Lumpia Tanggang Telur Bebek",
+          deskripsi:
+            "Setiap lumpia dibuat dengan kulit yang digoreng hingga renyah dan diisi dengan telur bebek yang memberikan rasa gurih yang khas.",
+          price: "Rp24.000",
+          img: "https://www.pasundanekspres.co/wp-content/uploads/2023/09/images-23.jpeg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sid!2sid!4v1717299427662!5m2!1sid!2sid",
+    footer: {
+      noHp: "081337549576",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
