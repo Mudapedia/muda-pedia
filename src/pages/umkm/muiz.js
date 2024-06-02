@@ -1995,6 +1995,61 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-jagung-jasuke": {
+    title: "Es Jagung Jasuke",
+    icon: null,
+    navbarTitle: "Es Jagung",
+    ctaLink: "https://wa.me/6282143955486",
+
+    color: {
+      // required
+      primary: "bg-[#D7DE1E]",
+      secondary: "bg-[#DDDF95]",
+      backgroundColor: "bg-[#F9F9F4]",
+      hoverColor: "hover:bg-[#C0C700]",
+      textColor: "text-[#090906]",
+      btnTextColor: "text-[#090906]",
+      accentColor: "text-[#DCE066]",
+    },
+
+    hero: {
+      tagLine: "Manisnya Segar, Kenikmatan Tiada Tara",
+      deskripsi:
+        "Nikmati manisnya segar dalam setiap tegukan Es Jagung kami. Terbuat dari jagung manis segar yang diolah dengan hati-hati, es serut yang lembut, dan sentuhan susu kental manis, Es Jagung kami menghadirkan kombinasi rasa yang sempurna.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717295330/umkm/es-jagung-jasuke/WhatsApp_Image_2024-05-27_at_15.17.29_1980fbd6_vijc6s.jpg",
+    },
+    about: {
+      title: "Aku mau",
+      txt: "Kesejukan Manis di Setiap Gigitan",
+
+      deskripsi:
+        "Kesegaran alami jagung berpadu dengan manisnya susu, menciptakan minuman yang menyegarkan dan penuh kenikmatan. Es Jagung kami adalah pilihan ideal untuk menyegarkan hari Anda dan memberikan pengalaman rasa yang tiada tara.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717295331/umkm/es-jagung-jasuke/WhatsApp_Image_2024-05-27_at_15.17.30_c28a4dbc_e1eqvo.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama kami",
+      // required
+      data: [
+        {
+          name: "Es Jagung",
+          deskripsi:
+            "Setiap tegukan es jagung membawa Anda merasakan kenikmatan musim panas yang menyegarkan, di mana rasa manis jagung dipadu dengan dinginnya es yang membuat tenggorokan Anda merasa sejuk.",
+          price: null,
+          img: "https://sumeks.disway.id/upload/d98aa9f1158ec82b5101a0b708daaa70.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8243310643034!2d114.36630157500964!3d-8.22041449181212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNSJTIDExNMKwMjInMDguMCJF!5e0!3m2!1sid!2sid!4v1717295553238!5m2!1sid!2sid",
+    footer: {
+      noHp: "082143955486",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
