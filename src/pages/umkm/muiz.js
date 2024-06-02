@@ -639,15 +639,16 @@ const dataMuiz = {
     },
     about: {
       title: "Tentang",
-      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+      txt: "Kenikmatan Tradisional dalam Setiap Tegukan",
 
-      deskripsi: null, // optional
+      deskripsi:
+        "Setiap gelas Es Dawet kami membawa Anda kembali ke manisnya kenangan masa lalu. Dengan perpaduan santan segar, gula merah yang manis, dan dawet yang kenyal, Es Dawet kami menawarkan rasa yang autentik dan menyegarkan.", // optional
       img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124316/umkm/es-dawet-ayu/photo1716684420_inlnqz.jpg",
       btn: true, // optional
       btnText: "Pesan sekarang",
     },
     product: {
-      title: "required",
+      title: "Produk Utama",
       // required
       data: [
         {
@@ -663,13 +664,6 @@ const dataMuiz = {
             "Rasakan kelezatan autentik dengan Es Dawet Manis, minuman tradisional yang menawarkan rasa manis alami dari gula merah pilihan.",
           price: null,
           img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124591/umkm/es-dawet-ayu/maxresdefault_c1gqa0.jpg",
-        },
-        {
-          name: "Aneka Es Dawet",
-          deskripsi:
-            "Kami menawarkan berbagai pilihan es dawet yang memadukan cita rasa klasik dengan sentuhan modern.",
-          price: null,
-          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124753/umkm/es-dawet-ayu/1bb4f441-aeec-4bb2-a26b-c9563149e771_Go-Biz_20210526_104012_jxdzo8.webp",
         },
       ],
     },
@@ -1944,6 +1938,61 @@ const dataMuiz = {
     footer: {
       noHp: "082143983284",
       alamat: "Pertigaan rel",
+    },
+  },
+  "es-dawet-ayu-khas-bwi": {
+    title: "Es Dawet Ayu Khas Bwi",
+    icon: null,
+    navbarTitle: "Es Dawet Ayu Khas Bwi",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#FFF435]",
+      secondary: "bg-[#F3ED82]",
+      backgroundColor: "bg-[#FEFEFB]",
+      hoverColor: "hover:bg-[#FCEF00]",
+      textColor: "text-[#131207]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#FAF03D]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Es Dawet Ayu Banyuwangi",
+      deskripsi:
+        "Nikmati kesegaran Es Dawet Ayu Khas Banyuwangi, minuman tradisional yang penuh dengan rasa dan kesegaran alami. Dibuat dari santan kelapa murni, gula merah asli, dan cendol kenyal, Es Dawet Ayu siap menyegarkan harimu dengan cita rasa khas yang otentik. Setiap tegukan adalah kombinasi sempurna dari manisnya gula merah dan lembutnya santan, menciptakan sensasi yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245515_121_bxkvg3.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kenikmatan Tradisional dalam Setiap Tegukan",
+
+      deskripsi:
+        "Setiap gelas Es Dawet kami membawa Anda kembali ke manisnya kenangan masa lalu. Dengan perpaduan santan segar, gula merah yang manis, dan dawet yang kenyal, Es Dawet kami menawarkan rasa yang autentik dan menyegarkan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245515_121_bxkvg3.jpg",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Dawet Segar",
+          deskripsi:
+            "Setiap tegukan memberikan sensasi dingin yang menyegarkan, cocok untuk menghilangkan dahaga di tengah hari yang panas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717124554/umkm/es-dawet-ayu/209419605-1767077453477383-2586162789757881782-n-3498b77de5c933a89d52721cf50d1384_esdqi3.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d7895.914963503121!2d114.20307622981025!3d-8.307024280890209!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjUuMyJTIDExNMKwMTInMTEuMSJF!5e0!3m2!1sid!2sid!4v1717290291485!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: null,
     },
   },
 };
