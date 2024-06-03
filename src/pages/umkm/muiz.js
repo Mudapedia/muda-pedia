@@ -2317,7 +2317,7 @@ const dataMuiz = {
       img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717389229/umkm/warung-podo-moro/WhatsApp_Image_2024-05-27_at_15.25.06_e3c9147c_nw28qs.jpg",
     },
     about: {
-      title: null,
+      title: "Tentang",
       txt: "Lebih dari Sekedar Toko Oleh-Oleh",
 
       deskripsi: null, // optional
@@ -2356,6 +2356,75 @@ const dataMuiz = {
       "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.62247948024!2d114.34862467500982!3d-8.240662891792516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnMDQuMyJF!5e0!3m2!1sid!2sid!4v1717389716928!5m2!1sid!2sid",
     footer: {
       noHp: "087879774443",
+      alamat: null,
+    },
+  },
+  "elva-lover": {
+    title: "Elva Lover",
+    icon: null,
+    navbarTitle: "Elva Lover",
+    ctaLink: "https://wa.me/6289621287061",
+
+    color: {
+      // required
+      primary: "bg-[#60C1F7]",
+      secondary: "bg-[#88C4E5]",
+      backgroundColor: "bg-[#F2F6F8]",
+      hoverColor: "hover:bg-[#40B7F9]",
+      textColor: "text-[#0C0F10]",
+      btnTextColor: "text-[#0C0F10]",
+      accentColor: "text-[#5DBBEE]",
+    },
+
+    hero: {
+      tagLine: "Cucian Bersih, Hidup Lebih Ringan",
+      deskripsi:
+        "Elva Lover menghadirkan layanan laundry yang lengkap dan terpercaya, meliputi cuci dan setrika, setrika saja, serta cuci kering. Kami menggunakan peralatan modern dan deterjen berkualitas untuk memastikan setiap pakaian Anda bersih, rapi, dan terawat dengan baik. Nikmati kenyamanan hidup tanpa repot mencuci dan menyetrika, karena Elva Lover siap membantu Anda menghemat waktu dan tenaga.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717390918/umkm/elva-lover/WhatsApp_Image_2024-05-27_at_15.26.03_4769d398_csn3uu.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Bersih Tanpa Ribet, Rapi Tanpa Repot",
+
+      deskripsi:
+        "Elva Lover menawarkan solusi praktis untuk semua kebutuhan laundry Anda dengan layanan cuci dan setrika, setrika saja, serta cuci kering.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717390918/umkm/elva-lover/WhatsApp_Image_2024-05-27_at_15.26.03_4769d398_csn3uu.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Layanan Kami",
+      // required
+      data: [
+        {
+          name: "Cuci dan Setrika",
+          deskripsi:
+            "Layanan cuci dan setrika dari Elva Lover memastikan pakaian Anda selalu dalam kondisi terbaik.",
+          price: null,
+          img: "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/10/07/80523493jpg-20211007075843.jpg",
+        },
+        {
+          name: "Setrika Saja",
+          deskripsi:
+            "Jika Anda sudah mencuci pakaian sendiri tetapi ingin hasil setrika yang sempurna, layanan setrika saja dari Elva Lover adalah solusinya. ",
+          price: null,
+          img: "https://asset.kompas.com/crops/QJ0Nr-BSUyjjJkcdoo4QNk-U42o=/0x0:0x0/750x500/data/photo/2022/04/19/625e813d4f831.jpg",
+        },
+        {
+          name: "Cuci Kering",
+          deskripsi:
+            "Elva Lover menawarkan layanan cuci kering yang profesional untuk pakaian dan bahan-bahan khusus yang memerlukan perawatan ekstra.",
+          price: null,
+          img: "https://www.jbranding.j-tech.co.id/assets/template1/images3/produk1.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6272182973025!2d114.3487597750098!3d-8.24018809179295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjQuNyJTIDExNMKwMjEnMDQuOCJF!5e0!3m2!1sid!2sid!4v1717390966511!5m2!1sid!2sid",
+    footer: {
+      noHp: "089621287061",
       alamat: null,
     },
   },
