@@ -2229,6 +2229,68 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "korean-street-food": {
+    title: "Korean Street Food",
+    icon: null,
+    navbarTitle: "Korean Street Food",
+    ctaLink: "https://wa.me/6282216335450",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Korea di Setiap Suapan",
+      deskripsi:
+        "Temukan kelezatan khas Korea di setiap suapan dengan Korean Street Food kami. Kami menawarkan beragam hidangan yang menggugah selera, terinspirasi dari keunikan dan cita rasa makanan jalanan Korea. Dengan bahan-bahan pilihan dan bumbu rempah khas, setiap sajian menghadirkan rasa yang autentik dan menggoda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717387049/umkm/korean-street-food/WhatsApp_Image_2024-05-27_at_15.20.46_3b60dfe8_qirzye.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Petualangan Rasa Korea dalam Setiap Gigitan",
+
+      deskripsi:
+        "Nikmati sensasi kuliner yang memanjakan lidah, membawa Anda seakan berjalan di jalan-jalan ramai Korea dengan setiap gigitan yang penuh kelezatan dan kehangatan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717387049/umkm/korean-street-food/WhatsApp_Image_2024-05-27_at_15.20.48_aa3a73b1_mna26i.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kimbab",
+          deskripsi:
+            "Terbuat dari nasi yang dibumbui dengan cuka, gula, dan garam, kemudian digulung dengan rumput laut panggang (nori), kimbab menawarkan perpaduan rasa yang lezat dan tekstur yang menyenangkan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717387049/umkm/korean-street-food/WhatsApp_Image_2024-05-27_at_15.20.49_084674ce_ola4lh.jpg",
+        },
+        {
+          name: "Onigiri",
+          deskripsi:
+            "Dibuat dari nasi putih yang dikepal hingga berbentuk segitiga atau bulat dan dibungkus dengan selembar rumput laut (nori)",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717387049/umkm/korean-street-food/WhatsApp_Image_2024-05-27_at_15.20.53_07549cc9_zki06d.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sid!2sid!4v1717387183475!5m2!1sid!2sid",
+    footer: {
+      noHp: "082216335450",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
