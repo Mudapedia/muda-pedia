@@ -35,7 +35,7 @@ const Product = ({
         {data.map((v, i) => (
           <div
             key={i}
-            className={`max-w-sm border border-gray-200 rounded-lg shadow relative pb-10 break-words w-full lg:w-80`}
+            className={`max-w-sm border border-gray-200 lg:w-80 rounded-lg shadow relative pb-10 break-words w-full`}
             style={{ backgroundColor: hexObj }}
           >
             <a href="#" className="">
