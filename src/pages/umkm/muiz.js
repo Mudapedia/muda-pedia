@@ -107,21 +107,21 @@ const dataMuiz = {
           name: "Susu Coklat",
           deskripsi:
             "Terbuat dari susu segar berkualitas tinggi yang dipadukan dengan coklat asli, memberikan rasa manis yang sempurna dan tekstur yang lembut.",
-          price: "Rp24.000",
+          price: null,
           img: "/img/andini-milk/5ed68b849aff4.jpg",
         },
         {
           name: "Susu Murni",
           deskripsi:
             "Susu Murni kami diolah dengan proses higienis untuk menjaga kualitas dan keaslian rasa.",
-          price: "Rp15.000",
+          price: null,
           img: "/img/andini-milk/2236214584.jpg",
         },
         {
           name: "Aneka Varian Susu",
           deskripsi:
             "Aneka Varian Susu Andini Milk tidak hanya menawarkan kenikmatan rasa yang beragam, tetapi juga memberikan manfaat kesehatan yang optimal.",
-          price: "Rp20.000",
+          price: null,
           img: "/img/andini-milk/bisnis-minuman-susu-aneka-rasa.jpg",
         },
       ],
