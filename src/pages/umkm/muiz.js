@@ -95,7 +95,7 @@ const dataMuiz = {
 
       deskripsi:
         "Dibuat dengan bahan-bahan alami terbaik, Andini Milk kaya akan vitamin, mineral, dan  kalsium yang dibutuhkan anak untuk tumbuh sehat dan kuat.", // optional
-      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      img: "/img/andini-milk/hero.jpeg",
       btn: true, // optional
       btnText: "Pesan sekarang",
     },
