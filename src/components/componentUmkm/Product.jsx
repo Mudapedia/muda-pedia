@@ -1,21 +1,54 @@
 /* eslint-disable react/prop-types */
 // eslint-disable-next-line react/prop-types
-const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
+import hexRgb from "hex-rgb";
+import { useEffect, useState } from "react";
+
+const Product = ({
+  product: { data, title },
+  color: { textColor, accentColor, primary },
+}) => {
+  const [hexObj, setHexObjs] = useState({});
+
+  useEffect(
+    function () {
+      let hexPrimary = primary.slice(4, -1);
+      hexPrimary = hexRgb(hexPrimary);
+
+      setHexObjs(
+        `rgba(${hexPrimary.red},${hexPrimary.green},${hexPrimary.blue},0.1)`
+      );
+    },
+    [primary]
+  );
   return (
     <section
       className={`${textColor} pt-10 pb-20 max-w-screen-lg mx-auto px-5`}
     >
-      <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl ">
-        Produk kami
-      </p>
-      <section className="gap-5 md:gap-10 lg:gap-20 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3">
+      {title ? (
+        <p className="text-center mb-4 text-3xl font-extrabold tracking-tight leading-none md:text-4xl xl:text-5xl ">
+          {title}
+        </p>
+      ) : (
+        ""
+      )}
+      <section className="gap-5 mt-10 lg:mt-32 w-fit grid md:grid-cols-2 lg:grid-cols-3 mx-auto">
         {data.map((v, i) => (
           <div
             key={i}
-            className="max-w-sm border border-gray-200 rounded-lg shadow"
+            className={`max-w-sm border border-gray-200 lg:w-80 rounded-lg shadow relative pb-10 break-words w-full`}
+            style={{ backgroundColor: hexObj }}
           >
-            <a href="#">
-              <img className="rounded-t-lg" src={v.img} alt />
+            <a href="#" className="">
+              <div
+                className="w-80 h-80 rounded-lg"
+                style={{
+                  background: `url(${v.img})`,
+                  backgroundPosition: "center",
+                  backgroundRepeat: "no-repeat",
+                  backgroundSize: "cover",
+                  
+                }}
+              ></div>
             </a>
             <div className="p-5">
               <a href="#">
@@ -31,7 +64,9 @@ const Product = ({ product: { data }, color: { textColor, accentColor } }) => {
                 ""
               )}
               {v.price ? (
-                <p className={`mb-3 text-xl ${accentColor} font-bold `}>
+                <p
+                  className={`mb-3 text-xl ${accentColor} font-bold absolute bottom-0`}
+                >
                   {v.price}
                 </p>
               ) : (
