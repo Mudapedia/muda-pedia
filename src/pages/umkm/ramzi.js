@@ -1148,6 +1148,132 @@ const dataRamzi = {
       alamat: "Rogojampi, Banyuwangi",
     },
   },
+  "kue-lumpur-lumer": {
+    title: "Kue Lumpur Lumer",
+    icon: null,
+    navbarTitle: "Kue Lumpur Lumer",
+    ctaLink: "tel:6285230799464",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Meleleh di Mulut, Manjakan Lidah",
+      deskripsi: "Kue Lumpur Lumer adalah toko yang menjual kue lumpur dengan tekstur lembut dan lumer di mulut.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392173/umkm/kue%20lumpur%20lumer/WhatsApp_Image_2024-06-03_at_11.19.38_ee11c6f4_ckujyi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lembutnya Meleleh, Manisnya Meluber",
+      deskripsi: "Dibuat dengan bahan-bahan berkualitas tinggi dan resep tradisional, Kue Lumpur Lumer menawarkan sensasi rasa yang istimewa dan tak terlupakan. Cocok dinikmati sebagai camilan ataupun hidangan penutup.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392174/umkm/kue%20lumpur%20lumer/WhatsApp_Image_2024-06-03_at_11.19.38_990c19fa_m3bmsv.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Kue Lumpur Kentang Klasik",
+          deskripsi:
+            "Kue lumpur klasik dengan tekstur lembut dan rasa manis gurih yang berasal dari kentang.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8Ryd9-yBle_f7K6foTlbABcZOy0lu2rW1o2moWN2Q-VedtRLE5V808tW0qx-T",
+        },
+        {
+          name: "Kue Lumpur Pandan",
+          deskripsi:"Kue lumpur dengan aroma dan rasa pandan yang khas, memberikan sensasi segar dan berbeda.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTatgM8esIqZHu6v-gUediA5WXWXCn-cAzMpkYWRjwVGzitlAj6VPANkRekGnGp",
+        },
+        {
+          name: "Kue Lumpur Coklat",
+          deskripsi: "Kue lumpur dengan rasa coklat yang浓郁 dan lumer di mulut, memanjakan para pecinta coklat.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLFt6NCyDnMKLZLmxzitV8lB-dwmKJRkcdDXwYxibxa7k5IOBIxMwOmfgebkyC",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sen!2sid!4v1717392356696!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285230799464",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+  "mr-coffee": {
+    title: "MR. Coffee",
+    icon: null,
+    navbarTitle: "MR. Coffee",
+    ctaLink: "tel:6282337902068",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Secangkir untuk Setiap Kebiasaan",
+      deskripsi: "Mr. Coffee adalah tempat ngopi yang nyaman dan bersahabat, menawarkan kopi berkualitas tinggi dengan cita rasa yang sesuai dengan preferensi Anda. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392263/umkm/mrcoffe/WhatsApp_Image_2024-06-03_at_11.19.39_1d788cf2_ssw3wt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Secangkir untuk Menemani Hari Anda",
+      deskripsi: "Kami menyediakan berbagai macam pilihan kopi, dari espresso klasik hingga minuman kopi kekinian, serta suasana yang pas untuk bersantai, bekerja, atau bertemu teman.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392263/umkm/mrcoffe/WhatsApp_Image_2024-06-03_at_11.19.39_a4704b8a_dgi6kz.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Kopi Tubruk Khas Nusantara",
+          deskripsi:
+            "Kopi robusta atau arabika single origin yang digiling halus dan diseduh dengan air panas, menghasilkan cita rasa kopi tradisional yang kuat dan nikmat.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQDLRb8qCHYqzyNAnYm34LmTVMkhwOQhSgjRp1uPqx21DMHYoZCfmF4MUQ2IW4",
+        },
+        {
+          name: "Kopi Susu Andalan",
+          deskripsi:"Kopi susu dengan signature blend khas Kopi Anda, perpaduan kopi espresso yang bold dengan susu segar yang creamy, cocok untuk penyuka kopi dengan sentuhan lembut.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1M59vf8YQgWV8tu7kUk7MwapGzR9GvCnSQiOaDiardw2Ul_WLfNRuz4vC-v3h",
+        },
+        {
+          name: "Iced Kopi Kekinian",
+          deskripsi: "Berbagai pilihan es kopi kekinian yang menyegarkan, seperti es kopi susu dengan varian rasa seperti vanilla, hazelnut, atau taro, serta es kopi dengan tambahan jelly atau popping boba.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAiF5xZ63aYW6JK1dBnskOw6pVQqn_ig300oTUQsnGGAl39dtkOwrxQYd5LHIR",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sen!2sid!4v1717392356696!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282337902068",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
 };
 
 export default dataRamzi;
