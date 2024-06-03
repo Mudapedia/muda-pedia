@@ -2428,6 +2428,75 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "eni-fried-chicken": {
+    title: "Eni Fried Chicken",
+    icon: null,
+    navbarTitle: "Eni Fried Chicken",
+    ctaLink: "https://wa.me/6282131780055",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kriuk Ayamnya, Segar Minumannya!",
+      deskripsi:
+        "Selamat datang di Eni Fried Chicken, tempat di mana kelezatan ayam goreng bertemu dengan kesegaran es teh. Ayam goreng kami terkenal dengan kulitnya yang renyah dan dagingnya yang juicy, dibuat dari bahan-bahan berkualitas dan bumbu rahasia yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392036/umkm/eni-fried-chicken/WhatsApp_Image_2024-05-27_at_15.26.33_5ba5cf2c_krjimu.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Gurih Ayamnya, Segarnya Es Tehnya",
+
+      deskripsi:
+        "Di Eni Fried Chicken, kami menghadirkan ayam goreng yang gurih dan lezat, dipadukan dengan es teh yang segar dan nikmat. Ayam goreng kami dimasak dengan sempurna, menghasilkan tekstur kulit yang kriuk dan daging yang lembut. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717392034/umkm/eni-fried-chicken/WhatsApp_Image_2024-05-27_at_15.26.32_848d0ad1_igfte4.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Paket yang Tersedia",
+      // required
+      data: [
+        {
+          name: "Paket Hemat 1",
+          deskripsi:
+            "Paket ini terdiri dari sayap ayam goreng yang renyah dan gurih, nasi putih hangat yang pulen, dan es teh segar yang menyegarkan.",
+          price: "Rp10.000",
+          img: "https://www.tobys.co.id/wp-content/uploads/2018/10/Paket-Mujur-2.png",
+        },
+        {
+          name: "Paket Hemat 2",
+          deskripsi:
+            "Paket ini terdiri dari pilihan antara dada atau paha ayam goreng yang garing di luar dan juicy di dalamnya, disajikan dengan nasi putih yang harum dan es teh segar yang menyegarkan.",
+          price: "Rp13.000",
+          img: "https://www.tobys.co.id/wp-content/uploads/2018/10/Paket-Mujur-1.png",
+        },
+        {
+          name: "Paket Hemat 3",
+          deskripsi:
+            "Dalam paket ini, Anda akan menemukan paha bawah ayam goreng yang lezat, dengan kulit yang renyah dan daging yang juicy, disajikan dengan nasi putih yang harum dan es teh segar yang menyegarkan.",
+          price: "Rp13.000",
+          img: "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e37927a7-7b31-4d63-97fe-7584b829e62d_Go-Biz_20210706_122009.jpeg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.617668525074!2d114.3495179750098!3d-8.24114489179206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjguMSJTIDExNMKwMjEnMDcuNSJF!5e0!3m2!1sid!2sid!4v1717391906996!5m2!1sid!2sid",
+    footer: {
+      noHp: "082131780055",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
