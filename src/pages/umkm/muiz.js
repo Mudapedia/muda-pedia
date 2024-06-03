@@ -2291,6 +2291,74 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "warung-podo-moro": {
+    title: "Warung Podo Moro",
+    icon: null,
+    navbarTitle: "Warung Podo Moro",
+    ctaLink: "https://wa.me/6287879774443",
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Setiap Momen dengan Kelezatan Asli",
+      deskripsi:
+        "Warung Podo Moro adalah tempat di mana setiap momen menjadi lebih spesial dengan kelezatan asli. Kami menawarkan beragam pilihan makanan yang menggugah selera, disiapkan dengan resep tradisional dan bahan-bahan terbaik. Setiap hidangan di Warung Podo Moro dibuat dengan perhatian dan keahlian, memastikan rasa yang otentik dan memuaskan. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717389229/umkm/warung-podo-moro/WhatsApp_Image_2024-05-27_at_15.25.06_e3c9147c_nw28qs.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lebih dari Sekedar Toko Oleh-Oleh",
+
+      deskripsi: null, // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717389231/umkm/warung-podo-moro/WhatsApp_Image_2024-05-27_at_15.25.09_3c253fe4_wnrmp6.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Nasi Pecel",
+          deskripsi:
+            "hidangan tradisional Indonesia yang terdiri dari nasi putih hangat, sayuran segar seperti bayam, kacang panjang, dan tauge, disiram dengan bumbu kacang pedas yang gurih.",
+          price: null,
+          img: "https://asset.kompas.com/crops/etxkCgz_0N5ZbdP6YGJScpobPVk=/60x23:959x622/750x500/data/photo/2020/11/05/5fa3f16d9c1cf.jpg",
+        },
+        {
+          name: "Nasi Campur",
+          deskripsi:
+            "Nasi Campur adalah sajian lengkap yang memadukan nasi putih dengan berbagai lauk seperti ayam goreng, telur, tahu, tempe, sambal, dan lalapan segar.",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2023/02/07/nasi-campur-bali-3_169.png?w=1200",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Minuman kami dibuat dari bahan-bahan berkualitas, menawarkan kesegaran yang sempurna untuk menemani hidangan Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717389232/umkm/warung-podo-moro/WhatsApp_Image_2024-05-27_at_15.25.09_8da99211_ebqalm.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.62247948024!2d114.34862467500982!3d-8.240662891792516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnMDQuMyJF!5e0!3m2!1sid!2sid!4v1717389716928!5m2!1sid!2sid",
+    footer: {
+      noHp: "087879774443",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
