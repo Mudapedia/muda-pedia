@@ -2285,7 +2285,7 @@ const dataMuiz = {
       ],
     },
     location:
-      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sid!2sid!4v1717387183475!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240522793367!2d114.36662927500957!3d-8.220442491812046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMDkuMSJF!5e0!3m2!1sid!2sid!4v1717388456773!5m2!1sid!2sid",
     footer: {
       noHp: "082216335450",
       alamat: null,
