@@ -2945,7 +2945,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Dafi Juice",
     ctaLink: "https://wa.me/6281294710011",
-    keyword: [],
+    keyword: [
+      "Dafi Juice",
+      "Tea Series",
+      "Milk Tea Series",
+      "Macchiato Series",
+      "Minuman Segar",
+      "Minuman Teh",
+      "Minuman Susu",
+      "Minuman Es",
+      "Minuman Panas",
+      "Minuman Berbagai Rasa",
+    ],
 
     color: {
       // required
