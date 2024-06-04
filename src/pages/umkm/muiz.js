@@ -166,7 +166,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Aneka Es",
     ctaLink: null,
-
+    keyword: [
+      "Aneka Es",
+      "Es capcin",
+      "Es kopyor",
+      "Es kuwutmelon",
+      "Es buah",
+      "Es campur",
+      "Minuman segar",
+      "Minuman es khas",
+    ],
     color: {
       // required
       primary: "bg-[#F87171]",
@@ -235,6 +244,21 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Kedai Cak Ndut Tar",
     ctaLink: null,
+    keyword: [
+      "Kedai Cak Ndut Tar",
+      "Es teh",
+      "Jeruk peras",
+      "Alpukat kocok",
+      "Mangga kocok",
+      "Durian kocok",
+      "Naga kocok",
+      "Minuman es",
+      "Es segar",
+      "Es buah",
+      "Es campur",
+      "Minuman segar",
+      "Minuman buah",
+    ],
 
     color: {
       // required
@@ -304,6 +328,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Gorengan Mabang",
     ctaLink: "https://wa.me/6285233826271",
+    keyword: [
+      "Toko Gorengan Mabang",
+      "Gedang goreng",
+      "Weci",
+      "Gorengan",
+      "Jajanan gorengan",
+      "Gorengan khas",
+      "Gorengan tradisional",
+      "Gorengan crispy",
+      "Makanan gorengan",
+    ],
 
     color: {
       // required
@@ -373,6 +408,15 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Siomay Titin",
     ctaLink: "https://wa.me/6281230479947",
+    keyword: [
+      "Toko Siomay Titin",
+      "Siomay",
+      "Siomay udang",
+      "Siomay ikan",
+      "Siomay ayam",
+      "Siomay sayur",
+      "Variasi siomay",
+    ],
 
     color: {
       // required
@@ -441,6 +485,19 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Tahu Bulat",
     ctaLink: "https://wa.me/6283136585497",
+    keyword: [
+      "Toko Tahu Bulat",
+      "Tahu bulat",
+      "Tahu buat",
+      "Cimol",
+      "Sotong",
+      "Makanan ringan",
+      "Makanan khas",
+      "Cemilan",
+      "Variasi tahu",
+      "Cimol enak",
+      "Sotong renyah",
+    ],
 
     color: {
       // required
@@ -510,6 +567,17 @@ const dataMuiz = {
     icon: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717122182/umkm/es-dawet/images_jopvos.jpg",
     navbarTitle: "Es Dawet",
     ctaLink: "https://wa.me/6282132624952",
+    keyword: [
+      "Toko Es Dawet Lemahbang",
+      "Es dawet",
+      "Es dawet lezat",
+      "Es dawet segar",
+      "Es dawet tradisional",
+      "Es dawet nikmat",
+      "Es dawet khas",
+      "Es dawet homemade",
+      "Variasi es dawet",
+    ],
 
     color: {
       // required
@@ -577,6 +645,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Kopi",
     ctaLink: "tel:6281230479947",
+    keyword: [
+      "Warung Kopi",
+      "Kopi",
+      "Kopi hitam",
+      "Kopi susu",
+      "Kopi latte",
+      "Minuman kopi",
+      "Jajanan",
+      "Minuman",
+    ],
 
     color: {
       // required
@@ -645,6 +723,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Dawet Ayu",
     ctaLink: null,
+    keyword: [
+      "Toko Es Dawet Ayu",
+      "Es dawet",
+      "Es dawet lezat",
+      "Es dawet segar",
+      "Es dawet tradisional",
+      "Es dawet nikmat",
+      "Es dawet khas",
+      "Es dawet homemade",
+      "Variasi es dawet",
+    ],
 
     color: {
       // required
@@ -707,6 +796,19 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Madu Murni",
     ctaLink: null,
+    keyword: [
+      "Madu Murni Klanceng",
+      "Madu Klanceng",
+      "Madu murni",
+      "Madu asli",
+      "Madu alami",
+      "Madu organik",
+      "Madu berkualitas",
+      "Madu tradisional",
+      "Madu pilihan",
+      "Madu lezat",
+      "Madu khas Indonesia",
+    ],
 
     color: {
       // required
@@ -738,7 +840,7 @@ const dataMuiz = {
       btnText: "Order yuk",
     },
     product: {
-      title: "required",
+      title: "Terlaris",
       // required
       data: [
         {
@@ -769,6 +871,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Isun",
     ctaLink: "https://wa.me/6285204990058",
+    keyword: [
+      "Warung Isun",
+      "Sego Tempong",
+      "Ketoprak",
+      "Es Teh",
+      "Makanan Jawa",
+      "Makanan tradisional",
+      "Makanan khas Indonesia",
+      "Makanan ringan",
+      "Minuman segar",
+      "Minuman tradisional",
+    ],
 
     color: {
       // required
@@ -800,7 +914,7 @@ const dataMuiz = {
       btnText: "Order yuk",
     },
     product: {
-      title: "required",
+      title: "Terlaris",
       // required
       data: [
         {
@@ -838,6 +952,15 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Lumpur Lumer",
     ctaLink: "https://wa.me/6281239028659",
+    keyword: [
+      "Lumpur Lumer",
+      "Lumpur Manis",
+      "Makanan Manis",
+      "Makanan Tradisional",
+      "Makanan Khas",
+      "Jajanan Manis",
+      "Jajanan Tradisional",
+    ],
 
     color: {
       // required
@@ -893,6 +1016,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Salad Buah",
     ctaLink: "https://wa.me/6281252886592",
+    keyword: [
+      "Salad Buah",
+      "Buah Segar",
+      "Salad Segar",
+      "Makanan Sehat",
+      "Makanan Ringan",
+      "Makanan Buah",
+      "Menu Buah",
+      "Hidangan Buah",
+      "Makanan Salad",
+      "Hidangan Salad",
+    ],
 
     color: {
       // required
@@ -948,6 +1083,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Bakso Sempol",
     ctaLink: "https://wa.me/6281236779113",
+    keyword: [
+      "Bakso Sempol",
+      "Sempol",
+      "Bakso",
+      "Makanan Sempol",
+      "Makanan Bakso",
+      "Makanan Tradisional",
+      "Makanan Khas",
+      "Jajanan Bakso",
+      "Jajanan Sempol",
+    ],
 
     color: {
       // required
@@ -1010,6 +1156,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Roti Golek",
     ctaLink: "https://wa.me/6281321837223",
+    keyword: [
+      "Roti Golek",
+      "Aneka Donat",
+      "Donat",
+      "Roti",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Makanan Khas",
+      "Jajanan Roti",
+      "Jajanan Donat",
+    ],
 
     color: {
       // required
@@ -1079,6 +1236,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Alya Dimsum",
     ctaLink: "https://wa.me/6282331840452",
+    keyword: [
+      "Alya Dimsum",
+      "Dimsum",
+      "Makanan Dimsum",
+      "Makanan Khas",
+      "Makanan Cina",
+      "Makanan Tradisional",
+      "Jajanan Dimsum",
+      "Dimsum Segar",
+      "Menu Dimsum",
+    ],
 
     color: {
       // required
@@ -1134,6 +1302,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Lumpia dan Martabak",
     ctaLink: "https://wa.me/6285704084569",
+    keyword: [
+      "Lumpia",
+      "Martabak",
+      "Makanan Tradisional",
+      "Makanan Ringan",
+      "Jajanan Tradisional",
+      "Jajanan Ringan",
+      "Lumpia Segar",
+      "Martabak Manis",
+    ],
 
     color: {
       // required
@@ -1197,6 +1375,18 @@ const dataMuiz = {
     icon: "https://w7.pngwing.com/pngs/28/586/png-transparent-tayo-the-little-bus-season-1-birthday-cake-birthday-cake-bus-compact-car-blue-game-thumbnail.png",
     navbarTitle: "Ice Cream Tayo Cup",
     ctaLink: "https://wa.me/6282247231381",
+    keyword: [
+      "Ice Cream Tayo Cup",
+      "Varian Rasa Ice Cream",
+      "Vanila",
+      "Coklat",
+      "Strawberry",
+      "Es Krim Tayo Cup",
+      "Es Krim Varian Rasa",
+      "Es Krim Vanila",
+      "Es Krim Coklat",
+      "Es Krim Strawberry",
+    ],
 
     color: {
       // required
@@ -1266,6 +1456,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Lapak DDD",
     ctaLink: "https://wa.me/6285232152837",
+    keyword: [
+      "Lapak DDD",
+      "Usus",
+      "Baby Crab",
+      "Corndog",
+      "Makanan Ringan",
+      "Makanan Seafood",
+      "Jajanan",
+      "Jajanan Unik",
+      "Makanan Gorengan",
+      "Jajanan Gorengan",
+    ],
 
     color: {
       // required
@@ -1334,6 +1536,19 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Mbak Ririn",
     ctaLink: "https://wa.me/6282338685264",
+    keyword: [
+      "Warung Mbak Ririn",
+      "Sego Pecel",
+      "Bakso",
+      "Mie Goreng",
+      "Makanan Tradisional",
+      "Makanan Warung",
+      "Makanan Ringan",
+      "Makanan Jawa",
+      "Makanan Khas",
+      "Jajanan",
+      "Jajanan Warung",
+    ],
 
     color: {
       // required
@@ -1410,6 +1625,20 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Rumah Buah",
     ctaLink: "https://wa.me/6285288787106",
+    keyword: [
+      "Rumah Buah",
+      "Melon",
+      "Semangka",
+      "Buah Segar",
+      "Buah Potong",
+      "Buah Import",
+      "Buah Lokal",
+      "Buah Segar",
+      "Buah Tropis",
+      "Buah Segar Rumah",
+      "Buah Import Rumah",
+      "Buah Lokal Rumah",
+    ],
 
     color: {
       // required
@@ -1472,6 +1701,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Istana Buah",
     ctaLink: null,
+    keyword: [
+      "Istana Buah",
+      "Jeruk",
+      "Duku",
+      "Buah Segar",
+      "Buah Tropis",
+      "Buah Lokal",
+      "Buah Segar Istana",
+      "Buah Tropis Istana",
+      "Buah Lokal Istana",
+    ],
 
     color: {
       // required
@@ -1534,6 +1774,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Sari Tebu",
     ctaLink: null,
+    keyword: [
+      "Es Sari Tebu",
+      "Es Tebu",
+      "Minuman Tebu",
+      "Es Segar",
+      "Minuman Tradisional",
+      "Minuman Segar",
+      "Minuman Khas",
+      "Es Segar Tebu",
+    ],
 
     color: {
       // required
@@ -1589,6 +1839,22 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Bang Cahyo",
     ctaLink: "https://wa.me/6282150274752",
+    keyword: [
+      "Warung Bang Cahyo",
+      "Aneka Bakso",
+      "Bakso Mercon",
+      "Aneka Nasi",
+      "Nasi Tempong",
+      "Aneka Minuman",
+      "Es Teh",
+      "Makanan Ringan",
+      "Makanan Warung",
+      "Makanan Khas",
+      "Jajanan",
+      "Jajanan Warung",
+      "Minuman Segar",
+      "Minuman Tradisional",
+    ],
 
     color: {
       // required
@@ -1658,6 +1924,19 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Kedai Cemal Cemil",
     ctaLink: "https://wa.me/6282143181979",
+    keyword: [
+      "Kedai Cemal Cemil",
+      "Ayam Geprek",
+      "Tahu Walik",
+      "Es Teh",
+      "Makanan Ringan",
+      "Makanan Warung",
+      "Makanan Khas",
+      "Jajanan",
+      "Jajanan Warung",
+      "Minuman Segar",
+      "Minuman Tradisional",
+    ],
 
     color: {
       // required
@@ -1727,6 +2006,15 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Jagung",
     ctaLink: "https://wa.me/6282338948654",
+    keyword: [
+      "Es Jagung",
+      "Minuman Jagung",
+      "Es Segar",
+      "Minuman Tradisional",
+      "Minuman Segar",
+      "Minuman Jagung Segar",
+      "Es Jagung Segar",
+    ],
 
     color: {
       // required
@@ -1781,6 +2069,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Dawet Aqil Khas Bwi",
     ctaLink: "https://wa.me/6287773232961",
+    keyword: [
+      "Es Dawet Aqil",
+      "Es Dawet Aqil Banyuwangi",
+      "Es Dawet Khas Banyuwangi",
+      "Minuman Dawet",
+      "Es Segar",
+      "Minuman Tradisional",
+      "Minuman Segar",
+      "Minuman Dawet Segar",
+      "Es Dawet Segar",
+    ],
 
     color: {
       // required
@@ -1836,6 +2135,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Bakso Suroso",
     ctaLink: "https://wa.me/6283841675572",
+    keyword: [
+      "Bakso Suroso",
+      "Bakso",
+      "Tahu Pentol",
+      "Makanan Bakso",
+      "Makanan Ringan",
+      "Makanan Warung",
+      "Jajanan",
+      "Jajanan Warung",
+    ],
 
     color: {
       // required
@@ -1904,6 +2213,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Aroma",
     ctaLink: "https://wa.me/6282143983284",
+    keyword: [
+      "Warung Aroma",
+      "Rujak Lontong",
+      "Nasi Tempong",
+      "Tempe Penyet",
+      "Makanan Tradisional",
+      "Makanan Warung",
+      "Jajanan",
+      "Jajanan Warung",
+    ],
 
     color: {
       // required
@@ -1973,7 +2292,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Dawet Ayu Khas Bwi",
     ctaLink: null,
-
+    keyword: [
+      "Es Dawet Ayu",
+      "Es Dawet Ayu Banyuwangi",
+      "Es Dawet Khas Banyuwangi",
+      "Minuman Dawet",
+      "Es Segar",
+      "Minuman Tradisional",
+      "Minuman Segar",
+      "Minuman Dawet Segar",
+      "Es Dawet Segar",
+    ],
     color: {
       // required
       primary: "bg-[#FFF435]",
@@ -2028,6 +2357,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Jagung",
     ctaLink: "https://wa.me/6282143955486",
+    keyword: [
+      "Es Jagung Jasuke",
+      "Es Jagung Jasuke Segar",
+      "Es Jagung Segar",
+      "Minuman Tradisional",
+      "Minuman Segar",
+      "Minuman Jagung Segar",
+      "Es Jagung Segar",
+      "Es Segar",
+    ],
 
     color: {
       // required
@@ -2083,7 +2422,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Kue Leker",
     ctaLink: "https://wa.me/6281803467480",
-
+    keyword: [
+      "Kue Leker",
+      "Kue Tradisional",
+      "Jajanan",
+      "Jajanan Tradisional",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Cemilan",
+      "Kue Kering",
+    ],
     color: {
       // required
       primary: "bg-[#F87171]",
@@ -2152,6 +2500,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Seblak Mie",
     ctaLink: "https://wa.me/6281215650494",
+    keyword: [
+      "Seblak Mie",
+      "Makanan Ringan",
+      "Makanan Pedas",
+      "Makanan Khas",
+      "Makanan Jawa",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Jajanan Pedas",
+      "Cemilan",
+    ],
 
     color: {
       // required
@@ -2207,6 +2566,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Lumpia Bidhag Oppa",
     ctaLink: "https://wa.me/6281337549576",
+    keyword: [
+      "Lumpia Bidag Oppa",
+      "Lumpia Panggang Telur Bebek",
+      "Makanan Ringan",
+      "Makanan Khas",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Jajanan Khas",
+      "Jajanan Tradisional",
+      "Cemilan",
+      "Lumpia Panggang",
+    ],
 
     color: {
       // required
@@ -2262,6 +2633,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Korean Street Food",
     ctaLink: "https://wa.me/6282216335450",
+    keyword: [
+      "Korean Street Food",
+      "Makanan Korea",
+      "Kimbab",
+      "Onigiri",
+      "Makanan Jepang",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Cemilan",
+    ],
 
     color: {
       // required
@@ -2324,6 +2706,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Warung Podo Moro",
     ctaLink: "https://wa.me/6287879774443",
+    keyword: [
+      "Warung Podo Moro",
+      "Nasi Pecel",
+      "Nasi Campur",
+      "Kopi",
+      "Minuman Kemasan",
+      "Minuman Tradisional",
+      "Makanan Warung",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Jajanan Warung",
+    ],
 
     color: {
       // required
@@ -2354,7 +2748,7 @@ const dataMuiz = {
       btnText: "Order yuk",
     },
     product: {
-      title: "required",
+      title: "Terlaris",
       // required
       data: [
         {
@@ -2392,6 +2786,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Elva Lover",
     ctaLink: "https://wa.me/6289621287061",
+    keyword: [
+      "Elva Lover",
+      "Laundry",
+      "Cuci Setrika",
+      "Cuci Kering",
+      "Setrika Saja",
+      "Layanan Laundry",
+      "Layanan Cuci Setrika",
+      "Layanan Cuci Kering",
+      "Layanan Setrika Saja",
+    ],
 
     color: {
       // required
@@ -2461,6 +2866,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Eni Fried Chicken",
     ctaLink: "https://wa.me/6282131780055",
+    keyword: [
+      "Eni Fried Chicken",
+      "Ayam Goreng",
+      "Nasi Ayam Goreng",
+      "Es Teh",
+      "Makanan Warung",
+      "Minuman Segar",
+      "Dada Ayam",
+      "Ayam",
+    ],
 
     color: {
       // required
