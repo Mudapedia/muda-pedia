@@ -3116,6 +3116,68 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "ken's-fried-chicken": {
+    title: "Ken's Fried Chicken",
+    icon: null,
+    navbarTitle: "Ken's Fried Chicken",
+    ctaLink: "https://wa.me/6283854262290",
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Rasa Geprek Yang Memikat, Hanya di Ken's Fried Chicken!",
+      deskripsi:
+        "Sambut cita rasa yang menggugah selera di Ken's Fried Chicken, tempat di mana rasa geprek yang memikat bertemu dengan kenikmatan sejati. Dibuat dengan teliti dan bumbu-bumbu pilihan, setiap suapan chicken geprek kami adalah pengalaman yang tak terlupakan. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717486371/umkm/ken%27s-fried-chicken/WhatsApp_Image_2024-05-27_at_15.28.03_cdb541c9_u6jty7.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Rasa Geprek yang Menggoda di Ken's Fried Chicken!",
+
+      deskripsi:
+        "tempat di mana cita rasa pedas dan renyah bertemu dalam setiap gigitan! Kami menyajikan chicken geprek yang diolah dengan sempurna, dicampur dengan bumbu-bumbu khas yang memikat lidah Anda. Setiap suapan membawa Anda pada petualangan rasa yang tiada duanya. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717486373/umkm/ken%27s-fried-chicken/WhatsApp_Image_2024-05-27_at_15.28.02_9f3fb523_ycyq6g.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Terlaris",
+      // required
+      data: [
+        {
+          name: "Geprek",
+          deskripsi:
+            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+          price: null,
+          img: "https://www.jagel.id/api/listimage/v/Chicken-Geprek-Dada-Pakai-Nasi-0-625622a0de1dcc70.jpg",
+        },
+        {
+          name: "Original Ayam",
+          deskripsi:
+            "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
+          price: null,
+          img: "https://img.okezone.com/content/2016/03/13/298/1334743/ayam-goreng-krispy-original-yang-crunchy-aKEvV4wiod.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "083854262290",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
