@@ -3014,9 +3014,105 @@ const dataMuiz = {
         },
       ],
     },
-    location: null,
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.621245826262!2d114.34882397500981!3d-8.24078649179241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuOCJTIDExNMKwMjEnMDUuMCJF!5e0!3m2!1sid!2sid!4v1717484766346!5m2!1sid!2sid",
     footer: {
       noHp: "081294710011",
+      alamat: null,
+    },
+  },
+  "bakso-mas-bluud": {
+    title: "Bakso Mas Bluud",
+    icon: null,
+    navbarTitle: "Bakso Mas Bluud",
+    ctaLink: "https://wa.me/6289523089619",
+    keyword: [
+      "Bakso Mas Bluud",
+      "Bakso",
+      "Es Campur",
+      "Es Teh",
+      "Es Jagung",
+      "Kelezatan Sejati",
+      "Juicy Bakso",
+      "Es Segar",
+      "Resep Turun Temurun",
+      "Kualitas Terbaik",
+      "Rasa Autentik",
+      "Rasa Gurih",
+      "Hidangan Lezat",
+      "Es Campur Segar",
+      "Es Teh Menyegarkan",
+      "Es Jagung Menggugah Selera",
+      "Nikmati Kelezatan",
+    ],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Kenikmatan Sejati, Hanya di Bakso Mas Bluud!",
+      deskripsi:
+        "Sambutlah sensasi lezat di Bakso Mas Bluud, tempat di mana cita rasa bertemu dengan kualitas terbaik. Dari bakso lezat hingga es campur segar, dan dari es teh yang menyegarkan hingga es jagung yang menggugah selera, kami hadir untuk memanjakan lidah Anda. Dibuat dengan resep turun-temurun dan bahan-bahan pilihan, setiap hidangan kami menawarka",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717485039/umkm/bakso-mas-bluud/WhatsApp_Image_2024-05-27_at_15.27.31_20629c07_z0cavj.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan Sejati Dalam Setiap Gigitan di Bakso Mas Bluud!",
+
+      deskripsi:
+        "tempat di mana kelezatan sejati menanti Anda di setiap gigitan. Dari bakso yang juicy dan es campur segar hingga es teh yang menyegarkan dan es jagung yang menggugah selera, kami menawarkan hidangan-hidangan berkualitas terbaik untuk memuaskan selera Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717485040/umkm/bakso-mas-bluud/WhatsApp_Image_2024-05-27_at_15.27.30_e259817e_svgplk.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Bakso",
+          deskripsi:
+            "Dibuat dengan daging sapi pilihan yang diolah secara hati-hati dan dicampur dengan bumbu-bumbu rahasia, setiap gigitan bakso membawa Anda dalam perjalanan rasa yang menggoda.",
+          price: null,
+          img: "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/08/07/1325166108.jpg",
+        },
+        {
+          name: "Es campur",
+          deskripsi:
+            "Campuran potongan buah segar seperti alpukat, kelapa muda, nangka, dan cincau, ditambah dengan siraman sirup gula merah dan susu kental manis, menciptakan harmoni rasa yang menyegarkan.",
+          price: null,
+          img: "https://cdn.idntimes.com/content-images/post/20230313/snapinstaapp-1080-334056373-3264681077155639-2302502582493351773-n-a63753c9fe4136bbc3158168993d7409.jpg",
+        },
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Kesegaran es teh mampu memuaskan dahaga Anda dan memberikan aroma bunga dan cita rasa yang menenangkan, sempurna untuk dinikmati kapan pun dan di mana pun.",
+          price: null,
+          img: "https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg",
+        },
+        {
+          name: "Es Jagung",
+          deskripsi:
+            "Butiran jagung manis yang lembut, direndam dalam sirup gula dan disajikan dengan es batu, menciptakan kombinasi yang sempurna antara manis, segar, dan kenyal.",
+          price: null,
+          img: "https://www.jagel.id/api/listimage/v/Es-Jagung-Original-0-8055ff96fb962342.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6244167589884!2d114.34834877500973!3d-8.24046879179268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjUuNyJTIDExNMKwMjEnMDMuMyJF!5e0!3m2!1sid!2sid!4v1717485742274!5m2!1sid!2sid",
+    footer: {
+      noHp: "089523089619",
       alamat: null,
     },
   },
