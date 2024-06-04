@@ -4,6 +4,23 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Dewa Dewi Oleh-Oleh",
     ctaLink: "tel:6282142515874",
+    keyword: [
+      "Dewa Dewi Oleh-Oleh",
+      "Oleh-oleh khas Banyuwangi",
+      "Madu Mongso",
+      "Pisang Lumer",
+      "Nastar Nanas",
+      "Toko oleh-oleh Banyuwangi",
+      "Oleh-oleh tradisional",
+      "Oleh-oleh kekinian",
+      "Cemilan khas Banyuwangi",
+      "Kuliner Banyuwangi",
+      "Oleh-oleh makanan",
+      "Pusat oleh-oleh Banyuwangi",
+      "Kue nastar nanas",
+      "Pisang lumer khas",
+      "Madu mongso lezat",
+    ],
 
     color: {
       primary: "bg-[#F87171]",
@@ -69,6 +86,17 @@ const dataMuiz = {
     icon: "/img/andini-milk/logo.jpg",
     navbarTitle: "Andini Milk",
     ctaLink: "https://wa.me/6281335679197",
+    keyword: [
+      "Andini Milk",
+      "Susu murni",
+      "Susu sapi",
+      "Varian rasa susu",
+      "Susu segar",
+      "Susu berkualitas",
+      "Minuman sehat",
+      "Susu kaya nutrisi",
+      "Susu lezat",
+    ],
 
     color: {
       // required

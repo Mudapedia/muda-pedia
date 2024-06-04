@@ -7,6 +7,7 @@ import OnlyLogin from "./utililty/OnlyLogin";
 import Blog from "./pages/Blog";
 import DetailBlog from "./pages/DetailBlog";
 import Umkm from "./pages/umkm/Umkm";
+import CheckDomain from "./pages/CheckDomain";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/:article" element={<DetailBlog />} />
 
+        <Route path="/cek-domain" element={<CheckDomain />} />
         <Route path="/:umkm" element={<Umkm />} />
       </Routes>
     </BrowserRouter>
