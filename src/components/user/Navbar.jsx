@@ -14,9 +14,9 @@ import {
 import AcmeLogo from "../AcmeLogo.jsx";
 
 const NavigationBar = () => {
-  let showMenu = true
-  if(window.location.pathname === '/blog'){
-    showMenu = false
+  let showMenu = true;
+  if (window.location.pathname === "/blog") {
+    showMenu = false;
   }
 
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -30,7 +30,10 @@ const NavigationBar = () => {
       onMenuOpenChange={setIsMenuOpen}
       maxWidth="xl"
     >
-      <NavbarContent className={`${showMenu ? '' : 'hidden'} sm:hidden gap-0` } justify="start">
+      <NavbarContent
+        className={`${showMenu ? "" : "hidden"} sm:hidden gap-0`}
+        justify="start"
+      >
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
         />
@@ -46,7 +49,10 @@ const NavigationBar = () => {
       </NavbarContent>
 
       <NavbarContent justify="end">
-        <NavbarContent justify="end" className={`hidden sm:${showMenu?'flex':''}`}>
+        <NavbarContent
+          justify="end"
+          className={`hidden sm:${showMenu ? "flex" : ""}`}
+        >
           <NavbarItem>
             <Link
               color="foreground"
@@ -105,7 +111,9 @@ const NavigationBar = () => {
         <NavbarItem>
           <Button
             size="lg"
-            onClick={()=>{open("https://linktr.ee/Muda_Pedia")}}
+            onClick={() => {
+              open("https://linktr.ee/Muda_Pedia");
+            }}
             variant="flat"
             className="bg-[#4F5CDF] text-cyan-50 rounded-full text-sm py-2 px-3 sm:text-base sm:py-4 sm:px-5"
           >
@@ -130,6 +138,19 @@ const NavigationBar = () => {
             </Link>
           </NavbarMenuItem>
         ))}
+        <NavbarMenuItem>
+          <Link
+            className="w-full hover:text-[#4F5CDF]"
+            color="foreground"
+            // color={
+            //     index === 2 ? "warning" : index === menuItems.length - 1 ? "danger" : "foreground"
+            // }
+            href="/cek-domain"
+            size="lg"
+          >
+            Check Domain
+          </Link>
+        </NavbarMenuItem>
       </NavbarMenu>
     </Navbar>
   );
