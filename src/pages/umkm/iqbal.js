@@ -4,7 +4,18 @@ const dataIqbal = {
     icon: null,
     navbarTitle: "Camilan Ringan",
     ctaLink: "https://wa.me/6282143040493",
-
+    keyword: [
+      "Camilan Ringan",
+      "MACJOS MIE LIDI Original",
+      "MACJOS BASRENG Pedas Level 5",
+      "Makanan Ringan",
+      "Makanan Camilan",
+      "Basreng",
+      "Mie Lidi",
+      "Makanan Pedas",
+      "Jajanan Pedas"
+    ]
+    ,
     color: {
       // required
       primary: "bg-[#f87171]",
@@ -63,7 +74,17 @@ const dataIqbal = {
     icon: null,
     navbarTitle: "Warung Pak soni",
     ctaLink: null,
-
+    keyword :[
+      "Warung Pak Soni",
+      "Nasi Bungkus",
+      "Minuman Es",
+      "Minuman Panas",
+      "Aneka Jajanan",
+      "Makanan Warung",
+      "Minuman Segar",
+      "Makanan Ringan",
+      "Jajanan Warung"
+    ],
     color: {
       // required
       primary: "bg-[#60c14e]",
@@ -129,7 +150,26 @@ const dataIqbal = {
     icon: null,
     navbarTitle: "Es Lumpur Lapindo",
     ctaLink: "tel:62822232226778",
-
+    keyword : [
+      "Es Lumpur Lapindo",
+      "Es Lumpur Lapindo asli",
+      "Es Lumpur Lapindo enak",
+      "Es Lumpur Lapindo segar",
+      "Es Lumpur Lapindo unik",
+      "Es Lumpur Lapindo tradisional",
+      "Es Lumpur Lapindo original",
+      "Es Lumpur Lapindo authentic",
+      "Es Lumpur Lapindo terkenal",
+      "Es campur Lumpur Lapindo",
+      "Es campur unik",
+      "Es campur tradisional",
+      "Es campur terkenal",
+      "Es campur asli",
+      "Es campur segar",
+      "Es campur enak",
+      "Es campur Lapindo",
+      "Es campur Lumpur Lapindo"
+  ],
     color: {
       // required
       primary: "bg-[#3ad075]",
@@ -181,7 +221,28 @@ const dataIqbal = {
     icon: null,
     navbarTitle: "Golden Power Drink",
     ctaLink: "https://wa.me/6282228750815",
-
+    keyword : [
+      "Golden Power Drink",
+      "Minuman Golden Power",
+      "Es Teh Golden Power",
+      "Es Jeruk Golden Power",
+      "Pocari Sweat Golden Power",
+      "Air Mineral Golden Power",
+      "Minuman sehat Golden Power",
+      "Minuman segar Golden Power",
+      "Minuman energi Golden Power",
+      "Minuman penyegar Golden Power",
+      "Minuman favorit Golden Power",
+      "Minuman terlaris Golden Power",
+      "Minuman ringan Golden Power",
+      "Minuman kesehatan Golden Power",
+      "Minuman populer Golden Power",
+      "Minuman berkualitas Golden Power",
+      "Minuman pilihan Golden Power",
+      "Minuman refreshing Golden Power",
+      "Minuman praktis Golden Power",
+      "Minuman terbaik Golden Power"
+  ],
     color: {
       // required
       primary: "bg-[#34c86e]",
@@ -303,7 +364,28 @@ const dataIqbal = {
     icon: null,
     navbarTitle: "TwoLek",
     ctaLink: "https://wa.me/628813505855",
-
+    keyword :[
+      "Twolek",
+      "Twolek Risoles Mayo",
+      "Risoles Mayo isi Sosis Keju Twolek",
+      "Risoles Mayo isi Beef Telur Twolek",
+      "Risoles Mayo Original Ayam Twolek",
+      "Lumpia Twolek",
+      "Martabak Mini Twolek",
+      "Pisang Coklat Twolek",
+      "Corndog Mozarella Twolek",
+      "Corndog Sosis Twolek",
+      "Hotang Mozarella Twolek",
+      "Hotang Sosis Twolek",
+      "Snack Twolek",
+      "Jajan Twolek",
+      "Makanan Ringan Twolek",
+      "Minuman Twolek",
+      "Hidangan Enak Twolek",
+      "Kuliner Twolek",
+      "Cemilan Twolek",
+      "Kreasi Kuliner Twolek"
+  ],
     color: {
       // required
       primary: "bg-[#e12d39]",
@@ -399,6 +481,88 @@ const dataIqbal = {
     footer: {
       noHp: "08813505855",
       alamat: "Jl. Letjen Sutoyo No.6, Tukangkayu (Depan Lapangan Scudetto Futsal Banyuwangi)",
+    },
+  },
+  "kusuma-laundry-tailor": {
+    title: "Kusuma Laundry & Tailor",
+    icon: null,
+    navbarTitle: "Kusuma Laundry & Tailor",
+    ctaLink: "https://wa.me/6285236315649",
+    keyword :[
+      "Twolek",
+      "Twolek Risoles Mayo",
+      "Risoles Mayo isi Sosis Keju Twolek",
+      "Risoles Mayo isi Beef Telur Twolek",
+      "Risoles Mayo Original Ayam Twolek",
+      "Lumpia Twolek",
+      "Martabak Mini Twolek",
+      "Pisang Coklat Twolek",
+      "Corndog Mozarella Twolek",
+      "Corndog Sosis Twolek",
+      "Hotang Mozarella Twolek",
+      "Hotang Sosis Twolek",
+      "Snack Twolek",
+      "Jajan Twolek",
+      "Makanan Ringan Twolek",
+      "Minuman Twolek",
+      "Hidangan Enak Twolek",
+      "Kuliner Twolek",
+      "Cemilan Twolek",
+      "Kreasi Kuliner Twolek"
+  ],
+    color: {
+      // required
+      primary: "bg-[#197bf9]",
+      secondary: "bg-[#95b3da]",
+      backgroundColor: "bg-[#f8f9fb]",
+      hoverColor: "hover:bg-[#0c5dc4]",
+      textColor: "text-[#111417]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6798d9]",
+    },
+    hero: {
+      tagLine: "Kusuma Laundry & Tailor",
+      deskripsi: "Kami menyediakan berbagai macam layanan, mulai dari pencucian pakaian harian hingga perawatan tekstil yang lebih sensitif, serta jasa penjahitan untuk memenuhi kebutuhan pakaian Anda. Dengan tim profesional dan peralatan modern, kami berkomitmen untuk memberikan hasil terbaik dan memastikan kepuasan pelanggan. Jadi, percayakan kebutuhan laundry dan penjahitan Anda kepada Kusuma Laundry & Tailor untuk pengalaman yang nyaman dan memuaskan.",
+      btn: true, // optional
+      btnText: "Kontak Kami",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717488576/umkm/kusuma%20laundry%20dan%20tailor/foto2_yncatc.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Percayakan Kusuma Laundry & Tailor untuk Pakaian Terbaik Anda!",
+      deskripsi: "Percayakan pakaian Anda kepada kami untuk hasil bersih dan terawat yang maksimal. Tidak hanya itu, kami juga siap memenuhi kebutuhan penjahitan Anda dengan kreativitas dan keahlian terbaik. Kunjungi kami sekarang dan rasakan perbedaannya!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717488574/umkm/kusuma%20laundry%20dan%20tailor/foto1_jdzxfp.jpg",
+      btn: true, // optional
+      btnText: "Kontak kami",
+    },
+    product: {
+      title: "Layanan kami",
+      // required
+      data: [
+        {
+          name: "Cuci Pakaian Kiloan",
+          deskripsi: null,
+          price: null,
+          img: "https://3.bp.blogspot.com/-TisYDM6M-KM/V7sNmUeg7SI/AAAAAAAAAKE/1_lfe_A9lfkpLWRtwYSrFSTBGUcLochuACLcB/s1600/cuci%2Blipat.jpg",
+        },
+        {
+          name: "Jahit Pakaian Dan Seragam",
+          deskripsi: null,
+          price: null,
+          img: "https://www.blibli.com/friends-backend/wp-content/uploads/2024/02/B110199-Cover.jpg",
+        },
+        {
+          name: "Vermak Baju dan Jeans",
+          deskripsi: null,
+          price: null,
+          img: "https://fitinline.com/data/article/20150626/Jeans-Yogyakarta-003.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.624483629728!2d114.34845927500984!3d-8.240462091792711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjUuNyJTIDExNMKwMjEnMDMuNyJF!5e0!3m2!1sen!2sid!4v1717487371985!5m2!1sen!2sid",
+    footer: {
+      noHp: "085236315649",
+      alamat: "Pakis, Banyuwangi",
     },
   },
 };
