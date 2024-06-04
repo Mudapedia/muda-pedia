@@ -4,6 +4,23 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Dewa Dewi Oleh-Oleh",
     ctaLink: "tel:6282142515874",
+    keyword: [
+      "Dewa Dewi Oleh-Oleh",
+      "Oleh-oleh khas Banyuwangi",
+      "Madu Mongso",
+      "Pisang Lumer",
+      "Nastar Nanas",
+      "Toko oleh-oleh Banyuwangi",
+      "Oleh-oleh tradisional",
+      "Oleh-oleh kekinian",
+      "Cemilan khas Banyuwangi",
+      "Kuliner Banyuwangi",
+      "Oleh-oleh makanan",
+      "Pusat oleh-oleh Banyuwangi",
+      "Kue nastar nanas",
+      "Pisang lumer khas",
+      "Madu mongso lezat",
+    ],
 
     color: {
       primary: "bg-[#F87171]",
@@ -69,6 +86,17 @@ const dataMuiz = {
     icon: "/img/andini-milk/logo.jpg",
     navbarTitle: "Andini Milk",
     ctaLink: "https://wa.me/6281335679197",
+    keyword: [
+      "Andini Milk",
+      "Susu murni",
+      "Susu sapi",
+      "Varian rasa susu",
+      "Susu segar",
+      "Susu berkualitas",
+      "Minuman sehat",
+      "Susu kaya nutrisi",
+      "Susu lezat",
+    ],
 
     color: {
       // required
@@ -95,7 +123,7 @@ const dataMuiz = {
 
       deskripsi:
         "Dibuat dengan bahan-bahan alami terbaik, Andini Milk kaya akan vitamin, mineral, dan  kalsium yang dibutuhkan anak untuk tumbuh sehat dan kuat.", // optional
-      img: "/img/dewa-dewi/IMG20240520104153.jpg",
+      img: "/img/andini-milk/hero.jpeg",
       btn: true, // optional
       btnText: "Pesan sekarang",
     },
@@ -107,21 +135,21 @@ const dataMuiz = {
           name: "Susu Coklat",
           deskripsi:
             "Terbuat dari susu segar berkualitas tinggi yang dipadukan dengan coklat asli, memberikan rasa manis yang sempurna dan tekstur yang lembut.",
-          price: "Rp24.000",
+          price: null,
           img: "/img/andini-milk/5ed68b849aff4.jpg",
         },
         {
           name: "Susu Murni",
           deskripsi:
             "Susu Murni kami diolah dengan proses higienis untuk menjaga kualitas dan keaslian rasa.",
-          price: "Rp15.000",
+          price: null,
           img: "/img/andini-milk/2236214584.jpg",
         },
         {
           name: "Aneka Varian Susu",
           deskripsi:
             "Aneka Varian Susu Andini Milk tidak hanya menawarkan kenikmatan rasa yang beragam, tetapi juga memberikan manfaat kesehatan yang optimal.",
-          price: "Rp20.000",
+          price: null,
           img: "/img/andini-milk/bisnis-minuman-susu-aneka-rasa.jpg",
         },
       ],
