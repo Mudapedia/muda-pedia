@@ -92,6 +92,15 @@ const NavigationBar = () => {
               FAQ
             </Link>
           </NavbarItem>
+          <NavbarItem>
+            <Link
+              color="foreground"
+              href="/cek-domain"
+              className="hover:text-[#4F5CDF] font-semibold"
+            >
+              Check Domain
+            </Link>
+          </NavbarItem>
         </NavbarContent>
         <NavbarItem>
           <Button

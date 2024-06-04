@@ -80,7 +80,7 @@ const CheckDomain = () => {
             <ul className="bg-gray-50 border border-gray-300 rounded-md px-3">
               {domain.map((v, i) => (
                 <li key={i} className="py-3 border-gray-300 border-b-1">
-                  {v}
+                  /{v}
                 </li>
               ))}
             </ul>
