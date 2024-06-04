@@ -2940,6 +2940,86 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "dafi-juice": {
+    title: "Dafi Juice",
+    icon: null,
+    navbarTitle: "Dafi Juice",
+    ctaLink: "https://wa.me/6281294710011",
+    keyword: [
+      "Dafi Juice",
+      "Tea Series",
+      "Milk Tea Series",
+      "Macchiato Series",
+      "Minuman Segar",
+      "Minuman Teh",
+      "Minuman Susu",
+      "Minuman Es",
+      "Minuman Panas",
+      "Minuman Berbagai Rasa",
+    ],
+
+    color: {
+      // required
+      primary: "bg-[#048F44]",
+      secondary: "bg-[#91E9BA]",
+      backgroundColor: "bg-[#F6FCF9]",
+      hoverColor: "hover:bg-[#00652E]",
+      textColor: "text-[#06110B]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#58E499]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Kelezatan yang Terpampang di Setiap Tetes",
+      deskripsi:
+        "Dafi Juice membawa Anda pada petualangan rasa yang tak terlupakan dengan pilihan minuman tea, milk tea, dan macchiato yang segar dan otentik. Dari sentuhan hangat teh tradisional hingga kelezatan creamy milk tea yang memikat, serta keharuman espresso dalam setiap gelas macchiato, kami menyajikan kombinasi sempurna dari cita rasa dan kualitas yang menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717481341/umkm/dafi-juice/WhatsApp_Image_2024-05-27_at_15.26.58_8ee0fea5_rn0ism.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Sensasi Minuman Terbaik, Hanya di Dafi Juice.",
+
+      deskripsi:
+        " Dafi Juice adalah tempat Anda menemukan sensasi minuman terbaik yang menggugah selera dan menyegarkan jiwa. Dari koleksi tea yang menyegarkan hingga milk tea yang creamy dan nikmat, serta macchiato yang memikat dengan aroma kopi yang menggoda, kami hadir untuk memberikan pengalaman minum yang luar biasa. S", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717481339/umkm/dafi-juice/WhatsApp_Image_2024-05-27_at_15.26.58_2bf4038f_mquv7a.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Tea Series",
+          deskripsi:
+            "Dalam Tea Series kami, kami mempersembahkan paduan sempurna antara kesegaran teh yang autentik dan aroma buah-buahan yang alami.",
+          price: null,
+          img: "https://cms.pointcoffee.id/uploads/500x500_PC_PRODUCT_34_1bde7f9fef.jpg",
+        },
+        {
+          name: "Milk Tea Series",
+          deskripsi:
+            "Dibuat dengan perpaduan susu berkualitas tinggi dan teh yang dipilih secara teliti, setiap tegukan memberikan cita rasa yang memanjakan lidah.",
+          price: null,
+          img: "https://gteamalaysia.com/wp-content/uploads/2023/02/c2@3x.png",
+        },
+        {
+          name: "Macchiato Series",
+          deskripsi:
+            "Setiap gelas macchiato adalah perpaduan sempurna antara espresso yang kuat dan susu yang kaya, memberikan keseimbangan yang sempurna antara rasa pahit dan manis.",
+          price: null,
+          img: "https://www.jagel.id/api/listimage/v/Macchiato-Series-0-493628362262e809.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "081294710011",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
