@@ -4,6 +4,7 @@ const dataUmkmkuy = {
     icon: null,
     navbarTitle: "required",
     ctaLink: null,
+    keyword: [],
 
     color: {
       // required
