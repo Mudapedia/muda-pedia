@@ -565,6 +565,74 @@ const dataIqbal = {
       alamat: "Pakis, Banyuwangi",
     },
   },
+  "tambal-ban-kang-holik": {
+    title: "Tambal Ban Kang Holik",
+    icon: null,
+    navbarTitle: "Tambal Ban Kang Holik",
+    ctaLink: "https://wa.me/6285927280986",
+    keyword :[
+      "Tambal Ban Kang Holik",
+      "Ganti Ban Baru",
+      "Tambal Ban Bocor",
+      "Ban Tubeless",
+      "Ban Tube Type",
+      "Isi Angin"
+    ],
+    color: {
+      // required
+      primary: "bg-[#197bf9]",
+      secondary: "bg-[#95b3da]",
+      backgroundColor: "bg-[#f8f9fb]",
+      hoverColor: "hover:bg-[#0c5dc4]",
+      textColor: "text-[#111417]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6798d9]",
+    },
+    hero: {
+      tagLine: "Tambal Ban Kang Holik, Cepat dan Tepat.",
+      deskripsi: "Solusi andal untuk perbaikan ban Anda. Dengan layanan cepat dan tenaga ahli berpengalaman, kami memastikan perjalanan Anda tetap lancar dan aman.",
+      btn: true, // optional
+      btnText: "Kontak Kami",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717556458/umkm/tambal%20ban%20kang%20holik/foto1_p8vxvt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Jangan biarkan ban bocor menghambat perjalanan Anda!",
+      deskripsi: "Percayakan pada Kang Holik untuk layanan tambal ban cepat dan tepat. Kembali ke jalan dengan aman dan nyaman bersama kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717556451/umkm/tambal%20ban%20kang%20holik/foto2_c6yrzj.jpg",
+      btn: true, // optional
+      btnText: "Hubungi Kang Holik sekarang!",
+    },
+    product: {
+      title: "Layanan kami",
+      // required
+      data: [
+        {
+          name: "Tambal Ban Bocor",
+          deskripsi: null,
+          price: null,
+          img: "https://asset-3.tstatic.net/jualbeli/img/njajal/2019/2/Efek-Negatif-Tambal-Ban-Tubeless-dengan-Sistem-Tusuk-yang-Wajib-Anda-Tahu-master-1478406693.jpg",
+        },
+        {
+          name: "Isi Angin",
+          deskripsi: null,
+          price: null,
+          img: "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2019/09/12141001/1-49.jpg",
+        },
+        {
+          name: "Ganti Ban Baru Luar/Dalam",
+          deskripsi: null,
+          price: null,
+          img: "https://asset.kompas.com/crops/x6pjnk7cfEiSmrfx4xtvfWGxICQ=/0x0:779x520/1200x800/data/photo/2019/03/06/3656116093.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6264078869845!2d114.34798827500974!3d-8.24026929179286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjUuMCJTIDExNMKwMjEnMDIuMCJF!5e0!3m2!1sen!2sid!4v1717556247512!5m2!1sen!2sid",
+    footer: {
+      noHp: "085927280986",
+      alamat: "Pakis, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
