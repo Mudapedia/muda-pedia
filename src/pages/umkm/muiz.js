@@ -3600,6 +3600,88 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "bengkel-jaya-motor": {
+    title: "Bengkel Jaya Motor",
+    icon: null,
+    navbarTitle: "Bengkel Jaya Motor",
+    ctaLink: "https://wa.me/6285338382281",
+    keyword: [
+      "Bengkel Jaya Motor",
+      "Service Motor",
+      "Perbaikan Motor",
+      "Perawatan Motor",
+      "Ganti Oli Motor",
+      "Tambal Ban Motor",
+      "Servis Motor",
+      "Ganti Oli",
+      "Tambal Ban",
+      "Bengkel Motor",
+      "Layanan Bengkel",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Jaya Motor, Tempat Terpercaya untuk Perawatan dan Perbaikan Kendaraan Anda.",
+      deskripsi:
+        "Bengkel Jaya Motor adalah tempat yang dapat Anda percayai untuk segala kebutuhan perawatan dan perbaikan kendaraan Anda. Dengan tim mekanik yang terampil dan berpengalaman, kami menyediakan layanan yang berkualitas tinggi untuk memastikan kendaraan Anda tetap berjalan dengan baik dan aman di jalan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570143/umkm/bengkel-jaya-motor/WhatsApp_Image_2024-05-29_at_12.35.08_2baff752_kinabf.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Solusi Terbaik untuk Kendaraan Anda.",
+
+      deskripsi:
+        "Di Bengkel Jaya Motor, kepuasan pelanggan adalah prioritas utama kami. Dengan layanan yang berkualitas, harga yang bersaing, dan keahlian mekanik yang handal, kami berkomitmen untuk memberikan solusi terbaik untuk segala kebutuhan perawatan dan perbaikan kendaraan Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570148/umkm/bengkel-jaya-motor/WhatsApp_Image_2024-05-29_at_12.35.08_f208a1ff_tsj5nq.jpg ",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Layanan Kami",
+      // required
+      data: [
+        {
+          name: "Service Motor",
+          deskripsi:
+            "Kami menyediakan service motor berkala yang komprehensif untuk memeriksa kondisi umum kendaraan Anda.",
+          price: null,
+          img: "https://planetban.com/media/wysiwyg/swatches/image_article/2211-a-servisberkala.jpg",
+        },
+        {
+          name: "Ganti Oli",
+          deskripsi:
+            "Kami menyediakan layanan penggantian oli yang cepat dan efisien, menggunakan oli berkualitas tinggi sesuai dengan spesifikasi kendaraan Anda.",
+          price: null,
+          img: "https://www.olx.co.id/news/wp-content/uploads/2021/10/cf86bf41-442f-4566-9cb3-dd80497d0d2c.jpg",
+        },
+        {
+          name: "Tambal Ban",
+          deskripsi:
+            "Kami menyediakan layanan tambal ban yang cepat dan handal untuk mengatasi masalah ban bocor Anda.",
+          price: null,
+          img: "https://assets-a1.kompasiana.com/items/album/2015/12/27/img-20151227-082744-567f55bc727e6190103cfd7d.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "085338382281",
+      alamat:
+        "Jl. Panglima Sudirman, Krajah, Pengatigan, Kec. Rogojampi, Kabupaten Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
