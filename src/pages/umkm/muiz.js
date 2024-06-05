@@ -3466,6 +3466,72 @@ const dataMuiz = {
       alamat: "Lemahbangdewo Rogojampi",
     },
   },
+  "gado-gado-pln": {
+    title: "Gado Gado PLN",
+    icon: null,
+    navbarTitle: "Gado Gado PLN",
+    ctaLink: "https://wa.me/6282339961790",
+    keyword: [
+      "Gado Gado PLN",
+      "Gado-Gado",
+      "Makanan Tradisional",
+      "Makanan Sayuran",
+      "Makanan Sehat",
+      "Makanan Khas",
+      "Makanan Ringan",
+      "Makanan Warung",
+      "Jajanan",
+      "Jajanan Warung",
+    ],
+    color: {
+      // required
+      primary: "bg-[#A67B5B]",
+      secondary: "bg-[#D9B599]",
+      backgroundColor: "bg-[#FBF8F6]",
+      hoverColor: "hover:bg-[#A95F27]",
+      textColor: "text-[#0B0806]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#D29D74]",
+    },
+
+    hero: {
+      tagLine:
+        "Nikmati Kelezatan Sayur Segar dengan Sentuhan Saus Kacang yang Memikat!",
+      deskripsi:
+        "perpaduan harmonis dari beragam sayuran segar yang dihiasi dengan telur rebus, tahu, tempe, dan kerupuk, semuanya dilumuri dengan saus kacang yang lezat. Setiap gigitan adalah petualangan rasa yang memanjakan lidah, dengan cita rasa gurih dan manis yang menyatu secara sempurna.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717564932/umkm/gado-gado-pln/WhatsApp_Image_2024-05-31_at_15.32.38_0eb70024_ilweqe.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kelezatan Gado-gado yang Tak Terlupakan!",
+
+      deskripsi:
+        "simfoni cita rasa Indonesia yang memikat, terdiri dari sayuran segar seperti kacang panjang, kentang, tauge, dan kol, yang dihiasi dengan telur rebus, tahu, tempe, dan kerupuk. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717564931/umkm/gado-gado-pln/WhatsApp_Image_2024-05-31_at_15.32.39_b88dde03_q5feky.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama  ",
+      // required
+      data: [
+        {
+          name: "Gado Gado",
+          deskripsi:
+            "Terdiri dari campuran sayuran segar seperti kacang panjang, kentang, tauge, dan kol yang disajikan dengan telur rebus, tahu, dan tempe",
+          price: null,
+          img: "https://cdn.idntimes.com/content-images/community/2022/04/gado-gado-isinya-apa-saja-filosofi-gad-gado-cara-membuat-sambal-gado-gado-9cde86371d7fc78c91ae80a6ffab250e-b8137bb1e610c76f5f65dfc312f4cdc0_600x400.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082339961790",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
