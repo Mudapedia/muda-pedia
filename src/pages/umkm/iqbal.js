@@ -633,6 +633,62 @@ const dataIqbal = {
       alamat: "Pakis, Banyuwangi",
     },
   },
+  "mie-tong": {
+    title: "Mie Tong Spagheti Tempong",
+    icon: null,
+    navbarTitle: "Mie Tong",
+    ctaLink: "https://wa.me/6281339442344",
+    keyword :[
+      "Mie Tong",
+      "Spaghetti Tempong",
+      "Pedas",
+      "Makanan Pedas",
+      "Makanan Ringan",
+    ]
+    ,
+    color: {
+      // required
+      primary: "bg-[#f35c59]",
+      secondary: "bg-[#ebdb7c]",
+      backgroundColor: "bg-[#fdf5f5]",
+      hoverColor: "hover:bg-[#0c5dc4]",
+      textColor: "text-[#230506]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#cfe554]",
+    },
+    hero: {
+      tagLine: "Spagheti Tempong: Tradisi Bertemu Kelezatan!",
+      deskripsi: "Rasakan cita rasa unik Spagheti Tempong, perpaduan harmonis antara spaghetti lezat dan rempah tradisional. Setiap suapan menghadirkan pengalaman yang tak terlupakan, sempurna untuk kenikmatan sehari-hari yang istimewa.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570739/umkm/mie%20tong%20spagheti%20tempong/ftoo1_wj09pg.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Jelajahi sensasi baru dengan Mie Tong!",
+      deskripsi: " Padukan rasa autentik dengan kelezatan tak terlupakan dalam setiap helai mie. Segera temukan kenikmatan yang sesungguhnya.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570740/umkm/mie%20tong%20spagheti%20tempong/foto2_ymcy0x.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Spagheti Tempong",
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570745/umkm/mie%20tong%20spagheti%20tempong/foto3_p9o8uv.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.51113616578!2d114.35805127500996!3d-8.251810991781701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTUnMDYuNSJTIDExNMKwMjEnMzguMyJF!5e0!3m2!1sen!2sid!4v1717560405020!5m2!1sen!2sid",
+    footer: {
+      noHp: "081339442344",
+      alamat: "Pakis Plampang JL. KH Thoha",
+    },
+  },
 };
 
 export default dataIqbal;
