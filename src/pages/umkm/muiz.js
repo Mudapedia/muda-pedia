@@ -3317,6 +3317,84 @@ const dataMuiz = {
       alamat: "Pertigaan rogojampi",
     },
   },
+  "makanan-darplok": {
+    title: "Makanan Darplok",
+    icon: null,
+    navbarTitle: "Makanan Darplok",
+    ctaLink: "https://wa.me/6283115468600",
+    keyword: [
+      "Darplok",
+      "Dadar Ceplok",
+      "Telur Gulung",
+      "Teh Sisr",
+      "Makanan Ringan",
+      "Minuman Segar",
+      "Minuman Teh",
+    ],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Dadar Telur yang Meleleh di Mulut",
+      deskripsi:
+        "Setiap gigitan memberikan sensasi unik dari kombinasi renyahnya lapisan tepung dengan lembutnya telur di dalamnya. Cocok sebagai camilan atau pendamping santap, Darplok akan memikat lidah Anda dengan kelezatannya yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717563132/umkm/darplok/WhatsApp_Image_2024-05-31_at_15.10.51_51eb0086_yno1dh.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Rahasia Kelezatan di Setiap Gigitan!",
+
+      deskripsi:
+        "Rasakan sensasi melelehnya telur yang menyatu dengan kelezatan tepung yang gurih. Jadikan Darplok sebagai pilihan camilan Anda untuk menikmati kelezatan yang menggugah selera di setiap waktu.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717563129/umkm/darplok/WhatsApp_Image_2024-05-31_at_15.10.50_8895606e_tya2di.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Terlaris",
+      // required
+      data: [
+        {
+          name: "Dadar Ceplok",
+          deskripsi:
+            "hidangan sederhana namun lezat yang terbuat dari telur yang dikocok dan digoreng hingga matang.",
+          price: null,
+          img: "https://asset-a.grid.id//crop/0x0:0x0/700x0/photo/2020/12/07/771033453.jpg",
+        },
+        {
+          name: "Telur Gulung",
+          deskripsi:
+            "Telur gulung adalah pilihan yang serbaguna dan mengenyangkan, cocok sebagai sarapan, bekal makan siang, atau camilan sehat di tengah hari.",
+          price: null,
+          img: "https://cendekiamuslim.or.id/uploads/images/202401/image_870x_65a21a77b6931.jpg",
+        },
+        {
+          name: "Teh Sisri",
+          deskripsi:
+            "Teh Sisri memiliki aroma harum dan rasa yang hangat, membuatnya cocok dinikmati sebagai minuman penyegar di pagi atau sore hari.",
+          price: null,
+          img: "https://food-cms.grab.com/compressed_webp/items/IDITE2023081401305944115/photo/menueditor_item_f482d8163499443d9ca686a0f066a4cd_1692635471983905498.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.0187253417043!2d114.28036687501051!3d-8.300934691734172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDMuNCJTIDExNMKwMTYnNTguNiJF!5e0!3m2!1sen!2sid!4v1717562201827!5m2!1sen!2sid",
+    footer: {
+      noHp: "083115468600",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
