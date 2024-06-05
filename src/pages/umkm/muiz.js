@@ -3254,6 +3254,69 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-teh-jumbo": {
+    title: "Es Teh Jumbo",
+    icon: null,
+    navbarTitle: "Es Teh Jumbo",
+    ctaLink: "https://wa.me/6281331524562",
+    keyword: [
+      "Es Teh Jumbo",
+      "Minuman Segar",
+      "Minuman Es",
+      "Es Teh Besar",
+      "Minuman Teh",
+      "Es Segar",
+      "Minuman Dingin",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Ketenangan dalam Setiap Tegukan",
+      deskripsi:
+        "Es Teh Jumbo adalah pilihan sempurna untuk memuaskan dahaga Anda dengan kesegaran yang tak tertandingi. Dengan sajian jumbo yang melimpah, nikmati sensasi segar dan manisnya teh yang dipadu dengan es batu yang menyegarkan. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717562231/umkm/es%20teh%20jumbo/WhatsApp_Image_2024-05-31_at_15.07.11_170df8f6_k8wypr.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Nikmati Kenikmatan Tak Terbatas dalam Setiap Gelasmu.",
+
+      deskripsi:
+        "Rasakan sensasi kenikmatan yang tak terbatas dalam setiap tegukan, membawamu pada petualangan rasa yang tiada akhir. Dengan Es Teh Jumbo, setiap momen menjadi lebih segar dan lebih bermakna.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717562230/umkm/es%20teh%20jumbo/WhatsApp_Image_2024-05-31_at_15.07.10_77830acd_kkyfsj.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Setiap gelasnya memancarkan kesegaran yang memanjakan lidahmu, dengan rasa teh yang khas dan es yang menyegarkan.",
+          price: null,
+          img: "https://down-id.img.susercontent.com/file/id-11134207-7r98r-lluok6ei8wzrfc",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.0156338534457!2d114.28046347501048!3d-8.301242191733868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMDQuNSJTIDExNMKwMTYnNTguOSJF!5e0!3m2!1sen!2sid!4v1717561924352!5m2!1sen!2sid",
+    footer: {
+      noHp: "081331524562",
+      alamat: "Pertigaan rogojampi",
+    },
+  },
 };
 
 export default dataMuiz;
