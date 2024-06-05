@@ -3159,14 +3159,14 @@ const dataMuiz = {
         {
           name: "Geprek",
           deskripsi:
-            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+            "Nikmati kelezatan geprek kami: Paha Bawah, Paha Atas, Sayap, dan Dada, semuanya dengan sambal geprek pedas yang menggugah selera. Sensasi rasa gurih dan pedas yang tak terlupakan di setiap gigitan.",
           price: null,
           img: "https://www.jagel.id/api/listimage/v/Chicken-Geprek-Dada-Pakai-Nasi-0-625622a0de1dcc70.jpg",
         },
         {
           name: "Original Ayam",
           deskripsi:
-            "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
+            "Rasakan kelezatan Ayam Original dalam berbagai potongan: Paha Bawah, Paha Atas, Sayap, dan Dada. Setiap gigitan menawarkan kulit yang renyah dan daging ayam juicy yang memikat. Nikmati sensasi rasa autentik yang memuaskan dalam setiap sajian kami.",
           price: null,
           img: "https://img.okezone.com/content/2016/03/13/298/1334743/ayam-goreng-krispy-original-yang-crunchy-aKEvV4wiod.jpg",
         },
