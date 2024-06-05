@@ -3395,6 +3395,77 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "mie-ayam-pangsit": {
+    title: "Mie Ayam Pangsit",
+    icon: null,
+    navbarTitle: "Mie Ayam Pangsit",
+    ctaLink: "https://wa.me/6283897881954",
+    keyword: [
+      "Mie Ayam Ceker",
+      "Mie Ayam",
+      "Es Teh",
+      "Es Marimas",
+      "Es Josua",
+      "Minuman Segar",
+      "Minuman Es",
+      "Minuman Teh",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Pangsit Gurih, Mie Lezat, Kenikmatan Sejati!",
+      deskripsi:
+        "Di balik setiap pangsit gurih dan mie lezat, terdapat kenikmatan sejati yang tak tergantikan. Mie Ayam Pangsit kami menghadirkan harmoni sempurna antara tekstur yang memikat dan cita rasa yang autentik. Dengan setiap suapan, Anda akan merasakan sentuhan hangat dari masakan tradisional yang membuat hati dan perut Anda senang.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717564338/umkm/mie-ayam-pangsit/WhatsApp_Image_2024-05-31_at_15.18.03_06a92891_wmlxwg.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Tradisi di Setiap Suapan, Kesempurnaan di Setiap Rasa!",
+
+      deskripsi:
+        "Mie Ayam Pangsit kami bukan sekadar hidangan, tapi juga cerminan dari kekayaan budaya dan tradisi kuliner yang dimiliki Indonesia", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717564339/umkm/mie-ayam-pangsit/WhatsApp_Image_2024-05-31_at_15.18.04_0d64cb8a_yo6spr.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Mie Ayam Ceker",
+          deskripsi:
+            "Setiap suapan menghadirkan kelezatan yang memanjakan lidah, dengan tekstur yang berpadu sempurna antara lembut dan renyah.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/c60b27a76df2574a/680x482cq70/mie-ayam-ceker-foto-resep-utama.jpg",
+        },
+        {
+          name: "Aneka Es",
+          deskripsi:
+            "Rasakan kesegaran yang tak tertandingi dengan pilihan aneka es kami.",
+          price: null,
+          img: "https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.926582400148!2d114.27308647501062!3d-8.31009499172531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMzYuMyJTIDExNMKwMTYnMzIuNCJF!5e0!3m2!1sen!2sid!4v1717562272657!5m2!1sen!2sid",
+    footer: {
+      noHp: "083897881954",
+      alamat: "Lemahbangdewo Rogojampi",
+    },
+  },
 };
 
 export default dataMuiz;
