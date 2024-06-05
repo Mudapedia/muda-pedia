@@ -3121,8 +3121,19 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Ken's Fried Chicken",
     ctaLink: "https://wa.me/6283854262290",
-    keyword: [],
-
+    keyword: [
+      "Kens Fried Chicken",
+      "Original Ayam",
+      "Ayam Paha Bawah",
+      "Ayam Paha Atas",
+      "Ayam Sayap",
+      "Ayam Dada",
+      "Geprek Ayam",
+      "Geprek Paha Bawah",
+      "Geprek Paha Atas",
+      "Geprek Sayap",
+      "Geprek Dada",
+    ],
     color: {
       // required
       primary: "bg-[#F87171]",
@@ -3172,9 +3183,74 @@ const dataMuiz = {
         },
       ],
     },
-    location: null,
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6244297339117!2d114.34830517500976!3d-8.240467491792717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjUuNyJTIDExNMKwMjEnMDMuMiJF!5e0!3m2!1sid!2sid!4v1717560742000!5m2!1sid!2sid",
     footer: {
       noHp: "083854262290",
+      alamat: null,
+    },
+  },
+  "sempol-anugrah": {
+    title: "Sempol Anugrah",
+    icon: null,
+    navbarTitle: "Sempol Anugrah",
+    ctaLink: "https://wa.me/6283857852188",
+    keyword: [
+      "Sempol Anugrah",
+      "Sempol",
+      "Makanan Ringan",
+      "Cemilan",
+      "Jajanan",
+      "Sempol Enak",
+      "Sempol Murah",
+      "Sempol Goreng",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Kelezatan Sempol Terbaik, Hanya di Sempol Anugrah.",
+      deskripsi:
+        "Sempol Anugrah menghadirkan kelezatan sempol yang tak terkalahkan. Dibuat dengan cinta dan dedikasi untuk memberikan yang terbaik bagi pelanggan kami, setiap gigitan adalah bukti dari kualitas unggul dan rasa yang autentik. Jadikan Sempol Anugrah sebagai pilihan utama Anda untuk memuaskan hasrat camilan yang lezat dan memikat.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717561223/umkm/sempol-anugrah/WhatsApp_Image_2024-05-30_at_10.27.05_71c46712_bfpo5o.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Sensasi Gurih dalam Setiap Gigitan.",
+
+      deskripsi:
+        "Hadirkan sensasi gurih yang tak terlupakan dengan Sempol Anugrah. Dipanggang dengan sempurna untuk menciptakan tekstur yang renyah di luar dan lembut di dalam, setiap gigitan adalah perjalanan cita rasa yang memikat.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717561217/umkm/sempol-anugrah/WhatsApp_Image_2024-05-30_at_10.27.04_7a273e78_i5yrrm.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Sempol",
+          deskripsi:
+            "camilan tradisional yang menggugah selera, terbuat dari campuran daging ayam yang lembut, ikan segar, dan bumbu-bumbu pilihan.",
+          price: null,
+          img: "https://media.suara.com/pictures/653x366/2022/05/16/94625-sempol.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.94962885385!2d114.2004637750106!3d-8.307804791727502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjguMSJTIDExNMKwMTInMTAuOSJF!5e0!3m2!1sid!2sid!4v1717561471569!5m2!1sid!2sid",
+    footer: {
+      noHp: "083857852188",
       alamat: null,
     },
   },
