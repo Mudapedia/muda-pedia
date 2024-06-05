@@ -3532,6 +3532,74 @@ const dataMuiz = {
       alamat: "Rogojampi, Banyuwangi",
     },
   },
+  "tambal-ban-logjak": {
+    title: "Tambal Ban Logjak",
+    icon: null,
+    navbarTitle: "Tambal Ban Logjak",
+    ctaLink: "https://wa.me/6285217986111",
+    keyword: [
+      "Tambal Ban Logjak",
+      "Tambal Ban",
+      "Perbaikan Ban",
+      "Ganti Ban",
+      "Servis Ban",
+      "Perbaikan Aki",
+      "Ganti Aki",
+      "Servis Aki",
+      "Tambal Ban Mobil",
+      "Tambal Ban Motor",
+      "Perbaikan Aki Mobil",
+      "Perbaikan Aki Motor",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Solusi Kilat untuk Perjalanan Tanpa Gangguan.",
+      deskripsi:
+        "Tidak ada yang lebih mengganggu dari ban yang bocor di tengah perjalanan. Namun, dengan layanan tambal ban kami, Anda bisa kembali ke jalan dengan cepat dan mudah. Berkat teknisi berpengalaman dan peralatan yang canggih, kami menyediakan solusi tambal ban yang efisien dan handal untuk kendaraan Anda. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569490/umkm/tambal-ban-logjak/WhatsApp_Image_2024-05-30_at_10.18.53_ce3db5ce_usax2q.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kembali ke Jalanan dengan Cepat dan Aman.",
+
+      deskripsi:
+        "Ban bocor dapat menjadi gangguan yang menjengkelkan di tengah perjalanan Anda. Namun, dengan layanan tambal ban kami, Anda tidak perlu khawatir. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569488/umkm/tambal-ban-logjak/WhatsApp_Image_2024-05-30_at_10.18.54_34e118aa_msqrry.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Selain Tambal Ban",
+      // required
+      data: [
+        {
+          name: "Tukar Tambah Aki Baru / Bekas",
+          deskripsi:
+            "Layanan tukar tambah aki baru atau bekas kami memberikan kemudahan dalam memperbarui sistem kelistrikan kendaraan Anda. ",
+          price: null,
+          img: "https://pagaralampos.disway.id/upload/8b1a453f18fee2e9cd89b08b619fa3e7.png",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9935970456563!2d114.27509637501042!3d-8.303433791731743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTIuNCJTIDExNMKwMTYnMzkuNiJF!5e0!3m2!1sen!2sid!4v1717560847304!5m2!1sen!2sid",
+    footer: {
+      noHp: "085217986111",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
