@@ -1666,7 +1666,7 @@ const dataRamzi = {
       hoverColor: "hover:bg-[#d8dc9d]",
       textColor: "text-[#0a0409]",
       btnTextColor: "text-white",
-      accentColor: "text-[#7ec969",
+      accentColor: "text-[#7ec969]",
     },
 
     hero: {
@@ -1715,7 +1715,199 @@ const dataRamzi = {
       alamat: "Glagah, Banyuwangi",
     },
   },
+
+  "home-bouqet": {
+    title: "Home Bouqet",
+    icon: null,
+    navbarTitle: "Home Bouqet",
+    ctaLink: "tel:6285843871058",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Lebih dari Sekedar Bunga, Home Bouqet Ciptakan Suasana Istimewa",
+      deskripsi: "Home Bouqet menyediakan berbagai macam bunga segar dan berkualitas untuk mempercantik rumah Anda.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657284/umkm/home%20bouqet/WhatsApp_Image_2024-06-06_at_13.25.10_cfc13ad8_btfo1t.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Home Bouqet: Bunga Segar untuk Rumah yang Ceria",
+      deskripsi: "Kami menawarkan berbagai pilihan buket bunga, bunga potong, dan dekorasi bunga yang dapat disesuaikan dengan kebutuhan dan selera Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657281/umkm/home%20bouqet/WhatsApp_Image_2024-06-06_at_13.25.09_2f10c13b_irfr7n.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Buket Mawar Klasik",
+          deskripsi:
+            "Buket mawar merah klasik ini adalah pilihan yang sempurna untuk menunjukkan cinta dan kasih sayang. Mawar merah melambangkan cinta, romansa, dan gairah. Buket ini terdiri dari 12 batang mawar merah segar yang dibungkus dengan kertas pembungkus yang indah dan pita.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRri58eYn1Rw71CgZuyStTl6VX5FHfbT8ruKQTfeKpG8jHDOtt93k0s8TbYDxo8",
+        },
+        {
+          name: "Bunga Potong Lili",
+          deskripsi:"Bunga lili putih melambangkan kemurnian, kepolosan, dan kesucian. Bunga ini adalah pilihan yang tepat untuk dekorasi rumah, pernikahan, atau acara-acara spesial lainnya. Bunga potong lili dapat bertahan hingga 7 hari dengan perawatan yang tepat.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAbAY7RdhIX6ZwUya8pMOpRavPlrGGRhkRvnMy3ABabP8EleUW02Q--QWMlPcq",
+        },
+        {
+          name: "Dekorasi Bunga Krisan",
+          deskripsi: "Bunga krisan adalah bunga yang tahan lama dan mudah dirawat. Bunga ini tersedia dalam berbagai warna, seperti putih, kuning, dan merah muda. Dekorasi bunga krisan dapat digunakan untuk mempercantik meja, rak buku, atau ruangan lainnya di rumah Anda.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoBCs8HjqzMGCe-RBi6WDpvI9OCPW2p0r5XSI9ODZgthTk6S8nDxZZRIbXl_Cy",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.4374151025554!2d114.22522377500998!3d-8.259183991774552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTUnMzMuMSJTIDExNMKwMTMnNDAuMSJF!5e0!3m2!1sen!2sid!4v1717655206858!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285843871058",
+      alamat: "Songgon, Banyuwangi",
+    },
+  },
+  "ana-laundry": {
+    title: "Ana Laundry",
+    icon: null,
+    navbarTitle: "Ana Laundry",
+    ctaLink: "tel:628233543241",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Ana Laundry: Bersih, Cepat, dan Terpercaya",
+      deskripsi: "Ana Laundry hadir untuk membantu Anda dalam membersihkan pakaian dan barang-barang tekstil lainnya dengan cepat, bersih, dan terpercaya. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657896/umkm/ana%20laundry/WhatsApp_Image_2024-06-06_at_13.45.02_1a863ccd_p7zwlq.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Laundry Cepat dan Murah",
+      deskripsi: "Kami menggunakan deterjen dan pewangi berkualitas tinggi untuk memastikan pakaian Anda bersih dan wangi tahan lama.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657894/umkm/ana%20laundry/WhatsApp_Image_2024-06-06_at_13.45.01_b9830ae0_e6ico2.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Cuci Kiloan",
+          deskripsi:
+            "Layanan cuci kiloan kami cocok untuk pakaian sehari-hari Anda. Tersedia dengan deterjen standar dan pelembut standar.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwfSg8LZDRMUHEDwXTkhiskm6zixXkwBSd2NpbvCO8grL48Xv91JnsYfX6u_0_",
+        },
+        {
+          name: "Cuci Setrika Kiloan",
+          deskripsi:"Hemat waktu Anda dengan layanan cuci dan setrika kiloan. Pakaian Anda akan dicuci, disetrika, dan dilipat rapi.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGLHKqTBMKjipglg2jbKdylRaicUAbe5J6whuFZBabzSOpaMZDvJ0gRSaCZ4E",
+        },
+        {
+          name: "Laundry Ekspress",
+          deskripsi: "Butuh pakaian bersih dalam waktu singkat? Layanan laundry ekspress kami siap membantu! Pakaian Anda akan dicuci dan dikeringkan dalam waktu 1 hari kerja (dengan pemesanan sebelum jam 10 pagi).",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyvHogY_8mkvks75LBkbhRS4tS_lBhz7eGXLQLEgCYj352R2on1ksHmSs0VOT_",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8585198751457!2d113.65421347500954!3d-8.216979991815451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDEuMSJTIDExM8KwMzknMjQuNCJF!5e0!3m2!1sen!2sid!4v1717560662298!5m2!1sen!2sid`,
+    footer: {
+      noHp: "08233543241",
+      alamat: "Jember, Banyuwangi",
+    },
+  },
+  "akrilikku": {
+    title: "Akrilikku",
+    icon: null,
+    navbarTitle: "Akrilikku",
+    ctaLink: "tel:6285231037676",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Akrilikku: Ciptakan Karya Seni Akrilik Impian Anda",
+      deskripsi: "Akrilikku adalah toko online yang menyediakan berbagai macam peralatan seni akrilik berkualitas tinggi dengan harga yang terjangkau.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658413/umkm/akirik/IMG-20240606-WA0062_z9w2up.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Akrilik Murah dan Design Moderen",
+      deskripsi: "Kami menawarkan berbagai pilihan cat akrilik, kuas, kanvas, dan media lainnya yang dibutuhkan untuk membantu Anda menciptakan karya seni akrilik yang indah dan inspiratif.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658406/umkm/akirik/IMG-20240606-WA0061_ma1rfv.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:
+            "Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658412/umkm/akirik/IMG-20240606-WA0065_z9wimq.jpg",
+        },
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:"Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658413/umkm/akirik/IMG-20240606-WA0062_z9w2up.jpg",
+        },
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:
+            "Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658412/umkm/akirik/IMG-20240606-WA0065_z9wimq.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8585198751457!2d113.65421347500954!3d-8.216979991815451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDEuMSJTIDExM8KwMzknMjQuNCJF!5e0!3m2!1sen!2sid!4v1717560662298!5m2!1sen!2sid`,
+    footer: {
+      noHp: "08233543241",
+      alamat: "Jember, Banyuwangi",
+    },
+  },
   
 };
+
 
 export default dataRamzi;
