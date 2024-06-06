@@ -3682,6 +3682,63 @@ const dataMuiz = {
         "Jl. Panglima Sudirman, Krajah, Pengatigan, Kec. Rogojampi, Kabupaten Banyuwangi",
     },
   },
+  "obral-celana-pendek": {
+    title: "Obral Celanan Pendek",
+    icon: null,
+    navbarTitle: "Obral Celanan Pendek",
+    ctaLink: null,
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Celana Pendek untuk Semua, Harga Terjangkau di Setiap Pembelian!",
+      deskripsi:
+        "Temukan berbagai pilihan celana pendek dengan harga terbaik di Obral Celana Pendek kami. Dari gaya santai hingga yang lebih formal, kami memiliki celana pendek untuk setiap kesempatan dan selera fashion. Dapatkan penawaran terbaik dan diskon menarik saat Anda berbelanja di sini.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717653862/umkm/obral-celana-pendek/WhatsApp_Image_2024-06-06_at_11.54.19_18c07bee_jifysi.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Stok Terbatas, Diskon Tak Terbatas",
+
+      deskripsi:
+        "Obral Celana Pendek menyediakan kesempatan untuk mengupgrade koleksi celana pendek Anda dengan harga yang tak terkalahkan. Dari gaya kasual hingga yang lebih trendi, kami memiliki berbagai pilihan celana pendek untuk memenuhi gaya dan kebutuhan Anda. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717653859/umkm/obral-celana-pendek/WhatsApp_Image_2024-06-06_at_11.54.19_dc13b62b_neylil.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Celana Pendek Distro",
+          deskripsi:
+            "Jangan lewatkan kesempatan untuk mendapatkan diskon besar-besaran dan penawaran spesial di setiap pembelian.",
+          price: null,
+          img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-52290736/urang_thea_celana_pendek_distro_pria_bahan_katun_full01_2b317dcf.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9518595026525!2d114.27347657501055!3d-8.307583091727738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjcuMyJTIDExNMKwMTYnMzMuOCJF!5e0!3m2!1sid!2sid!4v1716797686032!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "lemahbang dewo",
+    },
+  },
 };
 
 export default dataMuiz;
