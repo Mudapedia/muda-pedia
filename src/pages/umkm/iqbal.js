@@ -689,6 +689,88 @@ const dataIqbal = {
       alamat: "Pakis Plampang JL. KH Thoha",
     },
   },
+  "sayur-gurit": {
+    title: "Sayur Gurit",
+    icon: null,
+    navbarTitle: "Sayur Gurit",
+    ctaLink: "https://wa.me/6282143040493",
+    keyword :[
+      "Peracangan Sayur Gurit Pengantigan",
+      "Sayur Segar",
+      "Jual Sayur",
+      "Peracangan Sayur",
+      "Sayuran Organik",
+      "Toko Sayur",
+      "Sayuran Sehat",
+      "Pengantigan",
+      "Pasar Sayur",
+      "Bayam",
+      "Kangkung",
+      "Kol",
+      "Wortel",
+      "Buncis",
+      "Brokoli",
+      "Terong",
+      "Tomat",
+      "Cabe",
+      "Kentang",
+      "Timun"
+    ],
+    color: {
+      // required
+      primary: "bg-[#F18665]",
+      secondary: "bg-[#c6da9f]",
+      backgroundColor: "bg-[#fbf6f4]",
+      hoverColor: "hover:bg-[#ad4f32]",
+      textColor: "text-[#090503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#82c76d]",
+    },
+    hero: {
+      tagLine: "Peracangan Sayur Segar: Kualitas Terbaik, Langsung ke Dapur Anda",
+      deskripsi: "Nikmati kesegaran sayuran terbaik setiap hari dengan layanan peracangan sayur kami. Kami menyediakan sayuran berkualitas tinggi yang dipilih langsung dari petani lokal, menjamin kesegaran dan nilai gizi terbaik. Pesan dengan mudah, dan biarkan kami mengantarkan sayuran segar langsung ke pintu rumah Anda. Makanan sehat dimulai dari bahan baku yang segar dan berkualitas.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717645546/umkm/sayur%20gurit%20pengantigan/foto2_wavxgy.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Rasakan perbedaan kualitasnya.",
+      deskripsi: " Pesan sekarang dan bawa pulang sayuran terbaik. Pilih sayuran segar untuk keluarga Anda, karena kesehatan dan kebahagiaan dimulai dari pilihan yang tepat. Ayo, beli sayur segar di sini dan ciptakan hidangan lezat yang bergizi setiap hari!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717645545/umkm/sayur%20gurit%20pengantigan/foto_gbb1qw.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Cabe Merah",
+          deskripsi: null,
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/5/24/06bb004d-816b-40b6-97ce-22d9a00e6629.jpg",
+        },
+        {
+          name: "Bawah Putih & Bawah Merah",
+          deskripsi: null,
+          price: null,
+          img: "https://betv.disway.id/upload/2020/06/WhatsApp-Image-2020-06-20-at-12.30.40.jpeg",
+        },
+        {
+          name: "Kangkung",
+          deskripsi: null,
+          price: null,
+          img: "https://gratisongkir-storage.com/products/900x900/BbnAMYduhgGs.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082143040493",
+      alamat: "Gurit, Pengantigan, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
