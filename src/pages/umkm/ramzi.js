@@ -707,69 +707,6 @@ const dataRamzi = {
       alamat: "Sempu, Banyuwangi",
     },
   },
-  "es-dawet-ayu": {
-    title: "Es Dawet Ayu",
-    icon: null,
-    navbarTitle: "Es Dawet Ayu",
-    ctaLink: null,
-
-    color: {
-      // required
-      primary: "bg-[#882fde]",
-      secondary: "bg-[#e4ec87]",
-      backgroundColor: "bg-white",
-      hoverColor: "hover:bg-[#e4ec87]",
-      textColor: "text-[#090311]",
-      btnTextColor: "text-white",
-      accentColor: "text-[#6be458]",
-    },
-
-    hero: {
-      tagLine: "Manisnya Bikin Happy!",
-      deskripsi: "Es Dawet Ayu adalah minuman segar khas Banjarnegara yang terbuat dari tepung beras dan santan. Dawetnya berwarna hijau dan memiliki tekstur kenyal, disiram dengan kuah santan yang gurih dan manis..",
-      btn: true, // optional
-      btnText: "Kontak",
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
-    },
-    about: {
-      title: null,
-      txt: "Segarnya Dawet Ayu, Bikin Liburan Makin Semangat!",
-      deskripsi: "Ditambah dengan topping nangka, alpukat, dan cincau, Es Dawet Ayu menjadi hidangan yang sempurna untuk dinikmati saat cuaca panas.", // optional
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
-      btn: false, // optional
-      btnText: "Order yuk",
-    },
-    product: {
-      // required
-      title: "Produk Kami",
-      data: [
-        {
-          name: "Es Dawet Ayu Original",
-          deskripsi:
-            "Dawet hijau dengan kuah santan, gula merah, dan es batu.",
-          price: "",
-          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXbzBmDJYpkfqfzy9yeQIXAWlvWqhvBY-3HqBoxahOUvUMl83vXRFLdwK3iVCs",
-        },
-        {
-          name: "Es Dawet Ayu Nangka",
-          deskripsi:"Dawet hijau dengan kuah santan, gula merah, es batu, dan topping nangka.",
-          price: "",
-          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEGmp8-GFhYFaXDS4pfk0at3AbzHSXEkbgh5Y3JocYAkfQCxayYm4TajIGLZ5_",
-        },
-        {
-          name: "Es Dawet Ayu Alpukat",
-          deskripsi: "Dawet hijau dengan kuah santan, gula merah, es batu, dan topping alpukat.",
-          price: "",
-          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiKdig8u9CQ-fNJ3WmPGhB0ayoQZb2WVPiKmwiScqlCE2cAccRwIGqOGQ5aTt",
-        },
-      ],
-    },
-    location: `https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3948.9672283054397!2d114.3574264!3d-8.20605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717259413750!5m2!1sen!2sid`,
-    footer: {
-      noHp: null,
-      alamat: "RTH Blambangan, Banyuwangi",
-    },
-  },
   "pentol-pak-mul": {
     title: "Pentol Pak Mul",
     icon: null,
