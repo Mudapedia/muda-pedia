@@ -771,6 +771,82 @@ const dataIqbal = {
       alamat: "Gurit, Pengantigan, Banyuwangi",
     },
   },
+  "warung-gemoy": {
+    title: "Warung Gemoy",
+    icon: null,
+    navbarTitle: "Warung Gemoy",
+    ctaLink: "https://wa.me/6281217552252",
+    keyword :[
+      "Warung Gemoy",
+      "Es Teh",
+      "Es Cincau",
+      "Es Jeruk",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Tradisional",
+      "Jajanan Warung"
+    ],
+    color: {
+      // required
+      primary: "bg-[#BF7390]",
+      secondary: "bg-[#f278a7]",
+      backgroundColor: "bg-[#fefbfc]",
+      hoverColor: "hover:bg-[#8c5067]",
+      textColor: "text-[#12090d]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#fe4b90]",
+    },
+    hero: {
+      tagLine: "Rasakan perbedaan kualitasnya.",
+      deskripsi: "Selamat datang di Warung Gemoy, tempat di mana kesegaran es bertemu dengan kelezatan jajanan. Nikmati berbagai pilihan es yang menyegarkan dan jajanan yang menggugah selera, semuanya dibuat dengan bahan berkualitas dan penuh cinta.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717652941/umkm/warung%20gemoy/foto1_rkof8w.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, datang ke Warung Gemoy!",
+      deskripsi: "nikmati sensasi segarnya es serta lezatnya jajanan kami. Dari es krim yang menyegarkan hingga jajanan yang menggugah selera, semuanya ada di sini. Jangan lewatkan, karena kelezatan ini hanya ada di Warung Gemoy!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717652941/umkm/warung%20gemoy/foto1_rkof8w.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Jeruk",
+          deskripsi: null,
+          price: null,
+          img: "https://assets-a1.kompasiana.com/items/album/2024/03/12/es-jeruk-65efd799c57afb77f129cfc7.jpg",
+        },
+        {
+          name: "Es Teh",
+          deskripsi: null,
+          price: null,
+          img: "https://suarabaru.id/wp-content/uploads/2023/11/tea-4857512_640-e1700463273181.jpg",
+        },
+        {
+          name: "Pop Ice Cincau",
+          deskripsi: null,
+          price: null,
+          img: "https://www.pinhome.id/pinhome-home-service/wp-content/uploads/2023/04/mantrasukabumi.jpeg",
+        },
+        {
+          name: "Roti Maryam",
+          deskripsi: null,
+          price: null,
+          img: "https://mediapijar.com/wp-content/uploads/2021/05/IMG_9589.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.871660908352!2d114.3452379750107!3d-8.31555019172007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnNTYuMCJTIDExNMKwMjAnNTIuMSJF!5e0!3m2!1sen!2sid!4v1717653256260!5m2!1sen!2sid",
+    footer: {
+      noHp: "081217552252",
+      alamat: "Blimbingsari, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
