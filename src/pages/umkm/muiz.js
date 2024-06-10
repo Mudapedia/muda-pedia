@@ -3116,7 +3116,7 @@ const dataMuiz = {
       alamat: null,
     },
   },
-  "ken's-fried-chicken": {
+  "kens-fried-chicken": {
     title: "Ken's Fried Chicken",
     icon: null,
     navbarTitle: "Ken's Fried Chicken",
