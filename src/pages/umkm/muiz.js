@@ -4317,6 +4317,168 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "bakoel-pedesan": {
+    title: "Bakoel Pedesan",
+    icon: null,
+    navbarTitle: "Bakoel Pedesan",
+    ctaLink: "https://wa.me/6281217903996",
+    keyword: [
+      "Bakoel Pedesan",
+      "Bakso Aci Ayam Suwir",
+      "Bakso Aci Sosis",
+      "Kripik Kaca",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Khas",
+      "Kuliner Nusantara",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Kelezatan yang Menggoda di Setiap Gigitan, Hanya di Bakoel Pedesan",
+      deskripsi:
+        "Di Bakoel Pedesan, kepuasan pelanggan adalah prioritas utama kami. Dengan pilihan hidangan yang beragam dan cita rasa yang autentik, kami siap memanjakan lidah Anda dengan pengalaman kuliner yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000893/umkm/bakoel%20pedesan/WhatsApp_Image_2024-06-06_at_14.05.13_d86547db_gyona6.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Kelezatan Otentik di Bakoel Pedesan!",
+
+      deskripsi:
+        "Dengan suasana yang nyaman dan layanan yang ramah, kami siap memberikan pengalaman kuliner yang tak terlupakan bagi Anda. Ayo, kunjungi kami sekarang dan nikmati kelezatan otentik di setiap hidangan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000895/umkm/bakoel%20pedesan/WhatsApp_Image_2024-06-06_at_14.05.13_4742e077_vwnauk.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Bakso Aci Ayam Suwir",
+          deskripsi:
+            "Rasakan kelezatan bakso aci yang lembut dan gurih, disajikan dengan ayam suwir yang lezat. Setiap gigitan akan memanjakan lidah Anda dengan cita rasa yang menggugah selera.",
+          price: "Rp 10.000",
+          img: "https://id-test-11.slatic.net/p/65a19eaba90ab126b96891c27c170dc0.jpg",
+        },
+        {
+          name: "Bakso Aci Sosis",
+          deskripsi:
+            "Nikmati sensasi unik dari bakso aci yang juicy, dipadukan dengan rasa sosis yang khas. Dengan paduan rasa yang sempurna, hidangan ini akan memuaskan selera Anda dengan kelezatan yang tiada tara.",
+          price: "Rp 10.000",
+          img: "https://cf.shopee.co.id/file/id-11134207-7qul2-ljyjz3zlviwve5",
+        },
+        {
+          name: "Kripik Kaca",
+          deskripsi:
+            "Tambahkan sentuhan renyah pada hidangan Anda dengan kripik kaca kami yang gurih. Diproses dengan teknik khusus, kripik kaca kami menjadi pelengkap yang sempurna untuk menikmati hidangan Anda.",
+          price: "Rp 70.000/kg",
+          img: "https://kurio-img.kurioapps.com/21/08/26/1cb71787-db0e-430c-8261-4377163302e6.jpe",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.484879050489!2d114.14401457501118!3d-8.353867991683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTMuOSJTIDExNMKwMDgnNDcuNyJF!5e0!3m2!1sid!2sid!4v1718000827001!5m2!1sid!2sid",
+    footer: {
+      noHp: "081217903996",
+      alamat: null,
+    },
+  },
+  "es-teh-nusantara": {
+    title: "Es Teh Nusantara",
+    icon: null,
+    navbarTitle: "Es Teh Nusantara",
+    ctaLink: "https://wa.me/6287778963058",
+    keyword: [
+      "Es Teh Nusantara",
+      "Tea Series",
+      "Macchiato Series",
+      "Milk Tea Series",
+      "Minuman Teh",
+      "Es Teh",
+      "Teh Segar",
+      "Minuman Dingin",
+      "Minuman Kekinian",
+      "Teh Susu",
+      "Teh Macchiato",
+    ],
+    color: {
+      // required
+      primary: "bg-[#FDF40B]",
+      secondary: "bg-[#E8E585]",
+      backgroundColor: "bg-[#FCFBF7]",
+      hoverColor: "hover:bg-[#E6DE00]",
+      textColor: "text-[#0A0A05]",
+      btnTextColor: "text-[#0A0A05]",
+      accentColor: "text-[#EFEA5A]",
+    },
+
+    hero: {
+      tagLine: "Memanjakan Lidah dengan Kelezatan Nusantara!",
+      deskripsi:
+        "Selamat datang di Es Teh Nusantara, tempat di mana kelezatan bertemu dengan kekayaan cita rasa Nusantara. Kami bangga menyajikan beragam minuman teh yang menggoda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001070/umkm/es%20teh%20nusantara/WhatsApp_Image_2024-06-06_at_14.05.48_34139403_vtyxmu.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Teh Nusantara yang Tiada Tanding!",
+
+      deskripsi:
+        "Di Es Teh Nusantara, kami menghadirkan kehangatan dan kelezatan teh Nusantara yang akan memanjakan lidah Anda. Ayo kunjungi kami dan rasakan sendiri kenikmatan teh Nusantara yang tiada tara!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001110/umkm/es%20teh%20nusantara/WhatsApp_Image_2024-06-06_at_14.05.48_18dd1268_r9qs1m.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Tea Series",
+          deskripsi:
+            "Nikmati kekhasan teh Nusantara dengan berbagai varian rasa yang memikat",
+          price: null,
+          img: "https://fubelly.com/wp-content/uploads/2017/04/Black-Tea-Lychee-720x720.jpg",
+        },
+        {
+          name: "Macchiato Series",
+          deskripsi:
+            "Macchiato series kami menghadirkan sentuhan modern pada cita rasa klasik Nusantara.",
+          price: null,
+          img: "https://multitenant.vmos-static.com/cdn-cgi/image/fit=cover,width=960/https://media-multitenant.vmos-static.com/media/v1/media?entityUUID=582027db-dd9c-40b5-bb00-4170a05d7cba&scope=grid",
+        },
+        {
+          name: "Milk Tea Series",
+          deskripsi:
+            "Temukan harmoni rasa antara teh hitam dan susu yang creamy dalam setiap gelas milk tea kami.",
+          price: null,
+          img: "https://images.squarespace-cdn.com/content/v1/6322517a4f56dd03db825834/24623d63-e405-44d3-a92d-af7b9ac962bf/Milk+Tea+_2.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.483888581557!2d114.14404067501114!3d-8.353965891682835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTQuMyJTIDExNMKwMDgnNDcuOCJF!5e0!3m2!1sid!2sid!4v1718000936156!5m2!1sid!2sid",
+    footer: {
+      noHp: "087778963058",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
