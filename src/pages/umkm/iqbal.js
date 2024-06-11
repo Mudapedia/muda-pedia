@@ -1135,6 +1135,79 @@ const dataIqbal = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "buah-segar-maron": {
+    title: "Buah Segar Maron",
+    icon: null,
+    navbarTitle: "Buah Segar Maron",
+    ctaLink: "https://wa.me/6283853420212",
+    keyword :[
+      "Buah Segar Maron",
+      "Apel",
+      "Pir",
+      "Anggur",
+      "Buah Segar",
+      "Buah Apel",
+      "Buah Pir",
+      "Buah Anggur",
+      "Toko Buah",
+      "Buah Sehat",
+      "Buah Berkualitas"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Kesegaran Buah Terbaik untuk Anda!",
+      deskripsi: "Tempat terbaik untuk mendapatkan buah-buahan segar yang siap memanjakan lidah Anda. Kami menawarkan berbagai macam buah berkualitas tinggi yang dipetik langsung dari kebun terbaik, menjamin kesegaran dan kelezatan setiap buah.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001486/umkm/buah%20segar%20maron/foto1_kvh25a.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Belanja di Buah Segar Maron!",
+      deskripsi: "Kami berkomitmen untuk menyediakan buah-buahan terbaik yang penuh dengan vitamin dan nutrisi penting. Kunjungi kami dan bawa pulang kesegaran buah yang akan menyempurnakan hari Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001486/umkm/buah%20segar%20maron/foto2_hydlaj.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Buah Pir",
+          deskripsi: "Pir segar dari Buah Segar Maron adalah pilihan sempurna untuk cemilan sehat yang menyegarkan sepanjang hari.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001488/umkm/buah%20segar%20maron/pir_ayunmb.jpg",
+        },
+        {
+          name: "Apel",
+          deskripsi: "Nikmati rasa manis dan renyah dari apel segar kami. Setiap gigitan memberikan sensasi kesegaran yang alami, cocok untuk dikonsumsi langsung atau dijadikan bahan dalam hidangan favorit Anda.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001484/umkm/buah%20segar%20maron/apel_zwubb7.jpg",
+        },
+        {
+          name: "Anggur",
+          deskripsi: "Rasakan manisnya anggur segar yang juicy dan penuh rasa. Anggur kami tersedia dalam berbagai varian yang siap memuaskan dahaga Anda dengan kesegarannya yang alami.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001485/umkm/buah%20segar%20maron/anggur_umaccc.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4405222677897!2d114.14378787501116!3d-8.358251191678745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjkuNyJTIDExNMKwMDgnNDYuOSJF!5e0!3m2!1sen!2sid!4v1718001223302!5m2!1sen!2sid",
+    footer: {
+      noHp: "083853420212",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
