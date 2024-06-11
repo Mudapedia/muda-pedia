@@ -847,6 +847,76 @@ const dataIqbal = {
       alamat: "Blimbingsari, Banyuwangi",
     },
   },
+  "warkop-lemahbang": {
+    title: "Warkop Lemahbang",
+    icon: null,
+    navbarTitle: "Warkop Lemahbang",
+    ctaLink: null,
+    keyword :[
+      "Warung Gemoy",
+      "Es Teh",
+      "Es Cincau",
+      "Es Jeruk",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Tradisional",
+      "Jajanan Warung"
+    ],
+    color: {
+      // required
+      primary: "bg-[#BF7390]",
+      secondary: "bg-[#f278a7]",
+      backgroundColor: "bg-[#fefbfc]",
+      hoverColor: "hover:bg-[#8c5067]",
+      textColor: "text-[#12090d]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#fe4b90]",
+    },
+    hero: {
+      tagLine: "Warkop Lemahbang",
+      deskripsi: "Nikmati Kesegaran dan Kehangatan Setiap Hari! tempat terbaik untuk menikmati minuman favorit Anda.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718078381/umkm/warung%20lemahbang/foto_b2noke.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Warkop Lemahbang!",
+      deskripsi: "Kami selalu menggunakan bahan-bahan berkualitas tinggi untuk menjamin rasa dan kesegaran setiap minuman. Kunjungi kami dan nikmati suasana santai dengan minuman yang Anda sukai!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718078382/umkm/warung%20lemahbang/foto2_rifrls.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kopi Panas/Dingin",
+          deskripsi: null,
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/132/2023/10/12/l-kopi-bisa-buat-panjang-umur-1200x800966c0cdb0fc09826ae33c207dc04e28f20200619222348-bimacms-1145056559.jpg",
+        },
+        {
+          name: "Aneka Es",
+          deskripsi: null,
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/10/5/72963090-7fc2-4258-89d0-9147506f4e40.jpg",
+        },
+        {
+          name: "Teh Panas/Dingin",
+          deskripsi: null,
+          price: null,
+          img: "https://suarabaru.id/wp-content/uploads/2023/11/tea-4857512_640-e1700463273181.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
+  },
 };
 
 export default dataIqbal;
