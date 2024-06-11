@@ -29,8 +29,9 @@ const Navbar = ({
           </span>
         </a>
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-          <a
-            href={ctaLink ? ctaLink : "#"}
+          {ctaLink ? (
+            <a
+            href={ctaLink}
             rel="noreferrer"
             target={ctaLink ? "_blank" : "_self"}
             type="button"
@@ -38,6 +39,7 @@ const Navbar = ({
           >
             Kontak Kami
           </a>
+          ):("")}
         </div>
       </div>
     </nav>
