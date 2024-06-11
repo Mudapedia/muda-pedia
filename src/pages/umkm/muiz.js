@@ -4618,6 +4618,72 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "cilok-marvel": {
+    title: "Cilok Marvel",
+    icon: null,
+    navbarTitle: "Cilok Marvel",
+    ctaLink: "https://wa.me/6283840389991",
+    keyword: [
+      "Cilok Marvel",
+      "Cilok",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Cemilan Khas",
+      "Jajanan Bandung",
+      "Kuliner Nusantara",
+      "Makanan Jalanan",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Sensasi Cilok Terbaik yang Luar Biasa!",
+      deskripsi:
+        "Selamat datang di Cilok Marvel, tempat di mana Anda dapat menemukan cilok berkualitas tinggi yang menggugah selera. Kami menyajikan cilok dengan cita rasa yang luar biasa, membuat setiap gigitan menjadi pengalaman yang memuaskan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001587/umkm/cilok%20marvel/WhatsApp_Image_2024-06-06_at_14.08.10_aa64ca08_tokdbr.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kelezatan dalam Setiap Gigitan!",
+
+      deskripsi:
+        "Kunjungi Cilok Marvel dan temukan kenikmatan cilok yang berbeda dari yang lain. Rasakan sensasi kenyal dan lezat yang membuat Anda ingin kembali lagi dan lagi. Cilok Marvel, kelezatan yang tak bisa Anda lewatkan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001582/umkm/cilok%20marvel/WhatsApp_Image_2024-06-06_at_14.08.10_6cece391_fvaa9j.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Cilok",
+          deskripsi:
+            "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
+          price: null,
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/659/2023/09/12/Instagram-jnyfoodjournal-18-215616524.png",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4687549280325!2d114.14373737501117!3d-8.355461591681413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTkuNyJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sid!2sid!4v1718001509031!5m2!1sid!2sid",
+    footer: {
+      noHp: "083840389991",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
