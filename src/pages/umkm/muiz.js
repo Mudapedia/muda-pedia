@@ -3818,13 +3818,13 @@ const dataMuiz = {
       alamat: null,
     },
   },
-  "pentol-maya-gpl": {
-    title: "Pentol Maya GPL",
+  "pentol-pakis": {
+    title: "Pentol Pakis",
     icon: null,
-    navbarTitle: "Pentol Maya GPL",
-    ctaLink: "https://wa.me/6281256172076",
+    navbarTitle: "Pentol Pakis",
+    ctaLink: "https://wa.me/6283846869079",
     keyword: [
-      "Pentol Maya GPL",
+      "Pentol Pakis",
       "Pentol",
       "Pop Ice",
       "Aneka Es",
@@ -3848,10 +3848,10 @@ const dataMuiz = {
     hero: {
       tagLine: "Nikmati Kelezatan Pentol dan Kesegaran Aneka Es",
       deskripsi:
-        " Di sini, kami menyajikan hidangan pentol yang khas dengan cita rasa yang menggugah selera, serta aneka es yang menyegarkan untuk menemani setiap momen santai Anda. Berlokasi strategis dan menawarkan suasana yang ramah, Pentol Maya GPL adalah tempat sempurna untuk menikmati waktu bersama teman dan keluarga.",
+        " Di sini, kami menyajikan hidangan pentol yang khas dengan cita rasa yang menggugah selera, serta aneka es yang menyegarkan untuk menemani setiap momen santai Anda. Berlokasi strategis dan menawarkan suasana yang ramah, Pentol Pakis adalah tempat sempurna untuk menikmati waktu bersama teman dan keluarga.",
       btn: true, // optional
       btnText: "Pesan sekarang",
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079346/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq.jpg",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082559/umkm/pentol-pakis/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq_eyhke0.jpg",
     },
     about: {
       title: null,
@@ -3859,7 +3859,7 @@ const dataMuiz = {
 
       deskripsi:
         "Pentol Maya GPL, destinasi kuliner favorit bagi pecinta makanan jalanan yang otentik dan menyegarkan. ", // optional
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079346/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq.jpg",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082559/umkm/pentol-pakis/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq_eyhke0.jpg",
       btn: true, // optional
       btnText: "Order yuk",
     },
@@ -3872,20 +3872,21 @@ const dataMuiz = {
           deskripsi:
             "Terbuat dari daging pilihan dan bumbu khas yang meresap sempurna.",
           price: null,
-          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079388/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.08_36352aa5_lsldhn.jpg",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082648/umkm/pentol-pakis/WhatsApp_Image_2024-06-06_at_13.27.08_36352aa5_lsldhn_yuvrip.jpg",
         },
         {
           name: "Aneka Es",
           deskripsi:
-            "Temukan kesegaran maksimal dengan pilihan aneka es di Pentol Maya GPL.",
+            "Temukan kesegaran maksimal dengan pilihan aneka es di Pentol Pakis",
           price: null,
           img: "https://berita.99.co/wp-content/uploads/2023/10/pop-ice.jpg",
         },
       ],
     },
-    location: null,
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6104256141393!2d114.35085337500988!3d-8.241870491791332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMzAuNyJTIDExNMKwMjEnMTIuMyJF!5e0!3m2!1sid!2sid!4v1716797641631!5m2!1sid!2sid",
     footer: {
-      noHp: "081256172076",
+      noHp: "083846869079",
       alamat: null,
     },
   },
@@ -3967,6 +3968,195 @@ const dataMuiz = {
     footer: {
       noHp: "082146890205",
       alamat: null,
+    },
+  },
+  "tokyo-street-food": {
+    title: "Tokyo Street Food",
+    icon: null,
+    navbarTitle: "Tokyo Street Food",
+    ctaLink: "https://wa.me/6285231446188",
+    keyword: [
+      "Tokyo Street Food",
+      "Sosis Super",
+      "Cireng",
+      "Es Teh",
+      "Street Food",
+      "Jajanan Jalanan",
+      "Makanan Ringan",
+      "Cemilan",
+      "Minuman Segar",
+      "Minuman Teh",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Sensasi Tokyo di Setiap Hidangan!",
+      deskripsi:
+        "Mari nikmati petualangan kuliner di Tokyo Street Food, di mana setiap hidangan membawa Anda merasakan kenikmatan. Ayo kunjungi kami sekarang dan rasakan pengalaman makan yang tak terlupakan!",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718081442/umkm/tokyo-street-food/WhatsApp_Image_2024-06-06_at_13.33.29_18fad1d6_sswv0p.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Sensasi di Setiap Hidangan!",
+
+      deskripsi:
+        "Ayo kunjungi kami sekarang dan nikmati pengalaman kuliner yang autentik dan memuaskan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718081443/umkm/tokyo-street-food/WhatsApp_Image_2024-06-06_at_13.33.29_46e35e01_xxzhj4.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Sosis Super",
+          deskripsi:
+            "Nikmati sosis super kami yang juicy dan penuh rasa, disajikan dengan berbagai saus dan topping yang lezat. ",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082200/umkm/tokyo-street-food/1a32461b8d683e5c4f107f34bd0ffed5_xv6vgc.jpg",
+        },
+        {
+          name: "Cireng",
+          deskripsi:
+            "Disajikan dengan aneka saus dan bumbu pilihan, setiap suapan cireng membawa cita rasa autentik jajanan jalanan Tokyo.",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/12/08/resep-cireng-empuk-renyah.jpeg?w=600&q=90",
+        },
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Minuman teh dingin berkualitas tinggi ini siap memberikan sensasi penyegaran sempurna di tengah cuaca yang panas.",
+          price: null,
+          img: "https://asset.kompas.com/crops/vX_ULbw0h4h-CclfUmCXhfjxwTU=/0x0:880x587/750x500/data/photo/2023/08/16/64dc53ca9f3db.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "085231446188",
+      alamat: null,
+    },
+  },
+  "es-teh-kota": {
+    title: "Es Teh Kota",
+    icon: null,
+    navbarTitle: "Es Teh Kota",
+    ctaLink: "https://wa.me/6282143951655",
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#FFC300]",
+      secondary: "bg-[#B2DD9B]",
+      backgroundColor: "bg-[#FCFAF5]",
+      hoverColor: "hover:bg-[#E9B200]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-[#1D180A]",
+      accentColor: "text-[#78CF72]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Sensasi Es Teh Terbaik!",
+      deskripsi:
+        "Selamat datang di Es Teh Kota, tempat terbaik untuk menikmati kesegaran es teh yang sempurna. Kami menghadirkan es teh berkualitas tinggi yang dibuat dengan cinta dan perhatian untuk memberikan rasa yang luar biasa dan menyegarkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082847/umkm/es%20teh%20kota/WhatsApp_Image_2024-06-06_at_13.33.30_98c9e563_mzwjbi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran Sejati di Setiap Tegukan!",
+
+      deskripsi:
+        "Kami menyediakan es teh berkualitas tinggi yang dibuat dari daun teh pilihan dan es yang dingin, menciptakan minuman yang sempurna untuk segala suasana.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082850/umkm/es%20teh%20kota/WhatsApp_Image_2024-06-06_at_13.33.30_8dffeb8b_dyird2.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama kami",
+      // required
+      data: [
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Setiap gelas es teh kami diracik dengan proporsi yang tepat untuk menghasilkan rasa yang seimbang dan menyegarkan, siap menemani Anda di hari yang panas atau saat bersantai bersama teman dan keluarga.",
+          price: null,
+          img: "https://asset.kompas.com/crops/VEMd5H4lRZYH6QAc3zr0b003UfU=/0x0:880x587/1200x800/data/photo/2023/08/16/64dc53ca9f3db.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082143951655",
+      alamat: null,
+    },
+  },
+  "una-tea": {
+    title: "Una Tea",
+    icon: null,
+    navbarTitle: "Una Tea",
+    ctaLink: "https://wa.me/6289606818657",
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#FFC300]",
+      secondary: "bg-[#B2DD9B]",
+      backgroundColor: "bg-[#FCFAF5]",
+      hoverColor: "hover:bg-[#E9B200]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-[#1D180A]",
+      accentColor: "text-[#78CF72]",
+    },
+
+    hero: {
+      tagLine: "Rasa Teh Alami, Segar Setiap Saat!",
+      deskripsi:
+        "Selamat datang di Una Tea, tempat terbaik untuk menikmati teh berkualitas tinggi yang dibuat dari bahan alami dan diproses dengan penuh perhatian. Kami menghadirkan berbagai varian teh yang menyegarkan dan penuh cita rasa.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000618/umkm/una-tea/foto1_sbkddx.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran dan Kelezatan dalam Setiap Cangkir",
+
+      deskripsi:
+        "Temukan kenikmatan teh sejati di Una Tea. Datang dan nikmati pengalaman minum teh yang tak tertandingi, dimana setiap cangkirnya memberikan kesegaran dan kepuasan yang luar biasa!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000619/umkm/una-tea/foto2_z0fzje.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Teh Segar",
+          deskripsi:
+            "Setiap cangkir teh kami diracik dengan daun teh pilihan yang dipetik langsung dari kebun terbaik. ",
+          price: null,
+          img: "https://assets.promediateknologi.id/crop/163x162:1158x705/750x500/webp/photo/p1/294/2023/08/22/Screenshot_20230822-140308-1348602332.png",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "089606818657",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
 };
