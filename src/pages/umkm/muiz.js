@@ -4550,8 +4550,18 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Batagor Siomay Bandung",
     ctaLink: "https://wa.me/6283176962323",
-    keyword: [],
-
+    keyword: [
+      "Batagor Siomay Bandung",
+      "Batagor",
+      "Siomay",
+      "Makanan Bandung",
+      "Makanan Khas",
+      "Makanan Tradisional",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Kuliner Nusantara",
+    ],
     color: {
       // required
       primary: "bg-[#F87171]",
