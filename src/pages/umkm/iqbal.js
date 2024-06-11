@@ -853,14 +853,17 @@ const dataIqbal = {
     navbarTitle: "Warkop Lemahbang",
     ctaLink: null,
     keyword :[
-      "Warung Gemoy",
-      "Es Teh",
-      "Es Cincau",
-      "Es Jeruk",
+      "Warkop Lemahbang",
+      "Kopi Panas",
+      "Kopi Dingin",
+      "Teh Panas",
+      "Teh Dingin",
+      "Aneka Es",
       "Minuman Segar",
+      "Minuman Panas",
       "Minuman Dingin",
-      "Minuman Tradisional",
-      "Jajanan Warung"
+      "Warung Kopi",
+      "Minuman Teh"
     ],
     color: {
       // required
@@ -915,6 +918,78 @@ const dataIqbal = {
     footer: {
       noHp: null,
       alamat: null,
+    },
+  },
+  "kaisar-degan": {
+    title: "Kaisar Degan",
+    icon: null,
+    navbarTitle: "Kaisar Degan",
+    ctaLink: "tel:6282237077233",
+    keyword :[
+      "Kaisar Degan",
+      "Es Degan",
+      "Es Dawet Susu",
+      "Es Campur",
+      "Aneka Minuman",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Tradisional",
+      "Es Kelapa",
+      "Es Tradisional"
+    ],
+    color: {
+      // required
+      primary: "bg-[#50C249]",
+      secondary: "bg-[#8ce787]",
+      backgroundColor: "bg-[#f5faf4]",
+      hoverColor: "hover:bg-[#2e7d29]",
+      textColor: "text-[#080c08]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#5af052]",
+    },
+    hero: {
+      tagLine: " Kesegaran Alami di Setiap Tegukan!",
+      deskripsi: "Tempat terbaik untuk menikmati minuman segar yang memanjakan lidah dan melepas dahaga. Kami menawarkan berbagai pilihan minuman yang terbuat dari bahan-bahan alami.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080596/umkm/kaisar%20degan/foto1_jwdvdw.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Kaisar Degan!",
+      deskripsi: "Setiap minuman dibuat dengan cinta dan perhatian untuk memastikan Anda mendapatkan yang terbaik. Datanglah dan nikmati kesegaran alami dari minuman kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080595/umkm/kaisar%20degan/foto2_hohx0j.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan",
+          deskripsi: " Es Degan kami disajikan dengan daging kelapa yang lembut dan es yang menyegarkan",
+          price: null,
+          img: "https://cdn.kibrispdr.org/data/1068/es-kelapa-muda-hd-17.jpg",
+        },
+        {
+          name: "Es Dawet Susu",
+          deskripsi: "Rasakan kenikmatan Es Dawet Susu kami yang khas. Dengan kombinasi cendol kenyal, santan segar, dan gula merah yang manis.",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2021/05/22/dawet-ayu-yu-pur-5.jpeg?w=1080",
+        },
+        {
+          name: "Es Campur",
+          deskripsi: "Temukan kesegaran dan kelezatan dalam satu gelas Es Campur kami. Dengan campuran buah-buahan segar, jelly, dan sirup manis.",
+          price: null,
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.1365292443143!2d114.29044667501037!3d-8.289208691745543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTcnMjEuMiJTIDExNMKwMTcnMzQuOSJF!5e0!3m2!1sid!2sid!4v1716797658708!5m2!1sid!2sid",
+    footer: {
+      noHp: "082237077233",
+      alamat: "Kabat, Banyuwangi",
     },
   },
 };
