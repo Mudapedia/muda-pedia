@@ -4054,8 +4054,16 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Es Teh Kota",
     ctaLink: "https://wa.me/6282143951655",
-    keyword: [],
-
+    keyword: [
+      "Es Teh Kota",
+      "Es Teh",
+      "Teh Dingin",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Teh Manis",
+      "Minuman Teh",
+      "Teh Kota",
+    ],
     color: {
       // required
       primary: "bg-[#FFC300]",
@@ -4109,8 +4117,17 @@ const dataMuiz = {
     icon: null,
     navbarTitle: "Una Tea",
     ctaLink: "https://wa.me/6289606818657",
-    keyword: [],
-
+    keyword: [
+      "Una Tea",
+      "Teh",
+      "Teh Segar",
+      "Minuman Teh",
+      "Teh Panas",
+      "Teh Dingin",
+      "Minuman Sehat",
+      "Teh Tradisional",
+      "Aneka Teh",
+    ],
     color: {
       // required
       primary: "bg-[#FFC300]",
@@ -4154,6 +4171,147 @@ const dataMuiz = {
       ],
     },
     location: null,
+    footer: {
+      noHp: "089606818657",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "jual-beli-semangka": {
+    title: "Jual Beli Semangka",
+    icon: null,
+    navbarTitle: "Jual Beli Semangka",
+    ctaLink: "https://wa.me/6282331784319",
+    keyword: [
+      "Jual Beli Semangka",
+      "Semangka Segar",
+      "Buah Semangka",
+      "Semangka Manis",
+      "Pasar Semangka",
+      "Penjualan Semangka",
+      "Pembelian Semangka",
+      "Jual Semangka",
+      "Beli Semangka",
+      "Toko Buah",
+      "Buah Segar",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Semangka Segar dari Kami!",
+      deskripsi:
+        "Selamat datang di Jual Beli Semangka, tempat terbaik untuk mendapatkan semangka berkualitas tinggi yang segar dan manis. Kami menyediakan berbagai jenis semangka yang dipilih langsung dari petani lokal untuk memastikan Anda mendapatkan buah yang terbaik.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000798/umkm/jual-beli-semangka/WhatsApp_Image_2024-06-06_at_14.04.48_3aa78765_oil9xj.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Semangka Segar, Manisnya Tiada Tanding!",
+
+      deskripsi:
+        "kami mengutamakan kualitas dan kesegaran. Setiap semangka dipilih dengan cermat untuk memastikan Anda mendapatkan buah yang matang sempurna dan kaya akan rasa. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000798/umkm/jual-beli-semangka/WhatsApp_Image_2024-06-06_at_14.04.48_3aa78765_oil9xj.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Yang Kami Jual",
+      // required
+      data: [
+        {
+          name: "Semangka",
+          deskripsi:
+            "Kami menyediakan berbagai pilihan semangka yang manis dan juicy, memastikan setiap buah yang Anda beli adalah yang terbaik.",
+          price: null,
+          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Watermeloen.jpg/800px-Watermeloen.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.488294511751!2d114.14403487501114!3d-8.353530391683295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTIuNyJTIDExNMKwMDgnNDcuOCJF!5e0!3m2!1sid!2sid!4v1718000706828!5m2!1sid!2sid",
+    footer: {
+      noHp: "082331784319",
+      alamat: null,
+    },
+  },
+  "nasi-pecel-mak-sareh": {
+    title: "Nasi Pecel Mak Sareh",
+    icon: null,
+    navbarTitle: "Nasi Pecel Mak Sareh",
+    ctaLink: "https://wa.me/6289606818657",
+    keyword: [
+      "Nasi Pecel Mak Sareh",
+      "Nasi Pecel",
+      "Makanan Jawa",
+      "Makanan Tradisional",
+      "Kopi ABC",
+      "Kopi",
+      "Minuman Kopi",
+      "Kopi Hitam",
+      "Minuman Panas",
+      "Minuman Dingin",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Nasi Pecel Mak Sareh Kelezatan Tradisional, Kenikmatan Kopi Sejati!",
+      deskripsi:
+        "Selamat datang di Nasi Pecel Mak Sareh, tempat di mana Anda bisa menikmati kelezatan nasi pecel khas yang autentik dan memuaskan. Kami menyajikan nasi pecel yang dibuat dengan bumbu kacang yang kaya rasa dan berbagai sayuran segar, menciptakan hidangan yang sehat dan lezat.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000935/umkm/nasi%20pecel%20mak%20sareh/foto1_gaykrv.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Santapan Tradisional, Kopi ABC Mantap!",
+
+      deskripsi:
+        "kami berkomitmen untuk memberikan Anda pengalaman makan yang memuaskan dengan cita rasa tradisional terbaik dan pelayanan yang ramah. Ayo kunjungi kami sekarang dan rasakan sendiri perpaduan sempurna antara nasi pecel yang lezat dan kopi ABC yang nikmat!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000939/umkm/nasi%20pecel%20mak%20sareh/foto2_kabbde.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Nasi Pecel",
+          deskripsi:
+            "Nasi pecel kami disajikan dengan sayuran segar yang renyah, dilengkapi dengan bumbu kacang yang gurih dan sedikit pedas.",
+          price: null,
+          img: "https://asset.kompas.com/crops/etxkCgz_0N5ZbdP6YGJScpobPVk=/60x23:959x622/750x500/data/photo/2020/11/05/5fa3f16d9c1cf.jpg",
+        },
+        {
+          name: "Kopi Abc",
+          deskripsi:
+            "Nikmati segelas kopi ABC yang kuat dan beraroma untuk menemani hidangan nasi pecel Anda. ",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718085316/umkm/nasi%20pecel%20mak%20sareh/id-11134207-7qul0-lhycj8ucwan8a7_reyfoi.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4464942516393!2d114.14379327501115!3d-8.357661191679293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjcuNiJTIDExNMKwMDgnNDYuOSJF!5e0!3m2!1sen!2sid!4v1718000823041!5m2!1sen!2sid",
     footer: {
       noHp: "089606818657",
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
