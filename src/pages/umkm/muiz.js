@@ -3739,6 +3739,236 @@ const dataMuiz = {
       alamat: "lemahbang dewo",
     },
   },
+  "warung-bu-hak": {
+    title: "Warung Bu Hak",
+    icon: null,
+    navbarTitle: "Warung Bu Hak",
+    ctaLink: "https://wa.me/6285163172361",
+    keyword: [
+      "Warung Bu Hak",
+      "Rujak Soto",
+      "Rujak Sayur",
+      "Rujak Kecut",
+      "Lontong Jangan",
+      "Tahu Lontong",
+      "Makanan Tradisional",
+      "Makanan Jawa",
+      "Makanan Khas",
+      "Kuliner Nusantara",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan yang Melekat di Hati dan Lidah!",
+      deskripsi:
+        "Dengan bahan-bahan pilihan dan resep turun-temurun, Warung Bu Hak menyajikan hidangan yang tidak hanya lezat tetapi juga penuh kenangan. Kunjungi kami dan nikmati sensasi kuliner yang berbeda!",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718078307/umkm/warung-bu-hak/WhatsApp_Image_2024-06-06_at_13.27.05_9fd34d7b_rmir5z.jpg",
+    },
+    about: {
+      title: "Tentang",
+      txt: "Kenikmatan Rujak yang Tak Terlupakan di Warung Bu Hak!",
+
+      deskripsi:
+        " kami selalu berkomitmen untuk menyajikan hidangan dengan cita rasa terbaik dan bahan-bahan segar. Datang dan nikmati hidangan yang akan membuat Anda kembali lagi dan lagi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079027/umkm/warung-bu-hak/WhatsApp_Image_2024-06-06_at_13.27.06_7533e024_bf3whf.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Rujak Soto",
+          deskripsi:
+            "Hidangan khas yang mengkombinasikan rujak buah segar dengan kuah soto yang lezat. Setiap suapan menawarkan rasa yang kompleks dan memuaskan.",
+          price: null,
+          img: "https://www.ngopibareng.id/images/uploads/2022/2022-11-14/pedasnya-rujak-soto-banyuwangi-perpaduan-rujak-dan-soto-babat--thumbnail-972",
+        },
+        {
+          name: "Rujak Sayur",
+          deskripsi:
+            "Sajian segar dari berbagai macam sayuran yang dipadukan dengan saus rujak khas Bu Hak. Hidangan sehat yang tetap menggugah selera.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/21044422/cara-membuat-rujak-cingur-sederhana-khas-surabaya.jpg",
+        },
+        {
+          name: "Rujak Kecut",
+          deskripsi:
+            "Rujak dengan sensasi asam dari buah-buahan segar yang dipadukan dengan bumbu khas. Cocok untuk Anda yang menyukai rasa segar dan asam.",
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/75/2023/09/16/rujak-kecut-1842067873.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "085163172361",
+      alamat: null,
+    },
+  },
+  "pentol-maya-gpl": {
+    title: "Pentol Maya GPL",
+    icon: null,
+    navbarTitle: "Pentol Maya GPL",
+    ctaLink: "https://wa.me/6281256172076",
+    keyword: [
+      "Pentol Maya GPL",
+      "Pentol",
+      "Pop Ice",
+      "Aneka Es",
+      "Es Sachet",
+      "Minuman Segar",
+      "Es Pop Ice",
+      "Jajanan Warung",
+      "Cemilan",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Kelezatan Pentol dan Kesegaran Aneka Es",
+      deskripsi:
+        " Di sini, kami menyajikan hidangan pentol yang khas dengan cita rasa yang menggugah selera, serta aneka es yang menyegarkan untuk menemani setiap momen santai Anda. Berlokasi strategis dan menawarkan suasana yang ramah, Pentol Maya GPL adalah tempat sempurna untuk menikmati waktu bersama teman dan keluarga.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079346/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Pentol Lezat dan Es Segar yang Memanjakan!",
+
+      deskripsi:
+        "Pentol Maya GPL, destinasi kuliner favorit bagi pecinta makanan jalanan yang otentik dan menyegarkan. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079346/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.07_ecab9d0b_iwtauq.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Pentol",
+          deskripsi:
+            "Terbuat dari daging pilihan dan bumbu khas yang meresap sempurna.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718079388/umkm/pentol%20maya%20gpl/WhatsApp_Image_2024-06-06_at_13.27.08_36352aa5_lsldhn.jpg",
+        },
+        {
+          name: "Aneka Es",
+          deskripsi:
+            "Temukan kesegaran maksimal dengan pilihan aneka es di Pentol Maya GPL.",
+          price: null,
+          img: "https://berita.99.co/wp-content/uploads/2023/10/pop-ice.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "081256172076",
+      alamat: null,
+    },
+  },
+  "ff-laundry": {
+    title: "FF Laundry",
+    icon: null,
+    navbarTitle: "FF Laundry",
+    ctaLink: "https://wa.me/6282146890205",
+    keyword: [
+      "FF Laundry",
+      "Layanan Laundry",
+      "Cuci Sprei",
+      "Setrika Sprei",
+      "Cuci Selimut",
+      "Setrika Selimut",
+      "Cuci Setrika",
+      "Laundry Sprei",
+      "Laundry Selimut",
+      "Cuci Sprei Setrika",
+      "Cuci Setrika Sprei",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kebersihan dan Kenyamanan Maksimal untuk Anda",
+      deskripsi:
+        "Selamat datang di FF Laundry, tempat di mana kebersihan dan kenyamanan adalah prioritas utama kami. Kami menyediakan berbagai layanan laundry yang dirancang untuk memenuhi kebutuhan Anda, memastikan setiap item yang kami tangani kembali dalam kondisi terbaik. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080240/umkm/ff%20laundry/WhatsApp_Image_2024-06-06_at_13.27.07_59fde9b9_imn7pv.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kebersihan Tanpa Kompromi, Kenyamanan Terbaik untuk Anda",
+
+      deskripsi:
+        "kami berkomitmen untuk memberikan layanan laundry berkualitas tinggi dengan hasil yang memuaskan. Kunjungi kami dan rasakan sendiri perbedaan kebersihan dan kenyamanan maksimal dari layanan laundry kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080242/umkm/ff%20laundry/WhatsApp_Image_2024-06-06_at_13.27.06_4ce8fa0c_k82iaq.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Layanan Kami",
+      // required
+      data: [
+        {
+          name: "Laundry Sprei",
+          deskripsi:
+            "Layanan pencucian sprei kami dirancang untuk memastikan tidur Anda selalu nyaman dan higienis.",
+          price: "Rp 7.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080675/umkm/ff%20laundry/okeywashlaundry.com-Thumbnail-Instagram-Vs-Bed-Cover-698x1024_xgr7lu.jpg",
+        },
+        {
+          name: "Strika Baju",
+          deskripsi:
+            "Layanan setrika kami memberikan hasil yang rapi dan profesional, sehingga Anda bisa tampil percaya diri setiap hari.",
+          price: "Rp 4.000/kg",
+          img: "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/04/05/tips-setrika-agar-cepat-licinjp-20230405090448.jpg",
+        },
+        {
+          name: "Selimut",
+          deskripsi:
+            "Layanan pencucian selimut kami memastikan setiap selimut dibersihkan secara mendalam, menghilangkan debu, kotoran, dan alergen yang bisa mengganggu kenyamanan Anda.",
+          price: "Rp 10.000",
+          img: "https://www.jagel.id/api/listimage/v/Laundry-Selimut-0-7245b502691df0eb.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082146890205",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
