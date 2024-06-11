@@ -992,6 +992,149 @@ const dataIqbal = {
       alamat: "Kabat, Banyuwangi",
     },
   },
+  "pentol-raja-rasa": {
+    title: "Pentol Raja Rasa",
+    icon: null,
+    navbarTitle: "Pentol Raja Rasa",
+    ctaLink: "tel:628224431828",
+    keyword :[
+      "Pentol Raja Rasa",
+      "Pentol Krikil",
+      "Pentol Tahu",
+      "Pentol Isi Telur",
+      "Pentol",
+      "Jajanan Pentol",
+      "Makanan Ringan",
+      "Cemilan",
+      "Makanan Tradisional"
+    ],
+    color: {
+      // required
+      primary: "bg-[#d4ee57]",
+      secondary: "bg-[#75f3d5]",
+      backgroundColor: "bg-[#fdfef4]",
+      hoverColor: "hover:bg-[#a3b842]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4ac3f0]",
+    },
+    hero: {
+      tagLine: " Sajian Pentol dengan Rasa Raja!",
+      deskripsi: "Tempat di mana Anda bisa menikmati berbagai jenis pentol yang kaya rasa dan menggugah selera.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082671/umkm/pentol%20raja%20rasa/foto1_ts7a8j.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Pentol Raja Rasa!",
+      deskripsi: "Setiap jenis pentol dibuat dengan bahan-bahan berkualitas tinggi dan resep istimewa untuk memastikan Anda mendapatkan rasa terbaik. Kunjungi kami dan nikmati berbagai pilihan pentol yang akan memanjakan lidah Anda dengan kelezatan yang tak tertandingi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718082671/umkm/pentol%20raja%20rasa/foto2_vb8ioe.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Pentol Krikil",
+          deskripsi: "Pentol kecil yang kenyal dengan rasa gurih yang pas di lidah. Cocok untuk camilan atau teman ngobrol santai.",
+          price: null,
+          img: "https://filebroker-cdn.lazada.co.id/kf/S471fa2f82a764d9a9abdd2ddd02360d67.jpg",
+        },
+        {
+          name: "Pentol Telur",
+          deskripsi: "Pentol spesial dengan isian telur di dalamnya, memberikan kejutan nikmat di setiap gigitannya. Rasa gurih dari daging pentol berpadu harmonis dengan kelembutan telur, menjadikannya favorit banyak orang.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/a414435aaa35e29e/680x482cq70/pentol-ayam-isi-telur-puyuh-foto-resep-utama.jpg",
+        },
+        {
+          name: "Pentol Tahu",
+          deskripsi: "Kombinasi sempurna antara tahu yang lembut dan pentol yang gurih. Setiap gigitan pentol tahu kami memberikan sensasi rasa yang unik dan memuaskan.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/80f2f248c672b7fe/680x482cq70/tahu-pentol-ayam-kukus-foto-resep-utama.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.1365292443143!2d114.29044667501037!3d-8.289208691745543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTcnMjEuMiJTIDExNMKwMTcnMzQuOSJF!5e0!3m2!1sid!2sid!4v1716797658708!5m2!1sid!2sid",
+    footer: {
+      noHp: "08224431828",
+      alamat: "Kabat, Banyuwangi",
+    },
+  },
+  "issho-brownies": {
+    title: "Issho Brownies",
+    icon: null,
+    navbarTitle: "Issho Brownies",
+    ctaLink: "https://wa.me/6281216253958",
+    keyword :[
+      "Issho Brownies",
+      "Brownies",
+      "Brownies Coklat",
+      "Brownies Keju",
+      "Brownies Lembut",
+      "Kue Brownies",
+      "Cemilan Manis",
+      "Kue Coklat",
+      "Cemilan Lezat",
+      "Kue Tradisional"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Manisnya Kebahagiaan dalam Setiap Gigitan!",
+      deskripsi: "Brownies berkualitas premium yang dibuat dengan bahan-bahan terbaik dan resep istimewa, menciptakan tekstur yang lembut dan rasa cokelat yang mendalam.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000544/umkm/issho/WhatsApp_Image_2024-06-06_at_14.03.34_d5cdd7ff_adm014.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Issho!",
+      deskripsi: "Kunjungi Issho Brownies dan nikmati kelezatan brownies yang menggoda. Biarkan setiap gigitan membawa Anda pada perjalanan rasa yang manis dan memuaskan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000542/umkm/issho/WhatsApp_Image_2024-06-06_at_14.03.36_0566d4da_emln25.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000548/umkm/issho/WhatsApp_Image_2024-06-06_at_14.03.35_4c4e175b_bus9i7.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000547/umkm/issho/WhatsApp_Image_2024-06-06_at_14.03.35_59b1e682_qkpvvj.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718000545/umkm/issho/WhatsApp_Image_2024-06-06_at_14.03.35_9650f04c_xgy6ww.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4889055573103!2d114.14399297501105!3d-8.35346999168334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTIuNSJTIDExNMKwMDgnNDcuNiJF!5e0!3m2!1sid!2sid!4v1718000638374!5m2!1sid!2sid",
+    footer: {
+      noHp: "081216253958",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
