@@ -1208,6 +1208,196 @@ const dataIqbal = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "nanas-madu-maron": {
+    title: "Nanas Madu Maron",
+    icon: null,
+    navbarTitle: "Nanas Madu Maron",
+    ctaLink: null,
+    keyword :[
+      "Es Teler Moro Seneng",
+      "Es Teler",
+      "Salad Buah",
+      "Es Buah",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Dessert Buah",
+      "Minuman Buah",
+      "Minuman Sehat",
+      "Jajanan Dingin"
+    ],
+    color: {
+      // required
+      primary: "bg-[#f5c514]",
+      secondary: "bg-[#e5d086]",
+      backgroundColor: "bg-[#fdfdfb]",
+      hoverColor: "hover:bg-[#c9a316]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e7c754]",
+    },
+    hero: {
+      tagLine: "Manis, Segar, dan Alami!",
+      deskripsi: "Nanas Madu Maron, sumber terbaik untuk mendapatkan nanas madu yang segar dan manis. Kami menyediakan nanas madu berkualitas tinggi yang dipetik langsung dari kebun, menjamin kesegaran dan rasa manis yang alami.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001517/umkm/nanas%20madu%20maron/foto1_ktwx0r.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kunjungi Nanas Madu Maron!",
+      deskripsi: "Bawa pulang kesegaran dan manisnya nanas madu kami. Nikmati buah tropis yang penuh vitamin dan rasa yang memanjakan lidah Anda. Dengan harga yang terjangkau dan kualitas yang terjamin.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001517/umkm/nanas%20madu%20maron/foto1_ktwx0r.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Nanas Madu",
+          deskripsi: "Nanas madu kami terkenal akan rasa manisnya yang alami dan teksturnya yang juicy. Setiap gigitan nanas madu membawa Anda pada petualangan rasa yang menyegarkan dan memuaskan.",
+          price: null,
+          img: "https://asset.kompas.com/crops/n4WvxEXpvLkxvrnCR7GGhFSQdyM=/192x128:1728x1152/750x500/data/photo/2022/10/11/6344e5063d5a0.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4377355361703!2d114.14380267501114!3d-8.358526491678443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMzAuNyJTIDExNMKwMDgnNDcuMCJF!5e0!3m2!1sen!2sid!4v1718001384516!5m2!1sen!2sid",
+    footer: {
+      noHp: "083129951215",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "es-teler-moro-seneng": {
+    title: "Es Teler Moro Seneng",
+    icon: null,
+    navbarTitle: "Es Teler Moro Seneng",
+    ctaLink: "https://wa.me/6283129951215",
+    keyword :[
+      "Es Teler Moro Seneng",
+      "Es Teler",
+      "Salad Buah",
+      "Es Buah",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Dessert Buah",
+      "Minuman Buah",
+      "Minuman Sehat",
+      "Jajanan Dingin"
+    ],
+    color: {
+      // required
+      primary: "bg-[#f5c514]",
+      secondary: "bg-[#e5d086]",
+      backgroundColor: "bg-[#fdfdfb]",
+      hoverColor: "hover:bg-[#c9a316]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e7c754]",
+    },
+    hero: {
+      tagLine: "Segarnya Menyegarkan Hari Anda!",
+      deskripsi: "aneka minuman dan hidangan buah yang memanjakan lidah. Kami menawarkan berbagai pilihan yang menggoda dan penuh kesegaran.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001219/umkm/es%20teler%20moro%20seneng/WhatsApp_Image_2024-06-06_at_14.06.23_ef6d4ff9_dejkzi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Es Teler Moro Seneng!",
+      deskripsi: "Setiap hidangan kami dibuat dengan bahan-bahan segar dan berkualitas tinggi untuk memastikan Anda mendapatkan pengalaman yang memuaskan di setiap suapan dan tegukan. Kunjungi kami dan nikmati segarnya hidangan buah kami yang akan membuat Anda selalu ingin kembali!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001224/umkm/es%20teler%20moro%20seneng/WhatsApp_Image_2024-06-06_at_14.06.22_21d8188d_yin6us.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler",
+          deskripsi: "Rasakan sensasi kesegaran dan kelezatan dalam setiap mangkuk es teler kami. Dengan campuran alpukat, kelapa muda, nangka, dan sirup manis, es teler kami adalah pilihan sempurna untuk menyegarkan hari Anda.",
+          price: null,
+          img: "https://cdn-image.hipwee.com/wp-content/uploads/2022/04/hipwee-Es-Teler.jpg",
+        },
+        {
+          name: "Salad Buah",
+          deskripsi: "Nikmati kebaikan buah segar dalam satu mangkuk salad buah kami. Campuran berbagai buah segar dengan saus yang creamy dan lezat, salad buah kami adalah pilihan sehat yang menyegarkan.",
+          price: null,
+          img: "https://drivethru.klikindomaret.com/tz0m/wp-content/uploads/sites/23/2022/06/9425827_af48a7c5-faff-400b-94f9-674a3f0aed17_500_500.jpg",
+        },
+        {
+          name: "Es Buah",
+          deskripsi: "Dengan potongan buah segar yang berlimpah, sirup manis, dan es yang menyegarkan, es buah kami adalah minuman yang sempurna untuk menghilangkan dahaga Anda.",
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/05/24/AqsApbd/resep-cara-membuat-es-campur-yang-enak-dan-segar-praktis95.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4806601191603!2d114.14383807501103!3d-8.35428499168254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTUuNCJTIDExNMKwMDgnNDcuMSJF!5e0!3m2!1sid!2sid!4v1718001138455!5m2!1sid!2sid",
+    footer: {
+      noHp: "083129951215",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "queen-teh": {
+    title: "Queen Teh",
+    icon: null,
+    navbarTitle: "Queen Teh",
+    ctaLink: null,
+    keyword :[
+      "Queen Teh",
+      "Es Teh",
+      "Minuman Teh",
+      "Minuman Dingin",
+      "Teh Segar",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Minuman Khas"
+    ],
+    color: {
+      // required
+      primary: "bg-[#6bd7ac]",
+      secondary: "bg-[#88e0bc]",
+      backgroundColor: "bg-[#f5faf8]",
+      hoverColor: "hover:bg-[#439c78]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#62e3af]",
+    },
+    hero: {
+      tagLine: "Ratunya Kesegaran Es Teh!",
+      deskripsi: "Kelembutan teh dan kesegaran es bertemu dalam satu gelas. Kami bangga menyajikan minuman teh berkualitas tinggi",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718092239/umkm/queen%20teh/foto_haqddm.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Queen Teh!",
+      deskripsi: "Setiap gelas teh kami disajikan dengan cinta dan dedikasi untuk memberikan pengalaman minum teh yang luar biasa. Nikmati kesegaran dan kelezatan teh kami yang akan memanjakan lidah Anda setiap saat!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718092239/umkm/queen%20teh/foto_haqddm.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh",
+          deskripsi: "Menyegarkan harimu dengan kesegaran es teh kami yang lezat. Es teh Queen Teh kami disajikan dengan es batu yang melimpah dan sirup yang pas, memberikan sensasi segar yang tak tertandingi.",
+          price: null,
+          img: "https://kbeonline.id/wp-content/uploads/2023/10/photo-21.jpeg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4096475234655!2d114.14371667501119!3d-8.361300791675749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnNDAuNyJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sen!2sid!4v1718001547148!5m2!1sen!2sid",
+    footer: {
+      noHp: "083129951215",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
