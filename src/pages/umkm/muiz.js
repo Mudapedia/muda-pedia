@@ -4479,6 +4479,135 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "es-teh-moro-seneng": {
+    title: "Es Teh Moro Seneng",
+    icon: null,
+    navbarTitle: "Es Teh Moro Seneng",
+    ctaLink: "https://wa.me/6283129951215",
+    keyword: [
+      "Es Teh Moro Seneng",
+      "Es Teh",
+      "Minuman Teh",
+      "Minuman Dingin",
+      "Teh Segar",
+      "Minuman Tradisional",
+      "Minuman Hangat",
+      "Minuman Panas",
+      "Minuman Favorit",
+      "Minuman Khas",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Es Teh Moro Seneng, Segar dan Nikmatnya Teh yang Sejati!",
+      deskripsi:
+        "Selamat datang di Es Teh Moro Seneng, tempat di mana kami menghadirkan segarnya minuman teh yang autentik dan memuaskan. Kami bangga menyajikan teh berkualitas tinggi yang diseduh dengan cinta dan perhatian, memberikan pengalaman minum teh yang tiada tara.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001358/umkm/es%20teh%20moro%20seneng/WhatsApp_Image_2024-06-06_at_14.06.55_3a2b5952_hib17d.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Menyajikan Kesegaran Teh yang Menggoda!",
+
+      deskripsi:
+        "Nikmati kenikmatan teh yang sejati di Es Teh Moro Seneng. Ayo kunjungi kami sekarang dan rasakan sensasi minum teh yang memuaskan yang tidak akan Anda temukan di tempat lain!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001353/umkm/es%20teh%20moro%20seneng/WhatsApp_Image_2024-06-06_at_14.06.55_cc69d5ef_rqxjsa.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Teh",
+          deskripsi:
+            "Kami memastikan setiap gelas es teh kami disajikan dengan es yang segar dan teh yang nikmat, menciptakan minuman yang sempurna untuk menemani hari Anda.",
+          price: null,
+          img: "https://png.pngtree.com/png-clipart/20240311/ourmid/pngtree-jumbo-iced-tea-png-image_11938240.png",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.481257054997!2d114.14391347501117!3d-8.354225991682602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTUuMiJTIDExNMKwMDgnNDcuNCJF!5e0!3m2!1sid!2sid!4v1718001264329!5m2!1sid!2sid",
+    footer: {
+      noHp: "083129951215 ",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "batagor-siomay-bandung": {
+    title: "Batagor Siomay Bandung",
+    icon: null,
+    navbarTitle: "Batagor Siomay Bandung",
+    ctaLink: "https://wa.me/6283176962323",
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Kelezatan Bandung di Setiap Gigitan Batagor Siomay!",
+      deskripsi:
+        "Selamat datang di Batagor Siomay Bandung, tempat di mana Anda bisa menemukan kelezatan khas Bandung dalam setiap hidangan kami. Kami membanggakan diri dalam menyajikan batagor dan siomay yang lezat dan autentik.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001469/umkm/batagor%20siomay%20bandung/WhatsApp_Image_2024-06-06_at_14.07.26_3f87620b_neevhm.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kelezatan Bandung di Setiap Hidangan Batagor Siomay!",
+
+      deskripsi:
+        "Di Batagor Siomay Bandung, setiap hidangan kami disajikan dengan cinta dan dedikasi untuk memberikan pengalaman makan yang tak terlupakan. Ayo kunjungi kami dan rasakan kelezatan khas Bandung dalam setiap hidangan batagor dan siomay kami!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001467/umkm/batagor%20siomay%20bandung/WhatsApp_Image_2024-06-06_at_14.07.26_9fcd08e4_kaz277.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Batagor",
+          deskripsi:
+            "Rasakan kombinasi gurih dan renyah dari batagor kami yang dipenuhi dengan campuran adonan ikan dan tepung.",
+          price: null,
+          img: "https://asset.kompas.com/crops/xhUxRwQsxbWaxsUB2nducVEwPYw=/27x103:995x749/750x500/data/photo/2023/09/06/64f7fe0a00572.jpg",
+        },
+        {
+          name: "Siomay",
+          deskripsi:
+            "Disajikan dengan saus kacang dan bumbu spesial, setiap gigitan siomay kami membawa sensasi cita rasa yang autentik dan menggoda.",
+          price: null,
+          img: "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/07/04/1633413189.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4675072453465!2d114.14366037501101!3d-8.355584891681255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjAuMSJTIDExNMKwMDgnNDYuNSJF!5e0!3m2!1sid!2sid!4v1718001408304!5m2!1sid!2sid",
+    footer: {
+      noHp: "083176962323",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
