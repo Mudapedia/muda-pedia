@@ -5158,9 +5158,236 @@ const dataMuiz = {
         },
       ],
     },
-    location: null,
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.471053935355!2d114.14366727501115!3d-8.355234391681641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTguOCJTIDExNMKwMDgnNDYuNSJF!5e0!3m2!1sid!2sid!4v1718003523224!5m2!1sid!2sid",
     footer: {
       noHp: "082331030317",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "es-teler-buaya": {
+    title: "Es Teler Buaya",
+    icon: null,
+    navbarTitle: "Es Teler Buaya",
+    ctaLink: "https://wa.me/6282124325598",
+    keyword: [
+      "Es Teler Buaya",
+      "Es Teler",
+      "Es Buah Keju",
+      "Es Lumut",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Buah",
+      "Minuman Dingin",
+      "Minuman Manis",
+      "Es Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Segar yang Tak Terlupakan!",
+      deskripsi:
+        "Selamat datang di Es Teler Buaya, destinasi favorit Anda untuk menikmati minuman segar yang memikat hati. Kami menghadirkan beragam pilihan minuman, termasuk es teler, es buah keju, dan es lumut, yang akan memuaskan dahaga Anda dengan kesegaran yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003762/umkm/es%20teler%20buaya/WhatsApp_Image_2024-06-06_at_14.14.28_bed614f2_vmq5vv.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran Khas Indonesia dalam Setiap Gigitan!",
+
+      deskripsi:
+        "Dengan layanan yang ramah dan suasana yang nyaman, kami mengundang Anda untuk menikmati pengalaman minum yang tak terlupakan bersama kami. Ayo kunjungi Es Teler Buaya dan rasakan kesegaran khas Indonesia!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003706/umkm/es%20teler%20buaya/WhatsApp_Image_2024-06-06_at_14.14.28_bddf8d5f_auwh3k.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler",
+          deskripsi:
+            "Nikmati kelezatan es teler kami yang khas, dengan campuran buah-buahan segar seperti alpukat, kelapa muda, nangka, dan cincau, disajikan dengan es serut dan santan kental.",
+          price: null,
+          img: "https://satlantasgrobogan.com/foto_berita/16es-teler-sejarahmu-dulu-dan-kini.jpg",
+        },
+        {
+          name: "Es Buah Keju",
+          deskripsi:
+            "Rasakan kombinasi yang unik antara segar dan gurih dengan es buah keju kami. ",
+          price: null,
+          img: "https://cdn.yummy.co.id/content-images/images/20221124/wROO9ml2h1pg8cLgNZnF14AJpa0En6Ed-31363639323830373230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+        },
+        {
+          name: "Es Lumut",
+          deskripsi:
+            "Cicipi sensasi menyegarkan dari es lumut kami, yang terbuat dari campuran rasa pandan, santan, dan gula merah, ditambah dengan es serut dan taburan biji selasih.",
+          price: null,
+          img: "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/155f95d2-e69d-4c57-a900-58f356822e3a_Go-Biz_20221013_162012.jpeg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4748240920458!2d114.14379017501113!3d-8.354861791682001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTcuNSJTIDExNMKwMDgnNDYuOSJF!5e0!3m2!1sid!2sid!4v1718003628512!5m2!1sid!2sid",
+    footer: {
+      noHp: "082124325598",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "cilok-khas-bandung": {
+    title: "Cilok Khas Bandung",
+    icon: null,
+    navbarTitle: "Cilok Khas Bandung",
+    ctaLink: "tel:6281249749458",
+    keyword: [
+      "Cilok Khas Bandung",
+      "Cilok",
+      "Makanan Khas Bandung",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Kuliner Nusantara",
+      "Cilok Enak",
+      "Cilok Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#591E24]",
+      secondary: "bg-[#D3CB78]",
+      backgroundColor: "bg-[#FCF3F4]",
+      hoverColor: "hover:bg-[#3E0006]",
+      textColor: "text-[#190608]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#B9DB65]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Tradisional dalam Setiap Gigitan!",
+      deskripsi:
+        "Selamat datang di Cilok Khas Bandung, tempat di mana Anda dapat menikmati kenikmatan tradisional dalam setiap gigitan cilok kami. Kami dengan bangga menyajikan hidangan khas Bandung ini dengan cita rasa yang otentik dan memikat hati.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004230/umkm/cilok%20khas%20bandung%20boga%20rasa/WhatsApp_Image_2024-06-06_at_14.15.18_01252a94_wamtlx.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Tradisional dalam Setiap Gigitan!",
+
+      deskripsi:
+        "kami menjamin bahwa setiap hidangan cilok kami memberikan kenikmatan yang tiada tara. Ayo kunjungi kami sekarang dan rasakan kelezatan cilok khas Bandung yang menggoda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004229/umkm/cilok%20khas%20bandung%20boga%20rasa/WhatsApp_Image_2024-06-06_at_14.15.19_a45aa46c_awuu8l.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Cilok",
+          deskripsi:
+            "Nikmati kelezatan cilok kami yang lembut dan gurih, dengan bumbu rempah yang meresap sempurna.",
+          price: null,
+          img: "https://bolulembang.co.id/wp-content/uploads/2021/05/images-1.jpeg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4797141190493!2d114.1438937750111!3d-8.354378491682443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTUuOCJTIDExNMKwMDgnNDcuMyJF!5e0!3m2!1sid!2sid!4v1718004164643!5m2!1sid!2sid",
+    footer: {
+      noHp: "081249749458",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "original-pentol-gresik": {
+    title: "Original Pentol Gresik",
+    icon: null,
+    navbarTitle: "Original Pentol Gresik",
+    ctaLink: "https://wa.me/628123461300",
+    keyword: [
+      "Original Pentol Gresik",
+      "Usus",
+      "Krupuk Pangsit",
+      "Pentol",
+      "Makanan Gresik",
+      "Makanan Tradisional",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Kuliner Nusantara",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Nikmati Kelezatan Otentik dari Gresik!",
+      deskripsi:
+        "Selamat datang di Original Pentol Gresik, tempat di mana kelezatan asli kota Gresik tersaji dalam setiap hidangan. Dari usus yang lembut hingga krupuk pangsit yang renyah, serta pentol yang menggugah selera, kami menghadirkan cita rasa yang mengundang Anda untuk menjelajahi kelezatan khas kami.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004511/umkm/original%20pentol%20gresik/WhatsApp_Image_2024-06-06_at_14.16.10_40e9e4b7_h8tjgt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Cita Rasa Gresik yang Menggoda!",
+
+      deskripsi:
+        "Di Original Pentol Gresik, kami selalu mengutamakan kualitas dan cita rasa yang otentik dalam setiap hidangan kami. Ayo kunjungi kami dan nikmati sensasi cita rasa Gresik yang menggoda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004506/umkm/original%20pentol%20gresik/WhatsApp_Image_2024-06-06_at_14.16.11_32576744_hlukbd.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Usus",
+          deskripsi:
+            "Nikmati usus yang lembut dan beraroma, berpadu dengan bumbu khas Gresik yang memikat.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004517/umkm/original%20pentol%20gresik/WhatsApp_Image_2024-06-06_at_14.16.09_25137a55_g7hg7r.jpg",
+        },
+        {
+          name: "Krupuk Pangsit",
+          deskripsi:
+            "Rasakan renyahnya krupuk pangsit kami, dengan rasa gurih yang tak terlupakan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004515/umkm/original%20pentol%20gresik/WhatsApp_Image_2024-06-06_at_14.16.10_15f294b1_oysjgb.jpg",
+        },
+        {
+          name: "Pentol",
+          deskripsi:
+            "Tiap gigitan menghadirkan sensasi rasa yang autentik dan menggugah selera, mengingatkan Anda akan kelezatan khas Gresik.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004512/umkm/original%20pentol%20gresik/WhatsApp_Image_2024-06-06_at_14.16.10_25fdc6d6_otv6lo.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.44840216164!2d114.14373887501104!3d-8.357472691679474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjYuOSJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sid!2sid!4v1718004410046!5m2!1sid!2sid",
+    footer: {
+      noHp: "08123461300",
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
