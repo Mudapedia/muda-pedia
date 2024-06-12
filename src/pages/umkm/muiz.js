@@ -5028,6 +5028,142 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "es-cup-poci": {
+    title: "Es Cup Poci",
+    icon: null,
+    navbarTitle: "Es Cup Poci",
+    ctaLink: "https://wa.me/6281289903895",
+    keyword: [
+      "Es Teh Poci",
+      "Minuman Teh",
+      "Minuman Dingin",
+      "Es Teh",
+      "Milo Milk",
+      "Taro Milk",
+      "Aneka Varian Milk",
+      "Minuman Susu",
+      "Minuman Segar",
+      "Minuman Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#FDDA72]",
+      secondary: "bg-[#E0CB8C]",
+      backgroundColor: "bg-[#F9F7F1]",
+      hoverColor: "hover:bg-[#F8C83A]",
+      textColor: "text-[#1A170D]",
+      btnTextColor: "text-[#1A170D]",
+      accentColor: "text-[#DEBE5E]",
+    },
+
+    hero: {
+      tagLine: "Kesenangan Tersedia dalam Setiap Gelas!",
+      deskripsi:
+        "Selamat datang di Es Teh Poci, tempat di mana kesenangan tersedia dalam setiap gelas. Kami dengan bangga menyajikan minuman milk yang lezat dan menyegarkan, termasuk Milo Milk, Taro Milk, dan berbagai varian milk lainnya yang menggoda selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003462/umkm/es%20cup%20poci/WhatsApp_Image_2024-06-06_at_14.13.22_395d259b_ne6nvd.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Minuman Kelezatan Terpoci",
+
+      deskripsi:
+        "Jadi, kunjungi kami sekarang dan rasakan kesegaran dan kelezatan minuman kami yang tak tertandingi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003460/umkm/es%20cup%20poci/WhatsApp_Image_2024-06-06_at_14.13.21_c21addc5_sbthcz.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Milo Milk",
+          deskripsi:
+            "Nikmati sensasi kaya rasa cokelat dari Milo Milk kami. Minuman ini menggabungkan kelezatan Milo dengan susu segar, menciptakan paduan yang mengasyikkan untuk dinikmati kapan pun Anda menginginkannya.",
+          price: null,
+          img: "https://img.lazcdn.com/g/p/adedeafc1faef2644cd0d245b130cd68.jpg_960x960q80.jpg_.webp",
+        },
+        {
+          name: "Taro Milk",
+          deskripsi:
+            "Rasakan kelezatan creamy dari Taro Milk kami. Dibuat dengan bubuk taro yang lembut dan susu yang kaya, minuman ini menghadirkan cita rasa yang unik dan memikat untuk menggugah selera Anda.",
+          price: null,
+          img: "https://down-id.img.susercontent.com/file/47bd10199d369bf7ebe35899e86f17fe",
+        },
+        {
+          name: "Aneka Varian Milk",
+          deskripsi:
+            "Selain itu, kami juga menawarkan berbagai varian milk lainnya yang tak kalah menggoda.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/product-1/2019/3/29/11326172/11326172_61b3b47d-c1d6-4bff-9d75-60f7be00c0ae_400_399.png",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4649683114785!2d114.14393737501108!3d-8.355835791681034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjEuMCJTIDExNMKwMDgnNDcuNCJF!5e0!3m2!1sid!2sid!4v1718003377716!5m2!1sid!2sid",
+    footer: {
+      noHp: "081289903895",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "cimol-sotong-bandung": {
+    title: "Cimol Sotong Bandung",
+    icon: null,
+    navbarTitle: "Cimol Sotong Bandung",
+    ctaLink: "https://wa.me/6282331030317",
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine:
+        "Kelezatan Cimol Sotong, Nikmati Kombinasi Terbaik dari Bandung!",
+      deskripsi:
+        "Selamat datang di Cimol Sotong Bandung, tempat di mana cita rasa khas Bandung bertemu dengan kelezatan cimol dan sotong yang memukau. Kami bangga menyajikan camilan yang unik ini, dengan tekstur renyah cimol dan kelezatan sotong yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003607/umkm/cimol%20sotong%20bandung/WhatsApp_Image_2024-06-06_at_14.14.00_8c2ee6cb_tdijtg.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Renyah dalam Setiap Gigitan!",
+
+      deskripsi:
+        "Di Cimol Sotong Bandung, kami menghadirkan cimol sotong dengan cita rasa terbaik, disajikan dengan kebersihan dan kualitas yang terjamin. Jadi, jangan ragu untuk datang dan nikmati camilan favorit ini bersama kami!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003605/umkm/cimol%20sotong%20bandung/WhatsApp_Image_2024-06-06_at_14.14.00_88af9ed2_ukdrnc.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Cimol Sotong",
+          deskripsi:
+            "Nikmati sensasi yang tak terlupakan dari cimol sotong kami yang lezat. Terbuat dari bahan-bahan berkualitas dan dipadukan dengan bumbu khas Bandung, setiap gigitan menghadirkan kelezatan yang memukau dan menggugah selera.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003609/umkm/cimol%20sotong%20bandung/WhatsApp_Image_2024-06-06_at_14.14.00_9febf6f5_cjbeua.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082331030317",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
