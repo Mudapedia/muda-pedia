@@ -4890,6 +4890,144 @@ const dataMuiz = {
       alamat: "Kembiritan, Genteng, Banyuwangi",
     },
   },
+  "es-teh-jumbo-cangaan": {
+    title: "Es Teh Jumbo Cangaan",
+    icon: null,
+    navbarTitle: "Es Teh Jumbo Cangaan",
+    ctaLink: null,
+    keyword: [
+      "Es Teh Jumbo Cangaan",
+      "Es Teh Jumbo",
+      "Aneka Sosis Goreng",
+      "Minuman Dingin",
+      "Minuman Teh",
+      "Sosis Goreng",
+      "Es Jumbo",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Minuman Manis",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Tiada Tara, Kelezatan Tak Terbantahkan!",
+      deskripsi:
+        "Selamat datang di Es Teh Jumbo Cangaan, destinasi terbaik untuk menikmati es teh jumbo yang menyegarkan dan aneka sosis goreng yang lezat. Kami menghadirkan pengalaman kuliner yang lengkap, dengan minuman yang menyegarkan dan camilan yang memuaskan selera.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718006299/umkm/es%20teh%20jumbo%20kembiritan/foto_uhwf7f.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran Tidak Terbantahkan, Kelezatan Tak Terlupakan!",
+
+      deskripsi:
+        "Di Es Teh Jumbo Cangaan, kami mengutamakan kualitas dan kepuasan pelanggan. Kunjungi kami dan nikmati kesegaran es teh jumbo yang tiada duanya serta kelezatan aneka sosis yang memikat lidah Anda. Ayo segera merasakan kombinasi yang luar biasa ini!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718006299/umkm/es%20teh%20jumbo%20kembiritan/foto_uhwf7f.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Nikmati kesegaran es teh jumbo kami yang luar biasa, disajikan dalam porsi besar dan dipenuhi dengan rasa teh yang autentik.",
+          price: "Rp 3.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718167636/umkm/es%20teh%20jumbo%20kembiritan/id-11134207-7r98r-lluok6ei8wzrfc_xokquq.jpg",
+        },
+        {
+          name: "Aneka Osis Goreng",
+          deskripsi:
+            "Santaplah beragam sosis goreng kami yang digoreng dengan sempurna, memberikan rasa gurih dan renyah yang memikat.",
+          price: null,
+          img: "https://www.jagel.id/api/listimage/v/Aneka-Sosis-Goreng-0-1845f4f295415ebc.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.3403006098633!2d114.16701737501127!3d-8.368146391669157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjInMDUuMyJTIDExNMKwMTAnMTAuNSJF!5e0!3m2!1sen!2sid!4v1718002887120!5m2!1sen!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Kembiritan, Genteng, Banyuwangi",
+    },
+  },
+  "pempek-chandra": {
+    title: "Pempek Chandra",
+    icon: null,
+    navbarTitle: "Pempek Chandra",
+    ctaLink: "https://wa.me/6283177878797",
+    keyword: [
+      "Pempek Chandra",
+      "Pempek",
+      "Makanan Khas Palembang",
+      "Makanan Laut",
+      "Makanan Tradisional",
+      "Kuliner Palembang",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Makanan Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Pempek Chandra, Kenikmatan Pempek Sejati!",
+      deskripsi:
+        "Selamat datang di Pempek Chandra, tempat di mana Anda menemukan kenikmatan pempek sejati yang tak tertandingi. Kami bangga menyajikan pempek dengan cita rasa autentik yang menggugah selera, memanjakan lidah Anda dengan setiap gigitan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003341/umkm/pempek%20chandra/WhatsApp_Image_2024-06-06_at_14.12.31_516e62a2_ry6prf.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Pempek Asli yang Menggugah Selera!",
+
+      deskripsi:
+        "Jadi, tunggu apalagi? Kunjungi Pempek Chandra sekarang dan nikmati pengalaman kuliner yang tak terlupakan bersama kami!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003343/umkm/pempek%20chandra/WhatsApp_Image_2024-06-06_at_14.12.29_8e7811cb_p0bjto.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Pempek",
+          deskripsi:
+            "Setiap pempek kami dibuat dengan teliti menggunakan bahan-bahan berkualitas tinggi, memberikan rasa yang khas dan tekstur yang lembut.",
+          price: null,
+          img: "https://akcdn.detik.net.id/visual/2023/11/23/ilustrasi-pempek_169.jpeg?w=650",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "083177878797",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
