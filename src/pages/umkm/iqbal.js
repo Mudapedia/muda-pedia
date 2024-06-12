@@ -1394,7 +1394,209 @@ const dataIqbal = {
     },
     location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4096475234655!2d114.14371667501119!3d-8.361300791675749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnNDAuNyJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sen!2sid!4v1718001547148!5m2!1sen!2sid",
     footer: {
-      noHp: "083129951215",
+      noHp: null,
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "cilok-podomoro": {
+    title: "Cilok Podo Moro",
+    icon: null,
+    navbarTitle: "Cilok Podo Moro",
+    ctaLink: null,
+    keyword :[
+      "Cilok Podo Moro",
+      "Cilok",
+      "Cilok Tahu",
+      "Pangsit",
+      "Makanan Ringan",
+      "Cemilan",
+      "Makanan Khas",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Kuliner Nusantara"
+    ],
+    color: {
+      // required
+      primary: "bg-[#6bd7ac]",
+      secondary: "bg-[#88e0bc]",
+      backgroundColor: "bg-[#f5faf8]",
+      hoverColor: "hover:bg-[#439c78]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#62e3af]",
+    },
+    hero: {
+      tagLine: "Nikmati Sensasi Cilok yang Menggoda!",
+      deskripsi: "Kami menghadirkan berbagai varian cilok dan camilan lain yang dibuat dengan bahan berkualitas tinggi",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001659/umkm/cilok%20podo%20moro/WhatsApp_Image_2024-06-06_at_14.08.38_f9f4bc2c_vxocnb.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Cilok Podo Moro!",
+      deskripsi: "Kami berkomitmen untuk menghadirkan citarasa camilan yang autentik dan menggugah selera. Datang dan nikmati kelezatan cilok, cilok tahu, dan pangsit kami yang pasti membuat Anda ketagihan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001656/umkm/cilok%20podo%20moro/WhatsApp_Image_2024-06-06_at_14.08.36_41b94cbc_dtn1sa.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Cilok",
+          deskripsi: "Nikmati kelembutan dan kelezatan cilok khas kami. Disajikan dengan saus kacang yang gurih, cilok Podo Moro memberikan pengalaman rasa yang sulit untuk dilupakan.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/1b352d125fb19a82/680x482cq70/cilok-kanji-foto-resep-utama.jpg",
+        },
+        {
+          name: "Cilok Tahu",
+          deskripsi: "Rasakan kombinasi sempurna antara cilok yang kenyal dan tahu yang lembut. Cilok tahu kami adalah perpaduan yang pas dengan saus kacang spesial yang melengkapi kelezatan setiap gigitan.",
+          price: null,
+          img: "https://img-global.cpcdn.com/recipes/80f2f248c672b7fe/680x482cq70/tahu-pentol-ayam-kukus-foto-resep-utama.jpg",
+        },
+        {
+          name: "Pangsit",
+          deskripsi: "Cicipi pangsit renyah yang diisi dengan bahan-bahan pilihan. Pangsit Podo Moro disajikan dengan saus spesial yang menjadikannya camilan sempurna untuk segala kesempatan.",
+          price: null,
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/995/2023/08/27/Screenshot_2023-08-27-18-37-26-14_1c337646f29875672b5a61192b9010f9-2952776992.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4685697500054!2d114.14372987501112!3d-8.355479891681409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTkuNyJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sid!2sid!4v1718001665227!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "es-teler-ndeso": {
+    title: "Es Teler Ndeso",
+    icon: null,
+    navbarTitle: "Es Teler Ndeso",
+    ctaLink: "tel:6282331061831",
+    keyword :[
+      "Es Teler Ndeso",
+      "Es Teler",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Buah",
+      "Minuman Dingin",
+      "Minuman Manis",
+      "Es Segar",
+      "Es Tradisional",
+      "Es Favorit"
+    ],
+    color: {
+      // required
+      primary: "bg-[#6bd7ac]",
+      secondary: "bg-[#88e0bc]",
+      backgroundColor: "bg-[#f5faf8]",
+      hoverColor: "hover:bg-[#439c78]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#62e3af]",
+    },
+    hero: {
+      tagLine: "Kenikmatan Tradisional Setiap Sajian!",
+      deskripsi: "Es teler yang khas dengan sentuhan tradisional yang memukau, memberikan Anda pengalaman minum yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718002421/umkm/es%20teler%20ndeso/foto_w07zgt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Es Teler Ndeso!",
+      deskripsi: "Datanglah dan nikmati hidangan khas Ndeso yang memanjakan lidah Anda. Es Teler Ndeso, tempat Anda menemukan kenikmatan minuman tradisional yang sesungguhnya!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718002421/umkm/es%20teler%20ndeso/foto_w07zgt.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler",
+          deskripsi: "Nikmati kelezatan es teler kami, yang terdiri dari campuran buah-buahan segar dipadukan dengan es serut yang menyegarkan.",
+          price: null,
+          img: "https://o-cdn-cas.sirclocdn.com/parenting/images/Es_Teler_Santan.width-800.format-webp.webp",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.329937700775!2d114.16994557501137!3d-8.36916889166816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjInMDkuMCJTIDExNMKwMTAnMjEuMSJF!5e0!3m2!1sen!2sid!4v1718002452904!5m2!1sen!2sid",
+    footer: {
+      noHp: "082331061831",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "hotman-dimsum": {
+    title: "Hotman Dimsum",
+    icon: null,
+    navbarTitle: "Hotman Dimsum",
+    ctaLink: "https://wa.me/628885602361",
+    keyword :[
+      "Queen Teh",
+      "Es Teh",
+      "Minuman Teh",
+      "Minuman Dingin",
+      "Teh Segar",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Minuman Khas"
+    ],
+    color: {
+      // required
+      primary: "bg-[#6bd7ac]",
+      secondary: "bg-[#88e0bc]",
+      backgroundColor: "bg-[#f5faf8]",
+      hoverColor: "hover:bg-[#439c78]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#62e3af]",
+    },
+    hero: {
+      tagLine: "Kenikmatan Dimsum Mulai dari 1000 Rupiah!",
+      deskripsi: "Kenikmatan dimsum dengan harga terjangkau mulai dari 1000 Rupiah saja! Kami bangga menyajikan berbagai pilihan dimsum yang lezat dan berkualitas, siap memanjakan lidah Anda tanpa harus menguras dompet.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003189/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.41_5eb53e73_cjqlty.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Hotman Dimsum!",
+      deskripsi: "Kami percaya bahwa kenikmatan kuliner tidak harus mahal. Oleh karena itu, kami menyajikan dimsum berkualitas dengan harga yang terjangkau. Ayo kunjungi Hotman Dimsum sekarang dan rasakan nikmatnya!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003192/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.41_7a5d9575_ly65qd.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003188/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.42_d0abae7d_ummqk9.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003191/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.42_f36f108b_ad306u.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003188/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.42_d0abae7d_ummqk9.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4655208320282!2d114.14383507501117!3d-8.355781191681105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjAuOCJTIDExNMKwMDgnNDcuMSJF!5e0!3m2!1sid!2sid!4v1718003217314!5m2!1sid!2sid",
+    footer: {
+      noHp: "08885602361",
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
