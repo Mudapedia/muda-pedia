@@ -4684,6 +4684,212 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "bandung-siomay-batagor": {
+    title: "Bandung Siomay Batagor",
+    icon: null,
+    navbarTitle: "Bandung Siomay Batagor",
+    ctaLink: "https://wa.me/6283863665591",
+    keyword: [
+      "Bandung Siomay Batagor",
+      "Siomay",
+      "Batagor",
+      "Makanan Bandung",
+      "Makanan Khas",
+      "Makanan Tradisional",
+      "Cemilan",
+      "Jajanan",
+      "Makanan Ringan",
+      "Kuliner Nusantara",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Autentik dari Bandung!",
+      deskripsi:
+        "Selamat datang di Bandung Siomay Batagor, tempat terbaik untuk menikmati cita rasa asli dari kuliner khas Bandung. Kami bangga menyajikan siomay dan batagor yang autentik dan lezat, dibuat dengan bahan-bahan berkualitas tinggi dan resep tradisional.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001806/umkm/bandung%20siomay%20batagor/WhatsApp_Image_2024-06-06_at_14.09.05_37031948_wuyiof.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Kelezatan Asli Bandung!",
+
+      deskripsi:
+        "Di Bandung Siomay Batagor, kami berkomitmen untuk menghadirkan pengalaman kuliner Bandung yang otentik dan tak terlupakan. Kunjungi kami dan nikmati hidangan khas Bandung yang selalu segar dan lezat!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001803/umkm/bandung%20siomay%20batagor/WhatsApp_Image_2024-06-06_at_14.09.05_cf1e884f_q2dtmj.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Siomay",
+          deskripsi:
+            "Siomay kami dibuat dari ikan tenggiri segar dan campuran bahan berkualitas yang menghasilkan tekstur kenyal dan rasa yang nikmat.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718165178/umkm/bandung%20siomay%20batagor/070745900_1425891327-siomay_xpigmg.webp",
+        },
+        {
+          name: "Batagor",
+          deskripsi:
+            "Batagor kami, dengan kulit yang renyah dan isi yang lembut, disajikan dengan saus kacang yang kaya rasa dan tambahan sedikit kecap manis.",
+          price: null,
+          img: "https://asset.kompas.com/crops/AXlEeTnE0bnBHsmoByYpY3I35b0=/0x48:1000x715/750x500/data/photo/2020/09/06/5f54c3ebb1d41.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4676782588963!2d114.14376177501107!3d-8.3555679916813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjAuMCJTIDExNMKwMDgnNDYuOCJF!5e0!3m2!1sid!2sid!4v1718001745564!5m2!1sid!2sid",
+    footer: {
+      noHp: "083863665591",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "es-dawet-rs-genteng": {
+    title: "Es Dawet",
+    icon: null,
+    navbarTitle: "Es Dawet",
+    ctaLink: null,
+    keyword: [
+      "Es Dawet",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Cendol",
+      "Minuman Dingin",
+      "Minuman Jawa",
+      "Jajanan Pasar",
+      "Kuliner Nusantara",
+      "Es Tradisional",
+      "Minuman Manis",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Kesegaran Asli!",
+      deskripsi:
+        "Selamat datang di Es Dawet, tempat terbaik untuk menikmati kelezatan minuman tradisional yang menyegarkan. Kami menyajikan es dawet berkualitas tinggi yang dibuat dari bahan-bahan pilihan, memastikan Anda merasakan kesegaran dan kelezatan di setiap tegukan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001980/umkm/es%20dawet%20rs%20genteng/foto_x898fb.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Es Dawet, Kesegaran Alami, Kelezatan Tradisional!",
+
+      deskripsi:
+        "Di Es Dawet, kami menjaga tradisi dan kualitas dalam setiap gelas yang kami sajikan. Kunjungi kami dan nikmati minuman tradisional yang menyegarkan ini. Biarkan es dawet kami menjadi teman setia di setiap momen Anda, menghadirkan kesegaran dan kebahagiaan di hari Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718001980/umkm/es%20dawet%20rs%20genteng/foto_x898fb.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Es Dawet",
+          deskripsi:
+            "Rasakan kenikmatan es dawet kami, perpaduan sempurna antara cendol kenyal, santan gurih, dan sirup gula merah yang manis alami.",
+          price: null,
+          img: "https://upload.wikimedia.org/wikipedia/commons/4/48/Es_Dawet.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.3687163993327!2d114.16137307501128!3d-8.36534199167184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnNTUuMiJTIDExNMKwMDknNTAuMiJF!5e0!3m2!1sen!2sid!4v1718001984403!5m2!1sen!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Genteng Wetan, Genteng, Banyuwangi",
+    },
+  },
+  "es-buah-rumput-laut-husni": {
+    title: "Es Buah Rumput Laut",
+    icon: null,
+    navbarTitle: "Es Buah Rumput Laut",
+    ctaLink: null,
+    keyword: [
+      "Es Buah Rumput Laut Husni",
+      "Es Buah Rumput Laut",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Buah",
+      "Minuman Dingin",
+      "Minuman Asli",
+      "Es Tradisional",
+      "Minuman Sehat",
+      "Minuman Manis",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine:
+        "Es Buah Rumput Laut Husni, Kesegaran Sejati dalam Setiap Tegukan!",
+      deskripsi:
+        "Selamat datang di Es Buah Rumput Laut Husni, tempat di mana kesegaran dan kelezatan bertemu dalam satu gelas. Kami menyajikan es buah yang dipenuhi dengan potongan buah segar dan rumput laut yang kaya nutrisi, menciptakan minuman yang menyegarkan dan menyehatkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718002351/umkm/es%20buah%20rumput%20laut%20husni%2077/foto1_getatv.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Es Buah Rumput Laut Husni Segar, Sehat, Nikmat",
+
+      deskripsi:
+        "Di Es Buah Rumput Laut Husni, kami memastikan setiap gelas es buah kami dibuat dengan bahan-bahan berkualitas tinggi, memberikan Anda rasa segar dan alami. Kunjungi kami dan rasakan kesegaran sejati yang kami tawarkan. Es Buah Rumput Laut Husni, teman setia untuk menyegarkan harimu!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718002351/umkm/es%20buah%20rumput%20laut%20husni%2077/foto1_getatv.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Es Buah Rumput Laut",
+          deskripsi:
+            "Nikmati sensasi segar dari es buah kami, yang terdiri dari campuran buah-buahan segar seperti melon, semangka, dan pepaya, dipadukan dengan rumput laut yang kenyal.",
+          price: null,
+          img: "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/05/Resep-Es-rumput-laut.jpg?fit=1613%2C1920&ssl=1",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.34359519414!2d114.1706839750113!3d-8.367821291669486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjInMDQuMiJTIDExNMKwMTAnMjMuNyJF!5e0!3m2!1sen!2sid!4v1718002179997!5m2!1sen!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Kembiritan, Genteng, Banyuwangi",
+    },
+  },
 };
 
 export default dataMuiz;
