@@ -1536,24 +1536,26 @@ const dataIqbal = {
     navbarTitle: "Hotman Dimsum",
     ctaLink: "https://wa.me/628885602361",
     keyword :[
-      "Queen Teh",
-      "Es Teh",
-      "Minuman Teh",
-      "Minuman Dingin",
-      "Teh Segar",
-      "Minuman Tradisional",
-      "Minuman Favorit",
-      "Minuman Khas"
+      "Hotman Dimsum",
+      "Dimsum",
+      "Makanan Dimsum",
+      "Dimsum Murah",
+      "Dimsum Mulai dari 1000 Rupiah",
+      "Makanan Ringan",
+      "Cemilan",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Kuliner Nusantara"
     ],
     color: {
       // required
-      primary: "bg-[#6bd7ac]",
-      secondary: "bg-[#88e0bc]",
-      backgroundColor: "bg-[#f5faf8]",
-      hoverColor: "hover:bg-[#439c78]",
+      primary: "bg-[#74303B]",
+      secondary: "bg-[#f08a9b]",
+      backgroundColor: "bg-[#fbf6f7]",
+      hoverColor: "hover:bg-[#d6455d]",
       textColor: "text-[#1f2503]",
       btnTextColor: "text-white",
-      accentColor: "text-[#62e3af]",
+      accentColor: "text-[#fa4a68]",
     },
     hero: {
       tagLine: "Kenikmatan Dimsum Mulai dari 1000 Rupiah!",
@@ -1578,7 +1580,7 @@ const dataIqbal = {
           name: null,
           deskripsi: null,
           price: null,
-          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003188/umkm/hotman%20dimsum%20dan%20olahan%20ikan/WhatsApp_Image_2024-06-06_at_14.11.42_d0abae7d_ummqk9.jpg",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003797/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_b6d2da54_cxlmoc.jpg",
         },
         {
           name: null,
@@ -1597,6 +1599,216 @@ const dataIqbal = {
     location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4655208320282!2d114.14383507501117!3d-8.355781191681105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjAuOCJTIDExNMKwMDgnNDcuMSJF!5e0!3m2!1sid!2sid!4v1718003217314!5m2!1sid!2sid",
     footer: {
       noHp: "08885602361",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "gimbab-mee": {
+    title: "Gimbab Mee",
+    icon: null,
+    navbarTitle: "Gimbab Mee",
+    ctaLink: "https://wa.me/6285797431624",
+    keyword :[
+      "Gimbab Mee",
+      "Gimbab",
+      "Makanan Korea",
+      "Sushi Murah",
+      "Sushi Mulai dari 2000 Rupiah",
+      "Makanan Ringan",
+      "Cemilan",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Kuliner Korea"
+    ],
+    color: {
+      // required
+      primary: "bg-[#DF9E76]",
+      secondary: "bg-[#dbb49c]",
+      backgroundColor: "bg-[#faf7f6]",
+      hoverColor: "hover:bg-[#bf784d]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#d29670]",
+    },
+    hero: {
+      tagLine: "Sensasi Kuliner Korea dalam Setiap Gigitan!",
+      deskripsi: "Selamat datang di Gimbab Mee, tempat di mana kami mempersembahkan sensasi kuliner Korea yang autentik dalam setiap gigitannya.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003799/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_dc5d176c_fw9vnw.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan di Gimbab Mee!",
+      deskripsi: "kami berkomitmen untuk menyajikan hidangan Asia berkualitas tinggi dengan harga yang terjangkau. Dengan pilihan yang beragam dan kualitas yang terjamin, kami mengundang Anda untuk menikmati hidangan favorit Anda tanpa harus khawatir biaya mahal.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003799/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_dc5d176c_fw9vnw.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003797/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_b6d2da54_cxlmoc.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003801/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_ad345f66_z8zc23.jpg",
+        },
+        {
+          name: null,
+          deskripsi: null,
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718003797/umkm/gimbab%20mee/WhatsApp_Image_2024-06-06_at_14.14.53_b6d2da54_cxlmoc.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.4750902025417!2d114.14376137501104!3d-8.354835491682001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMTcuNCJTIDExNMKwMDgnNDYuOCJF!5e0!3m2!1sid!2sid!4v1718003726422!5m2!1sid!2sid",
+    footer: {
+      noHp: "085797431624",
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "lemon-iced-tea": {
+    title: "Lemon Iced Tea",
+    icon: null,
+    navbarTitle: "Lemon Iced Tea",
+    ctaLink: null,
+    keyword :[
+      "Lemon Iced Tea",
+      "Minuman Teh Lemon",
+      "Jasmine Tea",
+      "Fresh Lemon Tea",
+      "Lychee Tea",
+      "Minuman Teh",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Favorit",
+      "Minuman Teh Manis"
+    ],
+    color: {
+      // required
+      primary: "bg-[#f0ee41]",
+      secondary: "bg-[#e0de87]",
+      backgroundColor: "bg-[#f8f8f4]",
+      hoverColor: "hover:bg-[#b5b431]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e8e54d]",
+    },
+    hero: {
+      tagLine: "Nikmati Segarnya Minuman Teh!",
+      deskripsi: "Beragam varian teh yang menjanjikan pengalaman menyegarkan yang tak terlupakan.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004308/umkm/lemon%20ice%20tea/WhatsApp_Image_2024-06-06_at_14.15.42_b71f5d9c_qnxvnf.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain minuman kami di Iced Lemon Tea!",
+      deskripsi: "kami berkomitmen untuk menyajikan varian teh terbaik yang dibuat dari bahan-bahan berkualitas tinggi. Rasakan kenikmatan teh yang segar bersama Lemon Iced Tea hari ini!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004308/umkm/lemon%20ice%20tea/WhatsApp_Image_2024-06-06_at_14.15.42_b71f5d9c_qnxvnf.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Fresh Lemon Tea",
+          deskripsi: "Rasakan kesegaran rasa jeruk lemon yang asli dicampur dengan esensi teh hijau dalam Fresh Lemon Tea kami. Ini adalah paduan sempurna antara kesegaran citrus dan kebaikan teh, ideal untuk menyegarkan harimu",
+          price: null,
+          img: "https://mmc.tirto.id/image/2020/04/27/istock-1154562777_ratio-16x9.jpg",
+        },
+        {
+          name: "Jasmine Tea",
+          deskripsi: "Nikmati aroma harum dan rasa lembut dari Jasmine Tea kami. Dibuat dari daun teh terbaik dan diperkaya dengan aroma bunga melati, teh ini memberikan pengalaman menenangkan dan menyegarkan dengan setiap tegukan.",
+          price: null,
+          img: "https://minimalistbaker.com/wp-content/uploads/2022/06/Iced-Jasmine-Tea-with-Ginger-and-Lemon-Energizing-subtly-sweet-4-ingredients-15-minutes-minimalistbaker-recipe-icedtea-jasminetea-6.jpg",
+        },
+        {
+          name: "Lychee Tea",
+          deskripsi: "Nikmati kelezatan buah leci yang eksotis yang dicampur dengan teh hitam premium kami. Lychee Tea kami menawarkan perpaduan nikmat antara rasa buah dan aroma teh yang kaya, memberikan sensasi menyegarkan dan membangkitkan selera.",
+          price: null,
+          img: "https://down-id.img.susercontent.com/file/id-11134207-7qul7-lkf5vmrf07ysf8",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.451873739727!2d114.14375637501111!3d-8.357129691679818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjUuNyJTIDExNMKwMDgnNDYuOCJF!5e0!3m2!1sid!2sid!4v1718004264772!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Genteng Kulon, Genteng, Banyuwangi",
+    },
+  },
+  "es-teler-pink": {
+    title: "Es Teler Pink",
+    icon: null,
+    navbarTitle: "Es Teler Pink",
+    ctaLink: null,
+    keyword :[
+      "Es Teler Pink",
+      "Es Teler",
+      "Salad Buah",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Buah",
+      "Minuman Dingin",
+      "Es Segar",
+      "Es Tradisional",
+      "Minuman Manis"
+    ],
+    color: {
+      // required
+      primary: "bg-[#e33f74]",
+      secondary: "bg-[#e583a2]",
+      backgroundColor: "bg-[#fdfafb]",
+      hoverColor: "hover:bg-[#cf134f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e55784]",
+    },
+    hero: {
+      tagLine: "Kelezatan Segar dengan Es Teler Pink!",
+      deskripsi: "Tempat Anda menemukan kelezatan segar dalam setiap sajian kami. Dengan es teler khas dan salad buah, kami menghadirkan pengalaman menyegarkan yang tak terlupakan bagi para pelanggan kami.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004733/umkm/es%20teler%20pink/WhatsApp_Image_2024-06-06_at_14.16.47_2b656b5f_cnkfgo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri di Es Teler Pink!",
+      deskripsi: "Kami berkomitmen untuk menyajikan hidangan dengan kualitas terbaik dan cita rasa yang autentik. Ayo kunjungi Es Teler Pink sekarang dan rasakan kelezatan segar yang kami tawarkan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718004733/umkm/es%20teler%20pink/WhatsApp_Image_2024-06-06_at_14.16.47_2b656b5f_cnkfgo.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler Pink",
+          deskripsi: "Nikmati sensasi segar dan manis dengan Es Teler Pink kami. Dibuat dengan paduan buah-buahan segar seperti alpukat, kelapa muda, nangka, dan cincau, disajikan dengan es serut dan siraman susu pink yang lembut, minuman ini akan memanjakan lidah Anda dengan cita rasa yang unik dan menyegarkan.",
+          price: "Rp. 6.000",
+          img: "https://i.ytimg.com/vi/SERFBBbrwus/sddefault.jpg",
+        },
+        {
+          name: "Salad Buah",
+          deskripsi: "Jangan lewatkan pilihan salad buah segar kami yang menggugah selera. Dipenuhi dengan berbagai potongan buah-buahan segar yang dipadukan dengan saus buah yang lezat, salad buah kami adalah pilihan sempurna untuk mengawali atau mengakhiri hidangan Anda dengan segar.",
+          price: "Rp. 12.000",
+          img: "https://drivethru.klikindomaret.com/tz0m/wp-content/uploads/sites/23/2022/06/9425827_af48a7c5-faff-400b-94f9-674a3f0aed17_500_500.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.448337384495!2d114.14373037501115!3d-8.357479091679448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMjEnMjYuOSJTIDExNMKwMDgnNDYuNyJF!5e0!3m2!1sid!2sid!4v1718004563763!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
