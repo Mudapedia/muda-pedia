@@ -6217,6 +6217,61 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-degan-segar": {
+    title: "Es Degan Segar",
+    icon: null,
+    navbarTitle: "Es Degan Segar",
+    ctaLink: null,
+    keyword: [],
+
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Es Degan Setiap Tegukan",
+      deskripsi:
+        "Selamat datang di Es Degan Segar, tempat di mana kesegaran es degan berkualitas tinggi memanjakan lidah Anda. Kami menawarkan es degan yang segar dan nikmat, dipersiapkan dengan hati-hati untuk memastikan kualitas dan kenikmatan yang konsisten.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080188/umkm/es%20degan%20segar/s7wlmnts7yab303fkm10.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Segarnya Es Degan Berkualitas",
+
+      deskripsi:
+        "Kami berkomitmen untuk menyajikan es degan berkualitas terbaik yang tidak hanya menyegarkan tetapi juga memberikan kenikmatan yang tiada duanya. Kunjungi Es Degan Segar dan nikmati setiap tegukan es degan yang menghadirkan kesegaran tropis langsung ke lidah Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080188/umkm/es%20degan%20segar/s7wlmnts7yab303fkm10.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan",
+          deskripsi:
+            "Setiap gelas es degan kami dijamin menggunakan bahan-bahan segar dan diproses dengan standar kebersihan yang ketat untuk memastikan keamanan dan kesegaran setiap sajian.",
+          price: "Rp 5.000",
+          img: "https://down-id.img.susercontent.com/file/sg-11134201-7rbmz-ll8u0sh5cyesab",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: null,
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
