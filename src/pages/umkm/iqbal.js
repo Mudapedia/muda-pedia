@@ -2166,6 +2166,138 @@ const dataIqbal = {
       alamat: null,
     },
   },
+  "kue-pukis-massandi": {
+    title: "Kue Pukis Mas Sandi",
+    icon: null,
+    navbarTitle: "Kue Pukis Mas Sandi",
+    ctaLink: "https://wa.me/6281775067694",
+    keyword :[
+      "Kue Pukis Mas Sandi",
+      "Kue Pukis",
+      "Kue Pancong",
+      "Kue Tradisional",
+      "Cemilan Manis",
+      "Kue Enak",
+      "Jajanan Pasar",
+      "Cemilan Tradisional",
+      "Makanan Manis",
+      "Kue Favorit"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kelezatan Kue Pukis dan Pancong Terbaik",
+      deskripsi: "Selamat datang di Kue Pukis Mas Sandi, tempat terbaik untuk menikmati kelezatan kue tradisional yang menggugah selera. Kami menyajikan kue pukis dan kue pancong dengan cita rasa autentik dan kualitas terbaik, sempurna untuk menemani momen santai Anda.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/kue%20pukis%20mas%20sandi/sfsivhoxayauref47xzt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan Ke Kue Pukis Mas Sandi!",
+      deskripsi: "Dimana produk diracik dengan perhatian penuh terhadap kualitas dan rasa, menggunakan resep tradisional yang terjaga keasliannya. Kunjungi Kue Pukis Mas Sandi sekarang dan nikmati kue pukis dan pancong terbaik yang akan memanjakan lidah Anda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/kue%20pukis%20mas%20sandi/sfsivhoxayauref47xzt.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kue Pukis",
+          deskripsi: "Nikmati kelembutan Kue Pukis kami, yang dibuat dari adonan berkualitas dengan rasa yang kaya dan tekstur yang lembut. Disajikan hangat, kue pukis Mas Sandi hadir dengan berbagai topping pilihan yang menambah kenikmatan di setiap gigitan.",
+          price: "Rp. 10.000",
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/10/31/kue-pukis-16_169.jpeg?w=1200",
+        },
+        {
+          name: "Kue Pancong",
+          deskripsi: "Rasakan kenikmatan Kue Pancong tradisional, dengan tekstur yang renyah di luar dan lembut di dalam. Dibuat dari bahan-bahan terbaik dan dipanggang hingga sempurna, kue pancong kami menawarkan rasa gurih yang pas dan menggoda selera.",
+          price: "Rp. 10.000",
+          img: "https://awsimages.detik.net.id/community/media/visual/2023/06/19/kue-pancong-original-1_43.jpeg?w=1200",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8652255681554!2d114.36406597500955!3d-8.216306191816106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTguNyJTIDExNMKwMjEnNTkuOSJF!5e0!3m2!1sen!2sid!4v1718264948640!5m2!1sen!2sid",
+    footer: {
+      noHp: "081775067694",
+      alamat: "Jl. Jaksa Agung Suprapto 41, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
+  "siomay-firman": {
+    title: "Siomay Batagor Firman",
+    icon: null,
+    navbarTitle: "Siomay Batagor Firman",
+    ctaLink: "https://wa.me/6285604480515",
+    keyword :[
+      "Siomay Batagor Firman",
+      "Siomay",
+      "Batagor",
+      "Makanan Tradisional",
+      "Cemilan Gurih",
+      "Jajanan Pasar",
+      "Kuliner Bandung",
+      "Cemilan Enak",
+      "Makanan Favorit",
+      "Makanan Nusantara"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Kenikmatan Siomay dan Batagor Autentik",
+      deskripsi: "Kualitas dan rasa adalah prioritas utama. Setiap hidangan dibuat dengan bahan-bahan terbaik dan dedikasi penuh untuk menghadirkan kelezatan yang memuaskan. Kunjungi Siomay Batagor Firman dan rasakan kelezatan autentik siomay dan batagor yang menggugah selera!",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/siomay%20batagor%20firman/xq6yfaql9do7keszlgxi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan Ke Kue Siomay Batagor Firman!",
+      deskripsi: "Dimana produk diracik dengan perhatian penuh terhadap kualitas dan rasa, menggunakan resep tradisional yang terjaga keasliannya. Kunjungi Kue Pukis Mas Sandi sekarang dan nikmati kue pukis dan pancong terbaik yang akan memanjakan lidah Anda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/siomay%20batagor%20firman/xq6yfaql9do7keszlgxi.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Siomay",
+          deskripsi: "Nikmati kelezatan Siomay khas Firman, yang terbuat dari campuran ikan segar dan tepung berkualitas. Disajikan dengan bumbu kacang yang gurih dan sedikit rasa pedas, siomay kami menawarkan tekstur kenyal dan rasa yang kaya di setiap gigitan.",
+          price: null,
+          img: "https://foto.kontan.co.id/DWgtq4zA7QIvED-tobAm82qUetw=/smart/2017/05/12/1823700660p.jpg",
+        },
+        {
+          name: "batagor",
+          deskripsi: "Rasakan renyahnya Batagor Firman, gorengan khas Bandung yang dibuat dari adonan ikan dan tepung tapioka, digoreng hingga keemasan. Disajikan dengan bumbu kacang yang khas, batagor kami memberikan perpaduan rasa gurih dan tekstur yang krispi.",
+          price: null,
+          img: "https://bolulembang.co.id/wp-content/uploads/2021/03/Asal.jpg?x31789",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.821544086361!2d114.37341669999999!3d-8.2206944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTQuNSJTIDExNMKwMjInMjQuMyJF!5e0!3m2!1sen!2sid!4v1718265408500!5m2!1sen!2sid",
+    footer: {
+      noHp: "085604480515",
+      alamat: "Jl. MT Haryono 3, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
