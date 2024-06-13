@@ -6085,6 +6085,138 @@ const dataMuiz = {
         "Jl. Sebanen, Sokaan, Karang Paiton, Kec. Ledokombo, Kabupaten Jember, Jawa Timur",
     },
   },
+  "es-orson-limun": {
+    title: "Es Orson Limun",
+    icon: null,
+    navbarTitle: "Es Orson Limun",
+    ctaLink: "https://wa.me/6281339449997",
+    keyword: [
+      "Es Orson Limun",
+      "Aneka Es Orson",
+      "Minuman Segar",
+      "Es Orson",
+      "Minuman Dingin",
+      "Limun Orson",
+      "Minuman Manis",
+      "Es Tradisional",
+      "Minuman Favorit",
+      "Jajanan Minuman",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Legendaris dalam Setiap Gelas",
+      deskripsi:
+        "Selamat datang di Es Orson Limun, tempat terbaik untuk menikmati es orson yang menyegarkan dan penuh nostalgia. Kami menawarkan berbagai varian es orson yang diracik dengan sempurna untuk menghadirkan kesegaran legendaris yang memuaskan dahaga Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080223/umkm/es%20orson%20limun/t1jlkfxqxwaomdekhzbl.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kelezatan Klasik, Kesegaran Modern",
+
+      deskripsi:
+        "Setiap produk dibuat dengan bahan-bahan terbaik dan diracik dengan perhatian khusus untuk memastikan setiap tegukan menghadirkan kenikmatan yang sempurna. Kunjungi Es Orson Limun dan nikmati kesegaran legendaris aneka es orson kami yang tak tertandingi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080223/umkm/es%20orson%20limun/t1jlkfxqxwaomdekhzbl.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Aneka Es Orson",
+          deskripsi:
+            "Terbuat dari sirup orson yang kaya rasa dan air soda yang segar, es orson kami hadir dalam berbagai pilihan rasa seperti stroberi, jeruk, sarsaparila, dan anggur.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718260186/umkm/es%20orson%20limun/f5509ef6c8a64edc98e34e14122aad94_saec3h.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7920644058486!2d114.36950137500968!3d-8.22365459180896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMjUuMiJTIDExNMKwMjInMTkuNSJF!5e0!3m2!1sid!2sid!4v1718260370736!5m2!1sid!2sid",
+    footer: {
+      noHp: "081339449997",
+      alamat:
+        "Jl. Kolonel Sugiono, Kertosari, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68462",
+    },
+  },
+  "es-temulawak-intan": {
+    title: "Es Temulawak Intan",
+    icon: null,
+    navbarTitle: "Es Temulawak Intan",
+    ctaLink: "https://wa.me/6281249096492",
+    keyword: [
+      "Es Temulawak Intan",
+      "Temulawak",
+      "Minuman Tradisional",
+      "Minuman Herbal",
+      "Minuman Kesehatan",
+      "Minuman Segar",
+      "Es Segar",
+      "Minuman Dingin",
+      "Minuman Favorit",
+      "Es Tradisional",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kesehatan Alami dengan Temulawak Terbaik",
+      deskripsi:
+        "Selamat datang di Temulawak Intan, tempat terpercaya untuk menemukan temulawak berkualitas tinggi yang menghidupkan kesehatan Anda secara alami. Kami menghadirkan berbagai produk temulawak pilihan yang diolah dengan hati-hati, mempertahankan khasiat alami dan kealamian bahan-bahannya. ",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080394/umkm/es%20temulawak%20intan/eu2rc3tlpxc9ghqfjlt2.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Menghidupkan Kesehatan dengan Temulawak Berkualitas",
+
+      deskripsi:
+        "Kunjungi Temulawak Intan dan rasakan keajaiban kesehatan temulawak dalam setiap produk yang kami tawarkan. Kami siap memberikan Anda pengalaman belanja yang memuaskan dan menyehatkan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080392/umkm/es%20temulawak%20intan/mtnupjnbpfm1gq7u00mq.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Temulawak",
+          deskripsi:
+            "Setiap produk dipilih dengan teliti untuk memastikan kualitasnya dan memberikan manfaat terbaik bagi Anda. Kami berkomitmen untuk menyediakan solusi kesehatan alami yang efektif dan bermanfaat bagi kehidupan Anda.",
+          price: "Rp 5.000",
+          img: "https://asset.kompas.com/crops/_yoFJBrfoWr98O2pSCzsMj6kSms=/0x45:639x471/750x500/data/photo/2023/02/06/63e0c856876b9.png",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "081249096492",
+      alamat: null,
+    },
+  },
 };
 
 export default dataMuiz;
