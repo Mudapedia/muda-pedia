@@ -1818,16 +1818,16 @@ const dataIqbal = {
     navbarTitle: "Sempol Mas Edi",
     ctaLink: "https://wa.me/6281259446108",
     keyword :[
-      "Es Teler Pink",
-      "Es Teler",
-      "Salad Buah",
-      "Minuman Segar",
-      "Minuman Tradisional",
-      "Es Buah",
-      "Minuman Dingin",
-      "Es Segar",
-      "Es Tradisional",
-      "Minuman Manis"
+      "Sempol Mas Edi",
+      "Sempol",
+      "Tahu Walik",
+      "Cemilan",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Kuliner Nusantara",
+      "Cemilan Gurih",
+      "Snack"
     ],
     color: {
       // required
@@ -1876,6 +1876,294 @@ const dataIqbal = {
     footer: {
       noHp: "081259446108",
       alamat: "cungking,Giri, Banyuwangi",
+    },
+  },
+  "es-bu-fatimah": {
+    title: "Es Bu Fatimah",
+    icon: null,
+    navbarTitle: "Es Bu Fatimah",
+    ctaLink: null,
+    keyword :[
+      "Es Bu Fatimah",
+      "Es Degan Ijo",
+      "Es Doger",
+      "Es Kopyor",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Tradisional",
+      "Minuman Manis",
+      "Minuman Khas",
+      "Es Buah"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kesegaran Tiada Tara di Es Bu Fatimah",
+      deskripsi: "Selamat datang di Es Bu Fatimah, tempat terbaik untuk menikmati kesegaran minuman es tradisional yang otentik. Dengan berbagai pilihan es yang menyegarkan, Es Bu Fatimah siap memanjakan lidah dan menghilangkan dahaga.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080024/umkm/es%20bu%20fatimah/dskzoptws8pa8jjwebkn.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Es Bu Fatimah!",
+      deskripsi: "Di Es Bu Fatimah, kesegaran dan kelezatan adalah prioritas utama. Menggunakan bahan-bahan berkualitas tinggi dan resep tradisional, setiap minuman disajikan dengan penuh cinta dan dedikasi. Kunjungi Es Bu Fatimah sekarang dan nikmati kesegaran yang tak terlupakan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080024/umkm/es%20bu%20fatimah/dskzoptws8pa8jjwebkn.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan Ijo",
+          deskripsi: "Nikmati kesegaran alami dari Es Degan Ijo, yang terbuat dari air kelapa muda hijau yang dingin dan daging kelapa yang lembut. Minuman ini memberikan kesegaran alami yang menenangkan di setiap tegukan.",
+          price: "Rp. 5.000",
+          img: "https://kampungberita.id/wp-content/uploads/2019/05/Degan-Ijo.jpg",
+        },
+        {
+          name: "Es Doger",
+          deskripsi: "Cicipi kelezatan Es Doger kami yang kaya rasa, dengan campuran tape ketan, alpukat, pacar cina, dan kelapa serut, disajikan dengan es serut dan sirup merah yang manis. Es Doger Bu Fatimah menawarkan kombinasi sempurna antara manis dan segar.",
+          price: "Rp. 5.000",
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/26/foto-content-2023-06-25T111747461-Ola-Anafi-Julian-2461908360.png",
+        },
+        {
+          name: "Es Kopyor",
+          deskripsi: "Rasakan kenikmatan Es Kopyor kami, dengan daging kelapa kopyor yang lembut dan manis, dicampur dengan es serut dan sirup gula merah. Setiap tegukan Es Kopyor menghadirkan sensasi menyegarkan yang tiada duanya.",
+          price: "Rp. 5.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/94/2024/05/19/Pinterest-177060069.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.891691699519!2d114.34883547500952!3d-8.213646291818709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuMSJTIDExNMKwMjEnMDUuMSJF!5e0!3m2!1sen!2sid!4v1718253057849!5m2!1sen!2sid",
+    footer: {
+      noHp: null,
+      alamat: "cungking,Giri, Banyuwangi",
+    },
+  },
+  "esteler-bunga": {
+    title: "Es Teler Bunga",
+    icon: null,
+    navbarTitle: "Es Teler Bunga",
+    ctaLink: "https://wa.me/6282141835768",
+    keyword :[
+      "Es Teler Bunga",
+      "Es Teler Original",
+      "Es Teler Cheese",
+      "Es Campur",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Buah",
+      "Minuman Tradisional",
+      "Minuman Manis",
+      "Es Khas"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Segarnya Es Teler di Setiap Gigitan",
+      deskripsi: "Segarnya es teler dan es campur dengan cita rasa yang istimewa. Dengan berbagai pilihan menu yang menggugah selera, Es Teler Bunga siap memberikan pengalaman menyegarkan yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teler%20bunga/wjfzph1qd7vsdyonpdmk.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Es Teler Bunga!",
+      deskripsi: "Setiap hidangan dibuat dengan bahan-bahan berkualitas tinggi dan resep tradisional yang terjaga. Kami berkomitmen untuk menghadirkan minuman es yang segar, lezat, dan penuh dengan kebaikan alami. Kunjungi Es Teler Bunga sekarang dan rasakan segarnya es teler yang memanjakan lidah!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teler%20bunga/wjfzph1qd7vsdyonpdmk.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler Original",
+          deskripsi: "Nikmati kelezatan Es Teler Original kami yang otentik, dengan paduan buah-buahan segar seperti alpukat, kelapa muda, nangka, dan cincau, disajikan dengan es serut dan santan kental yang manis. Setiap suapan membawa kesegaran yang memuaskan.",
+          price: "Rp. 6.000",
+          img: "https://thumb.viva.co.id/media/frontend/thumbs3/2022/04/05/624b9f072936e-resep-es-teler-viral-kuah-creamy_663_372.jpg",
+        },
+        {
+          name: "Es Teler Cheese",
+          deskripsi: "Rasakan sensasi baru dengan Es Teler Cheese kami, di mana kelezatan buah-buahan segar dipadukan dengan taburan keju parut yang gurih. Kombinasi ini menciptakan rasa yang unik dan menyegarkan, sempurna untuk para pecinta keju.",
+          price: "Rp. 10.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/76/2024/03/05/FotoJet-2024-03-05T121934830-1511300614.jpg",
+        },
+        {
+          name: "Es Campur",
+          deskripsi: "Cicipi kesegaran Es Campur kami, yang menggabungkan berbagai jenis buah-buahan, agar-agar, cincau, dan kolang-kaling, disajikan dengan sirup manis dan es serut. Es Campur kami adalah pilihan tepat untuk menikmati perpaduan rasa yang kaya dan menyegarkan.",
+          price: "Rp. 6.000",
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.81304947677!2d114.37048467500969!3d-8.221547491811055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTcuNiJTIDExNMKwMjInMjMuMCJF!5e0!3m2!1sen!2sid!4v1718254225164!5m2!1sen!2sid",
+    footer: {
+      noHp: "082141835768",
+      alamat: "Tukangkayu, Banyuwangi",
+    },
+  },
+  "rose-tea": {
+    title: "Rose Tea",
+    icon: null,
+    navbarTitle: "Rose Tea",
+    ctaLink: "https://wa.me/6282237740400",
+    keyword :[
+      "Rose Tea",
+      "Es Teh Jumbo Original",
+      "Es Teh Cocopandan",
+      "Es Teh Vanilla",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Teh Manis",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Es Teh"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Segarnya Teh dengan Sentuhan Manis",
+      deskripsi: "Selamat datang di Rose Tea, tempat terbaik untuk menikmati berbagai varian es teh dengan rasa yang menggugah selera. Dengan pilihan es teh jumbo yang menyegarkan, Rose Tea siap memuaskan dahaga dengan cita rasa yang istimewa.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/rose%20tea/cye6rbic8gaxkaudorsp.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain Sendiri di Rose Tea!",
+      deskripsi: "Di Rose Tea, setiap minuman diracik dengan bahan-bahan terbaik dan perhatian penuh terhadap rasa dan kualitas. Kunjungi Rose Tea sekarang dan nikmati berbagai varian es teh yang menyegarkan dan memuaskan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/rose%20tea/cye6rbic8gaxkaudorsp.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo Original",
+          deskripsi: "Nikmati kesegaran klasik dengan Es Teh Jumbo Original kami. Dibuat dari teh berkualitas tinggi, es teh ini memberikan keseimbangan sempurna antara rasa teh yang kuat dan manis yang pas, disajikan dengan es batu melimpah untuk kesegaran maksimal.",
+          price: "Rp. 3.000",
+          img: "https://thumb.viva.co.id/media/frontend/thumbs3/2022/04/05/624b9f072936e-resep-es-teler-viral-kuah-creamy_663_372.jpg",
+        },
+        {
+          name: "Es Teh Cocopandan",
+          deskripsi: "Cicipi Es Teh Cocopandan yang unik, dengan aroma dan rasa manis khas pandan yang berpadu dengan segarnya teh. Minuman ini menawarkan sensasi tropis yang menyegarkan, sempurna untuk dinikmati kapan saja.",
+          price: "Rp. 5.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/76/2024/03/05/FotoJet-2024-03-05T121934830-1511300614.jpg",
+        },
+        {
+          name: "Es Teh Vanilla",
+          deskripsi: "Rasakan kelezatan Es Teh Vanilla kami, di mana teh berkualitas tinggi dipadukan dengan aroma vanilla yang harum dan rasa manis yang lembut. Es teh ini memberikan pengalaman minum teh yang manis dan memanjakan.",
+          price: "Rp. 5.000",
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8204907184077!2d114.37094107500964!3d-8.220800191811744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTQuOSJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718255590210!5m2!1sen!2sid",
+    footer: {
+      noHp: "082237740400",
+      alamat: "Tukangkayu, Banyuwangi",
+    },
+  },
+  "umkm-bu-rini": {
+    title: "UMKM Bu Rini",
+    icon: null,
+    navbarTitle: "UMKM Bu Rini",
+    ctaLink: "https://wa.me/6282333823261",
+    keyword :[
+      "UMKM Bu Rini",
+      "Kue Basah",
+      "Aneka Kerupuk",
+      "Aneka Minuman",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Cemilan",
+      "Kue Tradisional",
+      "Kerupuk",
+      "Minuman"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kelezatan Kue Tradisional dan Camilan Lezat",
+      deskripsi: "Selamat datang di UMKM Bu Rini, kami menyediakan berbagai kue tradisional, aneka kerupuk, dan minuman segar. Kami berkomitmen untuk menghadirkan produk berkualitas dengan cita rasa yang autentik, cocok untuk menemani setiap momen istimewa.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/umkm%20bu%20rini/ptz8t1si4xr3mjsth1q2.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir Ke UMKM Bu Rini!",
+      deskripsi: "Di UMKM Bu Rini, setiap produk dibuat dengan cinta dan dedikasi untuk memastikan kelezatan dan kepuasan di setiap gigitan dan tegukan. Kunjungi UMKM Bu Rini dan rasakan kelezatan tradisional yang menggugah selera!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/umkm%20bu%20rini/ptz8t1si4xr3mjsth1q2.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kue Basah",
+          deskripsi: "Nikmati kelezatan Kue Basah khas UMKM Bu Rini, yang dibuat dengan bahan-bahan pilihan dan resep tradisional. Setiap kue basah kami menawarkan tekstur lembut dan rasa manis yang pas.",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/02/23/pasar-kue-subuh-di-jakarta-1.jpeg?w=683",
+        },
+        {
+          name: "Aneka Kerupuk",
+          deskripsi: "Rasakan gurihnya Aneka Kerupuk kami, dari kerupuk udang hingga kerupuk bawang, yang renyah dan penuh cita rasa. Kerupuk ini adalah teman sempurna untuk berbagai hidangan atau sebagai camilan sehari-hari yang nikmat.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/7/17/774c6e5c-55cd-4e42-9013-917b9bb48038.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi: "Segarkan harimu dengan Aneka Minuman dari UMKM Bu Rini, termasuk minuman tradisional dan modern yang menyegarkan.",
+          price: null,
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/21/1479820203.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082333823261",
+      alamat: null,
     },
   },
 };
