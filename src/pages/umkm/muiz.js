@@ -5391,6 +5391,559 @@ const dataMuiz = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "es-ngangenin": {
+    title: "Es Campur Ngangenin",
+    icon: null,
+    navbarTitle: "Es Campur Ngangenin",
+    ctaLink: null,
+    keyword: [
+      "Es Campur Ngangenin",
+      "Es Campur",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Buah",
+      "Minuman Tradisional",
+      "Minuman Manis",
+      "Es Khas",
+      "Es Nusantara",
+    ],
+    color: {
+      // required
+      primary: "bg-[#CF3AB6]",
+      secondary: "bg-[#DA9FD0]",
+      backgroundColor: "bg-[#FCF8FB]",
+      hoverColor: "hover:bg-[#D114B1]",
+      textColor: "text-[#190D17]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#D075C1]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Es Campur Ngangenin, Bikin Kangen!",
+      deskripsi:
+        "Selamat datang di Es Campur Ngangenin, tempat menikmati segarnya es campur yang selalu bikin kangen. Dengan berbagai pilihan bahan berkualitas, Es Campur Ngangenin menyajikan kesegaran dan kelezatan dalam setiap sajiannya.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080054/umkm/es%20campur%20nganenin/jt7gdn415extszylerdo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran yang Tak Terlupakan",
+
+      deskripsi:
+        "Es Campur Ngangenin adalah pilihan tepat untuk melepas dahaga dan menikmati sensasi kesegaran yang menggugah selera. Ayo kunjungi Es Campur Ngangenin sekarang dan rasakan segarnya es campur yang selalu bikin kangen!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080054/umkm/es%20campur%20nganenin/jt7gdn415extszylerdo.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Campur",
+          deskripsi:
+            "Rasakan nikmatnya Es Campur Ngangenin dengan campuran buah-buahan segar, cincau, kolang-kaling, tape, dan berbagai isian lezat lainnya.",
+          price: null,
+          img: "https://cdn.idntimes.com/content-images/post/20220604/21149249-1906463753008141-145037424928489472-n-4a86e02dbd4a9ec1855f7a611acde5a7.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.888320101511!2d114.34946997500953!3d-8.213985191818345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTAuNCJTIDExNMKwMjEnMDcuNCJF!5e0!3m2!1sid!2sid!4v1718253701708!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Jl. Hos. Cokroaminoto No.57, Lingkungan Cuking Rw., Mojopanggung, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "esdegan-naga": {
+    title: "Es Degan Naga",
+    icon: null,
+    navbarTitle: "Es Degan Naga",
+    ctaLink: "https://wa.me/6283872025329",
+    keyword: [
+      "Es Degan Naga Bulan",
+      "Es Degan",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Kelapa",
+      "Minuman Tradisional",
+      "Minuman Manis",
+      "Es Khas",
+      "Es Buah",
+    ],
+    color: {
+      // required
+      primary: "bg-[#88D246]",
+      secondary: "bg-[#B7E390]",
+      backgroundColor: "bg-[#F5FAF1]",
+      hoverColor: "hover:bg-[#70D11B]",
+      textColor: "text-[#121A0B]",
+      btnTextColor: "text-[#121A0B]",
+      accentColor: "text-[#9ADE5E]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Es Degan Naga Bulan, Pelepas Dahaga Alami!",
+      deskripsi:
+        "Selamat datang di Es Degan Naga Bulan, tempat terbaik untuk menikmati kesegaran es degan yang alami dan menyegarkan. Dengan bahan berkualitas dan rasa autentik, Es Degan Naga Bulan siap memuaskan dahaga dan menyegarkan hari.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080098/umkm/es%20degan%20daga%20bulan/neudumlf2r8oynxvsctr.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segarkan Hari dengan Es Degan Naga Bulan!",
+
+      deskripsi:
+        "Di Es Degan Naga Bulan, komitmen kami adalah menghadirkan minuman yang menyehatkan dan menyegarkan dengan kualitas terbaik. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080098/umkm/es%20degan%20daga%20bulan/neudumlf2r8oynxvsctr.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan",
+          deskripsi:
+            "Nikmati sensasi segar dari air kelapa muda yang dingin dan daging kelapa yang lembut.",
+          price: null,
+          img: "https://www.rumahmesin.com/wp-content/uploads/2023/05/minuman-es-degan-khas-indonesia.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8138391385796!2d114.3705116750097!3d-8.221468191811148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTcuMyJTIDExNMKwMjInMjMuMSJF!5e0!3m2!1sid!2sid!4v1718254536653!5m2!1sid!2sid",
+    footer: {
+      noHp: "083872025329",
+      alamat:
+        "Jl. MT Haryono, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "esteh-jumbo": {
+    title: "Es Teh Jumbo",
+    icon: null,
+    navbarTitle: "Es Teh Jumbo",
+    ctaLink: null,
+    keyword: [
+      "Es Teh Jumbo",
+      "Es Teh",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Teh Manis",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Es Khas",
+      "Minuman Teh",
+    ],
+    color: {
+      // required
+      primary: "bg-[#D5DC36]",
+      secondary: "bg-[#D3D699]",
+      backgroundColor: "bg-[#FCFCFB]",
+      hoverColor: "hover:bg-[#C3CC01]",
+      textColor: "text-[#161613]",
+      btnTextColor: "text-[#161613]",
+      accentColor: "text-[#CBD063]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Es Teh Jumbo di Setiap Tegukan",
+      deskripsi:
+        "Selamat datang di Es Teh Jumbo, tempat terbaik untuk menikmati kesegaran teh dalam ukuran yang lebih besar! Es Teh Jumbo kami dibuat dari teh berkualitas tinggi yang diseduh dengan sempurna, memberikan rasa yang kaya dan menyegarkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080388/umkm/es%20teh%20jumbo/fpllii1eakxthawekirc.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran Maksimal dalam Setiap Tegukan",
+
+      deskripsi:
+        " Setiap gelas Es Teh Jumbo diracik dengan teliti untuk memberikan kesegaran yang maksimal, menjadikannya pilihan ideal untuk menyegarkan hari-harimu. Datang dan nikmati kesegaran yang lebih besar hanya di Es Teh Jumbo!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080388/umkm/es%20teh%20jumbo/fpllii1eakxthawekirc.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Dibuat dari teh pilihan terbaik dan disajikan dengan es batu yang melimpah, Es Teh Jumbo menghadirkan keseimbangan sempurna antara rasa teh yang autentik dan manisnya yang pas.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718255092/umkm/es%20teh%20jumbo/id-11134207-7r98r-lluok6ei8wzrfc_xvu5bx.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.811080766156!2d114.37031637500968!3d-8.221745191810871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTguMyJTIDExNMKwMjInMjIuNCJF!5e0!3m2!1sid!2sid!4v1718255236352!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Jl. Kolonel Sugiono 61-53, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "esteh-8": {
+    title: "Es Teh 8",
+    icon: null,
+    navbarTitle: "Es Teh 8",
+    ctaLink: "https://wa.me/6281252695686",
+    keyword: [
+      "Es Teh Jumbo",
+      "Es Teh",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Teh Manis",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Es Khas",
+      "Minuman Teh",
+    ],
+    color: {
+      // required
+      primary: "bg-[#6EB850]",
+      secondary: "bg-[#A8EC8D]",
+      backgroundColor: "bg-[#F5FBF3]",
+      hoverColor: "hover:bg-[#52BB28]",
+      textColor: "text-[#0D1609]",
+      btnTextColor: "text-[#0D1609]",
+      accentColor: "text-[#83EE58]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Ekstra dalam Setiap Tegukan",
+      deskripsi:
+        "Selamat datang di Es Teh 8, tempat di mana kesegaran teh disajikan dalam ukuran jumbo yang memuaskan. Kami menghadirkan Es Teh Jumbo dengan cita rasa teh yang kuat dan segar, sempurna untuk menghilangkan dahaga.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080338/umkm/es%20teh%208/iaglihaeaxfgbvslkrhy.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segarnya Teh dalam Ukuran Jumbo",
+
+      deskripsi:
+        "Di Es Teh 8, kualitas dan kepuasan adalah prioritas utama. Setiap gelas Es Teh Jumbo diracik dengan bahan-bahan berkualitas tinggi dan perhatian penuh terhadap rasa, memastikan pengalaman minum teh yang tak terlupakan. Kunjungi Es Teh 8 dan rasakan kesegaran teh dalam ukuran jumbo yang memuaskan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080338/umkm/es%20teh%208/iaglihaeaxfgbvslkrhy.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Dibuat dari teh pilihan terbaik dan disajikan dengan es batu yang melimpah, Es Teh Jumbo menawarkan rasa teh yang kuat dan manis yang pas, memberikan kesegaran optimal di setiap tegukan.",
+          price: "Rp 3.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718255622/umkm/es%20teh%208/id-11134207-7r98r-lluok6ei8wzrfc_xf3gjq.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.798227724631!2d114.3696992750097!3d-8.223035791809579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMjIuOSJTIDExNMKwMjInMjAuMiJF!5e0!3m2!1sid!2sid!4v1718255729201!5m2!1sid!2sid",
+    footer: {
+      noHp: "081252695686",
+      alamat:
+        "Jl. Kolonel Sugiono No.36, Kertosari, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "esputer-sempol": {
+    title: "Es Puter dan Sempol",
+    icon: null,
+    navbarTitle: "Es Puter dan Sempol",
+    ctaLink: "https://wa.me/6281331620225",
+    keyword: [
+      "Es Puter",
+      "Sempol",
+      "Es Tradisional",
+      "Minuman Dingin",
+      "Cemilan",
+      "Makanan Ringan",
+      "Es Khas",
+      "Minuman Segar",
+      "Jajanan",
+      "Cemilan Gurih",
+    ],
+    color: {
+      // required
+      primary: "bg-[#D5E405]",
+      secondary: "bg-[#D2D59C]",
+      backgroundColor: "bg-[#FAFBF7]",
+      hoverColor: "hover:bg-[#B4C100]",
+      textColor: "text-[#090906]",
+      btnTextColor: "text-[#090906]",
+      accentColor: "text-[#C7CD73]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Es Puter dan Sempol yang Memanjakan Lidah",
+      deskripsi:
+        "Selamat datang di Es Puter dan Sempol, tempat di mana kesegaran es puter bertemu dengan gurihnya sempol, menciptakan pengalaman kuliner yang memuaskan dan tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080278/umkm/es%20puter%20dan%20sempol/mbrqbjzlzav3a5ts5kwr.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segar dan Gurih dalam Setiap Gigitan",
+
+      deskripsi:
+        "Setiap hidangan diracik dengan bahan-bahan terbaik dan resep tradisional, memastikan setiap gigitan penuh dengan kelezatan yang memuaskan. Ayo, kunjungi Es Puter dan Sempol dan nikmati kelezatan yang tak tertandingi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080278/umkm/es%20puter%20dan%20sempol/mbrqbjzlzav3a5ts5kwr.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama Kami",
+      // required
+      data: [
+        {
+          name: "Es Puter",
+          deskripsi:
+            "Rasakan sensasi menyegarkan dari Es Puter kami. Dibuat dari bahan-bahan alami seperti santan dan kelapa, es puter kami memiliki tekstur lembut dan cita rasa yang autentik.",
+          price: null,
+          img: "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2022/04/21/1512942609jpg-20220421073647.jpg",
+        },
+        {
+          name: "Sempol",
+          deskripsi:
+            "Digoreng hingga keemasan, sempol kami renyah di luar dan lembut di dalam, menjadikannya camilan sempurna untuk setiap kesempatan.",
+          price: null,
+          img: "https://asset.kompas.com/crops/ZA417JgZnJ9rkn-7bc8085TnbCc=/0x52:1000x719/750x500/data/photo/2023/07/31/64c7384987e67.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8176967219606!2d114.37069397500959!3d-8.22108079181147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTUuOSJTIDExNMKwMjInMjMuOCJF!5e0!3m2!1sid!2sid!4v1718256387430!5m2!1sid!2sid",
+    footer: {
+      noHp: "081331620225",
+      alamat:
+        "Jl. MT Haryono, Karangrejo, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "papeda-sukaria": {
+    title: "Papeda Sukaria",
+    icon: null,
+    navbarTitle: "Papeda Sukaria",
+    ctaLink: null,
+    keyword: [
+      "Papeda Sukaria",
+      "Papeda",
+      "Makanan Tradisional",
+      "Kuliner Nusantara",
+      "Makanan Khas",
+      "Kuliner Papua",
+      "Makanan Sehat",
+      "Papeda Kuah Kuning",
+      "Papeda Ikan",
+      "Papeda Enak",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Tradisional dalam Setiap Suapan",
+      deskripsi:
+        "Selamat datang di Papeda Sukaria, tempat menikmati kelezatan papeda yang autentik dan memuaskan. Kami menghadirkan papeda dengan cita rasa tradisional yang kaya dan tekstur yang lembut, membawa pengalaman kuliner khas Papua dan Maluku langsung ke meja Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/papeda%20sukaria/orko3qvccflsmruqujqg.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kenikmatan Asli Papeda",
+
+      deskripsi:
+        "Setiap hidangan dibuat dengan cinta dan dedikasi, untuk memastikan kenikmatan maksimal di setiap gigitan. Ayo, kunjungi Papeda Sukaria dan nikmati kelezatan papeda yang otentik dan menggugah selera!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/papeda%20sukaria/orko3qvccflsmruqujqg.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Papeda",
+          deskripsi:
+            "Nikmati kelezatan Papeda dari Papeda Sukaria, bubur sagu khas yang disajikan dengan kuah ikan kuning yang gurih dan penuh bumbu. ",
+          price: null,
+          img: "https://indonesiajuara.asia/wp-content/uploads/2023/01/menyantap-Papeda-dengan-kuah-kuning-dan-ikan.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.9070904553173!2d114.3658408750096!3d-8.212098291820142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDMuNiJTIDExNMKwMjInMDYuMyJF!5e0!3m2!1sid!2sid!4v1718256717255!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Jl. Bengawan 49, Singonegaran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68415",
+    },
+  },
+  "es-dawet-gentong": {
+    title: "Es Dawet Gentong",
+    icon: null,
+    navbarTitle: "Es Dawet Gentong",
+    ctaLink: "https://wa.me/6285649605681",
+    keyword: [
+      "Es Dawet Gentong",
+      "Es Dawet",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Tradisional",
+      "Es Khas",
+      "Minuman Jawa",
+      "Minuman Tradisional",
+      "Es Gula Merah",
+      "Es Santan",
+    ],
+    color: {
+      // required
+      primary: "bg-[#EEE55B]",
+      secondary: "bg-[#EEE67A]",
+      backgroundColor: "bg-[#FBFBF7]",
+      hoverColor: "hover:bg-[#E5D815]",
+      textColor: "text-[#13130F]",
+      btnTextColor: "text-[#13130F]",
+      accentColor: "text-[#FEF13E]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Alami dalam Setiap Tegukan",
+      deskripsi:
+        "Selamat datang di Es Dawet Gentong, tempat terbaik untuk menikmati es dawet tradisional yang menyegarkan. Kami menghadirkan Es Dawet Gentong dengan rasa autentik dan kesegaran alami yang sempurna untuk menghilangkan dahaga.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080078/umkm/es%20dawet%20gentong/phthhdzuvbeujwkphxab.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segarnya Dawet Tradisional",
+
+      deskripsi:
+        "Di Es Dawet Gentong, kualitas dan rasa adalah prioritas utama. Setiap gelas es dawet diracik dengan bahan-bahan terbaik, memastikan kesegaran dan kelezatan dalam setiap tegukan. Datang dan nikmati kesegaran es dawet yang otentik hanya di Es Dawet Gentong!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080078/umkm/es%20dawet%20gentong/phthhdzuvbeujwkphxab.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Dawet Gentong",
+          deskripsi:
+            "Nikmati kelezatan Es Dawet Gentong, minuman khas yang terbuat dari dawet kenyal, santan segar, dan gula aren yang manis.",
+          price: null,
+          img: "https://cdn.linkumkm.id/library/2/9/5/4/9/29549_840x576.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7458437690743!2d114.36667037500958!3d-8.228293691804508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDEuOSJTIDExNMKwMjInMDkuMyJF!5e0!3m2!1sid!2sid!4v1718257052242!5m2!1sid!2sid",
+    footer: {
+      noHp: "085649605681",
+      alamat:
+        "Jl. Kepiting, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "es-teh-manisku": {
+    title: "Es Teh Manisku",
+    icon: null,
+    navbarTitle: "Es Teh Manisku",
+    ctaLink: "tel:6281715935210",
+    keyword: [
+      "Es Teh Manisku",
+      "Es Teh",
+      "Es Jeruk Peras",
+      "Leci Tea",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Manis",
+      "Es Manis",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Manis di Setiap Tegukan",
+      deskripsi:
+        "Selamat datang di Es Teh Manisku, tempat terbaik untuk menikmati kesegaran es teh dengan rasa manis yang pas. Kami menyajikan es teh yang dibuat dari teh berkualitas tinggi dan gula alami, memberikan cita rasa yang autentik dan menyegarkan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080387/umkm/es%20teh%20manisku/ns7nohpglzbk9dmttham.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmatnya Segarnya Es Teh Manisku",
+
+      deskripsi:
+        "Di Es Teh Manisku, setiap gelas es teh diracik dengan perhatian penuh terhadap kualitas dan rasa. Kami berkomitmen untuk memberikan kesegaran dan kelezatan di setiap tegukan. Kunjungi Es Teh Manisku dan nikmati kesegaran teh manis yang tak tertandingi!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080387/umkm/es%20teh%20manisku/ns7nohpglzbk9dmttham.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Rasakan kenikmatan Es Teh dari Es Teh Manisku. Dibuat dari teh pilihan terbaik yang diseduh sempurna dan dipadukan dengan gula alami, es teh kami menghadirkan kesegaran optimal dengan rasa manis yang seimbang.",
+          price: "Rp: 3.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718258083/umkm/es%20teh%20manisku/id-11134207-7r98r-lluok6ei8wzrfc_eifcrx.jpg",
+        },
+        {
+          name: "Es Jeruk Peras",
+          deskripsi:
+            "minuman segar yang dibuat dari perasan jeruk dan peras segar, menggabungkan rasa manis dan asam yang menyegarkan.",
+          price: "Rp: 5.000",
+          img: "https://cdn.manisdansedap.com/img_thumb_list/2023/06/22-es-jeruk-peras-manis_8_6493cfdea8732.jpg",
+        },
+        {
+          name: "Leci Tea",
+          deskripsi:
+            "minuman menyegarkan yang menggabungkan kelezatan buah leci dengan aroma dan kehangatan teh.",
+          price: "Rp: 5.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718258312/umkm/es%20teh%20manisku/dd5e9f201601d84cf2e42dfabe466068_vpbtqv.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7336085191655!2d114.36575527500975!3d-8.229521291803284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDYuMyJTIDExNMKwMjInMDYuMCJF!5e0!3m2!1sid!2sid!4v1718258453321!5m2!1sid!2sid",
+    footer: {
+      noHp: "081715935210",
+      alamat:
+        "Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
 };
 
 export default dataMuiz;
