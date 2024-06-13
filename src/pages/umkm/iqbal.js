@@ -1812,6 +1812,72 @@ const dataIqbal = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "sempol-mas-edi": {
+    title: "Sempol Mas Edi",
+    icon: null,
+    navbarTitle: "Sempol Mas Edi",
+    ctaLink: "https://wa.me/6281259446108",
+    keyword :[
+      "Es Teler Pink",
+      "Es Teler",
+      "Salad Buah",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Es Buah",
+      "Minuman Dingin",
+      "Es Segar",
+      "Es Tradisional",
+      "Minuman Manis"
+    ],
+    color: {
+      // required
+      primary: "bg-[#e33f74]",
+      secondary: "bg-[#e583a2]",
+      backgroundColor: "bg-[#fdfafb]",
+      hoverColor: "hover:bg-[#cf134f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e55784]",
+    },
+    hero: {
+      tagLine: "Gurihnya Sempol dan Tahu Walik yang Tak Terlupakan!",
+      deskripsi: "Sempol dan tahu walik camilan lezat dan menggugah selera yang siap memanjakan lidah.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/sempol%20mas%20edi/cxjzgpu25gxs8hdaw1px.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan ke Sempol Mas Edi!",
+      deskripsi: "Di Sempol Mas Edi, berkomitmen untuk menyajikan camilan berkualitas tinggi dengan rasa yang autentik dan memuaskan. Setiap produk dibuat dengan bahan-bahan segar dan teknik memasak terbaik, sehingga dapat menikmati camilan yang lezat dan higienis. Kunjungi Sempol Mas Edi sekarang dan rasakan kelezatan yang tak terlupakan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/sempol%20mas%20edi/cxjzgpu25gxs8hdaw1px.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Sempol",
+          deskripsi: "Kelezatan sempol yang gurih dan renyah. Dibuat dari campuran daging ayam pilihan dan bumbu rahasia, sempol Mas Edi digoreng hingga kecokelatan sempurna, menciptakan rasa yang memuaskan dalam setiap gigitan",
+          price: "Rp. 1.000",
+          img: "https://cdn.yummy.co.id/content-images/images/20230404/mcwC6sizWRixjaaKvQMGgriaIfrgM02m-31363830353934323732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+        },
+        {
+          name: "Tahu Walik",
+          deskripsi: "Tahu walik yang unik dan menggugah selera. Dengan tekstur tahu yang renyah di luar dan lembut di dalam, dipadukan dengan isian yang gurih, tahu walik Mas Edi adalah camilan yang sempurna untuk dinikmati kapan saja.",
+          price: "Rp. 1.000",
+          img: "https://manganingbanyuwangi.food.blog/wp-content/uploads/2020/01/tw.jpg?w=650",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.889685073147!2d114.34936097500949!3d-8.213847991818476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuOSJTIDExNMKwMjEnMDcuMCJF!5e0!3m2!1sen!2sid!4v1718252118212!5m2!1sen!2sid",
+    footer: {
+      noHp: "081259446108",
+      alamat: "cungking,Giri, Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
