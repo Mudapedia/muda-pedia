@@ -5944,6 +5944,147 @@ const dataMuiz = {
         "Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
     },
   },
+  "es-teh-rara": {
+    title: "Es Teh Rara",
+    icon: null,
+    navbarTitle: "Es Teh Rara",
+    ctaLink: "https://wa.me/6283878821700",
+    keyword: [
+      "Es Teh Rara",
+      "Es Teh Jumbo",
+      "Minuman Dingin",
+      "Minuman Segar",
+      "Es Dingin",
+      "Es Teh Manis",
+      "Es Teh Favorit",
+      "Minuman Tradisional",
+      "Minuman Khas",
+      "Minuman Teh",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Kesejukan Es Teh Jumbo Sepenuh Rasa",
+      deskripsi:
+        "Selamat datang di Es Teh Rara, tempat di mana kesejukan es teh jumbo bertemu dengan kelezatan yang tak tertandingi. Kami mempersembahkan es teh jumbo dengan cita rasa istimewa, menggabungkan teh berkualitas tinggi dengan pilihan pemanis alami.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080387/umkm/es%20teh%20rara/dfn28jzftvexxmdmkk9c.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segar Besar, Kenikmatan Sejati",
+
+      deskripsi:
+        "Kami menghadirkan es teh jumbo dengan bahan-bahan terbaik dan proses pembuatan yang teliti untuk memastikan setiap tegukan memberikan kesegaran yang autentik dan rasa yang memuaskan. Ayo kunjungi Es Teh Rara dan nikmati kenikmatan sejati dari es teh jumbo kami!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080387/umkm/es%20teh%20rara/dfn28jzftvexxmdmkk9c.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Nikmati kelezatan Es Teh Jumbo dari Es Teh Rara, di mana teh yang diseduh dengan sempurna disajikan dalam porsi besar yang memuaskan.",
+          price: "Rp: 3.000",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718258083/umkm/es%20teh%20manisku/id-11134207-7r98r-lluok6ei8wzrfc_eifcrx.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7369954209644!2d114.36599877500976!3d-8.229181491803638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDUuMSJTIDExNMKwMjInMDYuOSJF!5e0!3m2!1sid!2sid!4v1718259203866!5m2!1sid!2sid",
+    footer: {
+      noHp: "083878821700",
+      alamat:
+        "Banyuwangi, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "warung-pak-afandi": {
+    title: "Warung Pak Afandi",
+    icon: null,
+    navbarTitle: "Warung Pak Afandi",
+    ctaLink: null,
+    keyword: [
+      "Warung Pak Afandi",
+      "Nasi Campur",
+      "Gorengan",
+      "Makanan Tradisional",
+      "Kuliner Nusantara",
+      "Makanan Lezat",
+      "Cemilan Gurih",
+      "Menu Sehari-hari",
+      "Nasi Komplit",
+      "Jajanan",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kelezatan Nasi Campur dan Gorengan Tradisional",
+      deskripsi:
+        "Selamat datang di Warung Pak Afandi, tempat di mana kelezatan nasi campur dan kegurihan gorengan tradisional bertemu dalam satu sajian. Kami menghadirkan hidangan yang memikat lidah dengan citarasa autentik dan kualitas terbaik, menjadikan setiap kunjungan Anda di Warung Pak Afandi pengalaman yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080427/umkm/warung%20pak%20afandi/d4siakcmu4uktjejgrya.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kelezatan Nasi Campur dan Gorengan Tradisional",
+
+      deskripsi:
+        "Kami berkomitmen untuk menyajikan hidangan yang lezat, sehat, dan terjangkau bagi semua pelanggan kami. Ayo kunjungi Warung Pak Afandi dan nikmati kelezatan nasi campur dan kegurihan gorengan kami yang memikat!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080427/umkm/warung%20pak%20afandi/d4siakcmu4uktjejgrya.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "required",
+      // required
+      data: [
+        {
+          name: "Nasi Campur",
+          deskripsi:
+            "Nikmati kelezatan Nasi Campur khas Warung Pak Afandi, yang terdiri dari nasi putih yang lezat disajikan dengan beragam lauk pauk seperti ayam goreng, telur dadar, sambal terasi, dan aneka sayuran segar.",
+          price: null,
+          img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Made%27s_Warung_Nasi_Campur.jpg/1200px-Made%27s_Warung_Nasi_Campur.jpg",
+        },
+        {
+          name: "Gorengan",
+          deskripsi:
+            "Rasakan kegurihan Gorengan dari Warung Pak Afandi, mulai dari tahu isi, tempe goreng, hingga pisang goreng yang renyah dan gurih.",
+          price: null,
+          img: "https://statik.tempo.co/data/2022/12/23/id_1167878/1167878_720.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.0009642177697!2d113.8336995!3d-8.1013822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6bf005369ed25%3A0x8b61a61d5e729255!2sLokasi%20terkini!5e0!3m2!1sid!2sid!4v1718259724452!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Jl. Sebanen, Sokaan, Karang Paiton, Kec. Ledokombo, Kabupaten Jember, Jawa Timur",
+    },
+  },
 };
 
 export default dataMuiz;
