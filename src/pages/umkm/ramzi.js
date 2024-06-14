@@ -2547,6 +2547,199 @@ const dataRamzi = {
     },
   },
 
+  "es-teh-embul": {
+    title: "Es Teh Embul",
+    icon: null,
+    navbarTitle: "Es Teh Embul",
+    ctaLink: "tel:6285855318081",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Gak Ketulangan!",
+      deskripsi: "Es Teh Embul adalah kedai minuman yang menawarkan berbagai macam es teh segar dengan menggunakan bahan-bahan alami berkualitas tinggi.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080350/umkm/es%20teh%20embul/hqwckjsrsnfhucd9qj8k.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Segar Alami yang Melegakan Dahaga",
+      deskripsi: "Kami berkomitmen untuk menghadirkan rasa otentik dan menyegarkan dalam setiap gelas es teh kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080353/umkm/es%20teh%20embul/ap5qispdzebqrhehu1hl.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Teh Manis Klasik",
+          deskripsi:
+            "Es Teh Manis Klasik kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dimaniskan dengan gula pasir murni.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVdvSU4ARYB1X0P-3yVNdCqxcXZyJLxeBQ7Gk-wyjamMSSpfqXbCc85ZqFhLY",
+        },
+        {
+          name: "Es Teh Tawar Lemon",
+          deskripsi:"Es Teh Tawar Lemon kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dicampur dengan irisan lemon segar.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHquyAfArP2X0MXvAflewIHCl9Qo9pL-2FNBvV24ramjsGCT0wiclMsHB18fnx",
+        },
+        {
+          name: "Es Teh Susu",
+          deskripsi:
+            "Es Teh Susu kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dicampur dengan susu segar.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROya3XymevDzq6uE1R8JhtQTnMulHOs5p7uIbQK9RvBUQfkIj1R7SQyEwpvGI1",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285855318081",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+  "siomay-udin": {
+    title: "Siomay Udin",
+    icon: null,
+    navbarTitle: "Siomay Udin",
+    ctaLink: "tel:6282139793551",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Rasanya Bikin Nagih, Gak Mau Berhenti Makan!",
+      deskripsi: "Siomay Bang Udin adalah legenda kuliner siomay di kota ini. Telah berdiri selama puluhan tahun, Siomay Bang Udin terkenal dengan siomaynya yang lezat dengan resep turun-temurun.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080412/umkm/siomay%20bang%20udin/ajj7ycleyiijethfjd2x.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Siomay Lezat yang Gak Ada Lawannya",
+      deskripsi: "Kami menggunakan bahan-bahan segar dan berkualitas tinggi untuk memastikan setiap gigitan siomay Bang Udin memberikan kenikmatan yang", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080412/umkm/siomay%20bang%20udin/ajj7ycleyiijethfjd2x.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Siomay Baso Ikan",
+          deskripsi:
+            "Siomay Baso Ikan kami adalah perpaduan sempurna antara siomay kenyal dan bakso ikan yang gurih. ",
+          price: "",
+          img: "https://cdn0-production-images-kly.akamaized.net/lLHMJqnH2QoI75OnR5oeDlGh0X0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3966326/original/059670800_1647514819-closeup-5856512_960_720.jpg",
+        },
+        {
+          name: "Siomay Pangsit",
+          deskripsi:"Siomay Pangsit kami menghadirkan tekstur yang unik dan rasa yang istimewa. Siomay ini terbuat dari adonan daging ikan dan udang yang dibungkus dengan pangsit tipis.",
+          price: "",
+          img: "https://asset.kompas.com/crops/SAjVZchiZHT728kXzlUWGLcEZFY=/0x0:1000x667/750x500/data/photo/2020/05/29/5ed0b7256852a.jpg",
+        },
+        {
+          name: "Tahu Isi",
+          deskripsi:
+            "Tahu Isi Siomay Bang Udin terbuat dari tahu goreng yang diisi dengan adonan daging ikan dan udang yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNJR-AyZdmblFyJHswgO8buCNrwYCdzRe2dHhzJeFId3N_jv2tEFiLGEVnfXSs",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282139793551",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+  "teh-muti-jumbo": {
+    title: "Teh Muti Jumbo",
+    icon: null,
+    navbarTitle: "Teh Muti Jumbo",
+    ctaLink: "tel:6282139793551",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Segar Super, Ukuran Jumbo, Puas Menikmatinya!",
+      deskripsi: "Es Teh Muti Jumbo menawarkan kesegaran es teh dengan ukuran jumbo yang super puas dinikmati.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teh%20muti%20jumbo/scuiehgrkqmqsx20uvyo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Dahaga hilang, dompet aman!",
+      deskripsi: "Kami menggunakan teh berkualitas tinggi yang diracik dengan resep spesial sehingga menghasilkan rasa yang otentik dan nikmat.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teh%20muti%20jumbo/scuiehgrkqmqsx20uvyo.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Teh Manis Jumbo",
+          deskripsi:
+            "Es Teh Manis Jumbo kami disajikan dalam cup jumbo yang super mengenyangkan. Teh yang diseduh dengan air panas dicampur dengan gula asli sehingga menghasilkan rasa manis yang pas dan menyegarkan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZF6iRFHagrXDA2OYVdEH2N6ES2rxwu7s_SjSWT4Ck1eIsEwY_cF51HIrOjgWi",
+        },
+        {
+          name: "Es Teh Cincau Jumbo",
+          deskripsi:"Es Teh Cincau Jumbo kami memadukan kesegaran es teh dengan cincau hitam yang kenyal dan nikmat.",
+          price: "",
+          img: "https://img-global.cpcdn.com/recipes/c76edd9c5b1a85f3/680x482cq70/es-teh-manis-cincau-foto-resep-utama.jpg",
+        },
+        {
+          name: "Es Teh Campur Jumbo",
+          deskripsi:
+            "Es Teh Campur Jumbo kami adalah pilihan yang tepat bagi pecinta es teh dengan berbagai isian. Selain teh dan cincau hitam, kami tambahkan juga isian seperti nata de coco, potongan buah segar, dan agar-agar jelly.",
+          price: "",
+          img: "https://id-marketplace.sgp1.cdn.digitaloceanspaces.com/files/merchant/97124-062a73b9.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282139793551",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+
 };
 
 
