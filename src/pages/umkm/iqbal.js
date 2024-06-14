@@ -2298,6 +2298,210 @@ const dataIqbal = {
       alamat: "Jl. MT Haryono 3, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi",
     },
   },
+  "es-legen-tuban": {
+    title: "Es Legen Asli Tuban",
+    icon: null,
+    navbarTitle: "Es Legen Asli Tuban",
+    ctaLink: "https://wa.me/6281931668202",
+    keyword :[
+      "Es Legen Asli Tuban",
+      "Es Legen",
+      "Es Kopi",
+      "Aneka Minuman Es",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Tradisional",
+      "Es Favorit",
+      "Es Manis",
+      "Minuman Tuban"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Segarnya Minuman Es Khas Tuban",
+      deskripsi: "kesegaran minuman es khas bertemu dengan cita rasa yang tak tertandingi. Kami menawarkan berbagai pilihan minuman es yang menyegarkan, termasuk es legen khas Tuban, es kopi, dan aneka minuman es lainnya.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080201/umkm/es%20legen%20asli%20tuban/bdis4irs7lp59uvmhcib.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri Es Legen Asli Tuban!",
+      deskripsi: "Kunjungi Es Legen Asli Tuban sekarang dan nikmati berbagai minuman es yang menyegarkan dan menggugah selera!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080201/umkm/es%20legen%20asli%20tuban/bdis4irs7lp59uvmhcib.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Legen",
+          deskripsi: "Nikmati kelezatan Es Legen asli Tuban, minuman tradisional yang terbuat dari sari nira kelapa yang manis dan menyegarkan. Disajikan dingin dengan es batu, es legen kami memberikan rasa alami yang segar dan kaya manfaat.",
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/83/2024/03/12/legen-1206310451.jpg",
+        },
+        {
+          name: "Es Kopi",
+          deskripsi: "Minuman ini sempurna untuk menyegarkan hari dan memberikan energi tambahan dengan cita rasa kopi yang kuat dan nikmat.",
+          price: null,
+          img: "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE20210519081039030627/detail/menueditor_item_9295381a07894cc082cd9cb103e56183_1621428200482975864.webp",
+        },
+        {
+          name: "Aneka Minuman Es",
+          deskripsi: "Segarkan harimu dengan aneka minuman es untuk memberikan kesegaran maksimal dan rasa yang memuaskan.",
+          price: null,
+          img: "https://i.ytimg.com/vi/Qgr8kd2-i2I/maxresdefault.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.74434286578!2d114.36669687500968!3d-8.228444291804337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDIuNCJTIDExNMKwMjInMDkuNCJF!5e0!3m2!1sen!2sid!4v1718343349100!5m2!1sen!2sid",
+    footer: {
+      noHp: "081931668202",
+      alamat: "Jl. Kepiting, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
+  "tahu-gejrot-dinsos": {
+    title: "Tahu Gejrot Dinsos",
+    icon: null,
+    navbarTitle: "Tahu Gejrot Dinsos",
+    ctaLink: "https://wa.me/6281393027181",
+    keyword :[
+      "Tahu Gejrot Dinsos",
+      "Tahu Gejrot",
+      "Tahu Pedas Manis",
+      "Makanan Tradisional",
+      "Cemilan Enak",
+      "Jajanan Pasar",
+      "Kuliner Khas",
+      "Tahu Favorit",
+      "Cemilan Pedas",
+      "Tahu Indonesia"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Sentuhan Pedas Manis dalam Setiap Gigitan",
+      deskripsi: "Tahu gejrot dengan rasa pedas manis yang memikat. Kami menyajikan hidangan tahu gejrot dengan bumbu khas yang menggugah selera, cocok untuk penggemar kuliner yang mencari sensasi baru.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080415/umkm/tahu%20gejrot%20dinsos/le0bvglpvm7ot5c6zumt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri Tahu Gejrot Dinsos!",
+      deskripsi: "Kunjungi kami dan nikmati kelezatan tahu gejrot dengan sentuhan pedas manis yang unik hanya di Tahu Gejrot Dinsos!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080415/umkm/tahu%20gejrot%20dinsos/le0bvglpvm7ot5c6zumt.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Tahu Gejrot",
+          deskripsi: "Setiap gigitan tahu gejrot kami memberikan tekstur yang renyah di luar dan lembut di dalam, disempurnakan dengan sensasi bumbu yang menggugah selera.",
+          price: null,
+          img: "https://i0.wp.com/betanews.id/wp-content/uploads/2022/10/20221006_BETANEWS_Tahu-Gejrot.jpg?fit=600%2C350&ssl=1",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8913126627876!2d114.3489581750095!3d-8.213684391818667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuMyJTIDExNMKwMjEnMDUuNSJF!5e0!3m2!1sen!2sid!4v1718344093410!5m2!1sen!2sid",
+    footer: {
+      noHp: "081393027181",
+      alamat: "Jl. Hos. Cokroaminoto 51-71, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi",
+    },
+  },
+  "pancong-lumer": {
+    title: "Pancong Lumer",
+    icon: null,
+    navbarTitle: "Pancong Lumer",
+    ctaLink: "https://wa.me/6281330262363",
+    keyword :[
+      "Pancong Lumer",
+      "Tahu Gejrot",
+      "Tahu Pedas Manis",
+      "Makanan Tradisional",
+      "Cemilan Enak",
+      "Jajanan Pasar",
+      "Kuliner Khas",
+      "Tahu Favorit",
+      "Cemilan Pedas",
+      "Tahu Indonesia"
+    ],
+    color: {
+      // required
+      primary: "bg-[#D7DE1E]",
+      secondary: "bg-[#DDDF95]",
+      backgroundColor: "bg-[#F9F9F4]",
+      hoverColor: "hover:bg-[#C0C700]",
+      textColor: "text-[#090906]",
+      btnTextColor: "text-[#090906]",
+      accentColor: "text-[#DCE066]",
+    },
+    hero: {
+      tagLine: "Nikmati Kelezatan Pancong Asli dengan Berbagai Pilihan Rasa",
+      deskripsi: "kelezatan pancong dengan cita rasa otentik yang memikat dengan keunikan rasa yang bisa Anda pilih sesuai selera.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/pancong%20lumer/kbi745byhvw8qupthbec.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri di Pancong Lumer!",
+      deskripsi: " Setiap hidangan pancong kami disajikan dengan penuh perhatian untuk memastikan pengalaman kuliner yang memuaskan. Kunjungi kami dan nikmati berbagai pilihan pancong yang lezat hanya di Pancong Lumer!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080405/umkm/pancong%20lumer/w7d9zyg0d43d53uwiwmj.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Pancong Original/Susu",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar dengan tambahan susu.",
+          price: "Rp. 6.000",
+          img: "https://caramembuat.id/wp-content/uploads/2022/04/cara-membuat-kue-pancong-kelapa.webp",
+        },
+        {
+          name: "Pancong Keju",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar dengan toping keju.",
+          price: "Rp. 8.000",
+          img: "https://cdn.idntimes.com/content-images/community/2022/11/fromandroid-c133fb36f11f3dcc19f7e7fbd6e0a0e2.jpg",
+        },
+        {
+          name: "Pancong Coklat",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar kenikmatan toping coklat.",
+          price: "Rp. 8.000",
+          img: "https://sweetrip.id/wp-content/uploads/2022/05/resep-kue-pancong-lumer-setengah-matang.jpeg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8712072860308!2d114.34947407500947!3d-8.215705091816725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTYuNSJTIDExNMKwMjEnMDcuNCJF!5e0!3m2!1sen!2sid!4v1718344958062!5m2!1sen!2sid",
+    footer: {
+      noHp: "081330262363",
+      alamat: "Jl. Kendang Kempul No.55, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
