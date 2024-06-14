@@ -6635,6 +6635,89 @@ const dataMuiz = {
         "Jl. Hos. Cokroaminoto 16-14, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
     },
   },
+  "kue-nasi-bu-diana": {
+    title: "Aneka Kue-kue & Nasi",
+    icon: null,
+    navbarTitle: "Aneka Kue-kue & Nasi",
+    ctaLink: "tel:6282337071456",
+    keyword: [
+      "Kue Nasi Bu Diana",
+      "Kue Nasi",
+      "Aneka Kue",
+      "Kue Basah",
+      "Nasi Geprek",
+      "Nasi Campur",
+      "Aneka Minuman",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Jajanan Pasar",
+      "Es Lumut",
+      "Susu Lumut",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Kue Nasi Bu Diana, Kelezatan Tiada Tanding!",
+      deskripsi:
+        "Selamat datang di Kue Nasi Bu Diana, tempat di mana kelezatan bertemu tradisi. Kami bangga menyajikan aneka kue dan nasi, kue basah yang lezat, serta minuman segar untuk memenuhi selera Anda. Nikmati setiap sajian dengan cita rasa autentik yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718331596/umkm/jual%20aneka%20kue-kue%20dan%20nasi/nhwndiilo8jjczvv9aq7.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sentuhan Khas Rasa Nusantara!",
+
+      deskripsi:
+        "Setiap produk kami dipersiapkan dengan teliti untuk memastikan kualitas dan cita rasa yang konsisten. Kunjungi kami dan nikmati kelezatan yang membuat setiap kunjungan Anda menjadi pengalaman tak terlupakan dalam dunia kuliner Nusantara.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718331596/umkm/jual%20aneka%20kue-kue%20dan%20nasi/fpd1f3ggpc921oooxutg.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Salah Satu Produk Kami",
+      // required
+      data: [
+        {
+          name: "Aneka Nasi",
+          deskripsi:
+            "Rasakan kehangatan nasi dan kelezatan kue dalam setiap gigitan di Kue Nasi Bu Diana.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718331595/umkm/jual%20aneka%20kue-kue%20dan%20nasi/sacwhqnvv0qfq8zgg8lv.jpg",
+        },
+        {
+          name: "Aneka Kue Basah",
+          deskripsi:
+            "Kue basah adalah spesialisasi kami! Setiap hari, kami menghadirkan berbagai kue basah segar dengan cita rasa dan tekstur yang istimewa.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718331594/umkm/jual%20aneka%20kue-kue%20dan%20nasi/rex9zrjxbvxjg84nj30i.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi:
+            "Sempurnakan pengalaman bersantap Anda dengan minuman segar dari Kue Nasi Bu Diana.",
+          price: null,
+          img: "https://cdn.idntimes.com/content-images/community/2023/10/1698537271933-050d7c823376e5868043b1f6ae8078e6-1c00678ffc171c93a32d0926ebd93b5c.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.888356912268!2d114.34947227500953!3d-8.213981491818338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTAuMyJTIDExNMKwMjEnMDcuNCJF!5e0!3m2!1sid!2sid!4v1718346717444!5m2!1sid!2sid",
+    footer: {
+      noHp: "082337071456",
+      alamat:
+        "Jl. Hos. Cokroaminoto No.57, Lingkungan Cuking Rw., Mojopanggung, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
 };
 
 export default dataMuiz;
