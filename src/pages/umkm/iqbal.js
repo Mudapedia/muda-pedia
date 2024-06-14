@@ -1812,6 +1812,696 @@ const dataIqbal = {
       alamat: "Genteng Kulon, Genteng, Banyuwangi",
     },
   },
+  "sempol-mas-edi": {
+    title: "Sempol Mas Edi",
+    icon: null,
+    navbarTitle: "Sempol Mas Edi",
+    ctaLink: "https://wa.me/6281259446108",
+    keyword :[
+      "Sempol Mas Edi",
+      "Sempol",
+      "Tahu Walik",
+      "Cemilan",
+      "Makanan Ringan",
+      "Makanan Tradisional",
+      "Jajanan",
+      "Kuliner Nusantara",
+      "Cemilan Gurih",
+      "Snack"
+    ],
+    color: {
+      // required
+      primary: "bg-[#e33f74]",
+      secondary: "bg-[#e583a2]",
+      backgroundColor: "bg-[#fdfafb]",
+      hoverColor: "hover:bg-[#cf134f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e55784]",
+    },
+    hero: {
+      tagLine: "Gurihnya Sempol dan Tahu Walik yang Tak Terlupakan!",
+      deskripsi: "Sempol dan tahu walik camilan lezat dan menggugah selera yang siap memanjakan lidah.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/sempol%20mas%20edi/cxjzgpu25gxs8hdaw1px.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan ke Sempol Mas Edi!",
+      deskripsi: "Di Sempol Mas Edi, berkomitmen untuk menyajikan camilan berkualitas tinggi dengan rasa yang autentik dan memuaskan. Setiap produk dibuat dengan bahan-bahan segar dan teknik memasak terbaik, sehingga dapat menikmati camilan yang lezat dan higienis. Kunjungi Sempol Mas Edi sekarang dan rasakan kelezatan yang tak terlupakan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/sempol%20mas%20edi/cxjzgpu25gxs8hdaw1px.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Sempol",
+          deskripsi: "Kelezatan sempol yang gurih dan renyah. Dibuat dari campuran daging ayam pilihan dan bumbu rahasia, sempol Mas Edi digoreng hingga kecokelatan sempurna, menciptakan rasa yang memuaskan dalam setiap gigitan",
+          price: "Rp. 1.000",
+          img: "https://cdn.yummy.co.id/content-images/images/20230404/mcwC6sizWRixjaaKvQMGgriaIfrgM02m-31363830353934323732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+        },
+        {
+          name: "Tahu Walik",
+          deskripsi: "Tahu walik yang unik dan menggugah selera. Dengan tekstur tahu yang renyah di luar dan lembut di dalam, dipadukan dengan isian yang gurih, tahu walik Mas Edi adalah camilan yang sempurna untuk dinikmati kapan saja.",
+          price: "Rp. 1.000",
+          img: "https://manganingbanyuwangi.food.blog/wp-content/uploads/2020/01/tw.jpg?w=650",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.889685073147!2d114.34936097500949!3d-8.213847991818476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuOSJTIDExNMKwMjEnMDcuMCJF!5e0!3m2!1sen!2sid!4v1718252118212!5m2!1sen!2sid",
+    footer: {
+      noHp: "081259446108",
+      alamat: "cungking,Giri, Banyuwangi",
+    },
+  },
+  "es-bu-fatimah": {
+    title: "Es Bu Fatimah",
+    icon: null,
+    navbarTitle: "Es Bu Fatimah",
+    ctaLink: null,
+    keyword :[
+      "Es Bu Fatimah",
+      "Es Degan Ijo",
+      "Es Doger",
+      "Es Kopyor",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Tradisional",
+      "Minuman Manis",
+      "Minuman Khas",
+      "Es Buah"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kesegaran Tiada Tara di Es Bu Fatimah",
+      deskripsi: "Selamat datang di Es Bu Fatimah, tempat terbaik untuk menikmati kesegaran minuman es tradisional yang otentik. Dengan berbagai pilihan es yang menyegarkan, Es Bu Fatimah siap memanjakan lidah dan menghilangkan dahaga.",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080024/umkm/es%20bu%20fatimah/dskzoptws8pa8jjwebkn.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Es Bu Fatimah!",
+      deskripsi: "Di Es Bu Fatimah, kesegaran dan kelezatan adalah prioritas utama. Menggunakan bahan-bahan berkualitas tinggi dan resep tradisional, setiap minuman disajikan dengan penuh cinta dan dedikasi. Kunjungi Es Bu Fatimah sekarang dan nikmati kesegaran yang tak terlupakan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080024/umkm/es%20bu%20fatimah/dskzoptws8pa8jjwebkn.jpg",
+      btn: false, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Terlaris Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan Ijo",
+          deskripsi: "Nikmati kesegaran alami dari Es Degan Ijo, yang terbuat dari air kelapa muda hijau yang dingin dan daging kelapa yang lembut. Minuman ini memberikan kesegaran alami yang menenangkan di setiap tegukan.",
+          price: "Rp. 5.000",
+          img: "https://kampungberita.id/wp-content/uploads/2019/05/Degan-Ijo.jpg",
+        },
+        {
+          name: "Es Doger",
+          deskripsi: "Cicipi kelezatan Es Doger kami yang kaya rasa, dengan campuran tape ketan, alpukat, pacar cina, dan kelapa serut, disajikan dengan es serut dan sirup merah yang manis. Es Doger Bu Fatimah menawarkan kombinasi sempurna antara manis dan segar.",
+          price: "Rp. 5.000",
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/26/foto-content-2023-06-25T111747461-Ola-Anafi-Julian-2461908360.png",
+        },
+        {
+          name: "Es Kopyor",
+          deskripsi: "Rasakan kenikmatan Es Kopyor kami, dengan daging kelapa kopyor yang lembut dan manis, dicampur dengan es serut dan sirup gula merah. Setiap tegukan Es Kopyor menghadirkan sensasi menyegarkan yang tiada duanya.",
+          price: "Rp. 5.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/94/2024/05/19/Pinterest-177060069.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.891691699519!2d114.34883547500952!3d-8.213646291818709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuMSJTIDExNMKwMjEnMDUuMSJF!5e0!3m2!1sen!2sid!4v1718253057849!5m2!1sen!2sid",
+    footer: {
+      noHp: null,
+      alamat: "cungking,Giri, Banyuwangi",
+    },
+  },
+  "esteler-bunga": {
+    title: "Es Teler Bunga",
+    icon: null,
+    navbarTitle: "Es Teler Bunga",
+    ctaLink: "https://wa.me/6282141835768",
+    keyword :[
+      "Es Teler Bunga",
+      "Es Teler Original",
+      "Es Teler Cheese",
+      "Es Campur",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Es Buah",
+      "Minuman Tradisional",
+      "Minuman Manis",
+      "Es Khas"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Segarnya Es Teler di Setiap Gigitan",
+      deskripsi: "Segarnya es teler dan es campur dengan cita rasa yang istimewa. Dengan berbagai pilihan menu yang menggugah selera, Es Teler Bunga siap memberikan pengalaman menyegarkan yang tak terlupakan.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teler%20bunga/wjfzph1qd7vsdyonpdmk.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir ke Es Teler Bunga!",
+      deskripsi: "Setiap hidangan dibuat dengan bahan-bahan berkualitas tinggi dan resep tradisional yang terjaga. Kami berkomitmen untuk menghadirkan minuman es yang segar, lezat, dan penuh dengan kebaikan alami. Kunjungi Es Teler Bunga sekarang dan rasakan segarnya es teler yang memanjakan lidah!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teler%20bunga/wjfzph1qd7vsdyonpdmk.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teler Original",
+          deskripsi: "Nikmati kelezatan Es Teler Original kami yang otentik, dengan paduan buah-buahan segar seperti alpukat, kelapa muda, nangka, dan cincau, disajikan dengan es serut dan santan kental yang manis. Setiap suapan membawa kesegaran yang memuaskan.",
+          price: "Rp. 6.000",
+          img: "https://thumb.viva.co.id/media/frontend/thumbs3/2022/04/05/624b9f072936e-resep-es-teler-viral-kuah-creamy_663_372.jpg",
+        },
+        {
+          name: "Es Teler Cheese",
+          deskripsi: "Rasakan sensasi baru dengan Es Teler Cheese kami, di mana kelezatan buah-buahan segar dipadukan dengan taburan keju parut yang gurih. Kombinasi ini menciptakan rasa yang unik dan menyegarkan, sempurna untuk para pecinta keju.",
+          price: "Rp. 10.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/76/2024/03/05/FotoJet-2024-03-05T121934830-1511300614.jpg",
+        },
+        {
+          name: "Es Campur",
+          deskripsi: "Cicipi kesegaran Es Campur kami, yang menggabungkan berbagai jenis buah-buahan, agar-agar, cincau, dan kolang-kaling, disajikan dengan sirup manis dan es serut. Es Campur kami adalah pilihan tepat untuk menikmati perpaduan rasa yang kaya dan menyegarkan.",
+          price: "Rp. 6.000",
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.81304947677!2d114.37048467500969!3d-8.221547491811055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTcuNiJTIDExNMKwMjInMjMuMCJF!5e0!3m2!1sen!2sid!4v1718254225164!5m2!1sen!2sid",
+    footer: {
+      noHp: "082141835768",
+      alamat: "Tukangkayu, Banyuwangi",
+    },
+  },
+  "rose-tea": {
+    title: "Rose Tea",
+    icon: null,
+    navbarTitle: "Rose Tea",
+    ctaLink: "https://wa.me/6282237740400",
+    keyword :[
+      "Rose Tea",
+      "Es Teh Jumbo Original",
+      "Es Teh Cocopandan",
+      "Es Teh Vanilla",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Teh Manis",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Es Teh"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Segarnya Teh dengan Sentuhan Manis",
+      deskripsi: "Selamat datang di Rose Tea, tempat terbaik untuk menikmati berbagai varian es teh dengan rasa yang menggugah selera. Dengan pilihan es teh jumbo yang menyegarkan, Rose Tea siap memuaskan dahaga dengan cita rasa yang istimewa.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/rose%20tea/cye6rbic8gaxkaudorsp.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain Sendiri di Rose Tea!",
+      deskripsi: "Di Rose Tea, setiap minuman diracik dengan bahan-bahan terbaik dan perhatian penuh terhadap rasa dan kualitas. Kunjungi Rose Tea sekarang dan nikmati berbagai varian es teh yang menyegarkan dan memuaskan!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/rose%20tea/cye6rbic8gaxkaudorsp.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo Original",
+          deskripsi: "Nikmati kesegaran klasik dengan Es Teh Jumbo Original kami. Dibuat dari teh berkualitas tinggi, es teh ini memberikan keseimbangan sempurna antara rasa teh yang kuat dan manis yang pas, disajikan dengan es batu melimpah untuk kesegaran maksimal.",
+          price: "Rp. 3.000",
+          img: "https://thumb.viva.co.id/media/frontend/thumbs3/2022/04/05/624b9f072936e-resep-es-teler-viral-kuah-creamy_663_372.jpg",
+        },
+        {
+          name: "Es Teh Cocopandan",
+          deskripsi: "Cicipi Es Teh Cocopandan yang unik, dengan aroma dan rasa manis khas pandan yang berpadu dengan segarnya teh. Minuman ini menawarkan sensasi tropis yang menyegarkan, sempurna untuk dinikmati kapan saja.",
+          price: "Rp. 5.000",
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/76/2024/03/05/FotoJet-2024-03-05T121934830-1511300614.jpg",
+        },
+        {
+          name: "Es Teh Vanilla",
+          deskripsi: "Rasakan kelezatan Es Teh Vanilla kami, di mana teh berkualitas tinggi dipadukan dengan aroma vanilla yang harum dan rasa manis yang lembut. Es teh ini memberikan pengalaman minum teh yang manis dan memanjakan.",
+          price: "Rp. 5.000",
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8204907184077!2d114.37094107500964!3d-8.220800191811744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTQuOSJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718255590210!5m2!1sen!2sid",
+    footer: {
+      noHp: "082237740400",
+      alamat: "Tukangkayu, Banyuwangi",
+    },
+  },
+  "umkm-bu-rini": {
+    title: "UMKM Bu Rini",
+    icon: null,
+    navbarTitle: "UMKM Bu Rini",
+    ctaLink: "https://wa.me/6282333823261",
+    keyword :[
+      "UMKM Bu Rini",
+      "Kue Basah",
+      "Aneka Kerupuk",
+      "Aneka Minuman",
+      "Minuman Segar",
+      "Minuman Tradisional",
+      "Cemilan",
+      "Kue Tradisional",
+      "Kerupuk",
+      "Minuman"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kelezatan Kue Tradisional dan Camilan Lezat",
+      deskripsi: "Selamat datang di UMKM Bu Rini, kami menyediakan berbagai kue tradisional, aneka kerupuk, dan minuman segar. Kami berkomitmen untuk menghadirkan produk berkualitas dengan cita rasa yang autentik, cocok untuk menemani setiap momen istimewa.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/umkm%20bu%20rini/ptz8t1si4xr3mjsth1q2.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Mampir Ke UMKM Bu Rini!",
+      deskripsi: "Di UMKM Bu Rini, setiap produk dibuat dengan cinta dan dedikasi untuk memastikan kelezatan dan kepuasan di setiap gigitan dan tegukan. Kunjungi UMKM Bu Rini dan rasakan kelezatan tradisional yang menggugah selera!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/umkm%20bu%20rini/ptz8t1si4xr3mjsth1q2.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kue Basah",
+          deskripsi: "Nikmati kelezatan Kue Basah khas UMKM Bu Rini, yang dibuat dengan bahan-bahan pilihan dan resep tradisional. Setiap kue basah kami menawarkan tekstur lembut dan rasa manis yang pas.",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/02/23/pasar-kue-subuh-di-jakarta-1.jpeg?w=683",
+        },
+        {
+          name: "Aneka Kerupuk",
+          deskripsi: "Rasakan gurihnya Aneka Kerupuk kami, dari kerupuk udang hingga kerupuk bawang, yang renyah dan penuh cita rasa. Kerupuk ini adalah teman sempurna untuk berbagai hidangan atau sebagai camilan sehari-hari yang nikmat.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/7/17/774c6e5c-55cd-4e42-9013-917b9bb48038.jpg",
+        },
+        {
+          name: "Aneka Minuman",
+          deskripsi: "Segarkan harimu dengan Aneka Minuman dari UMKM Bu Rini, termasuk minuman tradisional dan modern yang menyegarkan.",
+          price: null,
+          img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/21/1479820203.jpg",
+        },
+      ],
+    },
+    location: null,
+    footer: {
+      noHp: "082333823261",
+      alamat: null,
+    },
+  },
+  "kue-pukis-massandi": {
+    title: "Kue Pukis Mas Sandi",
+    icon: null,
+    navbarTitle: "Kue Pukis Mas Sandi",
+    ctaLink: "https://wa.me/6281775067694",
+    keyword :[
+      "Kue Pukis Mas Sandi",
+      "Kue Pukis",
+      "Kue Pancong",
+      "Kue Tradisional",
+      "Cemilan Manis",
+      "Kue Enak",
+      "Jajanan Pasar",
+      "Cemilan Tradisional",
+      "Makanan Manis",
+      "Kue Favorit"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#ffff]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Kelezatan Kue Pukis dan Pancong Terbaik",
+      deskripsi: "Selamat datang di Kue Pukis Mas Sandi, tempat terbaik untuk menikmati kelezatan kue tradisional yang menggugah selera. Kami menyajikan kue pukis dan kue pancong dengan cita rasa autentik dan kualitas terbaik, sempurna untuk menemani momen santai Anda.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/kue%20pukis%20mas%20sandi/sfsivhoxayauref47xzt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan Ke Kue Pukis Mas Sandi!",
+      deskripsi: "Dimana produk diracik dengan perhatian penuh terhadap kualitas dan rasa, menggunakan resep tradisional yang terjaga keasliannya. Kunjungi Kue Pukis Mas Sandi sekarang dan nikmati kue pukis dan pancong terbaik yang akan memanjakan lidah Anda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/kue%20pukis%20mas%20sandi/sfsivhoxayauref47xzt.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Kue Pukis",
+          deskripsi: "Nikmati kelembutan Kue Pukis kami, yang dibuat dari adonan berkualitas dengan rasa yang kaya dan tekstur yang lembut. Disajikan hangat, kue pukis Mas Sandi hadir dengan berbagai topping pilihan yang menambah kenikmatan di setiap gigitan.",
+          price: "Rp. 10.000",
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/10/31/kue-pukis-16_169.jpeg?w=1200",
+        },
+        {
+          name: "Kue Pancong",
+          deskripsi: "Rasakan kenikmatan Kue Pancong tradisional, dengan tekstur yang renyah di luar dan lembut di dalam. Dibuat dari bahan-bahan terbaik dan dipanggang hingga sempurna, kue pancong kami menawarkan rasa gurih yang pas dan menggoda selera.",
+          price: "Rp. 10.000",
+          img: "https://awsimages.detik.net.id/community/media/visual/2023/06/19/kue-pancong-original-1_43.jpeg?w=1200",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8652255681554!2d114.36406597500955!3d-8.216306191816106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTguNyJTIDExNMKwMjEnNTkuOSJF!5e0!3m2!1sen!2sid!4v1718264948640!5m2!1sen!2sid",
+    footer: {
+      noHp: "081775067694",
+      alamat: "Jl. Jaksa Agung Suprapto 41, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
+  "siomay-firman": {
+    title: "Siomay Batagor Firman",
+    icon: null,
+    navbarTitle: "Siomay Batagor Firman",
+    ctaLink: "https://wa.me/6285604480515",
+    keyword :[
+      "Siomay Batagor Firman",
+      "Siomay",
+      "Batagor",
+      "Makanan Tradisional",
+      "Cemilan Gurih",
+      "Jajanan Pasar",
+      "Kuliner Bandung",
+      "Cemilan Enak",
+      "Makanan Favorit",
+      "Makanan Nusantara"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Kenikmatan Siomay dan Batagor Autentik",
+      deskripsi: "Kualitas dan rasa adalah prioritas utama. Setiap hidangan dibuat dengan bahan-bahan terbaik dan dedikasi penuh untuk menghadirkan kelezatan yang memuaskan. Kunjungi Siomay Batagor Firman dan rasakan kelezatan autentik siomay dan batagor yang menggugah selera!",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/siomay%20batagor%20firman/xq6yfaql9do7keszlgxi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Jajan Ke Kue Siomay Batagor Firman!",
+      deskripsi: "Dimana produk diracik dengan perhatian penuh terhadap kualitas dan rasa, menggunakan resep tradisional yang terjaga keasliannya. Kunjungi Kue Pukis Mas Sandi sekarang dan nikmati kue pukis dan pancong terbaik yang akan memanjakan lidah Anda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080411/umkm/siomay%20batagor%20firman/xq6yfaql9do7keszlgxi.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Siomay",
+          deskripsi: "Nikmati kelezatan Siomay khas Firman, yang terbuat dari campuran ikan segar dan tepung berkualitas. Disajikan dengan bumbu kacang yang gurih dan sedikit rasa pedas, siomay kami menawarkan tekstur kenyal dan rasa yang kaya di setiap gigitan.",
+          price: null,
+          img: "https://foto.kontan.co.id/DWgtq4zA7QIvED-tobAm82qUetw=/smart/2017/05/12/1823700660p.jpg",
+        },
+        {
+          name: "batagor",
+          deskripsi: "Rasakan renyahnya Batagor Firman, gorengan khas Bandung yang dibuat dari adonan ikan dan tepung tapioka, digoreng hingga keemasan. Disajikan dengan bumbu kacang yang khas, batagor kami memberikan perpaduan rasa gurih dan tekstur yang krispi.",
+          price: null,
+          img: "https://bolulembang.co.id/wp-content/uploads/2021/03/Asal.jpg?x31789",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.821544086361!2d114.37341669999999!3d-8.2206944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTQuNSJTIDExNMKwMjInMjQuMyJF!5e0!3m2!1sen!2sid!4v1718265408500!5m2!1sen!2sid",
+    footer: {
+      noHp: "085604480515",
+      alamat: "Jl. MT Haryono 3, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
+  "es-legen-tuban": {
+    title: "Es Legen Asli Tuban",
+    icon: null,
+    navbarTitle: "Es Legen Asli Tuban",
+    ctaLink: "https://wa.me/6281931668202",
+    keyword :[
+      "Es Legen Asli Tuban",
+      "Es Legen",
+      "Es Kopi",
+      "Aneka Minuman Es",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Tradisional",
+      "Es Favorit",
+      "Es Manis",
+      "Minuman Tuban"
+    ],
+    color: {
+      // required
+      primary: "bg-[#3F60CB]",
+      secondary: "bg-[#8da5f1]",
+      backgroundColor: "bg-[#f7f8fd]",
+      hoverColor: "hover:bg-[#28408f]",
+      textColor: "text-[#1f2503]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#4971f4]",
+    },
+    hero: {
+      tagLine: "Segarnya Minuman Es Khas Tuban",
+      deskripsi: "kesegaran minuman es khas bertemu dengan cita rasa yang tak tertandingi. Kami menawarkan berbagai pilihan minuman es yang menyegarkan, termasuk es legen khas Tuban, es kopi, dan aneka minuman es lainnya.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080201/umkm/es%20legen%20asli%20tuban/bdis4irs7lp59uvmhcib.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri Es Legen Asli Tuban!",
+      deskripsi: "Kunjungi Es Legen Asli Tuban sekarang dan nikmati berbagai minuman es yang menyegarkan dan menggugah selera!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080201/umkm/es%20legen%20asli%20tuban/bdis4irs7lp59uvmhcib.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Es Legen",
+          deskripsi: "Nikmati kelezatan Es Legen asli Tuban, minuman tradisional yang terbuat dari sari nira kelapa yang manis dan menyegarkan. Disajikan dingin dengan es batu, es legen kami memberikan rasa alami yang segar dan kaya manfaat.",
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/83/2024/03/12/legen-1206310451.jpg",
+        },
+        {
+          name: "Es Kopi",
+          deskripsi: "Minuman ini sempurna untuk menyegarkan hari dan memberikan energi tambahan dengan cita rasa kopi yang kuat dan nikmat.",
+          price: null,
+          img: "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE20210519081039030627/detail/menueditor_item_9295381a07894cc082cd9cb103e56183_1621428200482975864.webp",
+        },
+        {
+          name: "Aneka Minuman Es",
+          deskripsi: "Segarkan harimu dengan aneka minuman es untuk memberikan kesegaran maksimal dan rasa yang memuaskan.",
+          price: null,
+          img: "https://i.ytimg.com/vi/Qgr8kd2-i2I/maxresdefault.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.74434286578!2d114.36669687500968!3d-8.228444291804337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDIuNCJTIDExNMKwMjInMDkuNCJF!5e0!3m2!1sen!2sid!4v1718343349100!5m2!1sen!2sid",
+    footer: {
+      noHp: "081931668202",
+      alamat: "Jl. Kepiting, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi",
+    },
+  },
+  "tahu-gejrot-dinsos": {
+    title: "Tahu Gejrot Dinsos",
+    icon: null,
+    navbarTitle: "Tahu Gejrot Dinsos",
+    ctaLink: "https://wa.me/6281393027181",
+    keyword :[
+      "Tahu Gejrot Dinsos",
+      "Tahu Gejrot",
+      "Tahu Pedas Manis",
+      "Makanan Tradisional",
+      "Cemilan Enak",
+      "Jajanan Pasar",
+      "Kuliner Khas",
+      "Tahu Favorit",
+      "Cemilan Pedas",
+      "Tahu Indonesia"
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+    hero: {
+      tagLine: "Sentuhan Pedas Manis dalam Setiap Gigitan",
+      deskripsi: "Tahu gejrot dengan rasa pedas manis yang memikat. Kami menyajikan hidangan tahu gejrot dengan bumbu khas yang menggugah selera, cocok untuk penggemar kuliner yang mencari sensasi baru.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080415/umkm/tahu%20gejrot%20dinsos/le0bvglpvm7ot5c6zumt.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri Tahu Gejrot Dinsos!",
+      deskripsi: "Kunjungi kami dan nikmati kelezatan tahu gejrot dengan sentuhan pedas manis yang unik hanya di Tahu Gejrot Dinsos!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080415/umkm/tahu%20gejrot%20dinsos/le0bvglpvm7ot5c6zumt.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Tahu Gejrot",
+          deskripsi: "Setiap gigitan tahu gejrot kami memberikan tekstur yang renyah di luar dan lembut di dalam, disempurnakan dengan sensasi bumbu yang menggugah selera.",
+          price: null,
+          img: "https://i0.wp.com/betanews.id/wp-content/uploads/2022/10/20221006_BETANEWS_Tahu-Gejrot.jpg?fit=600%2C350&ssl=1",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8913126627876!2d114.3489581750095!3d-8.213684391818667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuMyJTIDExNMKwMjEnMDUuNSJF!5e0!3m2!1sen!2sid!4v1718344093410!5m2!1sen!2sid",
+    footer: {
+      noHp: "081393027181",
+      alamat: "Jl. Hos. Cokroaminoto 51-71, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi",
+    },
+  },
+  "pancong-lumer": {
+    title: "Pancong Lumer",
+    icon: null,
+    navbarTitle: "Pancong Lumer",
+    ctaLink: "https://wa.me/6281330262363",
+    keyword :[
+      "Pancong Lumer",
+      "Tahu Gejrot",
+      "Tahu Pedas Manis",
+      "Makanan Tradisional",
+      "Cemilan Enak",
+      "Jajanan Pasar",
+      "Kuliner Khas",
+      "Tahu Favorit",
+      "Cemilan Pedas",
+      "Tahu Indonesia"
+    ],
+    color: {
+      // required
+      primary: "bg-[#D7DE1E]",
+      secondary: "bg-[#DDDF95]",
+      backgroundColor: "bg-[#F9F9F4]",
+      hoverColor: "hover:bg-[#C0C700]",
+      textColor: "text-[#090906]",
+      btnTextColor: "text-[#090906]",
+      accentColor: "text-[#DCE066]",
+    },
+    hero: {
+      tagLine: "Nikmati Kelezatan Pancong Asli dengan Berbagai Pilihan Rasa",
+      deskripsi: "kelezatan pancong dengan cita rasa otentik yang memikat dengan keunikan rasa yang bisa Anda pilih sesuai selera.",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/pancong%20lumer/kbi745byhvw8qupthbec.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Ayo, Cobain sendiri di Pancong Lumer!",
+      deskripsi: " Setiap hidangan pancong kami disajikan dengan penuh perhatian untuk memastikan pengalaman kuliner yang memuaskan. Kunjungi kami dan nikmati berbagai pilihan pancong yang lezat hanya di Pancong Lumer!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080405/umkm/pancong%20lumer/w7d9zyg0d43d53uwiwmj.jpg",
+      btn: true, // optional
+      btnText: "Ayo Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Pancong Original/Susu",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar dengan tambahan susu.",
+          price: "Rp. 6.000",
+          img: "https://caramembuat.id/wp-content/uploads/2022/04/cara-membuat-kue-pancong-kelapa.webp",
+        },
+        {
+          name: "Pancong Keju",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar dengan toping keju.",
+          price: "Rp. 8.000",
+          img: "https://cdn.idntimes.com/content-images/community/2022/11/fromandroid-c133fb36f11f3dcc19f7e7fbd6e0a0e2.jpg",
+        },
+        {
+          name: "Pancong Coklat",
+          deskripsi: "kenikmatan Pancong dari Pancong Lumer, dengan tekstur lembut di dalam dan renyah di luar kenikmatan toping coklat.",
+          price: "Rp. 8.000",
+          img: "https://sweetrip.id/wp-content/uploads/2022/05/resep-kue-pancong-lumer-setengah-matang.jpeg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8712072860308!2d114.34947407500947!3d-8.215705091816725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTYuNSJTIDExNMKwMjEnMDcuNCJF!5e0!3m2!1sen!2sid!4v1718344958062!5m2!1sen!2sid",
+    footer: {
+      noHp: "081330262363",
+      alamat: "Jl. Kendang Kempul No.55, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi",
+    },
+  },
 };
 
 export default dataIqbal;
