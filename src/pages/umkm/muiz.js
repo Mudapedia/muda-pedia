@@ -6272,6 +6272,369 @@ const dataMuiz = {
       alamat: null,
     },
   },
+  "es-degan-msh": {
+    title: "Es Degan MSH",
+    icon: null,
+    navbarTitle: "Es Degan MSH",
+    ctaLink: "tel:6287872181689",
+    keyword: [
+      "Es Degan MSH",
+      "Es Degan",
+      "Es Kelapa",
+      "Minuman Segar",
+      "Minuman Dingin",
+      "Minuman Kelapa",
+      "Es Kelapa Muda",
+      "Minuman Tradisional",
+      "Es Favorit",
+      "Minuman Sehat",
+    ],
+    color: {
+      // required
+      primary: "bg-[#9FE870]",
+      secondary: "bg-[#99E1AA]",
+      backgroundColor: "bg-[#F4FBF0]",
+      hoverColor: "hover:bg-[#88e84a]",
+      textColor: "text-[#070B03]",
+      btnTextColor: "text-[#070B03]",
+      accentColor: "text-[#72D5A7]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Es Degan Alami",
+      deskripsi:
+        "Selamat datang di Es Degan MSH, tempat terbaik untuk menikmati kesegaran alami dari es degan. Kami menyajikan es degan dengan cita rasa yang autentik dan menyegarkan, sempurna untuk menghilangkan dahaga di hari yang panas.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080119/umkm/es%20degan%20msh/swsrrhpozxmphg2m69ob.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kesegaran Kelapa dalam Setiap Tegukan",
+
+      deskripsi:
+        "Di Es Degan MSH, kualitas dan kesegaran adalah prioritas utama. Setiap gelas es degan diracik dengan bahan-bahan pilihan, memastikan pengalaman minum yang menyegarkan dan memuaskan. Datang dan nikmati es degan terbaik hanya di Es Degan MSH!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080119/umkm/es%20degan%20msh/swsrrhpozxmphg2m69ob.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Es Degan",
+          deskripsi:
+            "Nikmati kesegaran Es Degan dari Es Degan MSH, minuman yang terbuat dari air kelapa muda segar dan daging kelapa yang lembut. ",
+          price: "Rp 5.000",
+          img: "https://asset.kompas.com/crops/LgGmDBxglevUdnCm4fWkEIkVy-U=/0x0:739x493/750x500/data/photo/2020/01/29/5e3187c1ac05f.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7458437690743!2d114.36667037500958!3d-8.228293691804508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDEuOSJTIDExNMKwMjInMDkuMyJF!5e0!3m2!1sid!2sid!4v1718342906737!5m2!1sid!2sid",
+    footer: {
+      noHp: "087872181689",
+      alamat:
+        "Jl. Kepiting, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+    },
+  },
+  "aneka-gorengan-nurul": {
+    title: "Aneka Gorengan Nurul",
+    icon: null,
+    navbarTitle: "Aneka Gorengan Nurul",
+    ctaLink: "https://wa.me/6282131472856",
+    keyword: [
+      "Aneka Gorengan Nurul",
+      "Aneka Gorengan",
+      "Gorengan",
+      "Cemilan Gurih",
+      "Makanan Ringan",
+      "Jajanan Pasar",
+      "Gorengan Enak",
+      "Cemilan Tradisional",
+      "Kuliner Nusantara",
+      "Gorengan Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Gurih dan Renyah di Setiap Gigitan",
+      deskripsi:
+        "Selamat datang di Aneka Gorengan Nurul, surga bagi pecinta camilan gurih. Kami menawarkan berbagai macam gorengan yang disajikan dengan cita rasa otentik dan tekstur yang renyah, sempurna untuk menemani waktu santai Anda.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080409/umkm/gorengan%20bu%20nurul/djexln5ikn1pef2rohnv.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Kenikmatan Gorengan di Setiap Momen",
+
+      deskripsi:
+        "Di Aneka Gorengan Nurul, kualitas dan rasa adalah prioritas utama. Setiap camilan diracik dengan penuh perhatian untuk memastikan kelezatan dan kepuasan di setiap hidangan. Kunjungi Aneka Gorengan Nurul dan nikmati aneka gorengan terbaik yang siap memanjakan lidah Anda!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080409/umkm/gorengan%20bu%20nurul/djexln5ikn1pef2rohnv.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Aneka Gorengan",
+          deskripsi:
+            "Rasakan kenikmatan Aneka Gorengan di Aneka Gorengan Nurul. Dari bakwan, tahu isi, tempe mendoan, hingga pisang goreng, setiap gorengan kami dibuat dari bahan-bahan berkualitas dan digoreng hingga keemasan.",
+          price: null,
+          img: "https://thumb.viva.co.id/media/frontend/thumbs3/2018/05/23/5b054091ec55f-cabe-rawit-dan-gorengan_1265_711.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.889603493846!2d114.34940167500947!3d-8.213856191818438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuOSJTIDExNMKwMjEnMDcuMSJF!5e0!3m2!1sid!2sid!4v1718343372195!5m2!1sid!2sid",
+    footer: {
+      noHp: "082131472856",
+      alamat:
+        "Jl. Hos. Cokroaminoto 51-71, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "teh-klasik": {
+    title: "Teh Klasik",
+    icon: null,
+    navbarTitle: "Teh Klasik",
+    ctaLink: "https://wa.me/6282247888205",
+    keyword: [
+      "Es Teh Klasik",
+      "Es Teh",
+      "Minuman Teh",
+      "Minuman Dingin",
+      "Minuman Segar",
+      "Es Segar",
+      "Minuman Tradisional",
+      "Minuman Favorit",
+      "Minuman Penyegar",
+      "Minuman Es",
+    ],
+    color: {
+      // required
+      primary: "bg-[#EEE55B]",
+      secondary: "bg-[#EEE67A]",
+      backgroundColor: "bg-[#FBFBF7]",
+      hoverColor: "hover:bg-[#E5D815]",
+      textColor: "text-[#13130F]",
+      btnTextColor: "text-[#13130F]",
+      accentColor: "text-[#FEF13E]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Tradisional dalam Setiap Cangkir",
+      deskripsi:
+        "Selamat datang di Teh Klasik, tempat di mana kesegaran dan kehangatan teh tradisional berpadu sempurna. Kami menyajikan berbagai varian teh dengan cita rasa autentik yang menghadirkan kenikmatan alami di setiap tegukan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080420/umkm/teh%20klasik/am4arbq7bcrrdmvik1pc.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Keaslian Rasa dalam Setiap Seduhan",
+
+      deskripsi:
+        "Di Teh Klasik, kami berdedikasi untuk menyajikan teh dengan kualitas terbaik, menggunakan metode pengolahan tradisional yang menjaga keaslian rasa. Setiap seduhan memberikan pengalaman minum teh yang menyegarkan dan menenangkan. Datang dan nikmati keaslian teh yang sesungguhnya hanya di Teh Klasik!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080414/umkm/teh%20klasik/kolnc2i9iuksf3txkvz2.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Utama",
+      // required
+      data: [
+        {
+          name: "Teh Klasik",
+          deskripsi:
+            "Nikmati kelezatan Teh dari Teh Klasik, minuman yang dibuat dari daun teh pilihan dengan proses pengolahan yang terjaga kualitasnya.",
+          price: "Rp 10.000",
+          img: "https://blog.pengajartekno.co.id/wp-content/uploads/2023/03/Gambar-Es-Teh-Manis-17.jpg",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8902780129547!2d114.34914427500959!3d-8.213788391818548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuNiJTIDExNMKwMjEnMDYuMiJF!5e0!3m2!1sid!2sid!4v1718343928809!5m2!1sid!2sid",
+    footer: {
+      noHp: "082247888205",
+      alamat:
+        "Jl. Hos. Cokroaminoto 51-71, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "pak-bandung": {
+    title: "Umkm Pak Bandung",
+    icon: null,
+    navbarTitle: "Umkm Pak Bandung",
+    ctaLink: "https://wa.me/6281357045880",
+    keyword: [
+      "MKM Pak Bandung",
+      "Molen",
+      "Batagor",
+      "Siomay",
+      "Makanan Bandung",
+      "Jajanan Pasar",
+      "Cemilan Tradisional",
+      "Cemilan Enak",
+      "Kuliner Nusantara",
+      "Jajanan Favorit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#EEE55B]",
+      secondary: "bg-[#EEE67A]",
+      backgroundColor: "bg-[#FBFBF7]",
+      hoverColor: "hover:bg-[#E5D815]",
+      textColor: "text-[#13130F]",
+      btnTextColor: "text-[#13130F]",
+      accentColor: "text-[#FEF13E]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Tradisional dalam Setiap Gigitan",
+      deskripsi:
+        "Selamat datang di UMKM Pak Bandung, tempat terbaik untuk menikmati hidangan tradisional yang lezat dan autentik. Kami menyajikan molen, batagor, dan siomay dengan resep asli dan bahan berkualitas, menghadirkan kelezatan yang tak tertandingi.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080417/umkm/umkm%20pak%20bandung/jfwzgn00in6jvky0bvnk.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lezatnya Tradisi di Setiap Gigitan",
+
+      deskripsi:
+        "Di UMKM Pak Bandung, kualitas dan rasa adalah prioritas utama. Setiap hidangan disiapkan dengan penuh perhatian untuk memastikan kelezatan dan kepuasan maksimal. Kunjungi UMKM Pak Bandung dan nikmati kuliner tradisional yang menggugah selera dan autentik!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080417/umkm/umkm%20pak%20bandung/jfwzgn00in6jvky0bvnk.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Molen",
+          deskripsi:
+            "Dibuat dari adonan yang gurih dengan isian pisang manis, molen kami adalah camilan sempurna yang cocok dinikmati kapan saja.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/14054048/Cocok-untuk-Camilan-Ini-Resep-Pisang-Molen-Renyah-dan-Manis-.jpg.webp",
+        },
+        {
+          name: "Batagor",
+          deskripsi:
+            "Disajikan dengan bumbu kacang yang kaya rasa, batagor kami memberikan perpaduan sempurna antara tekstur renyah dan rasa gurih.",
+          price: null,
+          img: "https://www.kba.one/files/images/20231104-screenshot-20231104-123946-instagram.jpg",
+        },
+        {
+          name: "Siomay",
+          deskripsi:
+            "Disajikan dengan bumbu kacang yang gurih dan sedikit pedas, siomay kami menawarkan tekstur kenyal dan rasa yang lezat di setiap gigitan.",
+          price: null,
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718344507/umkm/umkm%20pak%20bandung/082188900_1561183059-shutterstock_1134726890_n76d2y.webp",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8916827459157!2d114.3488936750095!3d-8.213647191818675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDkuMSJTIDExNMKwMjEnMDUuMyJF!5e0!3m2!1sid!2sid!4v1718344396706!5m2!1sid!2sid",
+    footer: {
+      noHp: "081357045880",
+      alamat:
+        "Jl. Hos. Cokroaminoto 51-71, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "molen-cak-aris": {
+    title: "Molen Cak Aris",
+    icon: null,
+    navbarTitle: "Molen Cak Aris",
+    ctaLink: "https://wa.me/6285755764878",
+    keyword: [
+      "Molen Cak Aris",
+      "Molen",
+      "Onde-Onde",
+      "Tahu Mercon",
+      "Cemilan Manis",
+      "Cemilan Pedas",
+      "Jajanan Pasar",
+      "Makanan Ringan",
+      "Cemilan Tradisional",
+    ],
+
+    color: {
+      // required
+      primary: "bg-[#F87171]",
+      secondary: "bg-[#FD7382]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#ef4444]",
+      textColor: "text-[#010010]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#F87171]",
+    },
+
+    hero: {
+      tagLine: "Renyah dan Manis dalam Setiap Gigitan",
+      deskripsi:
+        "Selamat datang di Molen Cak Aris, tempat terbaik untuk menikmati molen yang lezat dan autentik. Kami menyajikan molen yang dibuat dengan resep tradisional dan bahan-bahan berkualitas tinggi, menghadirkan kelezatan yang memuaskan di setiap gigitan.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/molen%20cak%20aris/wd9yzb3sykgdsn1jq9br.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Molen Lezat, Camilan Nikmat",
+
+      deskripsi:
+        "Di Molen Cak Aris, kami mengutamakan kualitas dan kelezatan. Setiap molen dibuat dengan bahan pilihan dan resep yang terjaga, memastikan setiap gigitan penuh dengan kenikmatan. Kunjungi Molen Cak Aris dan nikmati sensasi molen yang tiada duanya!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080404/umkm/molen%20cak%20aris/wd9yzb3sykgdsn1jq9br.jpg",
+      btn: true, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      title: "Produk Kami",
+      // required
+      data: [
+        {
+          name: "Molen",
+          deskripsi:
+            "Dibuat dari adonan gurih dengan isian pisang manis, molen kami adalah camilan sempurna untuk dinikmati kapan saja.",
+          price: null,
+          img: "https://cdn-brilio-net.akamaized.net/news/2023/01/25/246999/1200xauto-trik-bikin-adonan-pisang-molen-agar-teksturnya-renyah-dan-tak-keras-simpel-tanpa-alat-penggiling-230125r.jpg",
+        },
+        {
+          name: "Onde Onde",
+          deskripsi:
+            "Rasakan kenikmatan Onde-Onde, bola ketan dilapisi dengan wijen yang memberikan aroma khas dan tekstur renyah.",
+          price: null,
+          img: "https://asset.kompas.com/crops/oSi1ZxBFOHxjrlm__z27dw82-Y0=/0x22:750x522/750x500/data/photo/2020/12/21/5fe033ae033c1.jpg",
+        },
+        {
+          name: "Tahu Mercon",
+          deskripsi:
+            "Tahu isi dengan campuran sayuran dan cabai yang menggigit, disajikan dengan tekstur lembut dan rasa yang meledak.",
+          price: null,
+          img: "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/13/2023/12/13/FotoJet-11-3379466920.png",
+        },
+      ],
+    },
+    location:
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8825346387353!2d114.3509730750095!3d-8.214566691817774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTIuNCJTIDExNMKwMjEnMTIuOCJF!5e0!3m2!1sid!2sid!4v1718345058149!5m2!1sid!2sid",
+    footer: {
+      noHp: "085755754878",
+      alamat:
+        "Jl. Hos. Cokroaminoto 16-14, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
 };
 
 export default dataMuiz;
