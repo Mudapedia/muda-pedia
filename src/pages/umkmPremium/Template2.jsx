@@ -7,8 +7,13 @@ import ProductPremium from "../../components/componentUmkm/ProductPremium";
 import Location from "../../components/componentUmkm/Location";
 import Footer from "../../components/componentUmkm/Footer";
 import KeranjangFloating from "../../components/componentUmkm/keranjangFloating";
+import { useState } from "react";
 
 const Template2 = ({ data }) => {
+  const [barang, setBarang] = useState([]);
+  const [totalBarang, setTotalBarang] = useState(0);
+  const [totalHarga, setTotalHarga] = useState(0);
+
   return (
     <>
       <HelmetProvider>
@@ -38,7 +43,15 @@ const Template2 = ({ data }) => {
             color={data.color}
           />
           <main>
-            <ProductPremium product={data.product} color={data.color} />
+            <ProductPremium
+              product={data.product}
+              color={data.color}
+              barang={barang}
+              setBarang={setBarang}
+              setTotalBarang={setTotalBarang}
+              totalHarga={totalHarga}
+              setTotalHarga={setTotalHarga}
+            />
             <About
               data={data.about}
               color={data.color}
@@ -52,7 +65,15 @@ const Template2 = ({ data }) => {
               icon={data.icon}
               ctaLink={data.ctaLink}
             />
-            <KeranjangFloating color={data.color}/>
+            <KeranjangFloating
+              color={data.color}
+              barang={barang}
+              setBarang={setBarang}
+              totalBarang={totalBarang}
+              setTotalBarang={setTotalBarang}
+              totalHarga={totalHarga}
+              setTotalHarga={setTotalHarga}
+            />
           </main>
         </section>
       </HelmetProvider>
