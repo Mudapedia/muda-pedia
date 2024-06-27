@@ -14,9 +14,9 @@ const Footer = () => {
             </div>
             <div className='flex flex-col gap-3'>
               <p className='text-lg text-white'>Subscribe Our Newsletter</p>
-              <form action="mailto:muudapedia@gmail.com" className='flex gap-2'>
-                <input type="email" className='bg-[#1A2756] px-3 rounded-full text-[#C8C8C8] text-sm  focus:outline-none' placeholder='Alamat Email' />
-                <Button className='bg-[#4F5CDF] rounded-full text-sm text-white py-1'>Subscribe</Button>
+              <form action="mailto:muudapedia@gmail.com" className='flex flex-col  gap-5 lg:flex-row justify-between'>
+                <input type="email" className='bg-[#1A2756] px-4 py-2 rounded-full text-[#C8C8C8] text-sm  focus:outline-none lg:w-[22rem]' placeholder='Alamat Email' />
+                <Button className='bg-[#4F5CDF] rounded-full text-sm text-white py-1 self-end w-fit'>Subscribe</Button>
               </form>
             </div>
           </div>

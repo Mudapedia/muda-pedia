@@ -3,7 +3,7 @@ import { HelmetProvider, Helmet } from "react-helmet-async";
 import Navbar from "../../components/componentUmkm/Navbar";
 import Header from "../../components/componentUmkm/Header";
 import About from "../../components/componentUmkm/About";
-import Product from "../../components/componentUmkm/Product";
+import ProductPremium from "../../components/componentUmkm/ProductPremium";
 import Location from "../../components/componentUmkm/Location";
 import Footer from "../../components/componentUmkm/Footer";
 
@@ -37,7 +37,7 @@ const Template2 = ({ data }) => {
             color={data.color}
           />
           <main>
-            <Product product={data.product} color={data.color} />
+            <ProductPremium product={data.product} color={data.color} />
             <About
               data={data.about}
               color={data.color}
