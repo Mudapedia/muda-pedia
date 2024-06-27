@@ -6,6 +6,7 @@ import About from "../../components/componentUmkm/About";
 import ProductPremium from "../../components/componentUmkm/ProductPremium";
 import Location from "../../components/componentUmkm/Location";
 import Footer from "../../components/componentUmkm/Footer";
+import KeranjangFloating from "../../components/componentUmkm/keranjangFloating";
 
 const Template2 = ({ data }) => {
   return (
@@ -51,6 +52,7 @@ const Template2 = ({ data }) => {
               icon={data.icon}
               ctaLink={data.ctaLink}
             />
+            <KeranjangFloating color={data.color}/>
           </main>
         </section>
       </HelmetProvider>
