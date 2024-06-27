@@ -39,7 +39,6 @@ const ProductPremium = ({
       }
     }
 
-    console.log("oke");
     setBarang((prev) => [...prev, { ...data, count: 1 }]);
   };
 
