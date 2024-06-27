@@ -1,4 +1,11 @@
-const KeranjangFloating = ({color: { primary,hoverColor }}) => {
+/* eslint-disable react/prop-types */
+import { useState } from "react";
+
+const KeranjangFloating = ({ color: { primary, hoverColor } }) => {
+  const [showHideKeranjang, setShowHideKeranjang] = useState("");
+  const [nama, setNama] = useState("");
+  const [deskripsi, setDeskripsi] = useState("");
+
   let array = new Array(20).fill(1);
   return(
     <section className="fixed top-0 left-0 z-[1000] w-[100vw] h-[100vh] flex items-start pt-5 justify-center hidden">
@@ -46,9 +53,8 @@ const KeranjangFloating = ({color: { primary,hoverColor }}) => {
           </div>
         </div>
       </div>
-
       {/* floating btn keranjang */}
-      <div className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer`}>
+      <div className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer ${showHideKeranjang}`}>
         <div className="bg-red-500 flex justify-center align-center rounded-full m-0 absolute w-7 h-7 -top-1 -right-1">
         <p className="text-sm m-0 text-white">999</p>
         </div>
@@ -56,6 +62,6 @@ const KeranjangFloating = ({color: { primary,hoverColor }}) => {
         className=""/>
       </div>
     </section>
-  )
-}
+  );
+};
 export default KeranjangFloating;

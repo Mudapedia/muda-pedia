@@ -21,7 +21,6 @@ const ProductPremium = ({
     [primary]
   );
 
-  console.log(accentColor.slice(6,13))
   return (
     <section
       className={`${textColor} pt-10 pb-20 max-w-screen-lg mx-auto px-5`}
@@ -74,11 +73,7 @@ const ProductPremium = ({
             </div>
             <div className="flex justify-between absolute bottom-2 w-full px-5 items-center">
               {v.price ? (
-                <p
-                  className={`text-xl ${accentColor} font-bold`}
-                >
-                  {v.price}
-                </p>
+                <p className={`text-xl ${accentColor} font-bold`}>{v.price}</p>
               ) : (
                 ""
               )}
