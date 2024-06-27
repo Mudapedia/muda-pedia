@@ -82,7 +82,9 @@ const ProductPremium = ({
               ) : (
                 ""
               )}
-              <button className={`bg-[${accentColor.slice(6,13)}] text-white px-3 py-3 rounded-md text-xs`}>Pesan Sekarang</button>
+              <button className=" text-white px-3 py-3 rounded-md text-xs" style={{
+                background : accentColor.slice(6,13)
+              }}>Pesan Sekarang</button>
             </div>
           </div>
         ))}
