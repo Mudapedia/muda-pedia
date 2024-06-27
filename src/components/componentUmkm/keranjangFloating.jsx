@@ -11,10 +11,23 @@ const KeranjangFloating = ({color: { primary,hoverColor }}) => {
         <h1 className="text-center text-xl font-semibold mt-2">Pesanan Anda</h1>
 
         {/* card wrapper */}
-        <div className="bg-slate-400 w-full h-[55%] overflow-y-scroll">
+        <div className="w-full h-[55%] overflow-y-scroll border-t-1 border-b-1 px-3">
           {array.map(()=>{
             return(
-              <h1>test</h1>
+              <div className="flex border-b-1 mt-1 pb-1 w-full justify-between">
+                <div className="flex">
+                <img src="https://asset.kompas.com/crops/toOljW__-UqEVhGAJe8UyPdZWnU=/92x67:892x600/750x500/data/photo/2023/08/23/64e59deb79bfb.jpg" alt="product image"
+                className="w-10"/>
+                <div className="overflow-x-scroll w-[40vw] text-nowrap scrollbar-hide">
+                  <p className="ml-3">Es TehEs TehEs TehEs TehEs TehEs TehEs TehEs TehEs TehEs TehEs Teh</p>
+                </div>
+                </div>
+                <div className="justify-self-end flex relative">
+                  <div className="pt-1 px-2 border-1 rounded-tl-md rounded-bl-md"><i class="fa-solid fa-minus"></i></div>
+                  <p className="mr-2 ml-3">10</p>
+                  <div className="pt-1 px-2 border-1 rounded-tr-md rounded-br-md"><i className="fa-solid fa-plus text-sm"></i></div>
+                </div>
+              </div>
             )
           })}
         </div>
@@ -34,7 +47,10 @@ const KeranjangFloating = ({color: { primary,hoverColor }}) => {
       </div>
 
       {/* floating btn keranjang */}
-      <div className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer hidden`}>
+      <div className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer`}>
+        <div className="bg-red-500 flex justify-center align-center rounded-full m-0 absolute w-7 h-7 -top-1 -right-1">
+        <p className="text-sm m-0 text-white">999</p>
+        </div>
         <img width="25" height="25" src="https://img.icons8.com/pastel-glyph/64/FFFFFF/shopping-basket-2--v1.png" alt="shopping-basket-2--v1"
         className=""/>
       </div>
