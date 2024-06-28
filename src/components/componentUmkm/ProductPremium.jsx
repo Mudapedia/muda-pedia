@@ -6,6 +6,11 @@ import { useEffect, useState } from "react";
 const ProductPremium = ({
   product: { data, title },
   color: { textColor, accentColor, primary },
+  barang,
+  setBarang,
+  setTotalBarang,
+  totalHarga,
+  setTotalHarga,
 }) => {
   const [hexObj, setHexObjs] = useState({});
 
@@ -20,6 +25,22 @@ const ProductPremium = ({
     },
     [primary]
   );
+
+  const btnPesanSekarang = (data) => {
+    setTotalBarang((prev) => prev + 1);
+    setTotalHarga(totalHarga + data.price);
+    for (let i = 0; i < barang.length; i++) {
+      if (barang[i].name === data.name) {
+        const dataBaru = [...barang];
+        dataBaru[i].count++;
+
+        setBarang(dataBaru);
+        return;
+      }
+    }
+
+    setBarang((prev) => [...prev, { ...data, count: 1 }]);
+  };
 
   return (
     <section
@@ -73,13 +94,32 @@ const ProductPremium = ({
             </div>
             <div className="flex justify-between absolute bottom-2 w-full px-5 items-center">
               {v.price ? (
-                <p className={`text-xl ${accentColor} font-bold`}>{v.price}</p>
+                <p className={`text-xl ${accentColor} font-bold`}>
+                  {new Intl.NumberFormat("id-ID", {
+                    style: "currency",
+                    currency: "IDR",
+                    minimumFractionDigits: 0,
+                    maximumFractionDigits: 0,
+                  }).format(v.price)}
+                </p>
               ) : (
                 ""
               )}
-              <button onClick={()=>{alert("Alert!!!!!")}} className=" text-white px-3 py-3 rounded-md text-xs" style={{
-                background : accentColor.slice(6,13)
-              }}>Pesan Sekarang</button>
+              <button
+                className=" text-white px-3 py-3 rounded-md text-xs"
+                onClick={() =>
+                  btnPesanSekarang({
+                    name: v.name,
+                    price: v.price,
+                    img: v.img,
+                  })
+                }
+                style={{
+                  background: accentColor.slice(6, 13),
+                }}
+              >
+                Pesan Sekarang
+              </button>
             </div>
           </div>
         ))}
