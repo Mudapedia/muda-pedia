@@ -42,6 +42,7 @@ const KeranjangFloating = ({
     setTotalHarga(totalHarga + price);
   };
 
+  console.log(totalBarang)
   return (
     <>
       <section
@@ -64,18 +65,12 @@ const KeranjangFloating = ({
               onClick={() => setShowHideKeranjang("")}
             />
           </div>
-          <h1 className="text-center text-xl font-semibold mt-2">
-            Pesanan Anda; total harga:{" "}
-            {new Intl.NumberFormat("id-ID", {
-              style: "currency",
-              currency: "IDR",
-              minimumFractionDigits: 0,
-              maximumFractionDigits: 0,
-            }).format(totalHarga)}
+          <h1 className="text-center text-xl font-semibold my-2">
+            Pesanan Anda
           </h1>
 
           {/* card wrapper */}
-          <div className="w-full h-[55%] overflow-y-scroll border-t-1 border-b-1 px-3">
+          <div className="w-full h-[45%] overflow-y-scroll border-t-1 px-3 pt-5">
             {barang.map((v, i) => {
               return (
                 <div
@@ -95,7 +90,9 @@ const KeranjangFloating = ({
                         onClick={() => kurangiBarang(i, v.price)}
                       ></i>
                     </div>
-                    <p className="mr-2 ml-3">{v.count}</p>
+                    <div className="w-8 flex">
+                      <p className="mx-auto">{v.count}</p>
+                    </div>
                     <div className="pt-1 px-2 border-1 rounded-tr-md rounded-br-md">
                       <i
                         className="fa-solid fa-plus text-sm cursor-pointer"
@@ -107,24 +104,34 @@ const KeranjangFloating = ({
               );
             })}
           </div>
-
+          <div className="flex justify-between font-semibold border-b-1 px-5 py-2">
+            <p>Total Harga :</p>
+            <p>{" "}
+              {new Intl.NumberFormat("id-ID", {
+                style: "currency",
+                currency: "IDR",
+                minimumFractionDigits: 0,
+                maximumFractionDigits: 0,
+              }).format(totalHarga)}
+            </p>
+          </div>
           <form className="px-4" onSubmit={btnPesan}>
             {/* form */}
-            <div>
-              <label htmlFor="nama">Nama</label>
+            <div className="mt-3">
+              <label htmlFor="nama" className="text-sm">Nama</label>
               <input
                 id="nama"
                 type="text"
-                className="border border-slate-500 rounded-md w-full"
+                className="border border-slate-500 rounded-md w-full text-xs mb-3 mt-1 px-2 py-2 focus:outline-none"
                 onChange={(e) => setNama(e.target.value)}
               />
-              <label htmlFor="deskripsi">
-                Deskripsi{" "}
+              <label htmlFor="deskripsi" className="text-sm">
+                Catatan{" "}
                 <span className="text-slate-500 text-sm">(optional)</span>
               </label>
               <textarea
                 type="text"
-                className="border border-slate-500 rounded-md w-full"
+                className="border border-slate-500 rounded-md w-full text-sm mt-1 px-2 py-2 focus:outline-none text-xs"
                 onChange={(e) => setDeskripsi(e.target.value)}
               />
             </div>
@@ -143,7 +150,7 @@ const KeranjangFloating = ({
         className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer ${showHideKeranjang}`}
         onClick={() => setShowHideKeranjang("hidden")}
       >
-        <div className="bg-red-500 flex justify-center align-center rounded-full m-0 absolute w-7 h-7 -top-1 -right-1">
+        <div className={`bg-red-500 flex justify-center align-center rounded-full m-0 ${totalBarang==0 ? "hidden" : "absolute"} w-7 h-7 -top-1 -right-1`}>
           <p className="text-sm m-0 text-white">{totalBarang}</p>
         </div>
         <img

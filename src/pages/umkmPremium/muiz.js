@@ -58,6 +58,20 @@ const muizDataUmkmPremium = {
           img: "/img/andini-milk/5ed68b849aff4.jpg",
         },
         {
+          name: "Es Susu Coklat manis",
+          deskripsi:
+            "Terbuat dari susu segar berkualitas tinggi yang dipadukan dengan coklat asli, memberikan rasa manis yang sempurna dan tekstur yang lembut.",
+          price: 10_000,
+          img: "/img/andini-milk/5ed68b849aff4.jpg",
+        },
+        {
+          name: "Susu Sapi Coklat murni",
+          deskripsi:
+            "Terbuat dari susu segar berkualitas tinggi yang dipadukan dengan coklat asli, memberikan rasa manis yang sempurna dan tekstur yang lembut.",
+          price: 10_000,
+          img: "/img/andini-milk/5ed68b849aff4.jpg",
+        },
+        {
           name: "Susu Murni",
           deskripsi:
             "Susu Murni kami diolah dengan proses higienis untuk menjaga kualitas dan keaslian rasa.",
@@ -66,6 +80,20 @@ const muizDataUmkmPremium = {
         },
         {
           name: "Aneka Varian Susu",
+          deskripsi:
+            "Aneka Varian Susu Andini Milk tidak hanya menawarkan kenikmatan rasa yang beragam, tetapi juga memberikan manfaat kesehatan yang optimal.",
+          price: 30_000,
+          img: "/img/andini-milk/bisnis-minuman-susu-aneka-rasa.jpg",
+        },
+        {
+          name: "Aneka Varian ES Susu",
+          deskripsi:
+            "Aneka Varian Susu Andini Milk tidak hanya menawarkan kenikmatan rasa yang beragam, tetapi juga memberikan manfaat kesehatan yang optimal.",
+          price: 30_000,
+          img: "/img/andini-milk/bisnis-minuman-susu-aneka-rasa.jpg",
+        },
+        {
+          name: "Aneka Varian Susu Panas",
           deskripsi:
             "Aneka Varian Susu Andini Milk tidak hanya menawarkan kenikmatan rasa yang beragam, tetapi juga memberikan manfaat kesehatan yang optimal.",
           price: 30_000,

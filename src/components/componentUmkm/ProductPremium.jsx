@@ -65,7 +65,7 @@ const ProductPremium = ({
           >
             <div>
               <div
-                className="w-80 h-80 rounded-lg"
+                className="w-full h-80 rounded-lg"
                 style={{
                   background: `url(${v.img})`,
                   backgroundPosition: "center",
