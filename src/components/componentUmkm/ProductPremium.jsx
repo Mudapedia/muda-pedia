@@ -17,7 +17,7 @@ const ProductPremium = ({
   useEffect(
     function () {
       let hexPrimary = primary.slice(4, -1);
-      hexPrimary = hexRgb(hexPrimary);
+      hexPrimary = hexRgb(hexPrimary);  
 
       setHexObjs(
         `rgba(${hexPrimary.red},${hexPrimary.green},${hexPrimary.blue},0.1)`
@@ -65,7 +65,7 @@ const ProductPremium = ({
           >
             <div>
               <div
-                className="w-80 h-80 rounded-lg"
+                className="w-full h-80 rounded-lg"
                 style={{
                   background: `url(${v.img})`,
                   backgroundPosition: "center",
