@@ -17,9 +17,18 @@ const KeranjangFloating = ({
   const btnPesan = (e) => {
     e.preventDefault();
 
-    const text = barang
-      .map((v) => `nama: ${v.name} harga: ${v.price}`)
-      .join(" ");
+
+    let text = `Pesanan a.n. *${nama.toUpperCase()}* :%0A`
+    text = text+barang
+      .map((v) => `${v.count}x ${v.name} | subtotal : ${new Intl.NumberFormat("id-ID", {
+        style: "currency",
+        currency: "IDR",minimumFractionDigits: 0,maximumFractionDigits: 0,
+      }).format(v.price*v.count)}%0A`)
+      .join("");
+    text = text+`%0Atotal Pesanan : *${new Intl.NumberFormat("id-ID", {
+                style: "currency",
+                currency: "IDR",minimumFractionDigits: 0,maximumFractionDigits: 0,
+              }).format(totalHarga)}*%0A%0ACatatan :%0A${deskripsi}`
 
     const waURL = `https://wa.me/6281236827185?text=${text}`;
     window.location.href = waURL;
@@ -47,7 +56,6 @@ const KeranjangFloating = ({
     setTotalHarga(totalHarga + price);
   };
 
-  console.log(totalBarang)
   return (
     <>
       <section
