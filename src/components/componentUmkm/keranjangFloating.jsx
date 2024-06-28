@@ -17,7 +17,12 @@ const KeranjangFloating = ({
   const btnPesan = (e) => {
     e.preventDefault();
 
-    alert(`nama: ${nama}\ndeskripsi: ${deskripsi}`);
+    const text = barang
+      .map((v) => `nama: ${v.name} harga: ${v.price}`)
+      .join(" ");
+
+    const waURL = `https://wa.me/6281236827185?text=${text}`;
+    window.location.href = waURL;
   };
 
   const kurangiBarang = (index, price) => {
@@ -108,7 +113,7 @@ const KeranjangFloating = ({
             })}
           </div>
 
-          <form className="px-4" onSubmit={btnPesan}>
+          <form className="px-4" onSubmit={btnPesan} method="POST">
             {/* form */}
             <div>
               <label htmlFor="nama">Nama</label>
