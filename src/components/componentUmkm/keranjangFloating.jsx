@@ -36,6 +36,8 @@ const KeranjangFloating = ({
   const tambahBarang = (index, price) => {
     const dataBaru = [...barang];
     dataBaru[index].count += 1;
+
+    setTotalBarang(totalBarang + 1);
     setBarang(dataBaru);
     setTotalHarga(totalHarga + price);
   };
