@@ -8,6 +8,7 @@ import Blog from "./pages/Blog";
 import DetailBlog from "./pages/DetailBlog";
 import Umkm from "./pages/umkm/Umkm";
 import CheckDomain from "./pages/CheckDomain";
+import SambelIjok from "./pages/umkm/SambelIjok";
 
 function App() {
   return (
@@ -35,6 +36,8 @@ function App() {
 
         <Route path="/cek-domain" element={<CheckDomain />} />
         <Route path="/:umkm" element={<Umkm />} />
+        <Route path="/sambel-ijok" element={<SambelIjok />} />
+
       </Routes>
     </BrowserRouter>
   );
