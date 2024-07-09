@@ -51,10 +51,16 @@ const Footer = () => {
         </div>
       </div>
       <div className='py-5 pt-16 w-full bg-[#091232] flex justify-center items-center text-white'>
-        <div className='max-w-screen-lg mx-auto flex items-start w-full lg:px-0 px-6'>
-          <div className='flex gap-1 items-center w-full '>
+        <div className='max-w-screen-lg mx-auto flex justify-between items-center w-full lg:px-0 px-6'>
+          <div className='flex gap-1 items-center'>
             <img src="/src/assets/logo-muda-pedia.png" width={50} alt="" />
             <p className='text-sm'>© 2024 MudaPedia. All rights reserved.</p>
+          </div>
+          <div className='flex items-center gap-3'>
+            <p className='italic text-xs'>Supported by, </p>
+            <img src="/public/stikom.png" alt="" width={35} />
+            <img src="/public/juna.png" alt="" width={35}/>
+            <img src="/public/blockchain.png" alt="" width={35}/>
           </div>
         </div>
       </div>
