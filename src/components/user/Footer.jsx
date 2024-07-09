@@ -58,9 +58,9 @@ const Footer = () => {
           </div>
           <div className='flex items-center gap-3'>
             <p className='italic text-xs'>Supported by, </p>
-            <img src="/public/stikom.png" alt="" width={35} />
-            <img src="/public/juna.png" alt="" width={35}/>
-            <img src="/public/blockchain.png" alt="" width={35}/>
+            <img src="./stikom.png" alt="" width={35} />
+            <img src="./juna.png" alt="" width={35}/>
+            <img src="./blockchain.png" alt="" width={35}/>
           </div>
         </div>
       </div>
