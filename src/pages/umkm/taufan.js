@@ -62,7 +62,7 @@ const dataTaufan = {
           {
             name: "Tahu Walik",
             deskripsi:
-              "Tahu Walik Petis Pedas",
+              "Tahu Walik Dengan Petis Pedas",
             price: null,
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlFBjQ-PqyayoxtBZj5I3XtwAW1u7hU7I8w&s",
           },
