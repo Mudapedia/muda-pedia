@@ -5,15 +5,17 @@ import dataMuiz from "./muiz";
 import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
 import muizDataUmkmPremium from "../umkmPremium/muiz";
+import dataWildan from "./wildan";
 
 const Umkm = () => {
   let { umkm } = useParams();
   const dataUmkm = Object.assign(
     {},
+    dataWildan,
     dataMuiz,
     dataIqbal,
     dataRamzi,
-    muizDataUmkmPremium
+    muizDataUmkmPremium,
   );
 
   if (!dataUmkm[umkm]) {
