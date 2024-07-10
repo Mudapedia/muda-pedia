@@ -16,6 +16,7 @@ const dataIqbal = {
       "Jajanan Pedas"
     ]
     ,
+
     color: {
       // required
       primary: "bg-[#f87171]",

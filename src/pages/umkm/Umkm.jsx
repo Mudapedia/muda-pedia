@@ -4,16 +4,18 @@ import Template2 from "../umkmPremium/Template2";
 import dataMuiz from "./muiz";
 import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
+import dataTaufan from "./taufan" ;
 import muizDataUmkmPremium from "../umkmPremium/muiz";
 
 const Umkm = () => {
   let { umkm } = useParams();
   const dataUmkm = Object.assign(
     {},
+    dataTaufan ,
     dataMuiz,
     dataIqbal,
     dataRamzi,
-    muizDataUmkmPremium
+    muizDataUmkmPremium ,
   );
 
   if (!dataUmkm[umkm]) {
