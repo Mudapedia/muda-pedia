@@ -4,6 +4,7 @@ const dataUmkmkuy = {
     icon: null,
     navbarTitle: "required",
     ctaLink: null,
+    keyword: [],
 
     color: {
       // required
@@ -40,21 +41,21 @@ const dataUmkmkuy = {
           name: "Madu mongso",
           deskripsi:
             "makanan ringan asal Ponorogo, Jawa Timur. Makanan ringan ini terbuat dari ketan hitam sebagai bahan dasarnya.",
-          price: "Rp24.000",
+          price: null,
           img: "/img/dewa-dewi/IMG20240520104153.jpg",
         },
         {
           name: "Pisar lumer",
           deskripsi:
             "jajanan kaki lima khas Indonesia yang terdiri dari pisang goreng yang diisi dengan cokelat leleh.",
-          price: "Rp15.000",
+          price: null,
           img: "/img/dewa-dewi/pisang lumer.jpg",
         },
         {
           name: "Nastar nanas",
           deskripsi:
             "kue kering dari adonan tepung terigu, mentega, dan telur yang diisi dengan selai nanas, cokelat, maupun rasa lainnya.",
-          price: "Rp20.000",
+          price: null,
           img: "/img/dewa-dewi/nastar.jpg",
         },
       ],

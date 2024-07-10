@@ -1,16 +1,22 @@
 import { useParams } from "react-router-dom";
 import Template1 from "./Template1";
+import Template2 from "../umkmPremium/Template2";
 import dataMuiz from "./muiz";
 import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
+import muizDataUmkmPremium from "../umkmPremium/muiz";
 
 const Umkm = () => {
   let { umkm } = useParams();
+  const dataUmkm = Object.assign(
+    {},
+    dataMuiz,
+    dataIqbal,
+    dataRamzi,
+    muizDataUmkmPremium
+  );
 
-  const dataUmkm = Object.assign({}, dataMuiz, dataIqbal, dataRamzi);
-
-  const objKeys = Object.keys(dataUmkm);
-  if (!objKeys.includes(umkm)) {
+  if (!dataUmkm[umkm]) {
     return (
       <section className="flex justify-center items-center h-[100vh] ">
         <section className="flex flex-col items-center gap-4">
@@ -29,6 +35,10 @@ const Umkm = () => {
         </section>
       </section>
     );
+  }
+
+  if (dataUmkm[umkm].statusPremium) {
+    return <Template2 data={dataUmkm[umkm]} />;
   }
 
   return <Template1 data={dataUmkm[umkm]} />;

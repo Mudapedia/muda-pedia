@@ -707,69 +707,6 @@ const dataRamzi = {
       alamat: "Sempu, Banyuwangi",
     },
   },
-  "es-dawet-ayu": {
-    title: "Es Dawet Ayu",
-    icon: null,
-    navbarTitle: "Es Dawet Ayu",
-    ctaLink: null,
-
-    color: {
-      // required
-      primary: "bg-[#882fde]",
-      secondary: "bg-[#e4ec87]",
-      backgroundColor: "bg-white",
-      hoverColor: "hover:bg-[#e4ec87]",
-      textColor: "text-[#090311]",
-      btnTextColor: "text-white",
-      accentColor: "text-[#6be458]",
-    },
-
-    hero: {
-      tagLine: "Manisnya Bikin Happy!",
-      deskripsi: "Es Dawet Ayu adalah minuman segar khas Banjarnegara yang terbuat dari tepung beras dan santan. Dawetnya berwarna hijau dan memiliki tekstur kenyal, disiram dengan kuah santan yang gurih dan manis..",
-      btn: true, // optional
-      btnText: "Kontak",
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
-    },
-    about: {
-      title: null,
-      txt: "Segarnya Dawet Ayu, Bikin Liburan Makin Semangat!",
-      deskripsi: "Ditambah dengan topping nangka, alpukat, dan cincau, Es Dawet Ayu menjadi hidangan yang sempurna untuk dinikmati saat cuaca panas.", // optional
-      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717259506/umkm/es%20dawet%20ayu/6248951530921245516_121_nqtnez.jpg",
-      btn: false, // optional
-      btnText: "Order yuk",
-    },
-    product: {
-      // required
-      title: "Produk Kami",
-      data: [
-        {
-          name: "Es Dawet Ayu Original",
-          deskripsi:
-            "Dawet hijau dengan kuah santan, gula merah, dan es batu.",
-          price: "",
-          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXbzBmDJYpkfqfzy9yeQIXAWlvWqhvBY-3HqBoxahOUvUMl83vXRFLdwK3iVCs",
-        },
-        {
-          name: "Es Dawet Ayu Nangka",
-          deskripsi:"Dawet hijau dengan kuah santan, gula merah, es batu, dan topping nangka.",
-          price: "",
-          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEGmp8-GFhYFaXDS4pfk0at3AbzHSXEkbgh5Y3JocYAkfQCxayYm4TajIGLZ5_",
-        },
-        {
-          name: "Es Dawet Ayu Alpukat",
-          deskripsi: "Dawet hijau dengan kuah santan, gula merah, es batu, dan topping alpukat.",
-          price: "",
-          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiKdig8u9CQ-fNJ3WmPGhB0ayoQZb2WVPiKmwiScqlCE2cAccRwIGqOGQ5aTt",
-        },
-      ],
-    },
-    location: `https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3948.9672283054397!2d114.3574264!3d-8.20605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fce0f6b43531%3A0x446795a9f8a76d4d!2sRTH%20Blambangan!5e0!3m2!1sen!2sid!4v1717259413750!5m2!1sen!2sid`,
-    footer: {
-      noHp: null,
-      alamat: "RTH Blambangan, Banyuwangi",
-    },
-  },
   "pentol-pak-mul": {
     title: "Pentol Pak Mul",
     icon: null,
@@ -1215,7 +1152,7 @@ const dataRamzi = {
     title: "MR. Coffee",
     icon: null,
     navbarTitle: "MR. Coffee",
-    ctaLink: "tel:6282337902068",
+    ctaLink: "tel:0858807270314",
 
     color: {
       // required
@@ -1274,6 +1211,1473 @@ const dataRamzi = {
       alamat: "Naga Bulan, Banyuwangi",
     },
   },
+  "aneka-jus-buah-gurit": {
+    title: "Aneka Jus Buah",
+    icon: null,
+    navbarTitle: "Aneka Jus Buah",
+    ctaLink: "tel:6283144030709",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Aneka Jus Buah: Kesegaran Alami untuk Tubuh Sehat.",
+      deskripsi: "Aneka Jus Buah menghadirkan berbagai pilihan jus buah segar dan lezat yang terbuat dari buah-buahan pilihan berkualitas tinggi. Dibuat dengan proses higienis dan tanpa bahan pengawet, ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717568898/umkm/aneka%20jus%20buah%20gurit/WhatsApp_Image_2024-06-05_at_11.28.12_b0e662c2_diwyzl.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Aneka Jus Buah: Nikmati Segarnya Buah Segar, Kapan Saja, Di Mana Saja!",
+      deskripsi: " Aneka Jus Buah adalah pilihan tepat untuk memenuhi kebutuhan vitamin dan mineral tubuh Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717568898/umkm/aneka%20jus%20buah%20gurit/WhatsApp_Image_2024-06-05_at_11.28.11_e9d719c3_tbcsbu.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Jus Jeruk Segar",
+          deskripsi:
+            "Jus jeruk segar kaya akan vitamin C yang membantu meningkatkan daya tahan tubuh dan menjaga kesehatan kulit.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDkVKmll1xrHyiVvbD-jHPMJqa8ObSv176nhnl2a8a8JX1yZV28XnW4BSDYaR",
+        },
+        {
+          name: "Jus Apel Segar",
+          deskripsi:"Jus apel segar kaya akan serat yang membantu melancarkan pencernaan dan memberikan rasa kenyang lebih lama.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRideJkyq81Wqockeb7j3TQ5qISjscJnfIWVbDIP9x7b8P7EcFNzV_3RaPOIVIn",
+        },
+        {
+          name: "Jus Campuran Buah",
+          deskripsi: "Jus campuran buah kaya akan berbagai vitamin dan mineral yang bermanfaat untuk kesehatan tubuh secara keseluruhan.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRV6jE9DuQL3AEU2e1llj40dYHrFNeEkW_xRbQxirt5hsIt6dO3RGyogtUpqEM",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9816400930727!2d114.28732647501053!3d-8.304622691730577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTYuNiJTIDExNMKwMTcnMjMuNyJF!5e0!3m2!1sen!2sid!4v1717561679513!5m2!1sen!2sid`,
+    footer: {
+      noHp: "62858807270314",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "es-teh-tali-pinggir": {
+    title: "Es Teh Tali Pinggir",
+    icon: null,
+    navbarTitle: "Es Teh Tali Pinggir",
+    ctaLink: "tel:62858807270314",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Es Teh Tali Pinggir: Kesegaran Tradisional yang Tak Lekang Oleh Waktu!",
+      deskripsi: "Es Teh Tali Pinggir menghadirkan es teh tradisional dengan sentuhan modern yang segar dan lezat.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569376/umkm/tali%20pinggir/WhatsApp_Image_2024-06-05_at_11.28.12_b8bdf10d_sf2qsi.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Es Teh Tali Pinggir: Teman Setia Menemani Hari-Harimu!",
+      deskripsi: "Dibuat dengan teh pilihan berkualitas tinggi dan gula asli, Es Teh Tali Pinggir adalah pilihan tepat untuk melepas dahaga dan menemani hari-harimu.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569376/umkm/tali%20pinggir/WhatsApp_Image_2024-06-05_at_11.28.12_b8bdf10d_sf2qsi.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Teh Manis Klasik",
+          deskripsi:
+            "Es Teh Manis Klasik terbuat dari teh pilihan dan gula asli, memberikan rasa manis dan legit yang tak tertahankan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVydvyX3_KVg6Ulx0X59KDU5p_iYl_yN1ERPqB-Rmql2Vst042ZNjYWWr8SSIT",
+        },
+        {
+          name: "Es Teh Susu Segar",
+          deskripsi:"Es Teh Susu Segar memadukan kesegaran teh dengan kelembutan susu, menghasilkan rasa yang creamy dan menyegarkan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljDzFVmZmWka22FcprQCoInoQf6Od02dMkAoPsm2fQMwjY2YJ5IfdammpWhe",
+        },
+        {
+          name: "Es Teh Tarik Segar",
+          deskripsi: "Es Teh Tarik Segar dibuat dengan teh yang ditarik manual, menghasilkan rasa teh yang lebih kuat dan aroma yang lebih harum.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS1SEho-tmDbsbBB3N0NQN4txjxbbA0fLivfbYuULpTR48nYNOjYoKY_kguZw1",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9827665670527!2d114.28725427501057!3d-8.304510691730721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTYuMiJTIDExNMKwMTcnMjMuNCJF!5e0!3m2!1sid!2sid!4v1717568330916!5m2!1sid!2sid`,
+    footer: {
+      noHp: "6283144030709",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "takoyaki": {
+    title: "Takoyaki",
+    icon: null,
+    navbarTitle: "Takoyaki",
+    ctaLink: "tel:6283139753899",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "TakoyakiCrispy! Nikmati Takoyaki dengan Kejutan Garing!",
+      deskripsi: "Takoyaki Gurit menawarkan sensasi takoyaki yang unik dan lezat. Takoyaki gurit kami dibuat dengan adonan khas yang digoreng dengan cetakan bertekstur, ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569691/umkm/takoyaki/WhatsApp_Image_2024-06-05_at_11.28.13_0464320d_pyooip.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Perpaduan Lezat Guratan Renyah dan Isian Takoyaki yang Menggugah Selera!",
+      deskripsi: "menghasilkan bagian luar yang garing berguratan dan bagian dalam yang lembut berisi potongan gurita dan saus takoyaki yang gurih", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717569693/umkm/takoyaki/WhatsApp_Image_2024-06-05_at_11.28.13_9e85dc35_ipyy6l.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Takoyaki Gurit Original",
+          deskripsi:
+            "Takoyaki Gurit Original disajikan dengan saus takoyaki khas, mayonnaise creamy, dan taburan bonito flakes yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNMgYQdNuWCDZic-HWarspMyEAd_5aO33CczoSUmgtCe36y3qSmaDBKfQZzT0u",
+        },
+        {
+          name: "Takoyaki Gurit Hot Lava",
+          deskripsi:"Takoyaki Gurit Hot Lava diisi dengan keju lumer yang meleleh saat digigit, memberikan sensasi rasa gurih dan pedas yang nikmat.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNMgYQdNuWCDZic-HWarspMyEAd_5aO33CczoSUmgtCe36y3qSmaDBKfQZzT0u",
+        },
+        {
+          name: "Takoyaki Gurit Telur Puyuh",
+          deskripsi: "Takoyaki Gurit Telur Puyuh menghadirkan sensasi tekstur unik dengan tambahan telur puyuh di dalam isiannya, dipadukan dengan saus takoyaki dan taburan seaweed flakes yang menambah cita rasa.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNMgYQdNuWCDZic-HWarspMyEAd_5aO33CczoSUmgtCe36y3qSmaDBKfQZzT0u",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9875237416745!2d114.28654107501045!3d-8.304037691731132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTQuNSJTIDExNMKwMTcnMjAuOCJF!5e0!3m2!1sen!2sid!4v1717562043548!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6283139753899",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "es-cincau-bandung": {
+    title: "Es Cincau Bandung",
+    icon: null,
+    navbarTitle: "Es Cincau Bandung",
+    ctaLink: "tel:6281336738096",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Alami Cincau Hijau yang Menyegarkan!",
+      deskripsi: "Es Cincau Bandung menghadirkan kesegaran tradisional es cincau hijau dengan sentuhan modern yang lezat. Terbuat dari cincau hijau pilihan berkualitas tinggi,",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570111/umkm/cincau/WhatsApp_Image_2024-06-05_at_13.18.20_35cf14f6_iepsdl.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Teman Setia Menemani Hari-Harimu di Cuaca Panas!",
+      deskripsi: "gula merah asli, dan santan gurih, Es Cincau Bandung adalah pilihan tepat untuk melepas dahaga dan menyegarkan tubuh di cuaca panas.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570118/umkm/cincau/WhatsApp_Image_2024-06-05_at_13.18.20_3588913f_vpyjdt.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Cincau Bandung Klasik",
+          deskripsi:
+            "Es Cincau Bandung Klasik disajikan dengan cincau hijau yang kenyal, gula merah cair yang manis legit, dan santan gurih yang creamy.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIXTnspM2Vr1PJ2tpopIR303ZZUbc9SeJaWfz0DrWJM2-cPD7u2cgh6muqdecp",
+        },
+        {
+          name: "Es Cincau Bandung Buah Segar",
+          deskripsi:"Es Cincau Bandung Buah Segar menambahkan kesegaran buah-buahan segar seperti mangga, nangka, dan melon ke dalam campuran cincau, gula merah, dan santan.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNF6AcnOZ0gnMP-txD_qr_ybNrZ3hc6MtZCy4V2OpXJ8sJWTbtUvV_NVk7sPEi",
+        },
+        {
+          name: "Es Cincau Bandung Susu",
+          deskripsi: "Es Cincau Bandung Susu memadukan kesegaran cincau dengan kelembutan susu, menghasilkan rasa yang creamy dan menyegarkan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwooMNCeoXzzXI_nssyloePVJS1v1VmVtQgjjY6OeSXeVrLrIAH_gQpmwIqRUG",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9480531772597!2d114.2002977750106!3d-8.307961391727355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMjguNyJTIDExNMKwMTInMTAuMyJF!5e0!3m2!1sen!2sid!4v1717561332035!5m2!1sen!2sid`,
+    footer: {
+      noHp: "081336738096",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "rujak-lemahbang": {
+    title: "Rujak Lemahbang",
+    icon: null,
+    navbarTitle: "Rujak Lemahbang",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Sensasi Pedas Manis yang Menggugah Selera!",
+      deskripsi: "Rujak Lemahbang menawarkan pengalaman mencicipi rujak khas Lampung dengan cita rasa asli dan resep turun temurun.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570576/umkm/rujak%20lemahbang/WhatsApp_Image_2024-06-05_at_13.18.23_a538cdd1_agssce.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Cita Rasa Asli, Resep Turun Temurun: Rujak Lemahbang!",
+      deskripsi: "Menggunakan bahan-bahan segar dan berkualitas, Rujak Lemahbang hadir dengan berbagai pilihan yang menggugah selera.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570576/umkm/rujak%20lemahbang/WhatsApp_Image_2024-06-05_at_13.18.23_ff8076d9_zmxbpm.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Rujak Kuah Pedes Seger",
+          deskripsi:
+            "Rujak Kuah Pedes Seger memadukan irisan buah dan sayur segar seperti bengkuang, mangga muda, mentimun, dan kedongdong dengan kuah pindang kacang yang gurih bercampur bumbu cabai yang pedas menyegarkan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKpITLQNACckJSTBp2Z6QSDwRnFwlsiEu-j8wkypseH9C2ZqG-QavW8_mOKSL7",
+        },
+        {
+          name: " Rujak Bebek",
+          deskripsi:"Rujak Bebek menggunakan irisan mangga muda, tauge, dan tempe yang digoreng garing. Disajikan dengan sambal terasi hitam khas Lampung yang kental dan memiliki rasa pedas manis yang unik.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlezQMq2iILHcVkAbOAk6uvR_d1znOCRI3XwNNJambQar7hFLKccmEw8K-hyui",
+        },
+        {
+          name: "Rujak Telur Asin",
+          deskripsi: "Rujak Telur Asin menawarkan kombinasi unik rasa manis dari buah-buahan, gurih dari saus kacang, dan asin gurih dari telur asin yang menjadi ciri khasnya.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk9lDEcbXOr3RzUd_s1Ttzihe-qd1i5z-oyQ8e6kAAvuRzW9rmlPJqgj82qDmB",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9827665670527!2d114.28725427501057!3d-8.304510691730721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTYuMiJTIDExNMKwMTcnMjMuNCJF!5e0!3m2!1sid!2sid!4v1717568330916!5m2!1sid!2sid`,
+    footer: {
+      noHp: null,
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "teh-bunga": {
+    title: "Teh Bunga",
+    icon: null,
+    navbarTitle: "Teh Bunga",
+    ctaLink: "tel:6283125672370",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Seduh Kebaikan Alam, Nikmati Kesegaran Sehat!",
+      deskripsi: "Teh Bunga menghadirkan ragam teh alami yang terbuat dari bunga-bunga pilihan dengan beragam manfaat kesehatan.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570954/umkm/teh%20bunga/WhatsApp_Image_2024-06-05_at_13.18.24_24d96b11_tfnx9n.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Perpaduan Warna dan Cita Rasa yang Menyegarkan Jiwa!",
+      deskripsi: "Setiap teh diolah dengan cermat untuk menghasilkan cita rasa yang unik dan menyegarkan, serta kaya akan antioksidan dan vitamin yang bermanfaat bagi tubuh.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717570957/umkm/teh%20bunga/WhatsApp_Image_2024-06-05_at_13.18.24_f8d1d987_vqgbeq.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: " Teh Bunga Telang:",
+          deskripsi:
+            "Teh Bunga Telang terbuat dari bunga telang yang terkenal dengan warnanya yang biru alami dan manfaat kesehatannya yang berlimpah. Teh ini memiliki rasa yang ringan dan sedikit floral, dengan efek relaksasi dan penyegaran pikiran.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_cfHjaZmKmIELqjW4RkOFEPKTbUry2AfBeNipAu9DoyOR_A2M998fyeXfLWhR",
+        },
+        {
+          name: "Teh Bunga Rosella:",
+          deskripsi:"Teh Bunga Rosella terbuat dari bunga rosella yang kaya akan vitamin C dan antioksidan. Teh ini memiliki rasa asam yang segar dan sedikit manis, dengan efek meningkatkan daya tahan tubuh dan melancarkan pencernaan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBfHpa63ePYYj2PJUqGzLL_KoFUa4-eUDVTmVfkPtbnJrA9W1iuHrZsV6sH64d",
+        },
+        {
+          name: "Teh Bunga Kamomil",
+          deskripsi: "Teh Bunga Kamomil terbuat dari bunga kamomil yang terkenal dengan efeknya yang menenangkan dan membantu tidur. Teh ini memiliki rasa yang floral dan sedikit manis, dengan efek meredakan stres dan meningkatkan kualitas tidur.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtrFUYSiZTbjuhTr_1MYxX1e_iaJ_pt46-NqiXgJ_WTHLyXKZCXRuG6_b1KB3D",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3947.9843798124452!2d114.29146787501045!3d-8.304350291730875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnMTUuNyJTIDExNMKwMTcnMzguNiJF!5e0!3m2!1sen!2sid!4v1717561599960!5m2!1sen!2sid`,
+    footer: {
+      noHp: "083125672370",
+      alamat: "Rogojampi, Banyuwangi",
+    },
+  },
+  "mie-ayam-uti-mami": {
+    title: "Mie ayam",
+    icon: null,
+    navbarTitle: "Mie ayam",
+    ctaLink: "tel:082131498815",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969]",
+    },
+
+    hero: {
+      tagLine: "Warisan Resep Legendaris, Nikmati Kelezatan Tiada Henti!",
+      deskripsi: "Mie Ayam Uti Mami hadir dengan resep turun-temurun yang diracik dengan sepenuh hati. Menggunakan bahan-bahan segar dan berkualitas, kami sajikan mie kenyal",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717571516/umkm/mie%20ayam%20uti/WhatsApp_Image_2024-06-05_at_14.02.51_04cb9161_ashhr4.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Mie Kenyal, Kuah Gurih, dan Ayam Empuk, Bikin Nagih!",
+      deskripsi: "kuah gurih yang kaya rasa, dan ayam kampung yang empuk dalam setiap porsi. Nikmati kehangatan dan kelezatan Mie Ayam Uti Mami yang bikin nagih!", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717571516/umkm/mie%20ayam%20uti/WhatsApp_Image_2024-06-05_at_14.02.51_04cb9161_ashhr4.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Mie Ayam Original Uti Mami",
+          deskripsi:
+            "Mie Ayam Original Uti Mami adalah menu klasik yang tak lekang oleh waktu. Perpaduan mie kenyal, potongan ayam kampung empuk, sawi hijau segar, dan kuah gurih yang kaya rempah, membuat kenikmatan tiada tara",
+          price: "",
+          img: "https://cdn0-production-images-kly.akamaized.net/9pnKN0VFUFaSV9Xka64S00KpNmA=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4200521/original/074514300_1666493955-mi_ayam_koh_aming.jpg",
+        },
+        {
+          name: "Mie Ayam Bakso Spesial Uti Mami",
+          deskripsi:"Mie Ayam Bakso Spesial Uti Mami hadir dengan tambahan bakso sapi yang lembut dan gurih. Nikmati sensasi tekstur yang berbeda dalam setiap suapan, dipadu dengan kuah gurih khas Mie Ayam Uti Mami.",
+          price: "",
+          img: "https://awsimages.detik.net.id/community/media/visual/2023/05/22/resep-mie-ayam-sederhana-ala-rumahan_169.jpeg?w=600&q=90",
+        },
+        {
+          name: "Mie Ayam Ceker Hot",
+          deskripsi: "Mie Ayam Ceker Hot & Spicy Uti Mami cocok untuk pecinta pedas. Ceker yang empuk dan kuah gurih dengan tambahan bumbu pedas spesial, siap membangkitkan semangat Anda.",
+          price: "",
+          img: "https://cdn.idntimes.com/content-images/community/2022/03/resep-mie-ayam-ala-abang-abang-mie-ayam-street-food-indonesia-9cde86371d7fc78c91ae80a6ffab250e-3d5a496980dabb250612aa5631c2882d_600x400.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.887680387624!2d114.3396599750095!3d-8.214049491818267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTAuNiJTIDExNMKwMjAnMzIuMSJF!5e0!3m2!1sen!2sid!4v1717560180808!5m2!1sen!2sid`,
+    footer: {
+      noHp: "082131498815",
+      alamat: "Glagah, Banyuwangi",
+    },
+  },
+  "home-bouqet": {
+    title: "Home Bouqet",
+    icon: null,
+    navbarTitle: "Home Bouqet",
+    ctaLink: "tel:6285843871058",
+
+    color: {
+      // required
+      primary: "bg-[#bd49ad]",
+      secondary: "bg-[#d8dc9d]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#d8dc9d]",
+      textColor: "text-[#0a0409]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#7ec969",
+    },
+
+    hero: {
+      tagLine: "Lebih dari Sekedar Bunga, Home Bouqet Ciptakan Suasana Istimewa",
+      deskripsi: "Home Bouqet menyediakan berbagai macam bunga segar dan berkualitas untuk mempercantik rumah Anda.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657284/umkm/home%20bouqet/WhatsApp_Image_2024-06-06_at_13.25.10_cfc13ad8_btfo1t.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Home Bouqet: Bunga Segar untuk Rumah yang Ceria",
+      deskripsi: "Kami menawarkan berbagai pilihan buket bunga, bunga potong, dan dekorasi bunga yang dapat disesuaikan dengan kebutuhan dan selera Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657281/umkm/home%20bouqet/WhatsApp_Image_2024-06-06_at_13.25.09_2f10c13b_irfr7n.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Buket Mawar Klasik",
+          deskripsi:
+            "Buket mawar merah klasik ini adalah pilihan yang sempurna untuk menunjukkan cinta dan kasih sayang. Mawar merah melambangkan cinta, romansa, dan gairah. Buket ini terdiri dari 12 batang mawar merah segar yang dibungkus dengan kertas pembungkus yang indah dan pita.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRri58eYn1Rw71CgZuyStTl6VX5FHfbT8ruKQTfeKpG8jHDOtt93k0s8TbYDxo8",
+        },
+        {
+          name: "Bunga Potong Lili",
+          deskripsi:"Bunga lili putih melambangkan kemurnian, kepolosan, dan kesucian. Bunga ini adalah pilihan yang tepat untuk dekorasi rumah, pernikahan, atau acara-acara spesial lainnya. Bunga potong lili dapat bertahan hingga 7 hari dengan perawatan yang tepat.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAbAY7RdhIX6ZwUya8pMOpRavPlrGGRhkRvnMy3ABabP8EleUW02Q--QWMlPcq",
+        },
+        {
+          name: "Dekorasi Bunga Krisan",
+          deskripsi: "Bunga krisan adalah bunga yang tahan lama dan mudah dirawat. Bunga ini tersedia dalam berbagai warna, seperti putih, kuning, dan merah muda. Dekorasi bunga krisan dapat digunakan untuk mempercantik meja, rak buku, atau ruangan lainnya di rumah Anda.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoBCs8HjqzMGCe-RBi6WDpvI9OCPW2p0r5XSI9ODZgthTk6S8nDxZZRIbXl_Cy",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.4374151025554!2d114.22522377500998!3d-8.259183991774552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTUnMzMuMSJTIDExNMKwMTMnNDAuMSJF!5e0!3m2!1sen!2sid!4v1717655206858!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285843871058",
+      alamat: "Songgon, Banyuwangi",
+    },
+  },
+  "ana-laundry": {
+    title: "Ana Laundry",
+    icon: null,
+    navbarTitle: "Ana Laundry",
+    ctaLink: "tel:628233543241",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Ana Laundry: Bersih, Cepat, dan Terpercaya",
+      deskripsi: "Ana Laundry hadir untuk membantu Anda dalam membersihkan pakaian dan barang-barang tekstil lainnya dengan cepat, bersih, dan terpercaya. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657896/umkm/ana%20laundry/WhatsApp_Image_2024-06-06_at_13.45.02_1a863ccd_p7zwlq.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Laundry Cepat dan Murah",
+      deskripsi: "Kami menggunakan deterjen dan pewangi berkualitas tinggi untuk memastikan pakaian Anda bersih dan wangi tahan lama.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717657894/umkm/ana%20laundry/WhatsApp_Image_2024-06-06_at_13.45.01_b9830ae0_e6ico2.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Cuci Kiloan",
+          deskripsi:
+            "Layanan cuci kiloan kami cocok untuk pakaian sehari-hari Anda. Tersedia dengan deterjen standar dan pelembut standar.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwfSg8LZDRMUHEDwXTkhiskm6zixXkwBSd2NpbvCO8grL48Xv91JnsYfX6u_0_",
+        },
+        {
+          name: "Cuci Setrika Kiloan",
+          deskripsi:"Hemat waktu Anda dengan layanan cuci dan setrika kiloan. Pakaian Anda akan dicuci, disetrika, dan dilipat rapi.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGLHKqTBMKjipglg2jbKdylRaicUAbe5J6whuFZBabzSOpaMZDvJ0gRSaCZ4E",
+        },
+        {
+          name: "Laundry Ekspress",
+          deskripsi: "Butuh pakaian bersih dalam waktu singkat? Layanan laundry ekspress kami siap membantu! Pakaian Anda akan dicuci dan dikeringkan dalam waktu 1 hari kerja (dengan pemesanan sebelum jam 10 pagi).",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyvHogY_8mkvks75LBkbhRS4tS_lBhz7eGXLQLEgCYj352R2on1ksHmSs0VOT_",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8585198751457!2d113.65421347500954!3d-8.216979991815451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDEuMSJTIDExM8KwMzknMjQuNCJF!5e0!3m2!1sen!2sid!4v1717560662298!5m2!1sen!2sid`,
+    footer: {
+      noHp: "08233543241",
+      alamat: "Jember, Banyuwangi",
+    },
+  },
+  "akrilikku": {
+    title: "Akrilikku",
+    icon: null,
+    navbarTitle: "Akrilikku",
+    ctaLink: "tel:6285231037676",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Akrilikku: Ciptakan Karya Seni Akrilik Impian Anda",
+      deskripsi: "Akrilikku adalah toko online yang menyediakan berbagai macam peralatan seni akrilik berkualitas tinggi dengan harga yang terjangkau.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658413/umkm/akirik/IMG-20240606-WA0062_z9w2up.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Akrilik Murah dan Design Moderen",
+      deskripsi: "Kami menawarkan berbagai pilihan cat akrilik, kuas, kanvas, dan media lainnya yang dibutuhkan untuk membantu Anda menciptakan karya seni akrilik yang indah dan inspiratif.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658406/umkm/akirik/IMG-20240606-WA0061_ma1rfv.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:
+            "Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658412/umkm/akirik/IMG-20240606-WA0065_z9wimq.jpg",
+        },
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:"Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658413/umkm/akirik/IMG-20240606-WA0062_z9w2up.jpg",
+        },
+        {
+          name: "Design Akrilik Moderen",
+          deskripsi:
+            "Layanan Design dengan media akrilik dan moderen sekali",
+          price: "",
+          img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1717658412/umkm/akirik/IMG-20240606-WA0065_z9wimq.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8585198751457!2d113.65421347500954!3d-8.216979991815451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDEuMSJTIDExM8KwMzknMjQuNCJF!5e0!3m2!1sen!2sid!4v1717560662298!5m2!1sen!2sid`,
+    footer: {
+      noHp: "08233543241",
+      alamat: "Jember, Banyuwangi",
+    },
+  },
+  "queen-smoothies": {
+    title: "Queen Smoothies",
+    icon: null,
+    navbarTitle: "Queen Smoothies",
+    ctaLink: "tel:6285796200355",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Rasakan Sensasi Kesegaran dan Nutrisi Alami!",
+      deskripsi: "Queen Smoothies adalah bisnis smoothie yang menawarkan berbagai macam pilihan smoothie segar dan lezat yang terbuat dari buah-buahan segar, sayuran, dan bahan-bahan berkualitas tinggi lainnya.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718266979/umkm/queen%20smoothies/WhatsApp_Image_2024-06-06_at_13.47.34_4f87a752_dbdhzw.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Smoothie Sehat dan Lezat untuk Gaya Hidup Sehatmu!",
+      deskripsi: "Kami berkomitmen untuk menyediakan smoothie yang tidak hanya enak tetapi juga bergizi dan baik untuk kesehatan. Smoothie kami adalah pilihan sempurna untuk orang-orang yang ingin menjalani gaya hidup sehat dan aktif", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718266979/umkm/queen%20smoothies/WhatsApp_Image_2024-06-06_at_13.47.34_92e76356_px1jkc.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Smoothie Berry Blast",
+          deskripsi:
+            "Smoothie Berry Blast kami adalah perpaduan sempurna antara rasa manis dan asam dari buah beri, yogurt yang creamy, dan sedikit sentuhan madu",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyct-10PyiHFOSUr2_EFvGYsuH4zRj8L5gmjp6xnvlMS2tn_IGh5hKAVYX-xQ",
+        },
+        {
+          name: " Smoothie Tropical Twist",
+          deskripsi:"Smoothie Tropical Twist kami adalah rasa tropis yang menyegarkan yang terbuat dari nanas, mangga, pisang, dan santan. ",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBEHCp11PRDb2PJ_eZGL8HaSm3FqNLKpt_QkbyB71Vjq8TJ_FGTEhQSeQmcoS7",
+        },
+        {
+          name: "Smoothie Green Power",
+          deskripsi:
+            "Smoothie Green Power kami adalah pilihan yang tepat untuk Anda yang ingin meningkatkan asupan sayuran",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA-NeNpN1TvJzxGhwE893Pb_T2t5XIH37uxz_i8xzCl2dlNcQaCqiRuOAkX7Hm",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285796200355",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "smoothies-bar-baaf": {
+    title: "Smoothies Bar Baaf",
+    icon: null,
+    navbarTitle: "Smoothies Bar Baaf",
+    ctaLink: "tel:6282131025241",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Sehat dan Enak, Bahagianya Dimulai di Sini!",
+      deskripsi: "Baaf Smoothies adalah smoothie bar yang menawarkan perpaduan sempurna antara kesegaran buah dan rasa yang bikin bahagia.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718267484/umkm/smoothies-bar-baaf/WhatsApp_Image_2024-06-06_at_13.48.01_6bcd380a_wewb7q.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Campuran Rasa Bahagia dalam Segelas Smoothie!",
+      deskripsi: "Kami menggunakan bahan-bahan alami dan berkualitas tinggi untuk menciptakan smoothie yang tidak hanya nikmat, tapi juga memberikan nutrisi yang dibutuhkan tubuh. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718267485/umkm/smoothies-bar-baaf/WhatsApp_Image_2024-06-06_at_13.48.01_6aab3a05_ij2zru.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Smoothie Berry Blast",
+          deskripsi:
+            "Smoothie Berry Blast kami adalah perpaduan sempurna antara rasa manis dan asam dari buah beri, yogurt yang creamy, dan sedikit sentuhan madu",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyct-10PyiHFOSUr2_EFvGYsuH4zRj8L5gmjp6xnvlMS2tn_IGh5hKAVYX-xQ",
+        },
+        {
+          name: " Smoothie Tropical Twist",
+          deskripsi:"Smoothie Tropical Twist kami adalah rasa tropis yang menyegarkan yang terbuat dari nanas, mangga, pisang, dan santan. ",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBEHCp11PRDb2PJ_eZGL8HaSm3FqNLKpt_QkbyB71Vjq8TJ_FGTEhQSeQmcoS7",
+        },
+        {
+          name: "Smoothie Green Power",
+          deskripsi:
+            "Smoothie Green Power kami adalah pilihan yang tepat untuk Anda yang ingin meningkatkan asupan sayuran",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA-NeNpN1TvJzxGhwE893Pb_T2t5XIH37uxz_i8xzCl2dlNcQaCqiRuOAkX7Hm",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282131025241",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "tis-java": {
+    title: "Tis Java",
+    icon: null,
+    navbarTitle: "Tis Java",
+    ctaLink: "tel:625852039092",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Sehat dan Enak, Bahagianya Dimulai di Sini!",
+      deskripsi: "kedai teh yang menyajikan teh Jawa tradisional dengan cita rasa yang otentik. Kami menggunakan teh pilihan dari berbagai daerah di Jawa dan diolah dengan cara tradisional untuk menghasilkan rasa teh yang khas dan istimewa.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718268164/umkm/tis%20java/WhatsApp_Image_2024-06-06_at_13.48.47_491fcb8b_knlje7.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Rasakan Tradisi Teh Jawa yang Autentik dalam Setiap Cangkir",
+      deskripsi: "TIS JAVA hadir untuk membawa Anda kembali ke masa lampau dan merasakan tradisi minum teh Jawa yang penuh makna.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718268164/umkm/tis%20java/WhatsApp_Image_2024-06-06_at_13.48.48_240051e4_jethag.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Teh Jawa Asli",
+          deskripsi:
+            "Teh Jawa Asli kami adalah pilihan klasik bagi pecinta teh. Teh ini terbuat dari daun teh pilihan yang dikeringkan dengan cara tradisional dan menghasilkan rasa teh yang kuat dan khas.",
+          price: "",
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/1/21/23aced77-02e1-48aa-8e02-c9ee3a3abdbd.jpg",
+        },
+        {
+          name: " Teh Jawa Rempah",
+          deskripsi:"Teh Jawa Rempah kami adalah pilihan yang tepat bagi Anda yang suka rasa teh yang lebih unik. ",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjm0FU3c_2gSabB1zx737rEqfnhJSL-oMgUw&s",
+        },
+        {
+          name: "Teh Jawa Susu",
+          deskripsi:
+            "Teh Jawa Susu kami adalah pilihan yang sempurna bagi Anda yang menyukai rasa teh yang creamy dan manis.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFoQ0g7m2od9weFtGGkPK15lSiyp-KqrEqKztA5RBYx-LB8eNhQTHcrhLKnNWH",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "625852039092",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+
+  "teh-kocek": {
+    title: "Teh Kocek",
+    icon: null,
+    navbarTitle: "Teh Kocek",
+    ctaLink: "tel:625236242512",
+
+    color: {
+      // required
+      primary: "bg-[#78918e]",
+      secondary: "bg-[#b8bcc5]",
+      backgroundColor: "bg-white",
+      hoverColor: "hover:bg-[#b8bcc5]", 
+      textColor: "text-[#060807]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#9091a5]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Teh Rempah, Hangatnya Kebersamaan",
+      deskripsi: "Teh Kocek adalah produsen teh rempah alami yang terbuat dari bahan-bahan pilihan berkualitas tinggi. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718286927/umkm/teh%20kocek/WhatsApp_Image_2024-06-06_at_13.57.18_8cc3f166_k0x6mo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Cita Rasa Teh Tradisional yang Melegenda",
+      deskripsi: "Kami menawarkan berbagai macam teh rempah dengan cita rasa yang unik dan khas, seperti Teh Jahe, Teh Sereh, dan Teh Daun Kelor. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718286900/umkm/teh%20kocek/WhatsApp_Image_2024-06-06_at_13.57.17_af9ae6b9_gatah7.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Teh Jahe",
+          deskripsi:
+            "Teh Jahe Teh Kocek terbuat dari jahe segar pilihan yang dipadukan dengan rempah-rempah lainnya seperti gula merah dan kayu manis.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWRgbkryPt1ZULme15LKpu-tSVQ2cPqBdjFR877xvhRhANXzzoMWsJIhGDgJBE",
+        },
+        {
+          name: "Teh Sereh",
+          deskripsi:"Teh Sereh Teh Kocek terbuat dari serai segar yang dipadukan dengan rempah-rempah lainnya seperti gula merah dan daun pandan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf8r6bxJv22WTxwNuRYMevpbe5Y5V-EUptQ&s",
+        },
+        {
+          name: "Teh Daun Kelor",
+          deskripsi:
+            "Teh Daun Kelor Teh Kocek terbuat dari daun kelor segar yang kaya akan vitamin dan mineral. ",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV0Q3Uqef-2OYFuKwMXsjz-0DR-Olys4oqQYTStvJ93evZ50SIVPZMMEqdvpK8",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "625236242512",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "nasi-pecel": {
+    title: "Nasi Pecel",
+    icon: null,
+    navbarTitle: "Nasi Pecel",
+    ctaLink: null,
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Perpaduan Rasa Sayur, Sambal, dan Kacang yang Tak Terlupakan",
+      deskripsi: "Nasi Pecel adalah warung makan yang menyajikan hidangan tradisional khas Jawa Timur, yaitu Nasi Pecel. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718286969/umkm/nasi%20pecel/WhatsApp_Image_2024-06-06_at_13.58.43_1ee7e3a3_zrk7t9.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Kelezatan Nasi Pecel Legendaris",
+      deskripsi: "Nasi Pecel kami terbuat dari nasi putih yang disiram dengan sambal pecel yang terbuat dari kacang tanah, cabai, bawang merah, bawang putih, dan rempah-rempah lainnya.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718286969/umkm/nasi%20pecel/WhatsApp_Image_2024-06-06_at_13.58.44_fbe7b55f_oya7yt.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Nasi Pecel",
+          deskripsi:
+            "Nasi Pecel kami terbuat dari nasi putih pulen yang disiram dengan sambal pecel yang gurih dan pedas.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjsYZpfWWsiG56spBR9ExLlnet7FvZ7s4Of3B8IIGGtUoMd7V4yOYLITM0DXR",
+        },
+        {
+          name: "Tempe Goreng",
+          deskripsi:"Tempe goreng kami terbuat dari tempe kedelai yang digoreng dengan tepung bumbu hingga berwarna kuning keemasan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt4nZPVqNWZvjjJhWvfPzoJI_32jBwHAUKqVeuejdSHwi5QUL_0UROaCZtdb5x",
+        },
+        {
+          name: "Tahu Goreng",
+          deskripsi:
+            "Tahu goreng kami terbuat dari tahu putih yang digoreng hingga berwarna kuning keemasan.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0lEAVs_6Uqzy4_RzX4sPWsV1IEQqMcdfhx3iEPwv9bQsOJWWSpPo2gq-eMqf",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: null,
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "bakoel-susu": {
+    title: "Bakoel Susu",
+    icon: null,
+    navbarTitle: "Bakoel Susu",
+    ctaLink: "tel:6285238489306",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Susu Segar untuk Segala Usia",
+      deskripsi: "Bakoel Susu adalah toko susu yang menyediakan berbagai macam susu segar berkualitas tinggi. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287030/umkm/bakoel%20susu/WhatsApp_Image_2024-06-06_at_13.59.56_21d318b6_lwvmsw.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Nikmati Kelezatan Susu Segar dengan Beragam Varian Rasa",
+      deskripsi: "Kami menawarkan susu segar murni yang berasal dari peternakan sapi perah lokal yang terpercaya", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287030/umkm/bakoel%20susu/WhatsApp_Image_2024-06-06_at_13.59.57_f4526e41_rtbhla.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Susu Segar Murnil",
+          deskripsi:
+            " Susu segar murni Bakoel Susu terbuat dari 100% susu sapi segar tanpa bahan pengawet dan pemanis buatan. ",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSei0NaBLjTk0QoxR0CRCtkRhYT5zpY7msT3Zw_DJ9ZKtsvAuucQlyEJMDMd-4x",
+        },
+        {
+          name: "Susu Cokelat",
+          deskripsi:"Susu cokelat Bakoel Susu terbuat dari susu segar murni yang dicampur dengan cokelat bubuk berkualitas tinggi",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5mM4a3qx-ZQj7mQKOLrX0JyXHiMLy8OejV_GN0bTFytzMwaZ-bJw8yfa8maQD",
+        },
+        {
+          name: "Susu Strawberry",
+          deskripsi:
+            "Susu strawberry Bakoel Susu terbuat dari susu segar murni yang dicampur dengan sirup strawberry alami.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0lEAVs_6Uqzy4_RzX4sPWsV1IEQqMcdfhx3iEPwv9bQsOJWWSpPo2gq-eMqf",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285238489306",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "wontoon-yummy": {
+    title: "Wontoon Yummy",
+    icon: null,
+    navbarTitle: "Wontoon Yummy",
+    ctaLink: "tel:62989394146",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Kenikmatan Wonton Buatan Sendiri, Penuh Cita Rasa",
+      deskripsi: "Wonton Yummy adalah produsen wonton beku berkualitas tinggi, dibuat dengan resep rahasia turun-temurun. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287074/umkm/wonton%20yummy/WhatsApp_Image_2024-06-06_at_14.00.42_53edf63c_ea7eyj.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Hangatkan Hati dan Perut dengan Wonton Lezat",
+      deskripsi: "Kami menggunakan bahan-bahan segar dan premium untuk membuat isian wonton yang lezat dan kulit wonton yang lembut dan kenyal", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287074/umkm/wonton%20yummy/WhatsApp_Image_2024-06-06_at_14.00.43_5348cb8a_vioyji.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Wonton Ayam & Udang",
+          deskripsi:
+            " Wonton klasik kami dengan isian perpaduan daging ayam giling yang gurih dan udang segar yang manis.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi-sXq9Bh-BZwXsOWdeF7XtloUkjfJdQOxJ4lKSXz82jzUa6Ccn11CLxoFdwlc",
+        },
+        {
+          name: "Wonton Sayuran",
+          deskripsi:" Wonton isi sayur kami cocok bagi pecinta makanan vegetarian. Isian sayuran segar dan renyah seperti wortel, kubis,",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTs5S6PG_xZsNLVQKu5PG6UjbyvcA4cCNGxs0NVpurFeuD4VaUQF9kQOIzt0TO",
+        },
+        {
+          name: "Wonton Jumbo Keju",
+          deskripsi:
+            "Wonton jumbo kami dengan isian keju yang lumer dan gurih. Sempurna untuk digoreng hingga keemasan dan dinikmati selagi hangat",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTs5S6PG_xZsNLVQKu5PG6UjbyvcA4cCNGxs0NVpurFeuD4VaUQF9kQOIzt0TO",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "62989394146",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "nasi-bungkus-rice-bowl": {
+    title: "Nasi Bungkus & Rice Bowl",
+    icon: null,
+    navbarTitle: "Nasi Bungkus & Rice Bowl",
+    ctaLink: "tel:6282330352534",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Cita Rasa Lokal, Gaya Hits!",
+      deskripsi: "Nasi Bungkus & Rice Bowl menawarkan pengalaman bersantap hidangan khas Indonesia yang praktis dan kekinian. ",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287143/umkm/kedai%20nasi%20bungkus%20bowl/WhatsApp_Image_2024-06-06_at_14.01.29_b73d2685_dit5vi.jpg",
+    },
+    about: {
+      title: null,
+      txt: " Kenyang Praktis, Enaknya Selangit!",
+      deskripsi: "Kami menyediakan menu nasi bungkus tradisional dengan lauk pauk rumahan, serta rice bowl yang trendi dengan cita rasa khas Nusantara. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287143/umkm/kedai%20nasi%20bungkus%20bowl/WhatsApp_Image_2024-06-06_at_14.01.29_b73d2685_dit5vi.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Nasi Bungkus Ayam Goreng Kremes",
+          deskripsi:
+            "Menu andalan kami, nasi putih pulen yang dibungkus dengan daun pisang, disajikan dengan ayam goreng berbalut tepung bumbu yang krispi.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi-sXq9Bh-BZwXsOWdeF7XtloUkjfJdQOxJ4lKSXz82jzUa6Ccn11CLxoFdwlc",
+        },
+        {
+          name: "Rice Bowl Rendang Sapi",
+          deskripsi:" Irisan daging sapi yang empuk dimasak dengan bumbu rendang khas Minang yang kaya rempah,",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1jMjL6icJz3WHW2m4Cbow7wDdQbHe-uq0WwOnAy-V80D4FbCP7ezyVy_JO9Zo",
+        },
+        {
+          name: "Nasi Bungkus Sayur Lodeh",
+          deskripsi:
+            "Pilihan vegetarian yang kaya sayur. Beragam sayuran segar seperti labu siam, kacang panjang, dan terong dimasak dengan kuah santan yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZblVuzQPaaveAUcIY03sf6s71o-e-95AFX5jx_5H7Lo-zmzlBDTuX08nca6jV",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282330352534",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "cilok-bang-roni": {
+    title: "Cilok Bang Roni",
+    icon: null,
+    navbarTitle: "Cilok Bang Roni",
+    ctaLink: "tel:6282336116307",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Cemilan Sehat, Enaknya Kebangetan!",
+      deskripsi: "Cilok Bang Roni adalah penjual cilok legendaris dengan cita rasa yang sudah melegenda.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287202/umkm/cilok%20bang%20roni/WhatsApp_Image_2024-06-06_at_14.02.26_a2f7e39a_bca2cs.jpg",
+    },
+    about: {
+      title: null,
+      txt: " Kenyalnya Bikin Nagih, Bumbunya Bikin Nendang!",
+      deskripsi: "Kami menggunakan resep turun-temurun untuk membuat cilok yang kenyal dan gurih, dipadukan dengan bumbu kacang yang diracik dengan rempah-rempah pilihan ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287202/umkm/cilok%20bang%20roni/WhatsApp_Image_2024-06-06_at_14.02.27_3820d819_jx0otc.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Cilok Original",
+          deskripsi:
+            "Cilok klasik dengan isian aci yang kenyal dan gurih, disiram bumbu kacang spesial Bang Roni yang pedas, manis, dan gurihnya bikin nagih",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsPVGpXVY6JUDp914nEf3ltboK5VQ-ljyWzzfXsEE8Kz9w1oydc9mmvqGYw0W",
+        },
+        {
+          name: "Cilok Telur",
+          deskripsi:"Cilok dengan isian telur rebus yang gurih, dipadukan dengan cilok original dan disiram bumbu kacang spesial Bang Roni.",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcbICsdy7JOntI-C1AOpfaCBztQLEnEnG4TIRoW4fj5B3hfz3-FjsO8zcgmNJ6",
+        },
+        {
+          name: "Cilok Mozzarella",
+          deskripsi:
+            "Cilok dengan isian keju mozzarella yang lumer dan gurih, dipadukan dengan cilok original dan disiram bumbu kacang spesial Bang Roni",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4JpAfT42uvApUk6YXHGtpLDuFDDzdTBotsi7jjCiB6GblPCX7jOi9q5sYTKD4",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282336116307",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+  "sakina-collection": {
+    title: "Sakina Collection",
+    icon: null,
+    navbarTitle: "Sakina Collection",
+    ctaLink: "tel:6281235961218",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: " Lengkapi Gayamu dengan Aksesoris Trendy",
+      deskripsi: "Sakina Collection adalah toko aksesoris yang menawarkan berbagai macam pilihan aksesoris untuk melengkapi gaya Anda.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287270/umkm/sakina%20collection/WhatsApp_Image_2024-06-06_at_14.03.05_7a8ab0de_uhcu4l.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Lebih dari Sekedar Aksesoris, Ekspresikan Dirimu!",
+      deskripsi: "Kami menyediakan aksesoris dengan desain terbaru dan trendi, serta aksesoris klasik yang tak lekang oleh waktu.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718287268/umkm/sakina%20collection/WhatsApp_Image_2024-06-06_at_14.03.03_412f3bba_a7hfwi.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Kalung",
+          deskripsi:
+            "Kami menyediakan berbagai macam kalung dengan berbagai desain, seperti kalung statement, kalung minimalis,",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBghNr-kQSoXNor-o4VdX_5k_QFcYWNMMYzbTjX-xrkgcchKqRxNzTHluVeb6",
+        },
+        {
+          name: "Anting",
+          deskripsi:"Temukan anting yang sempurna untuk melengkapi gaya Anda di Sakina Collection.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCfSUcFzuS_za4x5NjMjFMeKNW5cSyKUOgAgbrKZU4pieHvuPCdKDVvuMZ-tk",
+        },
+        {
+          name: "Gelang",
+          deskripsi:
+            "Sakina Collection menawarkan berbagai macam gelang dengan desain yang beragam, seperti gelang bangle, gelang rantai, gelang charm",
+          price: "",
+          img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUCafrlhE21rrGnPwnrBSSFSpDviuKM05TcddbEsNbnoWVVtEOtWtt1PwucfT-",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4697427544115!2d114.14167447940602!3d-8.355363970232819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd154d5065f2c7b%3A0xe9eccff31f6263be!2sRTH%20Maron!5e0!3m2!1sen!2sid!4v1718039830596!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6281235961218",
+      alamat: "RTH Maron, Banyuwangi",
+    },
+  },
+
+  "es-teh-embul": {
+    title: "Es Teh Embul",
+    icon: null,
+    navbarTitle: "Es Teh Embul",
+    ctaLink: "tel:6285855318081",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Gak Ketulangan!",
+      deskripsi: "Es Teh Embul adalah kedai minuman yang menawarkan berbagai macam es teh segar dengan menggunakan bahan-bahan alami berkualitas tinggi.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080350/umkm/es%20teh%20embul/hqwckjsrsnfhucd9qj8k.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Segar Alami yang Melegakan Dahaga",
+      deskripsi: "Kami berkomitmen untuk menghadirkan rasa otentik dan menyegarkan dalam setiap gelas es teh kami.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080353/umkm/es%20teh%20embul/ap5qispdzebqrhehu1hl.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Teh Manis Klasik",
+          deskripsi:
+            "Es Teh Manis Klasik kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dimaniskan dengan gula pasir murni.",
+          price: "",
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVdvSU4ARYB1X0P-3yVNdCqxcXZyJLxeBQ7Gk-wyjamMSSpfqXbCc85ZqFhLY",
+        },
+        {
+          name: "Es Teh Tawar Lemon",
+          deskripsi:"Es Teh Tawar Lemon kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dicampur dengan irisan lemon segar.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHquyAfArP2X0MXvAflewIHCl9Qo9pL-2FNBvV24ramjsGCT0wiclMsHB18fnx",
+        },
+        {
+          name: "Es Teh Susu",
+          deskripsi:
+            "Es Teh Susu kami dibuat dengan teh hitam pilihan yang diseduh dengan air panas dan kemudian dicampur dengan susu segar.",
+          price: "",
+          img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROya3XymevDzq6uE1R8JhtQTnMulHOs5p7uIbQK9RvBUQfkIj1R7SQyEwpvGI1",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6285855318081",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+  "siomay-udin": {
+    title: "Siomay Udin",
+    icon: null,
+    navbarTitle: "Siomay Udin",
+    ctaLink: "tel:6282139793551",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Rasanya Bikin Nagih, Gak Mau Berhenti Makan!",
+      deskripsi: "Siomay Bang Udin adalah legenda kuliner siomay di kota ini. Telah berdiri selama puluhan tahun, Siomay Bang Udin terkenal dengan siomaynya yang lezat dengan resep turun-temurun.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080412/umkm/siomay%20bang%20udin/ajj7ycleyiijethfjd2x.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Sensasi Siomay Lezat yang Gak Ada Lawannya",
+      deskripsi: "Kami menggunakan bahan-bahan segar dan berkualitas tinggi untuk memastikan setiap gigitan siomay Bang Udin memberikan kenikmatan yang", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080412/umkm/siomay%20bang%20udin/ajj7ycleyiijethfjd2x.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Siomay Baso Ikan",
+          deskripsi:
+            "Siomay Baso Ikan kami adalah perpaduan sempurna antara siomay kenyal dan bakso ikan yang gurih. ",
+          price: "",
+          img: "https://cdn0-production-images-kly.akamaized.net/lLHMJqnH2QoI75OnR5oeDlGh0X0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3966326/original/059670800_1647514819-closeup-5856512_960_720.jpg",
+        },
+        {
+          name: "Siomay Pangsit",
+          deskripsi:"Siomay Pangsit kami menghadirkan tekstur yang unik dan rasa yang istimewa. Siomay ini terbuat dari adonan daging ikan dan udang yang dibungkus dengan pangsit tipis.",
+          price: "",
+          img: "https://asset.kompas.com/crops/SAjVZchiZHT728kXzlUWGLcEZFY=/0x0:1000x667/750x500/data/photo/2020/05/29/5ed0b7256852a.jpg",
+        },
+        {
+          name: "Tahu Isi",
+          deskripsi:
+            "Tahu Isi Siomay Bang Udin terbuat dari tahu goreng yang diisi dengan adonan daging ikan dan udang yang gurih.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNJR-AyZdmblFyJHswgO8buCNrwYCdzRe2dHhzJeFId3N_jv2tEFiLGEVnfXSs",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282139793551",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+  "teh-muti-jumbo": {
+    title: "Teh Muti Jumbo",
+    icon: null,
+    navbarTitle: "Teh Muti Jumbo",
+    ctaLink: "tel:6282139793551",
+
+    color: {
+      // required
+      primary: "bg-[#2f27ce]",
+      secondary: "bg-[#dedcff]",
+      backgroundColor: "bg-[#fbfbfe]",
+      hoverColor: "hover:bg-[#dedcff]", 
+      textColor: "text-[#050315]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#433bff]",
+    },
+
+    hero: {
+      tagLine: "Segar Super, Ukuran Jumbo, Puas Menikmatinya!",
+      deskripsi: "Es Teh Muti Jumbo menawarkan kesegaran es teh dengan ukuran jumbo yang super puas dinikmati.",
+      btn: true, // optional
+      btnText: "Kontak",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teh%20muti%20jumbo/scuiehgrkqmqsx20uvyo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Dahaga hilang, dompet aman!",
+      deskripsi: "Kami menggunakan teh berkualitas tinggi yang diracik dengan resep spesial sehingga menghasilkan rasa yang otentik dan nikmat.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1718080385/umkm/es%20teh%20muti%20jumbo/scuiehgrkqmqsx20uvyo.jpg",
+      btn: false, // optional
+      btnText: "Order yuk",
+    },
+    product: {
+      // required
+      title: "Produk Kami",
+      data: [
+        {
+          name: "Es Teh Manis Jumbo",
+          deskripsi:
+            "Es Teh Manis Jumbo kami disajikan dalam cup jumbo yang super mengenyangkan. Teh yang diseduh dengan air panas dicampur dengan gula asli sehingga menghasilkan rasa manis yang pas dan menyegarkan.",
+          price: "",
+          img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZF6iRFHagrXDA2OYVdEH2N6ES2rxwu7s_SjSWT4Ck1eIsEwY_cF51HIrOjgWi",
+        },
+        {
+          name: "Es Teh Cincau Jumbo",
+          deskripsi:"Es Teh Cincau Jumbo kami memadukan kesegaran es teh dengan cincau hitam yang kenyal dan nikmat.",
+          price: "",
+          img: "https://img-global.cpcdn.com/recipes/c76edd9c5b1a85f3/680x482cq70/es-teh-manis-cincau-foto-resep-utama.jpg",
+        },
+        {
+          name: "Es Teh Campur Jumbo",
+          deskripsi:
+            "Es Teh Campur Jumbo kami adalah pilihan yang tepat bagi pecinta es teh dengan berbagai isian. Selain teh dan cincau hitam, kami tambahkan juga isian seperti nata de coco, potongan buah segar, dan agar-agar jelly.",
+          price: "",
+          img: "https://id-marketplace.sgp1.cdn.digitaloceanspaces.com/files/merchant/97124-062a73b9.jpg",
+        },
+      ],
+    },
+    location: `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8240931014793!2d114.37093947500959!3d-8.220438391812134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTMuNiJTIDExNMKwMjInMjQuNyJF!5e0!3m2!1sen!2sid!4v1718347768692!5m2!1sen!2sid`,
+    footer: {
+      noHp: "6282139793551",
+      alamat: "Naga Bulan, Banyuwangi",
+    },
+  },
+
 };
+
 
 export default dataRamzi;
