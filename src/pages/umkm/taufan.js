@@ -306,6 +306,80 @@ const dataTaufan = {
         alamat: "Jl. Widuri 51-53, Dusun Watu Ulo, Rejosari, Kec. Glagah, Kabupaten Banyuwangi, Jawa Timur 68432",
       },
     },
+    "batagor-siomay-calik" : {   
+      title: "Batagor Siomay Calik",
+      icon: null,
+      navbarTitle: "Batagor Siomay Calik",
+      ctaLink: null,
+      keyword: [
+        "Es Batagor Siomay Calik",
+        "Batagor Enak",
+        "Siomay Lezat",
+        "Batagor Tradisional",
+        "Siomay Segar",
+        "Batagor Khas",
+        "Siomay Original",
+        "Batagor Spesial",
+        "Siomay Manis",
+        "Batagor Es Khas",
+        "Siomay Calik",
+        "Batagor Siomay Calik",
+        "Menu Batagor Siomay"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#A48F6C]",
+        secondary: "bg-[#A48F6C]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Kelezatan Batagor dan Siomay Yang Tak Terlupakan",
+        deskripsi: "Nikmati Batagor yang gurih dengan tekstur yang renyah serta  ",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889589/umkm/batagor%20siomay%20calis/WhatsApp_Image_2024-07-01_at_13.29.13_06c01ef4_qn85ng.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Kelezatan Siomay dan Batagor, Hanya di Calik!",
+  
+        deskripsi: "Dibuat dengan bahan-bahan berkualitas dan resep turun-temurun, setiap gigitan di Batagor Siomay Calik membawa Anda pada pengalaman rasa yang tak terlupakan. ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889589/umkm/batagor%20siomay%20calis/WhatsApp_Image_2024-07-01_at_13.29.13_06c01ef4_qn85ng.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Siomay",
+            deskripsi:
+              "Siomay terbuat dari daging ikan atau ayam yang dicincang halus dan dicampur dengan tepung tapioka serta bumbu-bumbu rempah pilihan.",
+            price: null,
+            img: "https://www.merries.co.id/uploads/2016/10/Si-Kecil-Hobi-Jajan-Somay.jpg",
+          },
+          {
+            name: "Batagor",
+            deskripsi:
+              "Batagor adalah hidangan yang terdiri dari bola-bola daging ikan atau ayam yang dibungkus dengan kulit tahu yang kemudian digoreng hingga kecokelatan.",
+            price: null,
+            img: "https://awsimages.detik.net.id/community/media/visual/2018/07/06/00559b1d-b4c0-4f05-a8fd-de4072f67cc9.jpeg?w=600&q=90",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.726344769225!2d114.3638333!3d-8.230250000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDguOSJTIDExNMKwMjEnNDkuOCJF!5e0!3m2!1sid!2sid!4v1720682549498!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Tempat Parkir, Jl. Adi Sucipto No.99, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
+      },
+    },
   };
   
   export default dataTaufan;
