@@ -323,6 +323,87 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "es-teler-sultan": {
+      title: "Es Teler Sultan",
+      icon: null,
+      navbarTitle: "Es Teler Sultan",
+      ctaLink: "null",
+        keyword: [
+          "Es Teler Sultan",
+          "Indonesian fruit cocktail",
+          "Refreshing dessert",
+          "Tropical drink",
+          "Es teler recipe",
+          "Es teler vendor",
+          "Exotic fruits",
+          "Coconut milk drink",
+          "Avocado dessert",
+          "Jackfruit cocktail",
+          "Sweetened condensed milk",
+          "Traditional Indonesian drink",
+          "Summer refreshment",
+          "Popular es teler",
+          "Cool dessert",
+          "Fresh fruit drink",
+          "Local favorite",
+          "Ice-cold treat"
+      ]
+      
+      
+
+      ,
+      color: {
+        // required
+        primary: "bg-[#a1ff72]",
+        secondary: "bg-[#b4ff8f]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#ef4444]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+
+      hero: {
+        tagLine: "Rasakan Kesegaran Es Teler kami!",
+        deskripsi: "Nikmati sensai kesegaran setiap sendokan dari es teler, dan nikmati kesegaran dari buah kami",
+        btn: false, // optional
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720684962/umkm/es-teler-sultan/WhatsApp_Image_2024-07-11_at_14.59.27_d03b3b66_zh18tk.jpg",
+      },
+      about: {
+        title: null,
+        txt: "Ayo, cobain dan nikmati kesegaran Es Teler kami!",
+  
+        deskripsi: "Segera beli sekarang dan hilangkan dahaga anda dengan meminum Es Teler kami", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720684963/umkm/es-teler-sultan/WhatsApp_Image_2024-07-11_at_14.59.27_9585e675_qi1v9n.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk terlaris",
+        // required
+        data: [
+          {
+            name: "Es Teler",
+            deskripsi:
+              "rasa original",
+            price: null,
+            img: "https://lh4.googleusercontent.com/proxy/prMcBz7prioRjwyc4jDLVxU9Mq-FfzNX5UBOcEJBFqJLKy19e5uup5-bKlZFKqS6baQJOlH28giWHVzlGNSvi9Ip5iD2H2UU5q1ixW5d5ARQoBTZRcvh8XnXlg",
+          },
+          {
+            name: "Es Buah",
+            deskripsi:
+              "Rasa original",
+            price: null,
+            img: "https://www.astronauts.id/blog/wp-content/uploads/2023/03/Daftar-Resep-Es-Buah-yang-Mudah-dan-Enak.jpg",
+          },
+        ],
+      },
+      location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7477522488034!2d114.35756057500966!3d-8.22810219180469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDEuMiJTIDExNMKwMjEnMzYuNSJF!5e0!3m2!1sid!2sid!4v1720685531528!5m2!1sid!2sid",
+      footer: {
+        alamat: null,
+      },
+    },
   };
   
   export default dataWildan;
