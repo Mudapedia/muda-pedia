@@ -160,7 +160,89 @@ const dataTaufan = {
         noHp: null,
         alamat: "Banyuwangi, Kebalenan, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68417",
       },
+    },
+    "siomay-hoki-bandung" : {   
+      title: "Siomay Hoki Bandung",
+      icon: null,
+      navbarTitle: "Siomay Hoki Bandung",
+      ctaLink: null,
+      keyword: [
+       "Siomay Hoki Bandung",
+       "Batagor Siomay Bandung",
+       "Siomay Enak Bandung",
+       "Batagor Lezat Bandung",
+       "Siomay Hoki Special",
+       "Batagor Hoki Bandung",
+       "Siomay Hoki Terbaik",
+       "Batagor Renyah Hoki",
+       "Siomay dan Batagor Bandung",
+       "Siomay Hoki Lezat",
+       "Batagor Khas Bandung",
+       "Siomay Khas Hoki",
+       "Siomay Hoki Favorit",
+       "Batagor Hoki Enak",
+       "Siomay Hoki Murah",
+       "Batagor Siomay Mantap",
+       "Siomay Hoki Gurih",
+       "Batagor Siomay Spesial",
+       "Kedai Siomay Hoki",
+      "Siomay dan Batagor Terbaik"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#A48F6C]",
+        secondary: "bg-[#A48F6C]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Kenikmatan Siomay dan Batagor yang Tak Tertandingi",
+        deskripsi: "Siomay Hoki Bandung adalah destinasi kuliner yang menawarkan kelezatan autentik siomay dan batagor khas Bandung. ",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1720675968/umkm/siomay-hoki-bandung/WhatsApp_Image_2024-07-10_at_13.25.03_119272c6_snvoce.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Kelezatan Siomay dan Batagor, Hanya di Siomay Hoki Bandung!",
+  
+        deskripsi: " Nikmati suasana hangat dan nyaman sambil menikmati hidangan favorit Anda di sini.  ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720675966/umkm/siomay-hoki-bandung/WhatsApp_Image_2024-07-10_at_13.25.03_f2e96703_cc771d.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Siomay",
+            deskripsi:
+              "Siomay terbuat dari daging ikan atau ayam yang dicincang halus dan dicampur dengan tepung tapioka serta bumbu-bumbu rempah pilihan.",
+            price: null,
+            img: "https://www.merries.co.id/uploads/2016/10/Si-Kecil-Hobi-Jajan-Somay.jpg",
+          },
+          {
+            name: "Batagor",
+            deskripsi:
+              "Batagor adalah hidangan yang terdiri dari bola-bola daging ikan atau ayam yang dibungkus dengan kulit tahu yang kemudian digoreng hingga kecokelatan.",
+            price: null,
+            img: "https://awsimages.detik.net.id/community/media/visual/2018/07/06/00559b1d-b4c0-4f05-a8fd-de4072f67cc9.jpeg?w=600&q=90",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.863494958502!2d114.36036537500968!3d-8.21648009181596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTkuMyJTIDExNMKwMjEnNDYuNiJF!5e0!3m2!1sid!2sid!4v1720678170869!5m2!1sid!2sid"  ,
+      footer: {
+        noHp: null,
+        alamat: "Jl. Jaksa Agung Suprapto No.66, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+      },
     }
+    
   };
   
   export default dataTaufan;
