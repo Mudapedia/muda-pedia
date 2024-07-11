@@ -238,6 +238,91 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "kue-basah": {
+      title: "Kue Basah Mba Dita",
+      icon: null,
+      navbarTitle: "Kue Basah Mba Dita",
+      ctaLink: "null",
+        keyword: [
+          "Kue Basah Mba Dila",
+          "Indonesian wet cakes",
+          "Traditional kue basah",
+          "Assorted kue basah",
+          "Mba Dila's kue basah",
+          "Indonesian desserts",
+          "Sweet treats",
+          "Local delicacies",
+          "Popular kue basah vendor",
+          "Kue basah recipe",
+          "Authentic Indonesian snacks",
+          "Freshly made kue basah",
+          "Steamed cakes",
+          "Colorful Indonesian cakes",
+          "Traditional market snacks",
+          "Homemade kue basah"
+      ]
+      
+
+      ,
+      color: {
+        // required
+        primary: "bg-[#b4ff8f]",
+        secondary: "bg-[#c3ffa5]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#ef4444]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+
+      hero: {
+        tagLine: "Rasakan Kelezatan Kue Basah Kami!",
+        deskripsi: "Nikmati cita rasa Kue Basah yang lezat, dan memiliki jenis yang bermacam-macam",
+        btn: false, // optional
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890337/umkm/kue%20basah/WhatsApp_Image_2024-07-01_at_13.39.54_81b7d68d_ll4pn9.jpg",
+      },
+      about: {
+        title: null,
+        txt: "Ayo, cobain dan nikmati berbagai kue basah kami!",
+  
+        deskripsi: "Segera beli sekarang dan nikmati rasa kue basah yang Authentic berbeda dengan yang lain!", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890337/umkm/kue%20basah/WhatsApp_Image_2024-07-01_at_13.39.56_bbb97d21_tzs5j2.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk terlaris",
+        // required
+        data: [
+          {
+            name: "Risoles",
+            deskripsi:
+              "rasa original",
+            price: null,
+            img: "https://www.masakapahariini.com/wp-content/uploads/2023/06/risoles-ragout.jpeg",
+          },
+          {
+            name: "Putu Ayu",
+            deskripsi:
+              "Rasa original",
+            price: null,
+            img: "https://asset.kompas.com/crops/CV1ZqnOWaLEBZTe1YWaFazA7ePw=/44x2:621x386/750x500/data/photo/2020/12/11/5fd32a67ca9db.jpg",
+          },
+          {
+            name: "Kue Lapis",
+            deskripsi:
+              "rasa original",
+            price: null,
+            img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kue_Lapis.jpg/1200px-Kue_Lapis.jpg",
+          },
+        ],
+      },
+      location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7477522488034!2d114.35756057500966!3d-8.22810219180469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDEuMiJTIDExNMKwMjEnMzYuNSJF!5e0!3m2!1sid!2sid!4v1720684286669!5m2!1sid!2sid",
+      footer: {
+        alamat: null,
+      },
+    },
   };
   
   export default dataWildan;
