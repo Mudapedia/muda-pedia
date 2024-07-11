@@ -410,25 +410,26 @@ const dataWildan = {
       navbarTitle: "Macam Macam Pisang",
       ctaLink: "null",
         keyword: [
-          "Es Teler Sultan",
-          "Indonesian fruit cocktail",
-          "Refreshing dessert",
-          "Tropical drink",
-          "Es teler recipe",
-          "Es teler vendor",
-          "Exotic fruits",
-          "Coconut milk drink",
-          "Avocado dessert",
-          "Jackfruit cocktail",
-          "Sweetened condensed milk",
-          "Traditional Indonesian drink",
-          "Summer refreshment",
-          "Popular es teler",
-          "Cool dessert",
-          "Fresh fruit drink",
-          "Local favorite",
-          "Ice-cold treat"
+          "Toko Pisang",
+          "Banana shop",
+          "Banana store",
+          "Fresh bananas",
+          "Banana vendor",
+          "Banana varieties",
+          "Ripe bananas",
+          "Banana products",
+          "Banana snacks",
+          "Local banana shop",
+          "Banana desserts",
+          "Banana recipes",
+          "Banana bread",
+          "Banana fritters",
+          "Banana smoothie",
+          "Organic bananas",
+          "Tropical fruit store",
+          "Banana supplier"
       ]
+      
       
       
 
