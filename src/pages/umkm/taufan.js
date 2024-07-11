@@ -96,7 +96,6 @@ const dataTaufan = {
        "Kedai Elnau Es Mojito",
        "Kedai Elnau Es Boba",
        "Makanan dan Minuman Segar",
-       "Kudapan dan Minuman Hits",
        "Tempat Nongkrong Asyik",  
        "Cemilan Nikmat Kedai Elnau",
        "Minuman Segar dan Cemilan Renyah"
