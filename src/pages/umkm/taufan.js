@@ -601,6 +601,70 @@ const dataTaufan = {
         alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68417",
       },
     },
+    "es-buah-rumput-laut" : {   
+      title: "Es Buah Rumput Laut",
+      icon: null,
+      navbarTitle: "Es Buah Rumput Laut",
+      ctaLink: null,
+      keyword: [
+        "Es Buah Rumput Laut",
+        "Es Rumput Laut",
+        "Es Segar Rumput Laut",
+        "Es Buah Segar",
+        "Es Campuran Rumput Laut",
+        "Es Buah Nikmat",
+        "Es Buah Segar Rumput Laut",
+        "Es Buah Khas Indonesia",
+        "Es Buah Special",
+        "Menu Es Buah Rumput Laut"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#A1E857]",
+        secondary: "bg-[#A1E857]",
+        backgroundColor: "bg-[#FCFEFA]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Kelezatan Segar dari Es Buah Rumput Laut",
+        deskripsi: "Nikmati segarnya es buah rumput laut yang khas dan lezat di tempat kami. Kami menghadirkan campuran buah-buahan segar",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719888847/umkm/es%20buah%20rumput%20laut/WhatsApp_Image_2024-07-01_at_13.25.08_b9940187_ehn3ca.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Segar, Sehat, dan Nikmat: Es Buah Rumput Laut Terbaik",
+  
+        deskripsi: " Temukan kelezatan segar yang sehat dan nikmat hanya di tempat kami!", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719888847/umkm/es%20buah%20rumput%20laut/WhatsApp_Image_2024-07-01_at_13.25.08_b9940187_ehn3ca.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Es Buah Rumput Laut",
+            deskripsi:
+              "  Es buah rumput laut adalah kombinasi segar dari buah-buahan tropis seperti alpukat, kelapa muda, nangka, dan leci,",
+            price: null,
+            img: "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/05/Resep-Es-rumput-laut.jpg?fit=1613%2C1920&ssl=1",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.863850157566!2d114.3643056!3d-8.216444400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTkuMiJTIDExNMKwMjEnNTEuNSJF!5e0!3m2!1sid!2sid!4v1720686041373!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. Jaksa Agung Suprapto 55-63, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+      },
+    },
   };
   
   export default dataTaufan;
