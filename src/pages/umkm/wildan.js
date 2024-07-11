@@ -404,6 +404,87 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "macam-macam-pisang": {
+      title: "Macam Macam Pisang",
+      icon: null,
+      navbarTitle: "Macam Macam Pisang",
+      ctaLink: "null",
+        keyword: [
+          "Es Teler Sultan",
+          "Indonesian fruit cocktail",
+          "Refreshing dessert",
+          "Tropical drink",
+          "Es teler recipe",
+          "Es teler vendor",
+          "Exotic fruits",
+          "Coconut milk drink",
+          "Avocado dessert",
+          "Jackfruit cocktail",
+          "Sweetened condensed milk",
+          "Traditional Indonesian drink",
+          "Summer refreshment",
+          "Popular es teler",
+          "Cool dessert",
+          "Fresh fruit drink",
+          "Local favorite",
+          "Ice-cold treat"
+      ]
+      
+      
+
+      ,
+      color: {
+        // required
+        primary: "bg-[#72deff]",
+        secondary: "bg-[#fff678]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#ef4444]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+
+      hero: {
+        tagLine: "Rasakan Buah Buah Fresh dan segar Kami!",
+        deskripsi: "Nikmati sensai Menikmati dan menyantap buah buahan fresh dan segar kami",
+        btn: false, // optional
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719888414/umkm/macam%20macam%20pisang/WhatsApp_Image_2024-07-01_at_13.22.40_e6a5b7b5_zeukzr.jpg",
+      },
+      about: {
+        title: null,
+        txt: "Ayo, cobain dan nikmati sensai buah buahan pilihan yang fresh dan segar",
+  
+        deskripsi: "Segera beli sekarang dan nikmati sendiri buah buahan kami!", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720684963/umkm/es-teler-sultan/WhatsApp_Image_2024-07-11_at_14.59.27_9585e675_qi1v9n.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk terlaris",
+        // required
+        data: [
+          {
+            name: "Pisang buah",
+            deskripsi:
+              "Fresh dan segar",
+            price: null,
+            img: "https://asset.kompas.com/crops/QtJW_z5QqXKytGp49CcMtVXNcVM=/0x0:612x408/1200x800/data/photo/2023/03/10/640a9a7b1ce3d.jpeg",
+          },
+          {
+            name: "Pisang Susu",
+            deskripsi:
+              "Fresh dan Segar",
+            price: null,
+            img: "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/7/25/ef775fa2-e256-48bb-901e-a57f2108f115.jpg",
+          },
+        ],
+      },
+      location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8139028688383!2d114.35320317500967!3d-8.221461791811093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMTcuMyJTIDExNMKwMjEnMjAuOCJF!5e0!3m2!1sid!2sid!4v1720686278833!5m2!1sid!2sid",
+      footer: {
+        alamat: null,
+      },
+    },
   };
   
   export default dataWildan;
