@@ -361,6 +361,85 @@ const dataHaikal = {
         "Jl. Ikan Layur, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
     },
   },
+  "esdegan-dan-escampur": {
+    title: "Es Degan dan Es Campur",
+    icon: null,
+    navbarTitle: "Es Degan dan Es Campur",
+    ctaLink: null,
+    keyword: [
+      "jual es degan",
+        "jual es campur",
+        "es degan segar",
+        "es campur nikmat",
+        "warung es segar",
+        "es degan asli",
+        "es campur komplit",
+        "minuman es segar",
+        "es degan muda",
+        "es campur enak",
+        "es kelapa muda",
+        "es buah campur",
+        "es campur spesial",
+        "es degan alami",
+        "es campur tradisional",
+    ],
+    color: {
+      // required
+      primary: "bg-[#0d926c]",
+      secondary: "bg-[#7bcd96]",
+      backgroundColor: "bg-[#FAF2F8]",
+      hoverColor: "hover:bg-[#7bcd96]",
+      textColor: "text-[#180c0c]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6a6c78]",
+    },
+
+    hero: {
+      tagLine: "Segarnya Asli, Nikmat Sejati",
+      deskripsi:
+        "Selamat datang di Segarnya Es Sutri, tempat sempurna untuk menikmati minuman es yang menyegarkan di setiap kesempatan. Kami bangga menyajikan menu andalan kami, Es Degan dan Es Campur, yang dibuat dari bahan-bahan segar dan berkualitas tinggi. Es Degan kami diambil langsung dari kelapa muda pilihan, sedangkan Es Campur kami menghadirkan kombinasi sempurna dari berbagai buah segar dan bahan-bahan pelengkap lainnya.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890104/umkm/es%20degan%20dan%20es%20campur/WhatsApp_Image_2024-07-01_at_13.32.48_2de84cde_otqsyo.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Es Degan & Es Campur Segar",
+
+      deskripsi:
+        "Es degan kami terbuat dari kelapa muda pilihan yang memberikan rasa manis dan menyegarkan, cocok untuk menghilangkan dahaga di hari yang panas. Sementara itu, es campur kami merupakan perpaduan sempurna dari berbagai bahan segar seperti buah-buahan tropis, agar-agar, cincau, dan sirup manis yang menghasilkan harmoni rasa yang memanjakan lidah.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890104/umkm/es%20degan%20dan%20es%20campur/WhatsApp_Image_2024-07-01_at_13.32.48_2de84cde_otqsyo.jpg",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Menu Kami",
+      // required
+      data: [
+        {
+          name: "Es Degan",
+          deskripsi:
+            "Es degan adalah minuman khas Indonesia yang menyegarkan dan alami. Terbuat dari air kelapa muda yang segar, es degan disajikan dengan daging kelapa muda yang lembut dan potongan es batu. ",
+          price: null,
+          img: "https://www.tokomesin.com/wp-content/uploads/2015/03/es-kelapa-muda-tokomesin.jpg",
+        },
+        {
+          name: "Es Campur",
+          deskripsi:
+            "Es campur adalah hidangan penutup tradisional yang kaya akan berbagai macam rasa dan tekstur. Minuman ini menggabungkan berbagai bahan seperti buah-buahan segar (seperti nangka, alpukat, dan kelapa muda), kolang-kaling, cincau, agar-agar, serta serutan es.",
+          price: null,
+          img: "https://i.pinimg.com/736x/f3/1e/cf/f31ecf0f8756efb54b3198a92cddb2e9.jpg",
+        },
+      ],
+    },
+    location:
+    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8365001046195!2d114.35141537500967!3d-8.219192191813313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDkuMSJTIDExNMKwMjEnMTQuNCJF!5e0!3m2!1sid!2sid!4v1720687129001!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
 };
 
 export default dataHaikal;
