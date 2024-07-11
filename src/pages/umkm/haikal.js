@@ -354,7 +354,7 @@ const dataHaikal = {
       ],
     },
     location:
-    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.622484733618!2d114.3619821090279!3d-8.240662365451785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnNDMuMiJF!5e0!3m2!1sid!2sid!4v1720685655093!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.622484733618!2d114.3619821090279!3d-8.240662365451785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnNDMuMiJF!5e0!3m2!1sid!2sid!4v1720685655093!5m2!1sid!2sid",
     footer: {
       noHp: "081232931795",
       alamat:
@@ -368,20 +368,20 @@ const dataHaikal = {
     ctaLink: null,
     keyword: [
       "jual es degan",
-        "jual es campur",
-        "es degan segar",
-        "es campur nikmat",
-        "warung es segar",
-        "es degan asli",
-        "es campur komplit",
-        "minuman es segar",
-        "es degan muda",
-        "es campur enak",
-        "es kelapa muda",
-        "es buah campur",
-        "es campur spesial",
-        "es degan alami",
-        "es campur tradisional",
+      "jual es campur",
+      "es degan segar",
+      "es campur nikmat",
+      "warung es segar",
+      "es degan asli",
+      "es campur komplit",
+      "minuman es segar",
+      "es degan muda",
+      "es campur enak",
+      "es kelapa muda",
+      "es buah campur",
+      "es campur spesial",
+      "es degan alami",
+      "es campur tradisional",
     ],
     color: {
       // required
@@ -397,7 +397,7 @@ const dataHaikal = {
     hero: {
       tagLine: "Segarnya Asli, Nikmat Sejati",
       deskripsi:
-        "Selamat datang di Segarnya Es Sutri, tempat sempurna untuk menikmati minuman es yang menyegarkan di setiap kesempatan. Kami bangga menyajikan menu andalan kami, Es Degan dan Es Campur, yang dibuat dari bahan-bahan segar dan berkualitas tinggi. Es Degan kami diambil langsung dari kelapa muda pilihan, sedangkan Es Campur kami menghadirkan kombinasi sempurna dari berbagai buah segar dan bahan-bahan pelengkap lainnya.",
+        "Selamat datang di Segarnya Es, tempat sempurna untuk menikmati minuman es yang menyegarkan di setiap kesempatan. Kami bangga menyajikan menu andalan kami, Es Degan dan Es Campur, yang dibuat dari bahan-bahan segar dan berkualitas tinggi. Es Degan kami diambil langsung dari kelapa muda pilihan, sedangkan Es Campur kami menghadirkan kombinasi sempurna dari berbagai buah segar dan bahan-bahan pelengkap lainnya.",
       btn: false, // optional
       btnText: "Pesan sekarang",
       img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890104/umkm/es%20degan%20dan%20es%20campur/WhatsApp_Image_2024-07-01_at_13.32.48_2de84cde_otqsyo.jpg",
@@ -433,11 +433,78 @@ const dataHaikal = {
       ],
     },
     location:
-    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8365001046195!2d114.35141537500967!3d-8.219192191813313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDkuMSJTIDExNMKwMjEnMTQuNCJF!5e0!3m2!1sid!2sid!4v1720687129001!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8365001046195!2d114.35141537500967!3d-8.219192191813313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDkuMSJTIDExNMKwMjEnMTQuNCJF!5e0!3m2!1sid!2sid!4v1720687129001!5m2!1sid!2sid",
     footer: {
       noHp: null,
-      alamat:
-        "Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+      alamat: "Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "es-jeruk-peras": {
+    title: "Es Jeruk Peras",
+    icon: null,
+    navbarTitle: "Es Jeruk Peras",
+    ctaLink: null,
+    keyword: [
+      "es jeruk peras",
+      "minuman segar",
+      "jeruk peras alami",
+      "es jeruk segar",
+      "jus jeruk peras",
+      "minuman sehat",
+      "jeruk peras murni",
+      "minuman buah segar",
+      "es jeruk asli",
+      "es jeruk peras dingin",
+      "minuman jeruk segar",
+      "es jeruk peras sehat",
+    ],
+    color: {
+      // required
+      primary: "bg-[#e8d875]",
+      secondary: "bg-[#ffc107]",
+      backgroundColor: "bg-[#FAF2F8]",
+      hoverColor: "hover:bg-[#a8693f]",
+      textColor: "text-[#180c0c]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#258641]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Harimu dengan Es Jeruk Peras Alami!",
+      deskripsi:
+        "Selamat datang di Es Jeruk Peras Alami! Kami menghadirkan minuman segar dari perasan jeruk asli yang diolah dengan tangan terampil untuk memberikan rasa segar yang tak tertandingi. Dengan menggunakan jeruk pilihan terbaik, kami memastikan setiap gelas es jeruk peras kami kaya akan vitamin C dan penuh dengan rasa manis alami.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890309/umkm/es%20jeruk%20peras/WhatsApp_Image_2024-07-01_at_13.39.53_e8b15547_thj8eh.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Rasakan Kesegaran Alami di Setiap Tegukan",
+
+      deskripsi:
+        "Cobalah es jeruk peras kami untuk menghilangkan dahaga dan menambah energi Anda sepanjang hari. Baik dinikmati saat santai bersama keluarga, sebagai teman di kala bekerja, atau setelah berolahraga, es jeruk peras kami selalu menjadi pilihan tepat untuk kesegaran dan kesehatan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890309/umkm/es%20jeruk%20peras/WhatsApp_Image_2024-07-01_at_13.39.53_e8b15547_thj8eh.jpg",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Menu Kami",
+      // required
+      data: [
+        {
+          name: "Es Jeruk Peras",
+          deskripsi:
+            "Es jeruk peras adalah minuman segar yang terbuat dari perasan jeruk asli, menawarkan rasa manis dan asam alami. Kaya akan vitamin C, minuman ini tidak hanya menyegarkan tetapi juga menyehatkan.",
+          price: "Rp 5.000",
+          img: "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2e150cb2-5638-492f-8dca-a648b4e48cb2_02fc5923-67a1-498c-a786-6154096fa1fb_Go-Biz_20200328_182432.jpeg",
+        },
+      ],
+    },
+    location:
+    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7477522488034!2d114.35756057500966!3d-8.22810219180469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDEuMiJTIDExNMKwMjEnMzYuNSJF!5e0!3m2!1sid!2sid!4v1720690979683!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Taman Baru, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur",
     },
   },
 };
