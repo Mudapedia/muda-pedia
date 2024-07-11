@@ -482,7 +482,7 @@ const dataHaikal = {
       txt: "Rasakan Kesegaran Alami di Setiap Tegukan",
 
       deskripsi:
-        "Cobalah es jeruk peras kami untuk menghilangkan dahaga dan menambah energi Anda sepanjang hari. Baik dinikmati saat santai bersama keluarga, sebagai teman di kala bekerja, atau setelah berolahraga, es jeruk peras kami selalu menjadi pilihan tepat untuk kesegaran dan kesehatan.", // optional
+        "Cobalah es jeruk peras kami untuk menghilangkan dahaga dan menambah energi Anda sepanjang hari. Baik dinikmati saat santai bersama keluarga, sebagai teman di kala bekerja, atau setelah berolahraga.", // optional
       img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890309/umkm/es%20jeruk%20peras/WhatsApp_Image_2024-07-01_at_13.39.53_e8b15547_thj8eh.jpg",
       btn: false, // optional
       btnText: "Pesan Sekarang",
