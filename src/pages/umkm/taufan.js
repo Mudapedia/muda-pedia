@@ -454,6 +454,81 @@ const dataTaufan = {
         alamat: "Jl. Ikan Layur, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
       },
     },
+    "pentol-cilok-dan-tahu-walek" : {   
+      title: "Pentol Cilok dan Tahu Walik",
+      icon: null,
+      navbarTitle: "Pentol Cilok dan Tahu Walik",
+      ctaLink: null,
+      keyword: [
+       "pentol cilok",
+      "cilok enak",
+      "cilok tradisional",
+      "cilok lezat",
+      "cilok terbaik",
+      "tahu walik",
+      "tahu walik enak",
+      "tahu walik bandung",
+      "tahu walik lezat",
+      "tahu walik special",
+      "tahu walik khas",
+      "tahu walik asli",
+      "menu pentol cilok",
+      "menu tahu walik"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#FBFB91]",
+        secondary: "bg-[#FBFB91]",
+        backgroundColor: "bg-[#fdfdfa]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Kelezatan Tradisional Pentol Cilok dan Tahu Walik",
+        deskripsi: " Setiap gigitan membawa Anda pada pengalaman rasa yang memikat",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889900/umkm/pentol%20cilok%20dan%20tahu%20walek/WhatsApp_Image_2024-07-01_at_13.31.28_3df879fa_dtqptl.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Camilan Nikmat dengan Pentol Cilok dan Tahu Walik",
+  
+        deskripsi: "  Sempurnakan pengalaman kuliner Anda dengan camilan yang memuaskan hanya di tempat kami, ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889900/umkm/pentol%20cilok%20dan%20tahu%20walek/WhatsApp_Image_2024-07-01_at_13.31.28_3df879fa_dtqptl.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Pentol Cilok",
+            deskripsi:
+              "entol cilok adalah camilan tradisional Indonesia yang terbuat dari campuran tepung tapioka, daging ayam atau ikan, dan bumbu-bumbu rempah.",
+            price: null,
+            img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/9/3/3078b1da-3c9a-483d-8782-f8195e341f25.jpg",
+          },
+          {
+            name: "Tahu Walek",
+            deskripsi:
+              "Tahu walik merupakan hidangan khas Jawa Barat yang terkenal dengan keunikannya.",
+            price: null,
+            img: "https://cdn.yummy.co.id/content-images/images/20221214/DWNxA1QZYrifhqMf701TACcRfJFvW613-31363730393839353739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.58352068217!2d114.36675697500984!3d-8.244565291788756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnNDAuNCJTIDExNMKwMjInMDkuNiJF!5e0!3m2!1sid!2sid!4v1720684699290!5m2!1sid!2sid" ,
+      footer: {
+        noHp: null,
+        alamat: "Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
+      },
+    },
   };
   
   export default dataTaufan;
