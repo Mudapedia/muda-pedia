@@ -303,6 +303,82 @@ const dataTri = {
       alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi",
     },
   },
+  "siomay-batagor-bang-udin": {
+    title: "Batagor Bang Udin",
+    icon: null,
+    navbarTitle: "Batagor Bang Udin",
+    ctaLink: null,
+    keyword: [
+      "Siomay dan Batagor Bang Udin",
+      "Siomay Enak",
+      "Batagor Renyah",
+      "Batagor Bandung",
+      "Siomay Bandung",
+      "Siomay Asli",
+      "Batagor Asli",
+      "Siomay Khas",
+      "Batagor Khas",
+      "Siomay Udang",
+      "Batagor Udang",
+      "Siomay Tahu",
+      "Siomay Seafood",
+      "Batagor Seafood",
+      "Siomay Daging"
+    ]
+    ,
+    color: {
+      // required
+      primary: "bg-[#e60f0f]",
+      secondary: "bg-[#ce9847]",
+      backgroundColor: "bg-[#fdfbfb]",
+      hoverColor: "hover:bg-[#ce6c6c]",
+      textColor: "text-[#130b0b]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#ce6c6c]",
+    },
+
+    hero: {
+      tagLine: "Kuliner Legendaris Khas Jakarta yang Menggoda Selera",
+      deskripsi: "Siomay dan Batagor Bang Udin adalah dua hidangan legendaris dari Jakarta yang telah menjadi favorit banyak orang karena cita rasa dan kelezatannya yang tak tertandingi.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889082/umkm/siomai%20dan%20batagor%20bang%20udin/WhatsApp_Image_2024-07-01_at_13.25.33_3524b4b9_nqjtph.jpg",
+    },
+    about: {
+      title: "Tentang Kami",
+      txt: "Nikmati Kelezatan Siomay dan Batagor Bang Udin",
+
+      deskripsi: "Jangan lewatkan kesempatan untuk menikmati Siomay dan Batagor legendaris dari Bang Udin! Siomay dengan isi yang lembut dan Batagor dengan kulit yang renyah, disajikan dengan saus kacang yang khas, memberikan pengalaman kuliner yang tak terlupakan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889181/umkm/siomai%20dan%20batagor%20bang%20udin/WhatsApp_Image_2024-07-01_at_13.25.32_def08d4f_zrh0oh.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami!",
+      // required
+      data: [
+        {
+          name: "Siomay",
+          deskripsi:
+            "Olahan makanan berbahan dasar daging dan tepung yang dicampur dengan bahan pelengkap lainnya",
+          price: null,
+          img: "https://awsimages.detik.net.id/community/media/visual/2022/01/24/resep-siomay-ayam_43.jpeg?w=1200",
+        },
+        {
+          name: "Batagor",
+          deskripsi:
+            "Perpaduan unik antara bakso dan tahu goreng, yang disajikan dengan saus kacang yang kaya rasa.",
+          price: null,
+          img: "https://www.kba.one/files/images/20231104-screenshot-20231104-123946-instagram.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d7674.00008706767!2d114.36348032445206!3d-8.215362521724861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTguOSJTIDExNMKwMjEnNTIuOSJF!5e0!3m2!1sid!2sid!4v1720688643444!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Jl. Jaksa Agung Suprapto 51-53, Penganjuran, Kec. Banyuwangi",
+    },
+  },
 };
 
 export default dataTri;
