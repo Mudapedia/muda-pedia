@@ -152,6 +152,92 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "molen-pak-arifin": {
+      title: "Molen Pak Arifin",
+      icon: null,
+      navbarTitle: "Molen Pak Arifin",
+      ctaLink: "null",
+        keyword: [
+          "Molen Pak Arifin",
+          "Indonesian pastry",
+          "Traditional molen",
+          "Banana molen",
+          "Street food",
+          "Famous molen vendor",
+          "Pak Arifin's molen",
+          "Sweet pastry",
+          "Crispy molen",
+          "Banana roll",
+          "Molen recipe",
+          "Bakery",
+          "Indonesian snack",
+          "Fried pastry",
+          "Popular molen",
+          "Dessert",
+          "Snack vendor",
+          "Local delicacy"
+      ]
+
+      ,
+      color: {
+        // required
+        primary: "bg-[#6e8bff]",
+        secondary: "bg-[#b0abff]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#ef4444]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+
+      hero: {
+        tagLine: "Rasakan cita rasa molen yang luar biasa!",
+        deskripsi: "Nikmati cita rasa Molen Pak Arifin yang lezat, dan Setiap gigitan menghadirkan perpaduan sempurna antara kerenyahan dan rasa manis",
+        btn: false, // optional
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889958/umkm/molen%20pak%20arifin/WhatsApp_Image_2024-07-01_at_13.32.01_c8cda4d8_vscmgr.jpg",
+      },
+      about: {
+        title: null,
+        txt: "Ayo, cobain dan nikmati sendiri Molen dengan berbagai rasa!",
+  
+        deskripsi: "Segera beli sekarang dan nikmati sebagai camilan atau hidangan penutup, molen kami menjanjikan cita rasa dari berbagai isian rasa.", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889970/umkm/molen%20pak%20arifin/WhatsApp_Image_2024-07-01_at_13.32.00_09733de7_xwr3gw.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk terlaris",
+        // required
+        data: [
+          {
+            name: "Molen Ori",
+            deskripsi:
+              "rasa original",
+            price: null,
+            img: "https://i.ytimg.com/vi/GeGi9VvliGg/maxresdefault.jpg",
+          },
+          {
+            name: "Molen Coklat",
+            deskripsi:
+              "Rasa Coklat",
+            price: null,
+            img: "https://down-id.img.susercontent.com/file/ad0200bc0f851b6c184ea6c8680bb784",
+          },
+          {
+            name: "Molen Keju",
+            deskripsi:
+              "rasa Keju",
+            price: null,
+            img: "https://img-global.cpcdn.com/recipes/853f349845df1e86/680x482cq70/molen-pisang-keju-mini-foto-resep-utama.jpg",
+          },
+        ],
+      },
+      location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.896428019143!2d114.34694157500961!3d-8.213170191819188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNDcuNCJTIDExNMKwMjAnNTguMyJF!5e0!3m2!1sid!2sid!4v1720681443896!5m2!1sid!2sid",
+      footer: {
+        alamat: null,
+      },
+    },
   };
   
   export default dataWildan;
