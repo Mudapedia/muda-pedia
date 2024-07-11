@@ -529,6 +529,78 @@ const dataTaufan = {
         alamat: "Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
       },
     },
+    "es-teler" : {   
+      title: "Es Teler",
+      icon: null,
+      navbarTitle: "Es Teler",
+      ctaLink: null,
+      keyword: [
+      "Es Teler",
+      "Es Teler enak",
+      "Es Teler segar",
+      "Es Teler lezat",
+      "Es Teler buah",
+      "Es Teler khas Indonesia",
+      "Es Teler special",
+      "Es Teler manis",
+      "Es Teler seger",
+      "Es Teler tradisional",
+      "Menu Es Teler"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#6FC6E6]",
+        secondary: "bg-[#6FC6E6]",
+        backgroundColor: "bg-[#F1F7F9]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Es Teler Segarnya Buah-buahan Tropis dalam Setiap Gigitan",
+        deskripsi: "Setiap sajian Es Teler kami tidak hanya memanjakan lidah Anda ",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890152/umkm/es%20teler/WhatsApp_Image_2024-07-01_at_13.36.18_25784af9_iuhmse.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Kelezatan Es Teler ala Indonesia",
+  
+        deskripsi: "Rasakan kelezatan tradisional yang autentik di Es Teler kami, tempat cita rasa bertemu dengan kenyamanan. ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890151/umkm/es%20teler/WhatsApp_Image_2024-07-01_at_13.36.20_4bb0aa94_brvrel.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Es Teler Keju",
+            deskripsi:
+              "  varian unik dari es teler yang menambahkan kelezatan keju sebagai tambahan istimewa. Berpadu dengan buah-buahan segar",
+            price: "Rp.8.000,00",
+            img: "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ad2df21b-1230-4e1d-aba9-556d393f9901_Go-Biz_20210708_180816.jpeg",
+          },
+          {
+            name: "Es Teh",
+            deskripsi:
+              " minuman dingin yang disajikan dengan es batu, teh hitam atau teh hijau yang sudah diseduh, dan pemanis sesuai selera",
+            price: "Rp.3.000,00",
+            img: "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7489909929773!2d114.35799237500981!3d-8.227977891804809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDAuNyJTIDExNMKwMjEnMzguMCJF!5e0!3m2!1sid!2sid!4v1720685406278!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68417",
+      },
+    },
   };
   
   export default dataTaufan;
