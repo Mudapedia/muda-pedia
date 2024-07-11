@@ -665,6 +665,76 @@ const dataTaufan = {
         alamat: "Jl. Jaksa Agung Suprapto 55-63, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
       },
     },
+    "pear" : {   
+      title: "Pear",
+      icon: null,
+      navbarTitle: "Pear",
+      ctaLink: null,
+      keyword: [
+     "pear",
+      "pear menu",
+      "pear fruit",
+      "pear dishes",
+      "fresh pear",
+      "pear recipes",
+      "pear dessert",
+      "pear salad",
+      "pear smoothie",
+      "pear juice",
+      "pear nutrition",
+      "pear benefits",
+      "pear health",
+      "pear dishes ideas",
+      "pear food",
+      "pear cuisine"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#CDE08C]",
+        secondary: "bg-[#CDE08C]",
+        backgroundColor: "bg-[#F8FAF4]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Berkreasi dengan Kelezatan Pear di Setiap Sajian",
+        deskripsi: "Nikmati sensasi manis dan segar dari pear yang kami perjualkan",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719888790/umkm/pear/WhatsApp_Image_2024-07-01_at_13.23.16_704c60f5_kk5sug.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Kelezatan Segar Buah Pir, Sentuhan Sehat Setiap Hari",
+  
+        deskripsi: "Buah pir kami dipilih dengan teliti untuk memastikan rasa manis dan tekstur yang sempurna", // optional
+        img: "https://dream-app.net/wp-content/uploads/2023/05/artoff381.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Buah Pir",
+            deskripsi:
+              " Buah pir adalah sumber nutrisi yang kaya akan serat, vitamin, dan mineral yang penting untuk kesehatan tubuh.",
+            price: null,
+            img: "https://www.starkbros.com/images/dynamic/6530-960x960.jpg",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.862279827859!2d114.3576269750096!3d-8.216602191815818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTkuOCJTIDExNMKwMjEnMzYuNyJF!5e0!3m2!1sid!2sid!4v1720686721675!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. Jaksa Agung Suprapto 89-97, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+      },
+    },
   };
   
   export default dataTaufan;
