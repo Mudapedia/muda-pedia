@@ -220,6 +220,89 @@ const dataTri = {
       alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi",
     },
   },
+  "cimol-putra-sunda": {
+    title: "Cimol Putra Sunda",
+    icon: null,
+    navbarTitle: "Cimol Putra Sunda",
+    ctaLink: null,
+    keyword: [
+      "Cimol Putra Sunda",
+      "Cimol Enak",
+      "Cimol Gurih",
+      "Cimol Khas Sunda",
+      "Tahu Bulat",
+      "Tahu Bulat Enak",
+      "Tahu Bulat Gurih",
+      "Sotong Goreng",
+      "Sotong Kriuk",
+      "Sotong Renyah",
+      "Jajanan Cimol",
+      "Jajanan Tahu Bulat",
+      "Jajanan Sotong",
+      "Street Food Cimol",
+      "Street Food Sunda"
+    ]
+    ,
+    color: {
+      // required
+      primary: "bg-[#e60f0f]",
+      secondary: "bg-[#dfe68e]",
+      backgroundColor: "bg-[#fdfbfb]",
+      hoverColor: "hover:bg-[#ce6c6c]",
+      textColor: "text-[#130b0b]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#ce6c6c]",
+    },
+
+    hero: {
+      tagLine: "Cemilan Gurih dan Kenyal Khas yang Bikin Ketagihan",
+      deskripsi: "Cimol Putra Sunda adalah salah satu cemilan khas dari daerah Sunda yang terkenal dengan rasa gurih dan teksturnya yang kenyal.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890165/umkm/cimol%20putra%20sunda/WhatsApp_Image_2024-07-01_at_13.36.21_d42b1eb5_waynqk.jpg",
+    },
+    about: {
+      title: "Tentang Kami",
+      txt: "Nikmati Kelezatan Cimol Putra Sunda, Camilan Favorit Pilihan!",
+
+      deskripsi: "Rasakan kelezatan unik dari Cimol Putra Sunda! Camilan yang terkenal dengan tekstur renyah di luar dan lembut di dalamnya, dilengkapi dengan berbagai pilihan topping yang menggugah selera.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890165/umkm/cimol%20putra%20sunda/WhatsApp_Image_2024-07-01_at_13.36.21_d42b1eb5_waynqk.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami!",
+      // required
+      data: [
+        {
+          name: "Cimol",
+          deskripsi:
+            "Makanan ringan khas Sunda yang dibuat dari tepung kanji.",
+          price: null,
+          img: "https://asset.kompas.com/crops/2JjDtoT4eZ8dFuR3-4KhUharRgM=/0x29:680x482/750x500/data/photo/2022/01/18/61e65e1bef69f.jpg",
+        },
+        {
+          name: "Sotong",
+          deskripsi:
+            "Sotong adalah salah satu gorengan berbahan dasar tepung tapioka dan tepung terigu",
+          price: null,
+          img: "https://www.piknikdong.com/wp-content/uploads/2022/01/Resep-Sotong-Tahu-Bulat.jpg",
+        },
+        {
+          name: "Tahu Bulat",
+          deskripsi:
+            "Tahu bulat adalah sebuah jajanan kaki lima berupa olahan kacang kedelai yang dibuat menjadi sebuah tahu berbentuk bulat dengan isi kopong.",
+          price: null,
+          img: "https://asset.kompas.com/crops/N31EHtZDMjprQtDT-IOD5-YRZj4=/0x0:1000x667/750x500/data/photo/2021/06/17/60cadbd0727cc.jpg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7489909929773!2d114.35799237500981!3d-8.227977891804809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDAuNyJTIDExNMKwMjEnMzguMCJF!5e0!3m2!1sid!2sid!4v1720687568678!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi",
+    },
+  },
 };
 
 export default dataTri;
