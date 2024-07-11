@@ -108,7 +108,7 @@ const dataHaikal = {
       "Inoki",
       "Seblak Kekinian",
       "Seblak Pedas",
-      "Mie Pedas",      
+      "Mie Pedas",
       "Seblak Viral",
       "Kuliner Favorit",
       "Mie Setan Pedas",
@@ -178,7 +178,7 @@ const dataHaikal = {
       ],
     },
     location:
-    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.801138673385!2d114.3564308733235!3d-8.222743515155676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMjEuOSJTIDExNMKwMjEnMjMuMyJF!5e0!3m2!1sid!2sid!4v1720681439245!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.801138673385!2d114.3564308733235!3d-8.222743515155676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMjEuOSJTIDExNMKwMjEnMjMuMyJF!5e0!3m2!1sid!2sid!4v1720681439245!5m2!1sid!2sid",
     footer: {
       noHp: null,
       alamat:
@@ -210,9 +210,8 @@ const dataHaikal = {
       "Semangka Enak",
       "Buah-Buahan Segar",
       "Buah-Buahan Manis",
-      "Toko Buah Segar"
-  ]
-  ,
+      "Toko Buah Segar",
+    ],
     color: {
       // required
       primary: "bg-[#5449a6]",
@@ -270,11 +269,96 @@ const dataHaikal = {
       ],
     },
     location:
-    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.844260749721!2d114.35102207500967!3d-8.21841259181407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDYuMyJTIDExNMKwMjEnMTMuMCJF!5e0!3m2!1sid!2sid!4v1720682990101!5m2!1sid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.844260749721!2d114.35102207500967!3d-8.21841259181407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDYuMyJTIDExNMKwMjEnMTMuMCJF!5e0!3m2!1sid!2sid!4v1720682990101!5m2!1sid!2sid",
     footer: {
       noHp: null,
       alamat:
         "Jl. Angklung Caruk, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
+  "warung-pojok-sutri": {
+    title: "Warung Pojok Sutri",
+    icon: null,
+    navbarTitle: "Warung Pojok Sutri",
+    ctaLink: "https://wa.me/6281232931795",
+    keyword: [
+      "warung pojok sutri",
+      "rujak lontong enak",
+      "nasi tempong lezat",
+      "es campur segar",
+      "kuliner rujak lontong",
+      "kuliner nasi tempong",
+      "kuliner es campur",
+      "rujak lontong khas",
+      "nasi tempong asli",
+      "es campur nikmat",
+      "warung makan enak",
+      "rujak lontong tradisional",
+      "nasi tempong pedas",
+      "es campur komplit",
+    ],
+    color: {
+      // required
+      primary: "bg-[#e3eb8f]",
+      secondary: "bg-[#b37c79]",
+      backgroundColor: "bg-[#FAF2F8]",
+      hoverColor: "hover:bg-[#b1ac7b]",
+      textColor: "text-[#180c0c]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#6a6c78]",
+    },
+
+    hero: {
+      tagLine: "Rasa Asli, Nikmat Pasti",
+      deskripsi:
+        "Selamat datang di Warung Pojok Sutri, tempat di mana cita rasa tradisional bertemu dengan suasana yang nyaman dan hangat. Kami menyajikan menu andalan yang menggugah selera seperti Rujak Lontong, Nasi Tempong, dan Es Campur, yang semuanya dibuat dengan bahan-bahan segar dan bumbu pilihan khas Nusantara. Datang dan nikmati kelezatan kuliner autentik yang akan membuat Anda merasa seperti di rumah sendiri.",
+      btn: true, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720683607/umkm/warung%20pojok%20sutri/sutri_beirxd.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Warung Pojok Sutri",
+
+      deskripsi:
+        "Warung Pojok Sutri adalah sebuah usaha kuliner yang menyajikan berbagai hidangan lezat dan autentik khas Indonesia. Terletak di sudut strategis yang mudah dijangkau, warung ini menawarkan pengalaman makan yang nyaman dan ramah bagi semua kalangan.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889885/umkm/warung%20pojok%20sutri/WhatsApp_Image_2024-07-01_at_13.30.57_e91e9991_foaitp.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Menu Unggulan Kami",
+      // required
+      data: [
+        {
+          name: "Rujak Lontong",
+          deskripsi:
+            "Kombinasi unik antara lontong yang lembut dengan rujak buah segar yang disiram dengan bumbu kacang pedas dan manis. Hidangan ini menawarkan rasa yang kompleks dengan perpaduan antara manis, asam, dan pedas.",
+          price: null,
+          img: "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/31/206c7abe-116a-48cf-bf82-51b1e8c2b694.jpg",
+        },
+        {
+          name: "Nasi Tempong",
+          deskripsi:
+            "Hidangan khas dari Banyuwangi yang terdiri dari nasi putih, sayuran segar, sambal khas tempong yang pedas, dan lauk pauk seperti ikan asin atau ayam goreng. Nasi tempong dikenal dengan rasanya yang pedas dan menggugah selera.",
+          price: null,
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4l41gB1gH4a-FD5s7CQye5kMRbWwQbAJ9JQ&s",
+        },
+        {
+          name: "Es Campur",
+          deskripsi:
+            "Minuman penutup yang menyegarkan, terdiri dari campuran berbagai bahan seperti cincau, kelapa muda, kolang-kaling, tape, alpukat, dan sirup manis, serta es serut. Es campur adalah pilihan sempurna untuk menghilangkan dahaga di hari yang panas.",
+          price: null,
+          img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/06/gendut_kulineran.jpg",
+        },
+      ],
+    },
+    location:
+    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.622484733618!2d114.3619821090279!3d-8.240662365451785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnNDMuMiJF!5e0!3m2!1sid!2sid!4v1720685655093!5m2!1sid!2sid",
+    footer: {
+      noHp: "081232931795",
+      alamat:
+        "Jl. Ikan Layur, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
     },
   },
 };
