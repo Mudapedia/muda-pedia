@@ -71,6 +71,87 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "rujak-dan-es-krim": {
+      title: "Rujak Dan Es Krim",
+      icon: null,
+      navbarTitle: "Rujak Dan Es Krim",
+      ctaLink: "null",
+        keyword: [
+          "Indonesian fruit salad",
+          "Spicy fruit salad",
+          "Traditional Indonesian snack",
+          "Rujak sauce",
+          "Peanut sauce",
+          "Street food",
+          "Rujak recipe",
+          "Ice cream",
+          "Frozen dessert",
+          "Creamy treat",
+          "Indonesian ice cream",
+          "Traditional ice cream",
+      ]
+      
+
+      ,
+      color: {
+        // required
+        primary: "bg-[#6e8bff]",
+        secondary: "bg-[#b0abff]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#ef4444]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+
+      hero: {
+        tagLine: "Rujak dan es krim kombinasi yang sempurna!",
+        deskripsi: "Bersantailah dan manjakan diri Anda dengan es krim kami yang lezat, dan dipadukan dengan berbagai buah segar dan berair dengan saus kacang asam jawa yang pedas!",
+        btn: false, // optional
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889311/umkm/rujak%20dan%20es%20krim/WhatsApp_Image_2024-07-01_at_13.26.06_943e30b8_y688vf.jpg",
+      },
+      about: {
+        title: null,
+        txt: "Ayo, cobain dan nikmati sendiri rujak es krim nya!",
+  
+        deskripsi: "Segera beli sekarang dan nikmati kelezatan dan kelembutan dari eskrim kami, dan dengan berbagai buah segar dan berair dengan saus kacang asam jawa yang pedas dan nikmat", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720679924/umkm/rujak%20dan%20es%20krim/rujak_ioekso.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk terlaris",
+        // required
+        data: [
+          {
+            name: "ES KRIM RUJAK",
+            deskripsi:
+              "Es krim ditambah dengan rujak",
+            price: null,
+            img: "https://wisatanews.id/wp-content/uploads/2023/04/1682776242651.jpg",
+          },
+          {
+            name: "ES Krim",
+            deskripsi:
+              "rasa stroberi",
+            price: null,
+            img: "https://sayurbox-blog-stage.s3.amazonaws.com/uploads/2020/02/sayurbox-ice-cream-strawberry-savingdessert.jpg",
+          },
+          {
+            name: "Rujak",
+            deskripsi:
+              "rasa original",
+            price: null,
+            img: "https://i.pinimg.com/originals/f9/ca/0c/f9ca0c09bc2b9ba4f96c93cf52edd811.jpg",
+          },
+        ],
+      },
+      location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.8447246132523!2d114.36673817500959!3d-8.218365991814114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDYuMSJTIDExNMKwMjInMDkuNSJF!5e0!3m2!1sid!2sid!4v1720679225286!5m2!1sid!2sid",
+      footer: {
+        alamat: null,
+      },
+    },
   };
   
   export default dataWildan;
