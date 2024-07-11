@@ -5,7 +5,7 @@ import dataMuiz from "./muiz";
 import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
 import muizDataUmkmPremium from "../umkmPremium/muiz";
-import dataTri from "./Tri";
+import dataTri from "./tri";
 
 const Umkm = () => {
   let { umkm } = useParams();
