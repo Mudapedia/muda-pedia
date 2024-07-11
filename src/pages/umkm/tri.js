@@ -151,6 +151,75 @@ const dataTri = {
       alamat: "Jl. K.H. Agus Salim No.138, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri,",
     },
   },
+  "es-teh-oza-eki": {
+    title: "Es Teh Oza Eki",
+    icon: null,
+    navbarTitle: "Teh Oza Eki",
+    ctaLink: null,
+    keyword: [
+      "Es Teh Oza Eki",
+      "Minuman Segar",
+      "Es Teh Manis",
+      "Teh Dingin",
+      "Teh Segar",
+      "Teh Oza Eki",
+      "Es Teh Tradisional",
+      "Minuman Dingin",
+      "Teh Asli",
+      "Es Teh Alami",
+      "Es Teh Enak",
+      "Minuman Ringan",
+      "Teh Premium",
+      "Es Teh Lemon",
+      "Teh Herbal"
+    ]
+    ,
+    color: {
+      // required
+      primary: "bg-[#D8D831]",
+      secondary: "bg-[#92fe80]",
+      backgroundColor: "bg-[#fcfcf5]",
+      hoverColor: "hover:bg-[#e8e856]",
+      textColor: "text-[#161608]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#e8e856]",
+    },
+
+    hero: {
+      tagLine: "Kesegaran Maksimal dengan Rasa Teh yang Khas",
+      deskripsi: "Es Teh Jumbo Oza Eki adalah minuman es teh yang disajikan dalam porsi besar, menawarkan kesegaran maksimal dengan rasa teh yang khas dan nikmat.",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890242/umkm/es%20teh%20jumbo%20oza%20eki/WhatsApp_Image_2024-07-01_at_13.36.42_b510336a_qops7x.jpg",
+    },
+    about: {
+      title: "Tentang Kami",
+      txt: "Segarkan Harimu dengan Es Teh Jumbo yang Nikmat!",
+
+      deskripsi: "Nikmati kesegaran maksimal dengan Es Teh Jumbo yang menyegarkan! Dihidangkan dalam porsi besar dengan rasa teh yang khas, Es Teh Jumbo ini adalah pilihan sempurna untuk menghilangkan dahaga Anda.", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719890242/umkm/es%20teh%20jumbo%20oza%20eki/WhatsApp_Image_2024-07-01_at_13.36.42_b510336a_qops7x.jpg",
+      btn: true, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Produk Kami!",
+      // required
+      data: [
+        {
+          name: "Es Teh Jumbo",
+          deskripsi:
+            "Es teh adalah minuman teh yang disajikan dingin dengan es batu.",
+          price: "Rp 3.000",
+          img: "https://assets-a1.kompasiana.com/items/album/2023/10/20/premium-photo-iced-tea-in-a-plastic-cup-with-ice-65321eecedff764d2d0d5083.jpeg",
+        },
+      ],
+    },
+    location: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.7489909929773!2d114.35799237500981!3d-8.227977891804809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnNDAuNyJTIDExNMKwMjEnMzguMCJF!5e0!3m2!1sid!2sid!4v1720686213536!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat: "Jl. K.H. Agus Salim No.9, Kebalenan, Kec. Banyuwangi",
+    },
+  },
 };
 
 export default dataTri;
