@@ -380,6 +380,80 @@ const dataTaufan = {
         alamat: "Tempat Parkir, Jl. Adi Sucipto No.99, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
       },
     },
+    "sempol-dawet" : {   
+      title: "Sempol Dawet",
+      icon: null,
+      navbarTitle: "Sempol Dawet",
+      ctaLink: null,
+      keyword: [
+      "Sempol Dawet",
+      "Sempol Enak",
+      "Sempol Tradisional",
+      "Sempol Renyah",
+      "Es Dawet Segar",
+      "Es Dawet Nikmat",
+      "Es Dawet Tradisional",
+      "Es Dawet Manis",
+      "Sempol Goreng",
+      "Sempol Ayu",
+      "Sempol Dawet Enak",
+      "Es Dawet Sempol",
+      "Menu Sempol Dawet"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#25574B]",
+        secondary: "bg-[#25574B]",
+        backgroundColor: "bg-[#F3F9F8]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Kelezatan Sempol dan Es Dawet yang Menggugah Selera",
+        deskripsi: " Temukan pengalaman kuliner yang memuaskan hanya di Sempol Dawet!",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889818/umkm/sempol%20dawet/WhatsApp_Image_2024-07-01_at_13.30.56_f1ac1131_veyzix.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Kelezatan Sempol dan Kesegaran Dawet dalam Satu Gigitan",
+  
+        deskripsi: "Sempol Dawet adalah pilihan tepat untuk menikmati camilan yang nikmat dan minuman tradisional yang memuaskan. ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889818/umkm/sempol%20dawet/WhatsApp_Image_2024-07-01_at_13.30.56_f1ac1131_veyzix.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Es Dawet",
+            deskripsi:
+              " Es Dawet adalah minuman tradisional Indonesia yang terbuat dari campuran santan, gula merah cair, dan agar-agar yang dipotong kecil-kecil.",
+            price: null,
+            img: "https://imgcdn.solopos.com/@space/2023/05/Es-Dawet-Ayu-Khas-Banjarnegara.jpg",
+          },
+          {
+            name: "Sempol",
+            deskripsi:
+              "  Sempol adalah camilan goreng yang terbuat dari campuran tepung terigu, daging ayam atau ikan yang dicincang halus, dan bumbu-bumbu rempah. ",
+            price: null,
+            img: "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2021/12/02/306913305.jpg",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.6223387487976!2d114.35942867500987!3d-8.240676991792505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTQnMjYuNCJTIDExNMKwMjEnNDMuMiJF!5e0!3m2!1sid!2sid!4v1720683213764!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. Ikan Layur, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418",
+      },
+    },
   };
   
   export default dataTaufan;
