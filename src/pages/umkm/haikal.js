@@ -185,6 +185,98 @@ const dataHaikal = {
         "Jl. K.H. Agus Salim 114-112, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
     },
   },
+  "wage-buah": {
+    title: "Wage Buah",
+    icon: null,
+    navbarTitle: "Wage Buah",
+    ctaLink: null,
+    keyword: [
+      "Wage Buah",
+      "Buah Segar",
+      "Pepaya",
+      "Buah Naga",
+      "Semangka",
+      "Pepaya Segar",
+      "Buah Naga Manis",
+      "Semangka Merah",
+      "Buah Sehat",
+      "Pepaya Manis",
+      "Buah Naga Segar",
+      "Semangka Segar",
+      "Buah Premium",
+      "Buah Favorit",
+      "Pepaya Enak",
+      "Buah Naga Enak",
+      "Semangka Enak",
+      "Buah-Buahan Segar",
+      "Buah-Buahan Manis",
+      "Toko Buah Segar"
+  ]
+  ,
+    color: {
+      // required
+      primary: "bg-[#5449a6]",
+      secondary: "bg-[#9576ba]",
+      backgroundColor: "bg-[#FAF2F8]",
+      hoverColor: "hover:bg-[#b1c6ef]",
+      textColor: "text-[#180c0c]",
+      btnTextColor: "text-white",
+      accentColor: "text-[#0ba7ea]",
+    },
+
+    hero: {
+      tagLine: "Segarkan Hari dengan Kebaikan Buah Alami!",
+      deskripsi:
+        "Selamat datang di Wage Buah, tempat terbaik untuk mendapatkan buah-buahan segar dan berkualitas tinggi yang akan menyegarkan hari Anda. Temukan berbagai manfaat kesehatan dan rasa yang luar biasa dengan buah-buahan segar dari Wage Buah. Segarkan hidup Anda setiap hari bersama kami!",
+      btn: false, // optional
+      btnText: "Pesan sekarang",
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1720682021/umkm/wage%20buah/wagebuah_kziqit.jpg",
+    },
+    about: {
+      title: null,
+      txt: "Segarnya Buah Alami",
+
+      deskripsi:
+        "Wage Buah adalah usaha yang menyediakan berbagai macam buah segar dan berkualitas tinggi seperti pepaya, buah naga, dan semangka. Kami berkomitmen untuk selalu memberikan produk terbaik yang dipetik langsung dari kebun terbaik. Setiap buah yang kami tawarkan dipilih dengan cermat untuk memastikan kesegaran dan kelezatannya. Wage Buah hadir untuk memenuhi kebutuhan Anda akan asupan sehat dan menyegarkan setiap hari. ", // optional
+      img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889563/umkm/wage%20buah/WhatsApp_Image_2024-07-01_at_13.28.51_e6da8373_y3mlzv.jpg",
+      btn: false, // optional
+      btnText: "Pesan Sekarang",
+    },
+    product: {
+      title: "Buah Terbaik Kami",
+      // required
+      data: [
+        {
+          name: "Pepaya",
+          deskripsi:
+            "Pepaya adalah buah tropis yang kaya akan vitamin C, serat, dan enzim papain yang baik untuk pencernaan.",
+          price: null,
+          img: "https://d1bpj0tv6vfxyp.cloudfront.net/articles/937f5e40-8952-4b82-83f8-d36c8643c19d_article_image_url.webp",
+        },
+        {
+          name: "Semangka",
+          deskripsi:
+            "Semangka adalah buah yang kaya akan air, sangat menyegarkan dan mengandung banyak vitamin A, vitamin C, dan antioksidan.",
+          price: null,
+          img: "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/05/04071222/Kaya-Nutrisi-Ini-11-Khasiat-Buah-Semangka-untuk-Kesehatan-Tubuh.jpg",
+        },
+        {
+          name: "Buah Naga",
+          deskripsi:
+            "Buah naga adalah buah eksotis yang memiliki daging buah berwarna merah atau putih dengan biji hitam kecil. Buah ini kaya akan vitamin C, serat, dan antioksidan.",
+          price: null,
+          img: "https://cdn.rri.co.id/berita/42/images/1700816846585-S/iy16ocevfhy7m8f.jpeg",
+        },
+      ],
+    },
+    location:
+    "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.844260749721!2d114.35102207500967!3d-8.21841259181407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDYuMyJTIDExNMKwMjEnMTMuMCJF!5e0!3m2!1sid!2sid!4v1720682990101!5m2!1sid!2sid",
+    footer: {
+      noHp: null,
+      alamat:
+        "Jl. Angklung Caruk, Lingkungan Cuking Rw., Mojopanggung, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    },
+  },
 };
 
 export default dataHaikal;
