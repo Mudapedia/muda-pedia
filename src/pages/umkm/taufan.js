@@ -241,8 +241,71 @@ const dataTaufan = {
         noHp: null,
         alamat: "Jl. Jaksa Agung Suprapto No.66, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
       },
-    }
-    
+    },
+    "es-dawet-ayu-man-soleh" : {   
+      title: "Es Dawet Ayu Man Soleh",
+      icon: null,
+      navbarTitle: "Es Dawet Ayu Man Soleh",
+      ctaLink: null,
+      keyword: [
+       "Es Dawet Ayu Man Soleh",
+        "Es Dawet Enak",
+        "Es Dawet Tradisional",
+        "Es Dawet Segar",
+        "Es Dawet Khas Indonesia",
+        "Es Dawet Original",
+        "Es Dawet Special",
+        "Es Dawet Manis",
+        "Es Dawet Es Khas",
+        "Es Dawet Tradisional Ayu Man Soleh"
+      ]
+      ,
+      color: {
+        // required
+        primary: "bg-[#CCAF7B]",
+        secondary: "bg-[#CCAF7B]",
+        backgroundColor: "bg-[#faf1f1]",
+        hoverColor: "hover:bg-[#012306]",
+        textColor: "text-[#180c0c]",
+        btnTextColor: "text-white",
+        accentColor: "text-[#e85a5a]",
+      },
+  
+      hero: {
+        tagLine: "Segarnya Es Dawet Tradisional",
+        deskripsi: "Selamat datang di Es Dawet Ayu Man Soleh, tempat yang menyajikan Es Dawet tradisional dengan cita rasa yang otentik dan segar.",
+        btn: null, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889478/umkm/es%20dawet%20ayu%20man%20soleh/WhatsApp_Image_2024-07-01_at_13.28.19_4e015aba_bc0ct7.jpg" ,
+      },
+      about: {
+        title: null,
+        txt: "Tingkatkan Segarnya dengan Es Dawet Ayu Man Soleh!",
+  
+        deskripsi: "Nikmati kesegaran dan kelezatan Es Dawet kami dalam suasana yang hangat dan ramah. ", // optional
+        img: "https://res.cloudinary.com/dtiyid0pi/image/upload/v1719889457/umkm/es%20dawet%20ayu%20man%20soleh/WhatsApp_Image_2024-07-01_at_13.28.19_4e015aba_yq0vi9.jpg",
+        btn: false, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Terlaris Kami Nih!",
+        // required
+        data: [
+          {
+            name: "Es Dawet",
+            deskripsi:
+              " Es Dawet adalah minuman tradisional Indonesia yang terbuat dari campuran santan, gula merah cair, dan agar-agar yang dipotong kecil-kecil.",
+            price: "Rp.4.000,00",
+            img: "https://imgcdn.solopos.com/@space/2023/05/Es-Dawet-Ayu-Khas-Banjarnegara.jpg",
+          },
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.887931100347!2d114.33964177500943!3d-8.21402429181827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTInNTAuNSJTIDExNMKwMjAnMzIuMCJF!5e0!3m2!1sid!2sid!4v1720681710731!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. Widuri 51-53, Dusun Watu Ulo, Rejosari, Kec. Glagah, Kabupaten Banyuwangi, Jawa Timur 68432",
+      },
+    },
   };
   
   export default dataTaufan;
