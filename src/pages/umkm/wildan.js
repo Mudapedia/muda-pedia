@@ -242,7 +242,7 @@ const dataWildan = {
       title: "Kue Basah Mba Dita",
       icon: null,
       navbarTitle: "Kue Basah Mba Dita",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Kue Basah Mba Dila",
           "Indonesian wet cakes",
