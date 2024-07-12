@@ -60,7 +60,7 @@ const Mitra = () => {
         </section>
       </section>
 
-      <section className="grid grid-cols-5 md:gridc gap-5 w-full ">
+      <section className="grid lg:grid-cols-5 md:grid-cols-3 grid-cols-2 gap-5 w-full ">
         {keys.length === 0 ? (
           'No items....'
         ) : (
