@@ -327,7 +327,7 @@ const dataWildan = {
       title: "Es Teler Sultan",
       icon: null,
       navbarTitle: "Es Teler Sultan",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Es Teler Sultan",
           "Indonesian fruit cocktail",
