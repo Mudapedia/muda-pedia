@@ -408,7 +408,7 @@ const dataWildan = {
       title: "Macam Macam Pisang",
       icon: null,
       navbarTitle: "Macam Macam Pisang",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Toko Pisang",
           "Banana shop",
