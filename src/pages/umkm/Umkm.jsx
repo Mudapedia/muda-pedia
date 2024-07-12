@@ -6,17 +6,20 @@ import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
 import dataTaufan from "./taufan" ;
 import muizDataUmkmPremium from "../umkmPremium/muiz";
+import dataWildan from "./wildan";
 import dataTest from "./test";
 
 const Umkm = () => {
   let { umkm } = useParams();
   const dataUmkm = Object.assign(
     {},
+    dataWildan,
     dataTaufan ,
     dataMuiz,
     dataIqbal,
     dataRamzi,
-    muizDataUmkmPremium ,
+    muizDataUmkmPremium,
+    dataTest,
   );
 
   if (!dataUmkm[umkm]) {
