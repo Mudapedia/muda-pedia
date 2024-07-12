@@ -2,10 +2,15 @@ import { HelmetProvider, Helmet } from "react-helmet-async";
 import dataMuiz from "./umkm/muiz";
 import dataIqbal from "./umkm/iqbal";
 import dataRamzi from "./umkm/ramzi";
+import dataTaufan from "./umkm/taufan";
+import dataWildan from "./umkm/wildan";
+import dataHaikal from "./umkm/haikal";
+import dataTri from "./umkm/tri";
+import dataTest from "./umkm/test";
 import { useState } from "react";
 
 const CheckDomain = () => {
-  const data = Object.assign({}, dataMuiz, dataRamzi, dataIqbal);
+  const data = Object.assign({}, dataTest,dataTri,dataHaikal,dataWildan,dataTaufan, dataMuiz, dataRamzi, dataIqbal);
   const [domain, setDomain] = useState(Object.keys(data));
 
   const cari = (value) => {

@@ -21,7 +21,7 @@ const NavigationBar = () => {
 
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
-  const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ"];
+  const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ", "Mitra"];
 
   return (
     <Navbar
@@ -87,6 +87,15 @@ const NavigationBar = () => {
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Blog
+            </Link>
+          </NavbarItem>
+          <NavbarItem>
+            <Link
+              color="foreground"
+              href="#mitra"
+              className="hover:text-[#4F5CDF] font-semibold"
+            >
+              Mitra
             </Link>
           </NavbarItem>
           <NavbarItem>
