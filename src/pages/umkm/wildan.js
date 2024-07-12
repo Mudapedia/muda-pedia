@@ -75,7 +75,7 @@ const dataWildan = {
       title: "Rujak Dan Es Krim",
       icon: null,
       navbarTitle: "Rujak Dan Es Krim",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Indonesian fruit salad",
           "Spicy fruit salad",
