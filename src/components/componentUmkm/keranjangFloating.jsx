@@ -17,18 +17,31 @@ const KeranjangFloating = ({
   const btnPesan = (e) => {
     e.preventDefault();
 
-
-    let text = `Pesanan a.n. *${nama.toUpperCase()}* :%0A`
-    text = text+barang
-      .map((v) => `${v.count}x ${v.name} | subtotal : ${new Intl.NumberFormat("id-ID", {
-        style: "currency",
-        currency: "IDR",minimumFractionDigits: 0,maximumFractionDigits: 0,
-      }).format(v.price*v.count)}%0A`)
-      .join("");
-    text = text+`%0Atotal Pesanan : *${new Intl.NumberFormat("id-ID", {
+    let text = `Pesanan a.n. *${nama.toUpperCase()}* :%0A`;
+    text =
+      text +
+      barang
+        .map(
+          (v) =>
+            `${v.count}x ${v.name} | subtotal : ${new Intl.NumberFormat(
+              "id-ID",
+              {
                 style: "currency",
-                currency: "IDR",minimumFractionDigits: 0,maximumFractionDigits: 0,
-              }).format(totalHarga)}*%0A%0ACatatan :%0A${deskripsi}`
+                currency: "IDR",
+                minimumFractionDigits: 0,
+                maximumFractionDigits: 0,
+              }
+            ).format(v.price * v.count)}%0A`
+        )
+        .join("");
+    text =
+      text +
+      `%0Atotal Pesanan : *${new Intl.NumberFormat("id-ID", {
+        style: "currency",
+        currency: "IDR",
+        minimumFractionDigits: 0,
+        maximumFractionDigits: 0,
+      }).format(totalHarga)}*%0A%0ACatatan :%0A${deskripsi}`;
 
     const waURL = `https://wa.me/6281236827185?text=${text}`;
     window.location.href = waURL;
@@ -119,7 +132,8 @@ const KeranjangFloating = ({
           </div>
           <div className="flex justify-between font-semibold border-b-1 px-5 py-2">
             <p>Total Harga :</p>
-            <p>{" "}
+            <p>
+              {" "}
               {new Intl.NumberFormat("id-ID", {
                 style: "currency",
                 currency: "IDR",
@@ -131,7 +145,9 @@ const KeranjangFloating = ({
           <form className="px-4" onSubmit={btnPesan} method="POST">
             {/* form */}
             <div className="mt-3">
-              <label htmlFor="nama" className="text-sm">Nama</label>
+              <label htmlFor="nama" className="text-sm">
+                Nama
+              </label>
               <input
                 id="nama"
                 type="text"
@@ -144,7 +160,7 @@ const KeranjangFloating = ({
               </label>
               <textarea
                 type="text"
-                className="border border-slate-500 rounded-md w-full text-sm mt-1 px-2 py-2 focus:outline-none text-xs"
+                className="border border-slate-500 rounded-md w-full mt-1 px-2 py-2 focus:outline-none text-xs"
                 onChange={(e) => setDeskripsi(e.target.value)}
               />
             </div>
@@ -163,7 +179,11 @@ const KeranjangFloating = ({
         className={`${primary} ${hoverColor} fixed  bottom-3 right-3 rounded-full p-5 cursor-pointer ${showHideKeranjang}`}
         onClick={() => setShowHideKeranjang("hidden")}
       >
-        <div className={`bg-red-500 flex justify-center align-center rounded-full m-0 ${totalBarang==0 ? "hidden" : "absolute"} w-7 h-7 -top-1 -right-1`}>
+        <div
+          className={`bg-red-500 flex justify-center align-center rounded-full m-0 ${
+            totalBarang == 0 ? "hidden" : "absolute"
+          } w-7 h-7 -top-1 -right-1`}
+        >
           <p className="text-sm m-0 text-white">{totalBarang}</p>
         </div>
         <img

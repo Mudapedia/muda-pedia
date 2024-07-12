@@ -9,6 +9,7 @@ import DetailBlog from "./pages/DetailBlog";
 import Umkm from "./pages/umkm/Umkm";
 import CheckDomain from "./pages/CheckDomain";
 import SambelIjok from "./pages/umkm/SambelIjok";
+import Mitra from "./pages/Mitra";
 
 function App() {
   return (
@@ -33,11 +34,11 @@ function App() {
         />
         <Route path="/blog" element={<Blog />} />
         <Route path="/blog/:article" element={<DetailBlog />} />
+        <Route path="/our-mitra" element={<Mitra />} />
 
         <Route path="/cek-domain" element={<CheckDomain />} />
         <Route path="/:umkm" element={<Umkm />} />
         <Route path="/sambel-ijok" element={<SambelIjok />} />
-
       </Routes>
     </BrowserRouter>
   );
