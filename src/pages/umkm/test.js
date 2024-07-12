@@ -78,6 +78,7 @@ const dataTest = {
       alamat: "Dusun Sawahan, Genteng Kulon, Kec. Genteng, Kabupaten Banyuwangi",
     },
   },
+  
   "es-jagung-mayobi": {
     title: "Es Jagung Mayobi",
     icon: null,
