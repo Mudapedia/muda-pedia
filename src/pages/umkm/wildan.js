@@ -156,7 +156,7 @@ const dataWildan = {
       title: "Molen Pak Arifin",
       icon: null,
       navbarTitle: "Molen Pak Arifin",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Molen Pak Arifin",
           "Indonesian pastry",
