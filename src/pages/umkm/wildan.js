@@ -3,7 +3,7 @@ const dataWildan = {
       title: "Bakso Dan Teh Jumbo",
       icon: null,
       navbarTitle: "Bakso Dan Teh Jumbo",
-      ctaLink: "null",
+      ctaLink: null,
         keyword: [
           "Indonesian meatballs",
           "Street food",
