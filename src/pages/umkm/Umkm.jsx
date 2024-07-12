@@ -6,6 +6,7 @@ import dataIqbal from "./iqbal";
 import dataRamzi from "./ramzi";
 import dataTaufan from "./taufan" ;
 import muizDataUmkmPremium from "../umkmPremium/muiz";
+import dataTest from "./test";
 
 const Umkm = () => {
   let { umkm } = useParams();
