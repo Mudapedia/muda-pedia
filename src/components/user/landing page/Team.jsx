@@ -11,28 +11,28 @@ const Team = () => {
       </div>
       <div className="grid lg:grid-cols-4 md:grid-cols-4 grid-cols-1 lg:gap-20 gap-14">
         <div className='justify-between flex items-center flex-col gap-3'>
-          <Image src={'/src/assets/images/profile_pict.svg'}/>
+          <Image src={'/profile_pict.svg'}/>
           <div className='flex flex-col w-full items-center'>
             <h4 className='text-lg font-medium'>Dela Tri Wulandari</h4>
             <p className='text-md  text-[#66676A] text-center'>Customer Relationship</p>
           </div>
         </div>
         <div className='justify-between flex items-center flex-col gap-3'>
-          <Image src={'/src/assets/images/profile_pict (1).svg'}/>
+          <Image src={'/profile_pict (1).svg'}/>
           <div className='flex flex-col w-full items-center'>
             <h4 className='text-lg font-medium'>Theo Fillus J</h4>
             <p className='text-md  text-[#66676A]'>Designer</p>
           </div>
         </div>
         <div className='justify-between flex items-center flex-col gap-3'>  
-          <Image src={'/src/assets/images/profile_pict (2).svg'}/>
+          <Image src={'/profile_pict (2).svg'}/>
           <div className='flex flex-col w-full items-center'>
             <h4 className='text-lg font-medium'>Moh. Haris Sofyan</h4>
             <p className='text-md  text-[#66676A]'>Programmer</p>
           </div>
         </div>
         <div className='justify-between flex items-center flex-col gap-3'>
-          <Image src={'/src/assets/images/profile_pict (3).svg'}/>
+          <Image src={'/profile_pict (3).svg'}/>
           <div className='flex flex-col w-full items-center'>
             <h4 className='text-lg font-medium'>Yasmin Azzahra</h4>
             <p className='text-md  text-[#66676A]'>Content Creator</p>
