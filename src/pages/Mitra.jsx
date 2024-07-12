@@ -2,10 +2,15 @@ import { useState } from "react";
 import dataIqbal from "./umkm/iqbal";
 import dataMuiz from "./umkm/muiz";
 import dataRamzi from "./umkm/ramzi";
+import dataTest from "./umkm/test";
+import dataHaikal from "./umkm/haikal";
+import dataWildan from "./umkm/wildan";
+import dataTaufan from "./umkm/taufan";
+import dataTri from "./umkm/tri";
 import { Link } from "react-router-dom";
 
 const Mitra = () => {
-  const data = Object.assign({}, dataIqbal, dataMuiz, dataRamzi);
+  const data = Object.assign({}, dataTest,dataTri,dataHaikal,dataWildan,dataTaufan, dataMuiz, dataRamzi, dataIqbal);
 
   const [keys, setKeys] = useState(Object.keys(data));
   const keysOri = Object.keys(data);
