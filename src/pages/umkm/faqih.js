@@ -56,7 +56,7 @@ const dataFaqih = {
       "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63180.032907853616!2d114.31743599339602!3d-8.227670255731043!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15b50ed6670d7%3A0xf2e67c46fe261aab!2sDigital%20Blockchain%20Indonesia%2C%20PT!5e0!3m2!1sid!2sid!4v1724730804052!5m2!1sid!2sid",
     footer: { noHp: "082172519703", alamat: "JL Bandara Blimbingsari" },
  },
- "pempek-yudiis":{
+ "pempek-yu-ida":{
     title: "PEMPEK YU'IDA",
   icon: null,
   navbarTitle: "PEMPEK YU'IDA",
