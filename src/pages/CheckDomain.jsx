@@ -8,9 +8,10 @@ import dataHaikal from "./umkm/haikal";
 import dataTri from "./umkm/tri";
 import dataTest from "./umkm/test";
 import { useState } from "react";
+import dataFaqih from "./umkm/faqih";
 
 const CheckDomain = () => {
-  const data = Object.assign({}, dataTest,dataTri,dataHaikal,dataWildan,dataTaufan, dataMuiz, dataRamzi, dataIqbal);
+  const data = Object.assign({}, dataTest,dataTri,dataHaikal,dataWildan,dataTaufan, dataMuiz, dataRamzi, dataIqbal,dataFaqih);
   const [domain, setDomain] = useState(Object.keys(data));
 
   const cari = (value) => {

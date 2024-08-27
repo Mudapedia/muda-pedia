@@ -10,6 +10,7 @@ import dataTri from "./tri";
 import dataHaikal from "./haikal";
 import dataWildan from "./wildan";
 import dataTest from "./test";
+import dataFaqih from "./faqih";
 
 const Umkm = () => {
   let { umkm } = useParams();
@@ -24,6 +25,7 @@ const Umkm = () => {
     dataRamzi,
     muizDataUmkmPremium,
     dataTest,
+    dataFaqih
   );
 
   if (!dataUmkm[umkm]) {
