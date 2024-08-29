@@ -14,7 +14,7 @@ const Hero = () => {
           <Button
           as={Link}
           size="lg"
-          href="#"
+          href="/#features"
           variant="flat"
           className="bg-[#4F5CDF] text-slate-50 rounded-full"
           >Layanan Kami</Button>
