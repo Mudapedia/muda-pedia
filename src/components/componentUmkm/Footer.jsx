@@ -37,13 +37,20 @@ const Footer = ({
           </a>
           . All Rights Reserved.
         </span>
-        <a href="https://mudapedia.my.id" target="_blank" rel="noreferrer">
+        <div className="flex justify-center items-center gap-10">
+          <a href="https://mudapedia.my.id" target="_blank" rel="noreferrer">
+            <img
+              src="/logo-muda-pedia.png"
+              alt="mudapedia"
+              className="w-16 mt-5"
+            />
+          </a>
           <img
-            src="/logo-muda-pedia.png"
+            src="/stikom-logo-hd.png"
             alt="mudapedia"
-            className="w-16 m-auto mt-5"
+            className="w-16 mt-5"
           />
-        </a>
+        </div>
       </div>
     </footer>
   );

@@ -5,6 +5,7 @@ import LoadingAnimate from "../LoadingAnimate";
 import Notif from "./Notif";
 import Content from "../../api/content";
 import { useRef } from "react";
+import axios from "axios";
 
 const FormAdd = ({
   formAddShowHide,
@@ -21,6 +22,7 @@ const FormAdd = ({
   // field
   const [judul, setJudul] = useState("");
   const [thumbnail, setThumbnail] = useState("");
+  const [showThumbnail, setShowThumbnail] = useState("");
 
   const formRef = useRef(null);
 
@@ -38,16 +40,27 @@ const FormAdd = ({
       setBtnLoading(true);
       setBtnDisable(true);
 
+      const form = new FormData();
+      form.append("file", thumbnail);
+      form.append("upload_preset", "mepdzgdb");
+
+      const result = await axios.post(
+        "https://api.cloudinary.com/v1_1/dtiyid0pi/image/upload",
+        form
+      );
+
+      const urlImage = result.data.url;
+
       const res = await Content.Add({
         title: judul,
-        thumbnail: thumbnail,
+        thumbnail: urlImage,
         description: text,
       });
 
       const addItemList = {
         _id: res.data.idContent,
         title: judul,
-        thumbnail: thumbnail,
+        thumbnail: urlImage,
         description: text,
         created_at: Date.now().toString(),
         _v: 0,
@@ -67,6 +80,7 @@ const FormAdd = ({
       formRef.current.reset();
       setJudul("");
       setThumbnail("");
+      setShowThumbnail("");
     } catch (err) {
       setBtnDisable(false);
       setBtnLoading(false);
@@ -99,7 +113,7 @@ const FormAdd = ({
         <section className="flex items-start gap-10">
           <Editor
             required
-            apiKey="po4fi8n43zgwum6n8cmh9pywrf04ps6j1jtcpkrgndbz023p"
+            apiKey="ued8s3qckhqhqv69yigj5v7n6zaz8umnogemb89py7h3l9gc"
             onEditorChange={(newText) => setText(newText)}
             value={text}
             init={{
@@ -147,19 +161,22 @@ const FormAdd = ({
                 Thumbnail
               </label>
               <input
-                type="text"
+                type="file"
                 id="judul"
                 className="border outline-none py-1 px-2 text-sm rounded-md focus:shadow-inner focus:shadow-blue-50 w-56"
                 placeholder="url"
-                onChange={(e) => setThumbnail(e.target.value)}
+                onChange={(e) => {
+                  setShowThumbnail(URL.createObjectURL(e.target.files[0]));
+                  setThumbnail(e.target.files[0]);
+                }}
                 required
               />
             </section>
-            {thumbnail.length > 0 ? (
+            {showThumbnail.length > 0 ? (
               <>
                 <p className="text-sm mt-10">Preview</p>
                 <img
-                  src={thumbnail}
+                  src={showThumbnail}
                   alt="thumbnail"
                   width={200}
                   className="rounded-md"
