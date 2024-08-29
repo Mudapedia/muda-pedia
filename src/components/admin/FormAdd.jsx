@@ -99,7 +99,7 @@ const FormAdd = ({
         <section className="flex items-start gap-10">
           <Editor
             required
-            apiKey="po4fi8n43zgwum6n8cmh9pywrf04ps6j1jtcpkrgndbz023p"
+            apiKey="ued8s3qckhqhqv69yigj5v7n6zaz8umnogemb89py7h3l9gc"
             onEditorChange={(newText) => setText(newText)}
             value={text}
             init={{
