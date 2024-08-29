@@ -33,12 +33,7 @@ const Ourclient = () => {
             <p className="text-[12px] mb-0 text-gray-500">Mitra Kami</p>
           </div>
           <p className="text-gray-500">
-            At Mudapedia, we take immense pride in our diverse and esteemed
-            clientele. Our clients span various industries and sectors, each
-            benefiting from our innovative solutions and dedicated service. We
-            believe in building long-term relationships based on trust,
-            transparency, and mutual growth. Here are some of the valued clients
-            who have chosen Mudapedia as their trusted partner:
+          Di Mudapedia, kami sangat bangga dengan klien kami yang beragam dan terhormat. Klien kami mencakup berbagai industri dan sektor, masing-masing mendapatkan manfaat dari solusi inovatif dan layanan khusus kami. Kami percaya dalam membangun hubungan jangka panjang berdasarkan kepercayaan, transparansi, dan pertumbuhan bersama. Berikut adalah beberapa klien berharga yang telah memilih Mudapedia sebagai mitra terpercaya mereka
           </p>
           <Link
             to="/our-mitra"

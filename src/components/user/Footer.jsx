@@ -12,21 +12,21 @@ const Footer = () => {
               <h1 className='text-white text-4xl font-medium leading-snug'>Let's create a new <br /> obsession with us!</h1>
               <p className='text-[#D9D9D9]'>Contact us to chat and collaborate with us!</p>
             </div>
-            <div className='flex flex-col gap-3'>
+            {/* <div className='flex flex-col gap-3'>
               <p className='text-lg text-white'>Subscribe Our Newsletter</p>
               <form action="mailto:muudapedia@gmail.com" className='flex flex-col  gap-5 lg:flex-row justify-between'>
                 <input type="email" className='bg-[#1A2756] px-4 py-2 rounded-full text-[#C8C8C8] text-sm  focus:outline-none lg:w-[22rem]' placeholder='Alamat Email' />
                 <Button className='bg-[#4F5CDF] rounded-full text-sm text-white py-1 self-end w-fit'>Subscribe</Button>
               </form>
-            </div>
+            </div> */}
           </div>
 
           <div className='flex flex-col gap-16'>
             <div className='flex flex-col gap-1'>
               <p className='text-sm text-[#D9D9D9]'>Kontak kami,</p>
               <a href='mailto:muudapedia@gmail.com' className='text-lg text-white underline'>muudapedia@gmail.com</a>
-              <p className='text-lg text-white'>0831-5098-7880</p>
-              <p className='text-lg text-white'>0821-4398-1522</p>
+              <p className='text-lg text-white'>+62 838-6368-5661</p>
+              
             </div>
             <p className='text-lg text-[#D9D9D9]'>Jl. Sutawijaya, No.89, Sumberrejo, <br /> Kec.Banyuwangi, Kab. Banyuwangi</p>
             <div className='flex gap-3 text-white'>
@@ -35,11 +35,11 @@ const Footer = () => {
               }}>
                 <Instagram />
               </div>
-              <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer' onClick={()=>{
+              {/* <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer' onClick={()=>{
                 window.open('https://www.instagram.com/muda_pedia/')
               }}>
                 <Facebook/>
-              </div>
+              </div> */}
               <div className='bg-[#1A2756] p-3 rounded-full cursor-pointer' onClick={()=>{
                 window.open('https://www.tiktok.com/@mudapediabwi/')
               }}>
