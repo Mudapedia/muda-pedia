@@ -690,7 +690,6 @@ const dataTaufan = {
       ]
       ,
       color: {
-        // required
         primary: "bg-[#CDE08C]",
         secondary: "bg-[#CDE08C]",
         backgroundColor: "bg-[#F8FAF4]",
@@ -733,6 +732,459 @@ const dataTaufan = {
       footer: {
         noHp: null,
         alamat: "Jl. Jaksa Agung Suprapto 89-97, Penganjuran, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+      },
+    },
+    "es-lumut-segar" : {   
+      title: "ES LUMUT",
+      icon: null,
+      navbarTitle: "ES LUMUT",
+      ctaLink: "https://wa.me/6282334436338",
+      keyword: [
+     "Warung Nasi Mbak Dita",
+     "Sego Tempong Banyuwangi",
+     "Sego Pecel Banyuwangi",
+     "Nasi Tempong Pedas",
+     "Nasi Pecel Khas Banyuwangi",
+     "Makanan Halal Banyuwangi",
+     "Kuliner Banyuwangi",
+     "Restoran Khas Banyuwangi",
+     "Hidangan Tradisional Banyuwangi",
+     "Nasi Putih dan Sambal Tempong",
+     "Pecel Sayuran Segar",
+     "Warung Makan Halal Banyuwangi",
+     "Sajian Nasi Banyuwangi",
+     "Tempat Makan di Karangbendo",
+     "Makanan Lezat Banyuwangi"
+      ]
+      ,
+      color: {
+        primary: "bg-[#3FD100]",
+        secondary: "bg-[#a8ffaa]",
+        backgroundColor: "bg-[#ffffff]",
+        hoverColor: "hover:bg-[#658a00]",
+        textColor: "text-[#010010]",
+        btnTextColor: "text-[#ffffff]",
+        accentColor: "text-[#000000]",
+      },
+  
+      hero: {
+        tagLine: "Kesegaran Alami, Kenikmatan Tiap Suapan!",
+        deskripsi: "ES LUMUT menghadirkan kesegaran alami dalam setiap suapan. Dengan bahan-bahan berkualitas dan proses pembuatan yang penuh perhatian, ES LUMUT kami menawarkan sensasi dingin yang menyegarkan dan rasa yang unik. Dapatkan sensasi berbeda dan kepuasan maksimal dari setiap sendok ES LUMUT, yang disajikan dengan penuh kasih dan sesuai dengan sertifikasi halal. Segera kunjungi kami dan nikmati es moss yang memanjakan lidah!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://www.blibli.com/friends-backend/wp-content/uploads/2023/08/B800049-3-Tips-Antigagal-Membuat-Es-Lumut-Nutrijell-1024x538.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "ES LUMUT EKA DEVI RUSDIANA",
+  
+        deskripsi: "Kami mengutamakan kualitas dengan menggunakan bahan-bahan pilihan dan proses pembuatan yang cermat untuk menghasilkan ES LUMUT yang segar dan menyenangkan. Kami percaya bahwa setiap suapan ES LUMUT kami adalah pengalaman yang menyegarkan dan memuaskan.", // optional
+        img: "https://cdn.idntimes.com/content-images/community/2023/10/1698534806799-050d7c823376e5868043b1f6ae8078e6-34f50d76a554a434690d9a7c34371cdf_600x400.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {
+            name:"ES LUMUT",
+            deskripsi:"minuman segar terbuat dari adonan jelly yang dicampurkan dengan susu",
+            price:"3.000",
+            img:"https://cdn.idntimes.com/content-images/community/2023/10/1698537271933-050d7c823376e5868043b1f6ae8078e6-1c00678ffc171c93a32d0926ebd93b5c.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.74192402706853!2d114.3510075041934!3d-8.315637220777344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15930eee7f2eb%3A0x6002912b31bc0df7!2sKEDAI%20DOGER!5e0!3m2!1sid!2sid!4v1725170647024!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882334436338",
+        alamat: "Jl. Pantai Blimbingsari , Dusun KRAJAN, Blimbingsari, Kec.  Blimbingsari, Kabupaten Banyuwangi, Jawa Timur",
+      },
+    },
+    "es-lilin" : {   
+      title: "ES  LILIN BLIMBINGSARI",
+      icon: null,
+      navbarTitle: "ES LILIN BLIMBINGSARI",
+      ctaLink: null,
+      keyword: [
+     "Es Lilin","Es Lilin Halal","Es Lilin Melon","Es Lilin Anggur","Es Lilin Alpukat","Es Lilin Coklat","Es Lilin Segar","Es Lilin Berkualitas","Es Lilin Banyuwangi","Es Lilin Jl. Pantai Blimbingsari","Es Lilin Bersertifikat Halal","Es Lilin Rasa Menyegarkan","Es Lilin Berkualitas Tinggi","Es Lilin Kesehatan","Es Lilin Lezat dan Segar"
+      ]
+      ,
+      color: {
+        primary:"bg-[#0043F9]",
+        secondary:"bg-[#b3e0ff]",
+        backgroundColor:"bg-[#ffffff]",hoverColor:"hover:bg-[#0021b1]",
+        textColor:"text-[#010010]",
+        btnTextColor:"text-[#ffffff]",
+        accentColor:"text-[#000000]"
+      },
+  
+      hero: {
+        tagLine: "Sejuknya Rasa, Manisnya Kebahagiaan!",
+        deskripsi: "Nikmati kesegaran es lilin kami yang hadir dengan berbagai pilihan rasa istimewa: melon yang menyegarkan, anggur yang manis, alpukat yang creamy, dan coklat yang menggoda. Diproduksi dengan bahan berkualitas dan telah bersertifikat halal, es lilin kami siap menemani hari-hari Anda dengan rasa yang tak terlupakan. Tersedia di Jl. Pantai Blimbingsari, Dusun Krajan, Blimbingsari. Segarkan harimu dengan sensasi es lilin yang menggoda!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9194ea72-ac14-4ec6-90a8-590f470b5b29_Go-Biz_20210822_174731.jpeg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "ES LILIN",
+  
+        deskripsi: "Setiap es lilin diproduksi dengan bahan berkualitas tinggi dan telah bersertifikat halal, menjamin rasa yang lezat dan aman untuk dikonsumsi. Dengan proses produksi yang higienis dan standar yang ketat, kami memastikan setiap es lilin memberikan kesegaran dan kepuasan maksimal. Rasakan sensasi sejuk dan nikmati momen manis bersama es lilin kami!", // optional
+        img: "https://i.ytimg.com/vi/KZ9QPYFRyD0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAA0NKqwz_yfVuM1YtZvPMoQ64v1w",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {name:"es lilin",
+            deskripsi:"Rasakan kesegaran es lilin kami dalam empat rasa pilihan: melon, anggur, alpukat, dan coklat. Dibuat dengan bahan berkualitas dan bersertifikat halal, es lilin ini adalah pilihan sempurna untuk menyegarkan hari Anda. Nikmati rasa yang lezat dan segar setiap saat!",
+            price:"Rp 1.000",
+            img:"https://cdn.idntimes.com/content-images/post/20211115/67205995-136065957639898-4577240968748509442-n-a6c882b63b44beb482d312ef6d608f65.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d986.9688757764524!2d114.35017626961672!3d-8.315168672475865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnNTQuNiJTIDExNMKwMjEnMDMuMCJF!5e0!3m2!1sid!2sid!4v1725166306087!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jl. Pantai Blimbingsari RT.03/RW.01, Dusun KRAJAN, Blimbingsari, Kec.  Blimbingsari, Kabupaten Banyuwangi, Jawa Timur",
+      },
+    },
+    "ikan-bakar" : {   
+      title: "IKAN BAKAR",
+      icon: null,
+      navbarTitle: "IKAN BAKAR",
+      ctaLink: "https://wa.me/6282228749383",
+      keyword: [
+     "Bumbu Ikan Bakar Halal","Ikan Bakar Segar","Bumbu Ikan Bakar Berkualitas","Ikan Bakar Lezat","Bumbu Ikan Bakar NIB","Ikan Bakar Dengan Bumbu Istimewa","Bumbu Ikan Bakar Terbaik","Ikan Bakar Halal Banyuwangi","Bumbu Ikan Bakar Praktis","Ikan Bakar Khas Blimbingsari"
+      ]
+      ,
+      color: {
+        primary:"bg-[#FF2713]",
+        secondary:"bg-[#FF2713]",
+        backgroundColor:"bg-[#ffffff]",hoverColor:"hover:bg-[#a8194b]",
+        textColor:"text-[#010010]",
+        btnTextColor:"text-[#ffffff]",
+        accentColor:"text-[#F87171]"
+      },
+  
+      hero: {
+        tagLine: "Rasa Lezat, Segar dan Halal: Nikmati Ikan Bakar dengan Bumbu Istimewa!",
+        deskripsi: "Terletak di Jl. Pantai Blimbingsari, Dusun Krajan, kami menyediakan bumbu ikan bakar yang halal dan berkualitas tinggi, serta ikan bakar yang menggugah selera. Dengan NIB dan sertifikat halal, kami memastikan setiap sajian kami tidak hanya lezat tetapi juga memenuhi standar terbaik. Nikmati cita rasa ikan bakar yang segar dan bumbu yang sempurna",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/9/1/b5971fea-29a7-400e-b2f7-241ff348ba89.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "IKAN BAKAR NUR HAMIMAH",
+  
+        deskripsi: "Kami mengutamakan bahan-bahan alami dan teknik memasak yang terampil untuk memastikan setiap hidangan kami memberikan pengalaman kuliner yang memuaskan. Dengan sertifikat halal dan NIB, Anda dapat yakin bahwa setiap produk yang kami tawarkan memenuhi standar kualitas yang tinggi.", // optional
+        img: "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/5/7ea0c8b8-b59b-4809-a880-a6d3a2eb0a9c.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"BUMBU IKAN BAKAR","deskripsi":"Bumbu Ikan Bakar kami memberikan rasa gurih dan aroma sedap pada ikan bakar Anda. Dibuat dari rempah pilihan, bumbu ini mudah digunakan dan halal, menjadikan setiap hidangan ikan bakar terasa istimewa.","price":"Rp 5.000","img":"https://filebroker-cdn.lazada.co.id/kf/S3357f3eab3ac4e82ac1f79769478738b2.jpg"},{"name":"IKAN BAKAR","deskripsi":"Ikan Bakar kami menawarkan kelezatan segar dengan bumbu khusus yang menggugah selera. Dimasak dengan teknik yang tepat, ikan ini lezat dan halal, cocok untuk santapan keluarga atau acara spesial.","price":"Rp 15.000","img":"https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radartarakan/2019/05/5eb6b2ed06512236616b08c44ebc6a17.JPG"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d986.9678787680859!2d114.3493022696168!3d-8.315564672477178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnNTYuMCJTIDExNMKwMjAnNTkuOCJF!5e0!3m2!1sid!2sid!4v1725167630734!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882228749383",
+        alamat: "Jl. Pantai Blimbingsari , Dusun KRAJAN, Blimbingsari, Kec.  Blimbingsari, Kabupaten Banyuwangi, Jawa Timur",
+      },
+    },
+    "warung-kang-walet" : {   
+      title: "WARUNG KANG WALET",
+      icon: null,
+      navbarTitle: "WARUNG KANG WALET",
+      ctaLink: "https://wa.me/6285927283228",
+      keyword: [
+     "Warung Makan Banyuwangi","Rujak Soto Banyuwangi","Rujak Cingur Asli","Darplok Khas Banyuwangi","Kuliner Tradisional Banyuwangi","Tempat Makan di Kabat","Makanan Khas Jawa Timur","Warung Kuliner Banyuwangi","Rasa Autentik Banyuwangi","Wisata Kuliner Banyuwangi","Rujak Soto Kedayunan","Makanan Enak Banyuwangi","Kuliner Legendaris Banyuwangi","Warung Tradisional Banyuwangi","Tempat Makan Enak Banyuwangi"
+      ]
+      ,
+      color: {
+       "primary":"bg-[#3BCC73]","secondary":"bg-[#93e7b3]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#000000]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#000000]"
+      },
+  
+      hero: {
+        tagLine: "Kenikmatan Tak Terduga, Rasa Tak Terlupa!",
+        deskripsi: "Warung Kang Walet bukan sekadar tempat makan, tetapi adalah destinasi kuliner bagi mereka yang ingin merasakan keaslian Banyuwangi. Dari Darplok yang gurih hingga Rujak Soto yang menyegarkan, setiap hidangan dibuat dengan penuh cinta menggunakan resep tradisional yang telah dijaga turun-temurun. Datanglah ke Jl. Babakan, Dusun Babakan, dan nikmati perpaduan sempurna antara rasa, tradisi, dan kehangatan",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://img-global.cpcdn.com/recipes/575827e2daadc873/680x482cq70/rujak-petis-sayur-foto-resep-utama.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "WARUNG KANG WALET",
+  
+        deskripsi: "Dengan kecintaan mendalam terhadap kuliner tradisional, Setiap hidangan di warung kami, seperti Darplok, Rujak Cingur, dan Rujak Soto, dibuat dengan resep yang telah diwariskan dari generasi ke generasi, menjaga keaslian dan kekayaan rasa yang menjadi ciri khas masakan lokal.", // optional
+        img: "https://img-global.cpcdn.com/recipes/3e6305e37da0b4e0/1200x630cq70/photo.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"DARPLOK","deskripsi":"Martabak telur dadar yang diisi dengan mie bihun dan sayuran. Darplok menawarkan perpaduan rasa gurih dan kenyal, sempurna untuk dinikmati kapan saja.","price":"5000","img":"https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/062b961e-2d3b-4ddc-bd82-9deb3a1f2182_IMG_20201130_104922_757.jpg"},{"name":"RUJAK CINGUR","deskripsi":"Hidangan khas Banyuwangi yang terdiri dari cingur, sayuran, dan lontong, disajikan dengan bumbu kacang dan petis yang gurih. Kombinasi rasa yang otentik dan memuaskan.","price":"10000","img":"https://www.cakrawarta.com/wp-content/uploads/2022/11/3672749990.png"},{"name":"RUJAK SOTO","deskripsi":"Perpaduan unik antara rujak dan soto, dengan kuah soto yang gurih disiram di atas rujak segar. Rasa manis, asam, dan pedas menyatu dalam setiap suapan.","price":"15000","img":"https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/882/2023/11/06/WhatsApp-Image-2023-11-06-at-155516-557384201.jpeg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.396962163925!2d114.317623!3d-8.263226999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTUnNDcuNiJTIDExNMKwMTknMDMuNCJF!5e0!3m2!1sid!2sid!4v1725161625073!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885927283228",
+        alamat: "Jl. Babakan, Dusun Babakan, Kedayunan, Kec. Kabat, Kabupaten Banyuwangi, Jawa Timur",
+      },
+    },
+    "tempe-murni" : {   
+      title: "PRODUKSI TEMPE MURNI",
+      icon: null,
+      navbarTitle: "PRODUKSI TEMPE MURNI",
+      ctaLink: null,
+      keyword: [
+    "Tempe Murni","Tempe Tradisional","Tempe Banyuwangi","Tempe Alami","Tempe Kualitas Tinggi","Tempe Sehat","Tempe Asli Indonesia","Tempe Lokal Banyuwangi","Warisan Kuliner","Tempe Organik","Tempe Homemade","Makanan Sehat","Tempe Fermentasi","Tempe Kedelai Murni","Tempe Otentik","Tempe Pure","Tempe Kampung","Tempe Nusantara","Tempe Tradisi Keluarga","Tempe Tanpa Pengawet","Tempe Vegan","Tempe Non-GMO","Tempe Tradisi Jawa","Tempe Segar","UMKM Tempe","Tempe Pacemengan","Tempe Blimbingsari","Produk Kedelai","Tempe Khas Banyuwangi","Tempe Pedesaan","Tempe Handmade","Tempe Tanpa Bahan Kimia","Tempe High Protein","Tempe Berkualitas","Tempe Olahan Rumah","Makanan Tradisional Indonesia","Tempe Lokal Asli","Kuliner Khas Jawa Timur","Tempe Bercita Rasa","Tempe Tahu Tempe"
+      ]
+      ,
+      color: {
+      "primary":"bg-[#FDDC91]","secondary":"bg-[#fddc91]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#e0e5b6]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#000000]"
+      },
+  
+      hero: {
+        tagLine: "Tempe Murni, Rasa Asli, Warisan Tradisi!",
+        deskripsi: "Kami memproduksi tempe murni tradisional di Blimbingsari, Kabupaten Banyuwangi. Dengan menjaga resep turun-temurun dan menggunakan bahan-bahan alami pilihan, tempe kami hadir dengan cita rasa yang otentik dan kualitas terbaik. Diproduksi dengan penuh ketelatenan, tempe kami menghadirkan kelezatan dan kenikmatan asli dari warisan kuliner lokal yang kaya. Nikmati tempe yang bukan hanya enak, tapi juga penuh gizi, dan mendukung kehidupan sehat keluarga Anda.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://imgx.sonora.id/crop/0x0:0x0/x/photo/2023/03/05/63ff006211360jpg-20230305072520.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "TEMPE MURNI",
+  
+        deskripsi: "Dengan latar belakang yang kuat dalam budaya lokal dan semangat untuk kualitas, saya mendirikan usaha produksi tempe murni tradisional di Blimbingsari, Kabupaten Banyuwangi. Usaha ini lahir dari kecintaan saya pada warisan kuliner Indonesia, khususnya tempe, yang tidak hanya lezat tetapi juga kaya akan nilai gizi. Saya berkomitmen untuk menjaga keaslian proses produksi dan menggunakan bahan-bahan alami terbaik untuk menghasilkan tempe berkualitas tinggi yang bisa dinikmati oleh semua kalangan.  Dengan pengalaman dan ketekunan, saya terus berinovasi sambil tetap mempertahankan cita rasa dan kualitas tradisional yang menjadi ciri khas produk kami. Melalui usaha ini, saya berharap dapat membawa rasa otentik tempe tradisional ke meja makan Anda, serta berkontribusi pada perekonomian lokal dengan memberdayakan masyarakat sekitar.", // optional
+        img: "https://khrlumam87.github.io/galeriKKN_PU/images/gallery-img3.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"TEMPE MURNI UKURAN SEDANG","deskripsi":"Diproduksi dengan kedelai berkualitas tinggi dan melalui proses fermentasi alami, tempe ini menawarkan cita rasa otentik yang lezat dan tekstur yang lembut. Ukuran sedang memudahkan Anda dalam mengolahnya menjadi berbagai hidangan, mulai dari lauk pauk sehari-hari hingga camilan sehat. Tempe ini kaya akan protein, serat, dan nutrisi penting lainnya, menjadikannya pilihan sehat dan bergizi untuk menu harian Anda.","price":"Rp 5.000 / 6 KOTAK","img":"https://asset.kompas.com/crops/UP6o12CADPG3tRAsMjsj2RKyJZQ=/0x0:1000x667/750x500/data/photo/2023/03/02/6400336ee0871.jpg"},{"name":"TEMPE MURNI UKURAN BESAR","deskripsi":"Tempe Murni Ukuran Besar adalah pilihan yang tepat. Cocok untuk acara keluarga, usaha kuliner, atau stok tempe yang lebih tahan lama. Dengan kualitas yang sama seperti versi ukuran sedang, tempe ini dibuat dari kedelai pilihan dan melalui proses fermentasi alami yang menghasilkan cita rasa yang khas dan aroma yang menggugah selera. Tempe Murni Ukuran Besar ini memberikan fleksibilitas dalam memasak, baik untuk digoreng, dipanggang, atau dijadikan bahan utama dalam berbagai kreasi kuliner.","price":"Rp 2.000 / KOTAK","img":"https://asset.kompas.com/crops/gjFCO2b2WzKYZkYYXz1XTEWGTvQ=/0x0:0x0/750x500/data/photo/2023/11/24/65605e1172074.jpeg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1224.7083263574377!2d114.35128826962261!3d-8.317395672483286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTknMDIuNiJTIDExNMKwMjEnMDcuMCJF!5e1!3m2!1sen!2sid!4v1725073108820!5m2!1sen!2sid",
+      footer: {
+        noHp: "0885927283228",
+        alamat: "Jl. Pantai Blimbingsari, Blimbingsari, Kec. Rogojampi, Kabupaten Banyuwangi, Jawa Timur 68462",
+      },
+    },
+    "si-kebab" : {   
+      title: "Si Kebab",
+      icon: null,
+      navbarTitle: "Si Kebab",
+      ctaLink: "https://wa.me/6281803115876",
+      keyword: [
+    "Kebab Banyuwangi","Kebab Berkelas Banyuwangi","Kebab Lezat Banyuwangi","Kebab Sosis Banyuwangi","Kebab Sosis Jumbo Banyuwangi","Kebab Chiken Crispy Banyuwangi","Kebab Beef Patties Banyuwangi","Burger Crispy Banyuwangi","Burger Sosis Jumbo Banyuwangi","Burger Sapi Banyuwangi","Burger Beef Patties Banyuwangi","Roti Maryam Coklat Susu Banyuwangi","Roti Maryam Coklat Susu Keju Banyuwangi","Kebab Lezat Tanpa Batas Banyuwangi","Kuliner Kebab Banyuwangi","si kebab","sikebab"
+      ]
+      ,
+      color: {
+      "primary":"bg-[#FEA116]","secondary":"bg-[#FEA116]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#bd7100]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#000000]"
+      },
+  
+      hero: {
+        tagLine: "Kebab Berkelas Lezat Tanpa Batas!",
+        deskripsi: "Kebab kami dirancang untuk Anda yang menginginkan kelezatan tanpa kompromi. Dari pemilihan daging terbaik hingga bumbu yang diracik dengan teliti, kebab kami memberikan rasa berkelas yang bisa dinikmati kapan saja. Coba kebab berkelas kami dan rasakan perbedaannya!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://si-kebabi.vercel.app/img/hero2.png" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "Selamat datang di SiKebab",
+  
+        deskripsi: "kedai UMKM yang terletak strategis di pinggir jalan tengah kota Banyuwangi. Kami menyajikan berbagai macam kebab lezat dengan cita rasa autentik, menggunakan bahan-bahan segar dan berkualitas tinggi.", // optional
+        img: "https://si-kebabi.vercel.app/img/lokasi.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Roti Maryam","deskripsi":"Roti Maryam dengan kombinasi coklat susu dan keju, menciptakan rasa yang unik dan menggugah selera. Ideal untuk camilan atau hidangan utama","price":"Rp 10.000","img":"https://si-kebabi.vercel.app/img/about-3.jpg"},{"name":"KEBAB SOSIS JUMBO","deskripsi":"Kebab sosis jumbo dengan porsi ekstra besar. Tersedia dengan kulit tortilla biasa atau hitam untuk sensasi berbeda.","price":"Rp 14.000","img":"https://si-kebabi.vercel.app/img/menu-2.jpg"},{"name":"BURGER Beef Patties","deskripsi":"Burger dengan daging sapi patty yang juicy dan nikmat. Setiap gigitan memberikan rasa daging sapi yang lembut dan penuh cita rasa.","price":"Rp 14.000","img":"https://si-kebabi.vercel.app/img/menu-8.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505305.90542490245!2d114.22150274840199!3d-8.332341477545665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd145239754d04b%3A0x10407abf1de3d0d3!2sSi%20Kebab%20Family!5e0!3m2!1sid!2sid!4v1724681407844!5m2!1sid!2sid",
+      footer: {
+        noHp: "0881803115876",
+        alamat: "Jl. MT Haryono, Karangrejo, Tukangkayu, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur ",
+      },
+    },
+    "mafia-telur" : {   
+      title: "MAFIA TELUR BANYUWANGI",
+      icon: null,
+      navbarTitle: "MAFIA TELUR BANYUWANGI",
+      ctaLink: "https://wa.me/6282139406197",
+      keyword: [
+    "Telur Asin Bebek Banyuwangi","Mafia Telur Asin Bebek","Telur Asin Bebek Singojuruh","Produk Telur Asin Kemiri Banyuwangi","Telur Asin Bebek Asli Jawa Timur","Telur Asin Bebek Mafia Telur","Telur Asin Bebek Premium","Telur Asin Bebek Kemasan","Telur Asin Bebek Gurih","Telur Asin Bebek Peternakan Mafia Telur","Telur Asin Bebek Tradisional","Telur Asin Bebek Pedas","Telur Asin Bebek Halal","Telur Asin Bebek Fresh","Telur Asin Bebek Alami","Telur Asin Bebek Organik","Telur Asin Bebek Lezat","Telur Asin Bebek Sehat","Telur Asin Bebek Tanpa Bahan Pengawet","Telur Asin Bebek Berkualitas","Pabrik Telur Asin Bebek Banyuwangi","Produsen Telur Asin Bebek Kemiri","Supplier Telur Asin Bebek Jawa Timur","Peternakan Bebek Banyuwangi","Telur Asin Bebek Kemasan Ekonomis","Telur Asin Bebek Khas Banyuwangi","Jual Telur Asin Bebek Online","Pesan Telur Asin Bebek","Distributor Telur Asin Bebek","Harga Telur Asin Bebek"
+      ]
+      ,
+      color: {
+      "primary":"bg-[#6ADDC6]","secondary":"bg-[#89e0ce]","backgroundColor":"bg-[#f2faf9]","hoverColor":"hover:bg-[#000000]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#000000]"
+      },
+  
+      hero: {
+        tagLine: "Kelezatan Alami, Telur Asin dari Mafia Telur!",
+        deskripsi: "Alami kelezatan dari bahan-bahan alami pilihan. Telur Asin Bebek dari Mafia Telur diproses tanpa bahan pengawet, menjaga rasa dan kualitas asli dari setiap butirnya",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://asset-a.grid.id//crop/0x518:3110x2591/700x465/photo/2019/05/07/676125005.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "MAFIA TELUR",
+  
+        deskripsi: "Mafia Telur adalah produsen Telur Asin Bebek berkualitas tinggi yang berlokasi di Kemiri, Kec. Singojuruh, Kabupaten Banyuwangi, Jawa Timur. Kami mengutamakan cita rasa otentik dengan proses tradisional yang menjaga keaslian rasa dan tekstur. Mafia Telur dikenal dengan komitmen terhadap kualitas, menawarkan produk eceran tanpa minimal pembelian serta harga khusus untuk penjual. Kami bangga menjadi pilihan utama bagi konsumen yang menginginkan telur asin bebek yang gurih, sehat, dan lezat.", // optional
+        img: "https://khrlumam87.github.io/galeriKKN_PU/images/telur%20asin%20hernanda.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"HARGA SATUAN","deskripsi":"Telur Asin Bebek berkualitas bisa dibeli satuan tanpa minimal pembelian. Cocok untuk konsumsi harian atau oleh-oleh, dengan rasa gurih dan otentik.","price":"3000","img":"https://filebroker-cdn.lazada.co.id/kf/S0f9edafe3b3c4f1fbc4e4e4b4f476cd2T.jpg"},{"name":"Spesial untuk Reseller","deskripsi":"Dapatkan harga khusus untuk penjual. Produk Telur Asin Bebek yang selalu terjaga kualitasnya, siap meningkatkan keuntungan usaha Anda","price":"2500","img":"https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2022/03/04/cara-membuat-telur-asinjpg-20220304092954.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d987.0154232490767!2d114.21216527566494!3d-8.296659671081912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTcnNDguMCJTIDExNMKwMTInNDguMiJF!5e0!3m2!1sen!2sid!4v1724946158054!5m2!1sen!2sid",
+      footer: {
+        noHp: "0882139406197",
+        alamat: "Kemiri, Kec. Singojuruh, Kabupaten Banyuwangi, Jawa Timur ",
+      },
+    },
+    "ikan-bakar-riskiya" : {   
+      title: "IKAN BAKAR RISKIYA",
+      icon: null,
+      navbarTitle: "IKAN BAKAR RISKIYA",
+      ctaLink: "https://wa.me/6282338923938",
+      keyword: [
+    "Bumbu Ikan Bakar Halal","Ikan Bakar Segar","Bumbu Ikan Bakar Berkualitas","Ikan Bakar Lezat","Bumbu Ikan Bakar NIB","Ikan Bakar Dengan Bumbu Istimewa","Bumbu Ikan Bakar Terbaik","Ikan Bakar Halal Banyuwangi","Bumbu Ikan Bakar Praktis","Ikan Bakar Khas Blimbingsari"
+      ]
+      ,
+      color: {
+     "primary":"bg-[#FF2713]","secondary":"bg-[#FF2713]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#a8194b]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"
+      },
+  
+      hero: {
+        tagLine: "Ikan Bakar Segar, Nikmati Rasa dari Bakarannya!",
+        deskripsi: "Selamat datang di tempat terbaik untuk menikmati ikan bakar yang disajikan langsung dari panggangan! Di usaha ikan bakar kami, kami mengutamakan kesegaran dan kualitas ikan yang dipilih dengan teliti. Dengan proses pemanggangan di tempat, setiap gigitan ikan bakar kami menyajikan rasa yang lezat dan autentik. Dapatkan pengalaman makan yang istimewa dengan keaslian rasa yang tak tertandingi, disertai dengan sertifikat halal dan NIB sebagai jaminan kualitas. Rasakan kenikmatan ikan bakar kami yang disajikan langsung di depan mata Anda!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://berkeluarga.id/media/2021/08/Hunian_Ikan-Enak-Dibakar_Envato-1200x675.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "IKAN BAKAR RISKIYAH",
+  
+        deskripsi: "Kami mengutamakan bahan-bahan alami dan teknik memasak yang terampil untuk memastikan setiap hidangan kami memberikan pengalaman kuliner yang memuaskan. Dengan sertifikat halal dan NIB, Anda dapat yakin bahwa setiap produk yang kami tawarkan memenuhi standar kualitas yang tinggi.", // optional
+        img: "https://berkeluarga.id/media/2021/08/Hunian_Ikan-Enak-Dibakar_Envato-1200x675.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"IKAN BAKAR","deskripsi":"Ikan dipilih dan diproses dengan hati-hati untuk memastikan kualitas terbaik.","price":"Rp 15.000","img":"https://cdn.idntimes.com/content-images/community/2020/06/images-25-95efb78befb7d731ef276a6e801a0286_600x400.jpeg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d986.9681708259243!2d114.34952426961681!3d-8.315448672476796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTgnNTUuNiJTIDExNMKwMjEnMDAuNiJF!5e0!3m2!1sid!2sid!4v1725168823315!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882338923938",
+        alamat: "Jl. Pantai Blimbingsari , Dusun KRAJAN, Blimbingsari, Kec.  Blimbingsari, Kabupaten Banyuwangi, Jawa Timur",
+      },
+    },
+    "gorengan-pak-jumadi" : {   
+      title: "GORENGAN PAK JUMADI",
+      icon: null,
+      navbarTitle: "GORENGAN PAK JUMADI",
+      ctaLink: "https://wa.me/6285234683853",
+      keyword: [
+   "Gorengan Banyuwangi","Pisang Goreng Renyah","Tahu Goreng Lezat","Bakwan Sayur Gurih","Camilan Gorengan Berkualitas","Gorengan Halal Banyuwangi","Usaha Gorengan Pak Jumadi","Gorengan Enak Taman Baru","Gorengan Segar Banyuwangi","Gorengan Halal"
+      ]
+      ,
+      color: {"primary":"bg-[#E1AF00]","secondary":"bg-[#ffe100]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#ffe100]","textColor":"text-[#010010]","btnTextColor":"text-[#000000]","accentColor":"text-[#000000]"},
+  
+      hero: {
+        tagLine: "Gorengan Lezat, Selalu Hangat di Hati!",
+        deskripsi: "Selamat datang di Usaha Gorengan Pak Jumadi! Kami menyajikan berbagai gorengan lezat yang dibuat dengan bahan berkualitas dan penuh cita rasa. Dari pisang goreng manis, bakwan renyah, tahu goreng gurih, hingga gorengan lainnya yang menggugah selera, setiap gigitan akan memanjakan lidah Anda. Dengan NIB dan sertifikat halal, kami pastikan setiap produk kami aman dan berkualitas",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/12/Ungkap-mitos-atau-fakta-tentang-gorengan-3608906907.jpeg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "GORENGAN PAK JUMADI",
+  
+        deskripsi: "Usaha Gorengan Pak Jumadi adalah destinasi utama Anda untuk menikmati gorengan berkualitas di Banyuwangi. Berlokasi di Jl. Penataran, Taman Baru, kami menyajikan berbagai camilan gorengan yang dibuat dengan bahan-bahan segar dan resep yang telah teruji. Dengan sertifikat halal dan NIB yang terdaftar, kami memastikan setiap produk kami aman dan memenuhi standar terbaik", // optional
+        img: "https://timur-online.com/wp-content/uploads/2020/05/ilustrasi-gorengan-123456.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"GORENGAN","deskripsi":"kami menyajikan aneka gorengan lezat yang pasti memuaskan selera Anda. Dari pisang goreng manis dan lembut, tahu goreng renyah, hingga bakwan sayur yang gurih, setiap camilan kami dibuat dengan bahan berkualitas dan digoreng hingga sempurna","price":"Rp 1.000 / GORENGAN","img":"https://cdn.rri.co.id/berita/Bukittinggi/o/1710411007141-gorengan-identik-dengan-takjil-buka-puasa-ramadhan-sejak-kapan-230408y/wn10argaaqdluvd.jpeg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d493.60397154059046!2d114.3672897166023!3d-8.219667087626092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTMnMDguOCJTIDExNMKwMjInMDEuNCJF!5e0!3m2!1sid!2sid!4v1725171654960!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885234683853",
+        alamat: "Jl. Penataran , Taman Baru, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68416",
+      },
+    },
+    "warung-nasi-mbakdita" : {   
+      title: "WARUNG NASI MBAK DITA",
+      icon: null,
+      navbarTitle: "WARUNG NASI MBAK DITA",
+      ctaLink: null,
+      keyword: [
+  "Warung Nasi Mbak Dita","Sego Tempong Banyuwangi","Sego Pecel Banyuwangi","Nasi Tempong Pedas","Nasi Pecel Khas Banyuwangi","Makanan Halal Banyuwangi","Kuliner Banyuwangi","Restoran Khas Banyuwangi","Hidangan Tradisional Banyuwangi","Nasi Putih dan Sambal Tempong","Pecel Sayuran Segar","Warung Makan Halal Banyuwangi","Sajian Nasi Banyuwangi","Tempat Makan di Karangbendo","Makanan Lezat Banyuwangi"
+      ]
+      ,
+      color: {"primary":"bg-[#F87171]","secondary":"bg-[#FD7382]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+  
+      hero: {
+        tagLine: "Dari Karangbendo untuk Selera Anda, Sego Tempong & Pecel Banyuwangi!",
+        deskripsi: "Selamat datang di Warung Makan kami di Jajang Surat, Karangbendo, Kec. Rogojampi! Kami bangga menyajikan hidangan khas Banyuwangi yang menggugah selera, yaitu Sego Tempong dan Sego Pecel Banyuwangi. Dengan NIB dan sertifikat halal, kami memastikan setiap sajian tidak hanya lezat tetapi juga memenuhi standar kualitas terbaik. Nikmati kehangatan dan keautentikan cita rasa Banyuwangi dalam setiap suapan di Warung Makan kami!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://img.kontenjatim.id/articles/archive_20230825/sego-tempong-20230825-184802.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "Warung Nasi Mbak Dita",
+  
+        deskripsi: "Selamat datang di Warung Nasi Mbak Dita, yang berlokasi di Jajang Surat, Karangbendo, Kec. Rogojampi, Kabupaten Banyuwangi! Kami menghadirkan hidangan khas Banyuwangi dengan kualitas terbaik dan rasa yang otentik. Dengan NIB dan sertifikat halal, kami memastikan setiap sajian aman dan memuaskan.", // optional
+        img: "https://khrlumam87.github.io/galeriKKN_PU/images/gallery-img1.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"SEGO TEMPONG KHAS BANYUWANGI","deskripsi":"nasi putih dengan sambal tempong pedas khas Banyuwangi. Dibuat dari bahan segar dan bumbu yang pas, sambal ini memberikan rasa pedas yang menyegarkan. Disajikan dengan lauk seperti ayam goreng atau ikan bakar, Sego Tempong menawarkan cita rasa yang menggugah selera.","price":"10.000","img":"https://cdn.idntimes.com/content-images/community/2019/02/img-6059-5b48aba7106fca7f6229f8b28f1ca7fd_600x400.JPG"},{"name":"SEGO PECEL KHAS BANYUWANGI","deskripsi":" sayuran segar yang disiram bumbu kacang lezat. Ditambah tempe, tahu, atau kerupuk, hidangan ini memberikan kombinasi rasa gurih dan segar yang memuaskan.\"","price":"10.000","img":"https://img-global.cpcdn.com/recipes/e3dd7b4aa4d4edb9/400x400cq70/photo.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.008046992148!2d114.30343947583023!3d-8.301996783522856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd151655c0a134f%3A0x3e60d0e82dfa6ac4!2sWarung%20Nasi%20Mbak%20Dita!5e0!3m2!1sid!2sid!4v1725170176404!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Jajang Surat, Karangbendo, Kec. Rogojampi, Kabupaten Banyuwangi, Jawa Timur",
       },
     },
   };
