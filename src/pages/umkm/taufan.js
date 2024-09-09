@@ -1187,6 +1187,1178 @@ const dataTaufan = {
         alamat: "Jajang Surat, Karangbendo, Kec. Rogojampi, Kabupaten Banyuwangi, Jawa Timur",
       },
     },
+    "pasar-mak-hom" : {   
+      title: "Jajanan Pasar Mak Hom",
+      icon: null,
+      navbarTitle: "Jajanan Pasar Mak Hom",
+      ctaLink: null,
+      keyword: [
+  "Jajanan Pasar Mak Hom Puntir Lepet","Jajan Puntir Tradisional Mak Hom","Lepet Khas Jajanan Pasar Mak Hom","Camilan Puntir dan Lepet Mak Hom","Mak Hom Jajanan Puntir dan Lepet","Jajanan Khas Mak Hom Puntir Lepet","Lepet Tradisional Mak Hom","Jajanan Pasar Mak Hom Kelezatan Puntir","Cita Rasa Puntir dan Lepet Mak Hom","Jajanan Tradisional Mak Hom Puntir dan Lepet"
+      ]
+      ,
+      color: {"primary":"bg-[#1ea86e]","secondary":"bg-[#32af87]","backgroundColor":"bg-[#b9e8d6]","hoverColor":"hover:bg-[#7acea8]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+  
+      hero: {
+        tagLine: "Rasakan Kelezatan Jajan Puntir dan Lepet di Jajanan Pasar Mak Hom",
+        deskripsi: " Di Jajanan Pasar Mak Hom, nikmati kelezatan jajan puntir yang kenyal dan lepet yang lembut, dua camilan tradisional yang membawa cita rasa otentik dari pasar Nusantara. Jajan puntir dengan tekstur yang unik dan lepet yang manis dan gurih, masing-masing dibuat dengan resep warisan yang menjaga keaslian rasa. Setiap gigitan menawarkan pengalaman kuliner yang memanjakan dan membawa Anda kembali ke tradisi yang penuh rasa.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725292985/IMG-20240902-WA0017_kgvswd.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasakan Kelezatan Jajan Puntir dan Lepet di Jajanan Pasar Mak Hom",
+  
+        deskripsi: " Di Jajanan Pasar Mak Hom, nikmati kelezatan jajan puntir yang kenyal dan lepet yang lembut, dua camilan tradisional yang membawa cita rasa otentik dari pasar Nusantara. Jajan puntir dengan tekstur yang unik dan lepet yang manis dan gurih, masing-masing dibuat dengan resep warisan yang menjaga keaslian rasa. Setiap gigitan menawarkan pengalaman kuliner yang memanjakan dan membawa Anda kembali ke tradisi yang penuh rasa.", // optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725292984/IMG-20240902-WA0019_vbtots.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Puntir","deskripsi":"camilan tradisional yang terbuat dari adonan tepung ketan yang dipintal hingga berbentuk spiral atau puntir. Biasanya disajikan dengan taburan kelapa parut dan gula merah, kue ini memiliki tekstur kenyal yang khas dan rasa manis gurih yang memikat. Setiap gigitan kue puntir menawarkan kelezatan yang sederhana namun penuh nostalgia, mencerminkan tradisi kuliner yang kaya.","price":"Rp. 2000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725292833/IMG-20240902-WA0018_gf84d4.jpg"},{"name":"Lepet","deskripsi":"jajanan tradisional yang terbuat dari campuran tepung ketan dan kelapa, dikukus dalam bentuk segitiga atau gulungan kecil yang dibungkus dengan daun pisang. Dengan tekstur lembut dan rasa manis yang alami dari kelapa dan sedikit gurih, kue lepet menawarkan sensasi rasa yang memanjakan lidah. Camilan ini sering kali dinikmati sebagai makanan penutup atau camilan khas yang penuh dengan cita rasa tradisional.","price":"Rp. 2000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725292988/WhatsApp_Image_2024-09-02_at_22.58.27_7afb7eb8_lqxts8.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7896.09925615267!2d114.2937932334897!3d-8.297860278172351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725289390799!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn.Sidorejo Rt.01 Rw.01 Ds.Gitik Kec.Rogojampi",
+      },
+    },
+    "Dpawon-nonik" : {   
+      title: "D'Pawon Nonik",
+      icon: null,
+      navbarTitle: "D'Pawon Nonik",
+      ctaLink: "https://wa.me/081332982557",
+      keyword: [
+  "Catering Custom","Ayam Geprek Terbaik","Ayam Bakar Special","Lalapan Fresh","Paket Makanan Sesuai Permintaan","Catering Rumahan","Paket Catering Murah","Catering Acara","Makanan Lezat dan Terjangkau","Catering Sehat dan Higienis","Pesan Catering Mudah","Catering untuk Kantor","Catering Ayam Geprek","Catering Variasi Menu","Makanan Sesuai Selera"
+      ]
+      ,
+      color: {"primary":"bg-[#ffeb6d]","secondary":"bg-[#ffe5b7]","backgroundColor":"bg-[#f36c75]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#010010]","btnTextColor":"text-[#010010]","accentColor":"text-[#8a0b14]"},
+      hero: {
+        tagLine: "Sesuaikan Menu, Rasakan Kepuasan",
+        deskripsi:"D'Pawon Nonik Catering menghadirkan pengalaman kuliner yang tak terlupakan dengan pilihan menu yang dapat disesuaikan sesuai keinginan Anda. Dari ayam geprek pedas hingga ayam bakar lezat dan lalapan segar, setiap hidangan kami diracik untuk memberikan kepuasan maksimal bagi Anda dan tamu-tamu Anda. Nikmati layanan catering yang fleksibel dan cita rasa autentik yang selalu membuat Anda kembali lagi.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725258051/download_1_zfdy3f.jpg" ,
+      },
+      about: {
+        title: "Tentang",
+        txt: "Sesuaikan Menu, Rasakan Kepuasan",
+  
+        deskripsi: "D'Pawon Nonik Catering menghadirkan pengalaman kuliner yang tak terlupakan dengan pilihan menu yang dapat disesuaikan sesuai keinginan Anda. Dari ayam geprek pedas hingga ayam bakar lezat dan lalapan segar, setiap hidangan kami diracik untuk memberikan kepuasan maksimal bagi Anda dan tamu-tamu Anda. Nikmati layanan catering yang fleksibel dan cita rasa autentik yang selalu membuat Anda kembali lagi.",// optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725258616/17cbbafb-2326-4c7c-ba6f-9ae5b31711c5_vagveq.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Paket Ayam Bakar - Paket Ayam Lalapan - Paket Nasi Kotak Sesuai Request","deskripsi":"**Paket Ayam Bakar**   Nikmati kelezatan ayam bakar yang dibumbui sempurna dengan rempah-rempah khas Nusantara. Ayam yang dibakar hingga matang sempurna, menghasilkan rasa yang gurih dan aroma yang menggoda. Disajikan dengan nasi, sambal, dan lalapan segar, paket ini cocok untuk hidangan sehari-hari maupun acara spesial.  **Paket Ayam Lalapan**   Hadirkan kenikmatan sederhana namun memuaskan dengan Paket Ayam Lalapan dari D'Pawon Nonik. Ayam goreng renyah dipadukan dengan lalapan segar dan sambal pedas yang khas, menciptakan perpaduan rasa yang nikmat dan seimbang. Pilihan ideal untuk pecinta masakan tradisional yang segar dan autentik.  **Paket Nasi Kotak Sesuai Request**   Buat acara Anda lebih istimewa dengan Paket Nasi Kotak yang dapat disesuaikan sesuai selera dan kebutuhan. Pilih dari berbagai menu unggulan kami, mulai dari ayam bakar, ayam geprek, hingga hidangan lainnya. D'Pawon Nonik siap menghadirkan nasi kotak dengan porsi pas, cita rasa lezat, dan tampilan yang rapi, sesuai dengan permintaan Anda.","price":"Rp. 15.000 sampai Rp.25.000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725258050/Nasi_Lalapan_Ayam_Bakar_bzejdz.jpg"},{"name":"Nasi Tumpeng","deskripsi":"Rayakan momen spesial dengan Nasi Tumpeng dari D'Pawon Nonik, sebuah sajian tradisional yang melambangkan kehangatan dan kebersamaan. Dibuat dengan nasi kuning yang harum dan gurih, tumpeng ini dikelilingi oleh aneka lauk pauk seperti ayam goreng, perkedel, urap, telur pindang, dan sambal khas. Tersaji dalam tumpeng yang megah, hidangan ini tidak hanya memanjakan lidah, tetapi juga mempercantik acara Anda. Ideal untuk perayaan ulang tahun, syukuran, atau acara keluarga, Nasi Tumpeng kami siap menjadi pusat perhatian di setiap acara Anda.","price":"Rp. 350.000 sampai Rp.600.000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725258051/download_3_h8yrct.jpg"},
+          {"name":"Paket Prasmanan","deskripsi":"Lengkapi acara Anda dengan Paket Prasmanan dari D'Pawon Nonik, yang menghadirkan beragam hidangan lezat dan autentik dalam satu sajian. Dengan pilihan menu yang beragam, mulai dari lauk pauk khas Nusantara hingga aneka sayur dan hidangan penutup, setiap tamu dapat menikmati variasi rasa yang memuaskan. Disajikan dengan presentasi yang elegan dan porsi yang melimpah, paket prasmanan ini ideal untuk acara pernikahan, gathering, atau acara perusahaan. D'Pawon Nonik siap membuat momen spesial Anda lebih berkesan dengan pelayanan yang profesional dan rasa yang tak tertandingi.","price":"Rp.500.000 - Rp.1.000.000 sesuai permintaan","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725258051/download_2_zdmc0i.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d706.3546408756503!2d114.28164971518635!3d-8.299447080077405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDusun%20Gurit%2C%20pengatigan!5e1!3m2!1sid!2sid!4v1725230111316!5m2!1sid!2sid",
+      footer: {
+        noHp: "081332982557",
+        alamat: "Griya Permata Harmoni Indah, Busek, Pengatigan, Rogojampi",
+      },
+    },
+    "warung-barokah" : {   
+      title: "Warung Barokah",
+      icon: null,
+      navbarTitle: "Warung Barokah",
+      ctaLink: null,
+      keyword: [
+  "Warung Barokah Cilok Sosis Goreng Nagasari","Cilok Enak Warung Barokah","Sosis Goreng Khas Warung Barokah","Nagasari Tradisional Warung Barokah","Camilan Lezat Warung Barokah","Warung Barokah Jajanan Tradisional","Cilok dan Sosis Goreng Warung Barokah","Nagasari Manis di Warung Barokah","Jajanan Khas Warung Barokah","Cilok Sosis Nagasari Warung Barokah"
+      ]
+      ,
+      color: {"primary":"bg-[#a88a1e]","secondary":"bg-[#e8ce3e]","backgroundColor":"bg-[#E8E5B9]","hoverColor":"hover:bg-[#CCCC60]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+      hero: {
+        tagLine: "Cilok, Sosis Goreng, dan Nagasari – Lezat dan Memikat di Warung Barokah",
+        deskripsi:"Di Warung Barokah, nikmati sajian camilan tradisional yang memanjakan lidah Anda. Cilok kenyal dengan bumbu yang menggugah selera, sosis goreng crispy yang gurih, dan nagasari manis yang lembut, semuanya disajikan dengan penuh cinta dan kualitas terbaik. Setiap gigitan menghadirkan kelezatan yang memikat dan kehangatan tradisi dalam setiap sajian, menjadikan Warung Barokah sebagai destinasi camilan yang tak boleh Anda lewatkan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725292000/WhatsApp_Image_2024-09-02_at_22.45.18_808b141e_vykied.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cilok, Sosis Goreng, dan Nagasari – Lezat dan Memikat di Warung Barokah",
+  
+        deskripsi: "Di Warung Barokah, nikmati sajian camilan tradisional yang memanjakan lidah Anda. Cilok kenyal dengan bumbu yang menggugah selera, sosis goreng crispy yang gurih, dan nagasari manis yang lembut, semuanya disajikan dengan penuh cinta dan kualitas terbaik. Setiap gigitan menghadirkan kelezatan yang memikat dan kehangatan tradisi dalam setiap sajian, menjadikan Warung Barokah sebagai destinasi camilan yang tak boleh Anda lewatkan.",// optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291910/WhatsApp_Image_2024-09-02_at_22.44.11_8e3cd777_o4klra.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Aneka Sosis Goreng","deskripsi":"Nikmati kelezatan sosis goreng di Warung Barokah—crispy di luar dan juicy di dalam. Setiap gigitan menghadirkan rasa gurih yang memanjakan lidah, ideal sebagai camilan atau teman santai.","price":"mulai dari 1k","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291906/download_iayoti.jpg"},{"name":"Nagasari","deskripsi":"Rasakan kelembutan kue nagasari yang manis dan lembut di Warung Barokah. Terbuat dari tepung ketan dan pisang, kue ini menawarkan rasa tradisional yang memanjakan dengan setiap suapan.","price":"Rp. 2000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291905/Nagasari_Cake_Traditional_Indonesian_Cake_Digital_Recipe_Simple_nuxgnj.jpg"},{"name":"Gorengan","deskripsi":"Cobalah berbagai gorengan lezat di Warung Barokah—renyah, gurih, dan selalu segar. Dari tahu tempe hingga bakwan, setiap gorengan disajikan dengan kelezatan yang tak tertandingi dan cocok untuk setiap kesempatan.","price":"mulai dari 1k","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291907/download_1_awjlyz.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7896.09925615267!2d114.2937932334897!3d-8.297860278172351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725289390799!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn.Sidorejo Rt.01 Rw.01 Ds.Gitik Kec.Rogojampi",
+      },
+    },
+    "jajanan-mak-sarati" : {   
+      title: "Jajanan Tradisional Mak Sarati",
+      icon: null,
+      navbarTitle: "Jajanan Tradisional Mak Sarati",
+      ctaLink: null,
+      keyword: [
+ "Jajanan Tradisional Mak Sarati","Makanan Khas Mak Sarati","Jajanan Khas Tradisional Mak Sarati","Camilan Tradisional Mak Sarati","Resep Jajanan Mak Sarati","Makanan Tradisional Mak Sarati","Cita Rasa Mak Sarati","Jajanan Khas Nusantara Mak Sarati","Camilan Autentik Mak Sarati","Jajanan Enak Mak Sarati"
+      ]
+      ,
+      color: {"primary":"bg-[#a88a1e]","secondary":"bg-[#e8ce3e]","backgroundColor":"bg-[#e8e5b9]","hoverColor":"hover:bg-[#cccc60]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#8a0000]"},
+      hero: {
+        tagLine: "Jajanan Lezat, Tradisi yang Tak Terlupakan di Mak Sarati",
+        deskripsi:"Temukan kelezatan jajanan tradisional yang menggugah selera di Mak Sarati. Dari cenil yang kenyal hingga serabi yang lembut, setiap camilan kami dibuat dengan resep warisan yang mempertahankan rasa otentik dan kualitas terbaik. Setiap gigitan membawa Anda kembali ke tradisi kuliner Nusantara yang kaya dan penuh kenangan. Nikmati kelezatan yang tak terlupakan di setiap sajian Mak Sarati.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290999/Kue_Tradisional_ala_Pasar_onlqrl.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Jajanan Lezat, Tradisi yang Tak Terlupakan di Mak Sarati",
+  
+        deskripsi: "Temukan kelezatan jajanan tradisional yang menggugah selera di Mak Sarati. Dari cenil yang kenyal hingga serabi yang lembut, setiap camilan kami dibuat dengan resep warisan yang mempertahankan rasa otentik dan kualitas terbaik. Setiap gigitan membawa Anda kembali ke tradisi kuliner Nusantara yang kaya dan penuh kenangan. Nikmati kelezatan yang tak terlupakan di setiap sajian Mak Sarati.",// optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291005/WhatsApp_Image_2024-09-02_at_22.29.01_c9d41928_lzuquc.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Cenil","deskripsi":"camilan tradisional yang terbuat dari tepung ketan yang dikukus hingga kenyal dan berwarna cerah. Biasanya disajikan dengan taburan kelapa parut dan siraman gula merah cair yang manis. Dengan tekstur yang lembut dan rasa yang gurih manis, cenil adalah pilihan sempurna untuk menikmati kelezatan jajanan khas Nusantara yang sederhana namun memikat. Setiap gigitan cenil membawa nostalgia dan kehangatan dari tradisi kuliner Indonesia.","price":"Rp. 2000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290999/download_1_a9hh7o.jpg"},{"name":"Lupis","deskripsi":"camilan tradisional berbahan dasar ketan yang dikukus dalam bentuk segitiga dan dibalut dengan daun pisang. Setelah matang, lupis disajikan dengan taburan kelapa parut dan siraman gula merah cair yang manis. Teksturnya yang kenyal dan rasa manis dari gula merah memberikan pengalaman kuliner yang memanjakan lidah dan menghadirkan kehangatan tradisi Indonesia dalam setiap gigitan. Lupis adalah pilihan tepat untuk menikmati kelezatan jajanan tradisional yang kaya rasa dan nostalgia.","price":"Rp. 2000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291000/download_wgd9ki.jpg"},{"name":"Orog-Orog","deskripsi":" Teksturnya yang kenyal di luar dan lembut di dalam, dipadukan dengan rasa manis alami dari kelapa dan sedikit gurih, menjadikannya camilan yang memikat dan memanjakan selera. Orog-orog adalah pilihan ideal untuk menikmati kelezatan jajanan khas Nusantara yang sederhana namun penuh rasa.","price":"Rp. 3000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725291000/hipwee-c3c1e5554245f72656a64b48941455c6_pyjags.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7896.09925615267!2d114.2937932334897!3d-8.297860278172351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725289390799!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn.Sidorejo Rt.01 Rw.01 Ds.Gitik Kec.Rogojampi",
+      },
+    },
+    "pawon-bu-sum" : {   
+      title: "Pawon Bu Sum",
+      icon: null,
+      navbarTitle: "Pawon Bu Sum",
+      ctaLink: null,
+      keyword: [
+ "Pawon Bu Sum Onde-Onde Pisang Goreng Pecel","Onde-Onde Kenyal Pawon Bu Sum","Pisang Goreng Crispy Pawon Bu Sum","Pecel Lezat di Pawon Bu Sum","Camilan Tradisional Pawon Bu Sum","Onde-Onde dan Pisang Goreng Maknyus Pawon Bu Sum","Pecel Khas Pawon Bu Sum","Pawon Bu Sum Sajian Onde-Onde dan Pisang Goreng","Kelezatan Pecel dan Camilan Pawon Bu Sum","Onde-Onde, Pisang Goreng, Pecel di Pawon Bu Sum"
+      ]
+      ,
+      color: {"primary":"bg-[#1e8fa8]","secondary":"bg-[#49deec]","backgroundColor":"bg-[#b9d2e8]","hoverColor":"hover:bg-[#7abece]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+      hero: {
+        tagLine: "Pawon Bu Sum: Onde-Onde Kenyal, Pisang Goreng Crispy, dan Pecel Lezat",
+        deskripsi:"Temukan kelezatan autentik di Pawon Bu Sum dengan sajian onde-onde yang kenyal, pisang goreng yang crispy, dan pecel yang kaya rasa. Setiap hidangan dibuat dengan bahan berkualitas dan resep tradisional, menawarkan pengalaman kuliner yang memanjakan lidah dan membawa nostalgia. Nikmati kehangatan dan cita rasa khas yang menyentuh hati dalam setiap gigitan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725293813/WhatsApp_Image_2024-09-02_at_23.15.14_6ad34f2a_ibtyuv.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Pawon Bu Sum: Onde-Onde Kenyal, Pisang Goreng Crispy, dan Pecel Lezat",
+  
+        deskripsi: "Temukan kelezatan autentik di Pawon Bu Sum dengan sajian onde-onde yang kenyal, pisang goreng yang crispy, dan pecel yang kaya rasa. Setiap hidangan dibuat dengan bahan berkualitas dan resep tradisional, menawarkan pengalaman kuliner yang memanjakan lidah dan membawa nostalgia. Nikmati kehangatan dan cita rasa khas yang menyentuh hati dalam setiap gigitan.",// optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725293807/Ilustra%C3%A7%C3%A3o_de_garota_chef_imagem_gerada_por_ai___vetor_Premium_gerado_com_IA_auprth.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Onde Onde","deskripsi":"Nikmati onde-onde dari Pawon Bu Sum yang kenyal dan manis. Dibuat dari tepung ketan yang lembut dan diisi dengan kacang hijau manis, onde-onde ini menawarkan rasa tradisional yang memanjakan lidah dengan setiap gigitan.","price":"Rp. 1000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725293808/Resep_Onde-onde_Kacang_Ijo_Kering_Enak_k3sgdw.jpg"},{"name":"Pecel Sayur","deskripsi":"Cobalah pecel sayur di Pawon Bu Sum, sajian tradisional yang menyegarkan dengan campuran sayuran segar dan bumbu kacang yang kaya rasa. Pecel sayur ini menawarkan kombinasi rasa pedas, manis, dan gurih yang memuaskan selera, cocok untuk hidangan utama atau pendamping.","price":"Rp. 5000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725293808/pecel__coconut_sauce._traditional_recipe._indonesiancuisine_pfkzff.jpg"},{"name":"Pisang Goreng","deskripsi":"Rasakan pisang goreng crispy dari Pawon Bu Sum yang gurih dan renyah. Pisang matang yang digoreng dengan sempurna memberikan tekstur luar yang crunchy dan rasa manis alami di dalamnya, ideal sebagai camilan atau pendamping minuman.","price":"Rp. 1000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725293807/download_pr6jvn.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7896.09925615267!2d114.2937932334897!3d-8.297860278172351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725289390799!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn.Sidorejo Rt.01 Rw.01 Ds.Gitik Kec.Rogojampi",
+      },
+    },
+    "warung-mbok-nur" : {   
+      title: "Warung Mbok Nur",
+      icon: null,
+      navbarTitle: "Warung Mbok Nur",
+      ctaLink: null,
+      keyword: [
+ "Warung Mbok Nur - Rujak Segar & Kedai Makanan","Aneka Rujak - Warung Tradisional Mbok Nur","Kedai Makanan Enak - Warung Mbok Nur","Rujak Buah Segar - Resep Asli Mbok Nur","Rujak Cingur Khas - Warung Mbok Nur","Kuliner Tradisional - Warung Mbok Nur","Rujak dan Makanan Tradisional - Mbok Nur","Makanan Nusantara - Warung Mbok Nur","Rujak Buah dan Sayur - Resep Warisan Mbok Nur","Warung Rujak Enak - Kedai Mbok Nur"
+      ]
+      ,
+      color: {"primary":"bg-[#1ea847]","secondary":"bg-[#66d272]","backgroundColor":"bg-[#c5e8b9]","hoverColor":"hover:bg-[#55b831]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#8a0000]"},
+      hero: {
+        tagLine: "Segarkan Harimu dengan Rujak Khas Mbok Nur",
+        deskripsi:"Nikmati sensasi segar dan lezat dari rujak tradisional yang dibuat dengan bahan-bahan pilihan dan bumbu khas warisan Nusantara. Di Warung Mbok Nur, setiap suapan rujak membawa Anda lebih dekat dengan cita rasa asli Indonesia, memberikan energi dan kesegaran untuk menemani hari Anda.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290064/WhatsApp_Image_2024-09-02_at_22.12.22_0495deaa_daz8ck.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Segarkan Harimu dengan Rujak Khas Mbok Nur",
+  
+        deskripsi: "Nikmati sensasi segar dan lezat dari rujak tradisional yang dibuat dengan bahan-bahan pilihan dan bumbu khas warisan Nusantara. Di Warung Mbok Nur, setiap suapan rujak membawa Anda lebih dekat dengan cita rasa asli Indonesia, memberikan energi dan kesegaran untuk menemani hari Anda.",// optional
+        img: "https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290468/Rujak_Lotek_lontong_iqzrmd.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong","deskripsi":"Rujak Lontong adalah perpaduan unik antara lontong lembut dan segar dengan bumbu rujak khas yang kaya rasa. Disajikan dengan potongan sayur dan buah segar, rujak lontong memberikan kombinasi tekstur dan cita rasa yang memanjakan lidah. Kuah rujak yang pedas, manis, dan asam menyatu sempurna dengan lontong, menciptakan hidangan yang menggugah selera dan cocok dinikmati kapan saja.","price":"Rp. 7000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290060/Situs_Judi_Online_Pos4D_Terbaik_dan_Terpercaya_Indonesia_lvpez2.jpg"},{"name":"Rujak Kecut Khas Banyuwangi","deskripsi":"idangan khas yang menawarkan perpaduan rasa segar dan asam yang menggugah selera. Terbuat dari buah-buahan segar seperti mangga, nanas, dan kedondong yang dipotong dadu dan dicampur dengan bumbu kecut khas Banyuwangi. Bumbu ini terdiri dari campuran asam jawa, cabai, dan gula merah, memberikan rasa pedas, manis, dan asam yang seimbang. Rujak Kecut ini adalah pilihan sempurna untuk menyegarkan hari Anda dengan cita rasa yang unik dan autentik.","price":"Rp. 7000","img":"https://res.cloudinary.com/dtbbiu5xe/image/upload/v1725290059/Rujak_serut_1_mzisnd.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7896.09925615267!2d114.2937932334897!3d-8.297860278172351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725289390799!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn.Sidorejo Rt.01 Rw.01 Ds.Gitik Kec.Rogojampi",
+      },
+    },
+    "kerupuk-pangsit-butoriqoh" : {   
+      title: "KERUPUK PANGSIT BU TORIQOH",
+      icon: null,
+      navbarTitle: "KERUPUK PANGSIT BU TORIQOH",
+      ctaLink: "https://wa.me/6281232947440",
+      keyword: [
+"Kerupuk Pangsit Bu Toriqoh","Kerupuk Pangsit Tradisional Buatan Tangan","Kerupuk Pangsit Renyah Bu Toriqoh","Kerupuk Pangsit UMKM Asli Indonesia","Kerupuk Pangsit Gurih dan Renyah Bu Toriqoh","Kerupuk Pangsit Buatan Rumahan Bu Toriqoh","Kerupuk Pangsit UMKM Kualitas Terbaik","Kerupuk Pangsit Bu Toriqoh Harga Terjangkau","Kerupuk Pangsit Enak Bu Toriqoh","Kerupuk Pangsit Halal Bu Toriqoh"
+      ]
+      ,
+      color: {"primary":"bg-[#FFD700]","secondary":"bg-[#B8860B]","backgroundColor":"bg-[#FFF8DC]","hoverColor":"hover:bg-[#FFA500]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF4500]"},
+      hero: {
+        tagLine: "Renyahnya Warisan Rasa, Terjaga Sejak Lama",
+        deskripsi:"Kerupuk Pangsit Bu Toriqoh telah mempertahankan kualitas dan rasa otentik dari generasi ke generasi. Dengan pengalaman puluhan tahun, kami tetap konsisten menyajikan kerupuk pangsit yang gurih dan renyah, diproduksi dengan resep tradisional yang sudah teruji waktu. Pilihan terbaik untuk cita rasa yang tak lekang oleh zaman.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826201/pangsit2_s0b1mi.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dari Dapur Kami ke Meja Anda",
+  
+        deskripsi: "Jika Anda tertarik untuk membeli Kerupuk Pangsit Bu Toriqoh, inilah tampilan rumah produksi kami tempat di mana setiap kerupuk dibuat dengan penuh ketelitian dan cinta. Berlokasi di desa kami yang tenang, rumah produksi ini telah menjadi pusat dari rasa otentik yang telah kami jaga selama bertahun-tahun. Kami bangga menyajikan kelezatan dari tempat yang sederhana namun penuh dedikasi ini langsung ke meja makan Anda.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826201/pangsit_ybpxqu.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Kerupuk Pangsit Original","deskripsi":"Kerupuk Pangsit Bu Toriqoh, camilan renyah dan gurih yang dibuat dengan resep tradisional. Cocok dinikmati kapan saja untuk menemani waktu santai Anda.","price":"Rp. 4.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826201/pangsit1_suipk7.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.350736091934!2d114.30726587501009!3d-8.267844591766181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnMDQuMiJTIDExNMKwMTgnMzUuNCJF!5e0!3m2!1sid!2sid!4v1724826752394!5m2!1sid!2sid",
+      footer: {
+        noHp: "0881232947440",
+        alamat: "Bodean, Kabat",
+      },
+    },
+    "pempek-yuida" : {   
+      title: "PEMPEK YU'IDA",
+      icon: null,
+      navbarTitle: "PEMPEK YU'IDA",
+      ctaLink: "https://wa.me/628113508733",
+      keyword: [
+"Pempek Yu'Ida","Pempek Lenjer terbaik","Pempek Krispi enak","Pempek Mix Lenjer Kapal Selam","Pempek Mix original","Pempek khas Palembang Yu'Ida","Pempek homemade Yu'Ida","Pempek crispy Lenjer","Pesan Pempek online Yu'Ida","Pempek Palembang asli"
+      ]
+      ,
+      color: {"primary":"bg-[#df8b15]","secondary":"bg-[#c6de98]","backgroundColor":"bg-[#FBF9F4]","hoverColor":"hover:bg-[#AA6B12]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#9cd273]"},
+      hero: {
+        tagLine: "Nikmati Pempek Premium Kelezatan Tanpa Tanding",
+        deskripsi:"Pempek Yu'Ida menghadirkan cita rasa autentik Palembang dengan kualitas premium. Dibuat dari daging tenggiri pilihan, setiap gigitan memberikan kenikmatan tanpa tanding. Kami mengutamakan kesegaran bahan dan kelezatan rasa, memastikan Anda menikmati pempek terbaik yang kayakan cita rasa",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724671566/h1z_vpxg5q.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Komitmen pada Kualitas, Cinta pada Rasa",
+  
+        deskripsi: "Di Pempek Yu'Ida, kami percaya bahwa kualitas terbaik lahir dari dedikasi yang tulus. Setiap pempek yang kami buat adalah hasil dari komitmen untuk menggunakan bahan-bahan pilihan, terutama daging tenggiri segar, dan cinta pada cita rasa autentik Palembang. Kami hadirkan kelezatan yang tak hanya memuaskan selera, tapi juga membawa Anda lebih dekat pada tradisi yang kami jaga dengan sepenuh hati.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724671567/h1f_d9cxce.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Pempek Mix Lenjer Kapal Selam","deskripsi":"Nikmati tekstur kenyal dan cita rasa khas dari Pempek Lenjer kami, dibuat dengan daging tenggiri segar yang memberikan rasa gurih yang sempurna di setiap gigitannya.","price":"Rp. 100.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724671567/h1g_tia5yf.jpg"},{"name":"Pempek krispi","deskripsi":"Pempek Krispi Yu'Ida menawarkan sensasi renyah di luar dengan kelezatan lembut di dalam. Cocok untuk Anda yang mencari perpaduan unik antara tekstur dan rasa.","price":"Rp. 75.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724671842/pempek_krisipi_jgf2qj.jpg"},{"name":"Pempek Mix","deskripsi":"Dapatkan kombinasi terbaik dari Pempek Lenjer dan Pempek Kapal Selam dalam satu paket Pempek Mix. Ideal untuk Anda yang ingin menikmati variasi rasa dalam satu hidangan.","price":"Rp. 60.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724671567/h1f_d9cxce.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.407475075575!2d114.32645797501013!3d-8.262176491771703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTUnNDMuOCJTIDExNMKwMTknNDQuNSJF!5e0!3m2!1sid!2sid!4v1724672097860!5m2!1sid!2sid ",
+      footer: {
+        noHp: "088113508733",
+        alamat: "Kedayunan, Banyuwangi",
+      },
+    },
+    "warung-rujak-bek-edok" : {   
+      title: "WARUNG RUJAK BEK EDOK",
+      icon: null,
+      navbarTitle: "WARUNG RUJAK BEK EDOK",
+      ctaLink: null,
+      keyword: [
+"Warung Rujak Lontong Sayur Bek Edok","Rujak Lontong Sayur Bek Edok","Tahu Kecap Bek Edok","Warung Tahu Kecap dan Lontong Sayur","Rujak Buah dan Lontong Sayur Bek Edok","Tahu Kecap Enak Bek Edok","Lontong Sayur Khas Bek Edok","Warung Rujak Lontong Sayur dan Tahu Kecap","Makanan Tradisional Bek Edok","Rujak dan Lontong Sayur Bek Edok"
+      ]
+      ,
+      color: {"primary":"bg-[#FF6347]","secondary":"bg-[#FFD700]","backgroundColor":"bg-[#FFF8E7]","hoverColor":"hover:bg-[#FF4500]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF8C00]"},
+      hero: {
+        tagLine: "Tradisi Rasa Klasik, Konsisten Sejak Lama",
+        deskripsi:"Warung Rujak Lontong Sayur Bek Edok telah lama menjadi pilihan utama untuk menikmati rujak segar, lontong sayur, dan tahu kecap yang konsisten dan lezat. Dengan resep yang diwariskan turun-temurun, kami terus menyajikan hidangan berkualitas dalam suasana yang akrab dan ramah. Setiap hidangan kami adalah hasil dari dedikasi dan pengalaman bertahun-tahun.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724830228/WhatsApp_Image_2024-08-28_at_14.30.01_278d68ed_vrluzo.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasa Warisan, Disajikan di Tempat yang Sama Sejak Lama",
+  
+        deskripsi: "Di Warung Rujak Lontong Sayur Bek Edok, kami menyajikan kelezatan rujak lontong sayur yang menggugah selera, tahu kecap yang renyah dan es setrup yang segar di tempat yang sama sejak lama. Gambar di samping menunjukkan lokasi warung kami yang sederhana namun penuh dengan kenangan dan rasa autentik. Kami bangga mempertahankan tradisi dan konsistensi dalam setiap hidangan yang kami sajikan, membuat setiap kunjungan menjadi pengalaman kuliner yang memuaskan.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826338/bek_edok_omqzao.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong Sayur","deskripsi":"Nikmati rujak lontong sayur yang gurih dan penuh rasa. Kombinasi sempurna yang memanjakan lidah Anda dengan cita rasa tradisional yang otentik.","price":"Rp. 6.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826337/bek_edok1_wg8ruj.jpg"},{"name":"Tahu Kecap","deskripsi":"Tahu kecap kami menawarkan tahu goreng yang renyah dengan saus kecap manis yang kaya rasa. Hidangan sederhana namun memikat, ideal sebagai pendamping atau camilan lezat.","price":"Rp. 6.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826336/bek_edok2_szohc9.jpg"},{"name":"Es Setrup","deskripsi":"Es Setrup adalah minuman segar yang menyegarkan, dengan rasa yang ringan dan menyegarkan. Sempurna untuk melengkapi hidangan Anda dan menyegarkan diri di hari yang panas.","price":"Rp. 2.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826336/bek_edok3_rdlh1z.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.2360231518537!2d114.31381497501025!3d-8.279292391755138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDUuNSJTIDExNMKwMTgnNTkuMCJF!5e0!3m2!1sid!2sid!4v1724829402022!5m2!1sid!2sid ",
+      footer: {
+        noHp: null,
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "warung-denana" : {   
+      title: "WARUNG DENANA",
+      icon: null,
+      navbarTitle: "WARUNG DENANA",
+      ctaLink: "https://wa.me/6281249138038",
+      keyword: [
+"Warung Denana","Nasi Ayam Geprek Warung Denana","Tempe Penyet Denana","Telur Penyet Warung Denana","Mie Goreng Enak Denana","Mie Kuah Warung Denana","Es Sirup Segar Denana","Warung Nasi Ayam Geprek Terdekat","Kuliner Ayam Geprek dan Penyet Denana","Menu Mie Goreng dan Mie Kuah Denana","Warung Makan Khas Denana","Es Sirup dan Makanan Penyet Warung Denana","Makan Enak di Warung Denana","Ayam Geprek Crispy Warung Denana","Tempe Penyet Pedas Denana","Kuliner Warung Denana Es Sirup Segar"
+      ]
+      ,
+      color: {"primary":"bg-[#FF5733]","secondary":"bg-[#FFC300]","backgroundColor":"bg-[#FFF3E0]","hoverColor":"hover:bg-[#E74C3C]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#27AE60]"},
+      hero: {
+        tagLine: "Pedasnya Bikin Nagih, Suasananya Bikin Betah",
+        deskripsi:"Warung Denana menghadirkan kelezatan masakan rumahan dengan pilihan menu yang menggugah selera seperti nasi ayam geprek pedas, tempe/telur penyet, mie goreng atau kuah, dan es sirup segar. Setiap hidangan disiapkan dengan bahan berkualitas dan resep khas, menghadirkan cita rasa autentik yang selalu dirindukan. Nikmati pengalaman kuliner yang memuaskan di Warung Denana, di mana rasa dan kepuasan pelanggan selalu menjadi prioritas kami.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724836551/WhatsApp_Image_2024-08-28_at_15.36.49_19ec5eb5_otlmks.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Sajian Desa, Suasana yang Membawa Pulang",
+  
+        deskripsi: "Jika Anda ingin merasakan kelezatan masakan desa yang autentik, datanglah ke Warung Denana, tempat yang terlihat seperti foto disamping. Di sini, kami menyajikan menu andalan seperti nasi ayam geprek, tempe/telur penyet, mie goreng/kuah, dan es sirup, semuanya disiapkan dengan resep khas yang mengingatkan Anda pada masakan rumahan. Warung kami menawarkan suasana hangat dan ramah, menjadikannya tempat yang sempurna untuk menikmati sajian tradisional. Ayo, kunjungi Warung Denana dan nikmati sendiri pengalaman kuliner yang menggugah selera.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826616/de_ratna_lxo3vq.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Nasi Ayam Geprek","deskripsi":"Nasi ayam geprek di Warung Denana disajikan dengan ayam goreng yang renyah dan sambal geprek pedas yang menggigit. Dilengkapi dengan nasi hangat, menu ini menjadi pilihan sempurna bagi pecinta makanan pedas dengan cita rasa tradisional.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826614/de_ratna1_bp48mj.jpg"},{"name":"Nasi Tempe/Telur Penyet","deskripsi":"Tempe dan telur penyet kami disajikan dengan bumbu sambal uleg yang khas, menambah kenikmatan setiap gigitan. Tempe yang digoreng hingga garing atau telur yang lembut, dijamin akan memuaskan selera Anda.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826613/de_ratna2_gy7gyi.jpg"},{"name":"Mie Goreng/Kuah","deskripsi":"Nikmati mie goreng atau mie kuah yang disajikan dengan rempah-rempah khas desa, memberikan rasa yang kaya dan memanjakan lidah. Disiapkan dengan tambahan sayuran segar dan pilihan topping seperti ayam atau telur.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826611/de_ratna3_hdvuye.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.2434110188274!2d114.31398067366925!3d-8.278555591755808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDIuOCJTIDExNMKwMTgnNTkuNiJF!5e0!3m2!1sid!2sid!4v1724836229514!5m2!1sid!2sid",
+      footer: {
+        noHp: "0881249138038",
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "nasi-tempong-bu-tarwiyah" : {   
+      title: "NASI TEMPONG BU TARWIYAH",
+      icon: null,
+      navbarTitle: "NASI TEMPONG BU TARWIYAH",
+      ctaLink: null,
+      keyword: [
+"Nasi Tempong Bu Tarwiyah","Nasi Tempong Khas Banyuwangi","Nasi Tempong Pedas Bu Tarwiyah","Nasi Tempong Asli Banyuwangi","Nasi Tempong Tradisional Bu Tarwiyah","Kuliner Pedas Nasi Tempong Bu Tarwiyah","Nasi Tempong Buatan Rumahan Bu Tarwiyah","Nasi Tempong Enak dan Pedas","Nasi Tempong Legendaris Bu Tarwiyah","Nasi Tempong Sambal Pedas Bu Tarwiyah"
+      ]
+      ,
+      color:{"primary":"bg-[#FF6347]","secondary":"bg-[#FFD700]","backgroundColor":"bg-[#FFF8E7]","hoverColor":"hover:bg-[#FF4500]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF0000]"},
+      hero: {
+        tagLine: "Pedasnya Bikin Nagih, Suasananya Bikin Betah",
+        deskripsi:"Nasi Tempong Bu Tarwiyah, Anda bisa menikmati paduan rasa pedas khas Nasi Tempong yang menggugah selera, ditambah dengan aneka gorengan renyah dan minuman Scahet yang menyegarkan. Warung kami adalah tempat yang ideal untuk mencicipi hidangan lezat dalam suasana yang hangat dan akrab. Rasakan kelezatan yang memanjakan lidah Anda hanya di sini!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724828923/WhatsApp_Image_2024-08-28_at_14.08.19_8523dc09_ytgrnl.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Nasi Tempong, Gorengan Lezat, dan Minuman Scahet Semua dalam Satu Tempat!",
+  
+        deskripsi: "Nasi Tempong Bu Tarwiyah bukan hanya soal rasa pedas yang khas, tapi juga pengalaman kuliner yang autentik. Di warung sederhana ini, setiap piring Nasi Tempong disajikan dengan cita rasa tradisional yang menggugah selera, dalam suasana yang nyaman dan ramah. Tempat ini adalah tujuan utama bagi para pencinta makanan pedas yang mencari kenikmatan sejati.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826273/bek_tarwiyah_ltuzrb.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Nasi Tempong","deskripsi":"Nasi Tempong Bu Tarwiyah menawarkan hidangan nasi pedas dengan sambal khas yang menggugah selera. Rasakan kombinasi rasa pedas dan gurih yang memuaskan dalam setiap suapan.","price":"Rp. 6.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826271/nasi_tempong_l0ycnx.jpg"},{"name":"Aneka Gorengan","deskripsi":"Nikmati aneka gorengan renyah kami, mulai dari tempe, tahu, hingga kerupuk. Setiap gorengan diproses dengan resep tradisional untuk memastikan kerenyahan dan kelezatannya.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826271/bek_tarwiyah2_kx7fcg.jpg"},{"name":"Aneka Minuman Kopi Scahet dan es Scahet","deskripsi":"Nikmati minuman Scahet kami, termasuk kopi Scahet dengan cita rasa yang kaya dan es Scahet yang menyegarkan. Kombinasi sempurna untuk memuaskan dahaga dan menambah semangat, cocok dinikmati kapan saja.","price":"Rp. 3.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826272/bek_tarwiyah3_fffgob.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.235652136974!2d114.31394997501029!3d-8.279329391755104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDUuNiJTIDExNMKwMTgnNTkuNSJF!5e0!3m2!1sid!2sid!4v1724828057676!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "gorengan-bu-lamhatin" : {   
+      title: "GORENGAN BU LAMHATIN",
+      icon: null,
+      navbarTitle: "GORENGAN BU LAMHATIN",
+      ctaLink: "https://wa.me/6285236826091",
+      keyword: [
+"Gorengan Bu Lamhatin","Bakwan Bu Lamhatin","Pisang Goreng Bu Lamhatin","Tahu Isi Bu Lamhatin","Jamblem Bu Lamhatin","Tahu Kocek Bu Lamhatin","Gorengan Enak Bu Lamhatin","Bakwan Krispi Bu Lamhatin","Pisang Goreng Renyah Bu Lamhatin","Tahu Isi Goreng Bu Lamhatin","Jamblem Lezat Bu Lamhatin","Tahu Kocek Khas Bu Lamhatin","Gorengan Murah Bu Lamhatin","Tempat Gorengan Terbaik Bu Lamhatin","Gorengan Khas Bu Lamhatin"
+      ]
+      ,
+      color:{"primary":"bg-[#FFB74D]","secondary":"bg-[#FF7043]","backgroundColor":"bg-[#FFF3E0]","hoverColor":"hover:bg-[#F57C00]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF9800]"},
+      hero: {
+        tagLine: "Gorengan Lezat, Harga Hemat",
+        deskripsi:"Gorengan Bu Lamhatin, nikmati beragam pilihan gorengan yang menggugah selera dengan harga yang bersahabat. Kami menyajikan bakwan renyah, pisang goreng manis, tahu isi yang gurih, jamblem yang khas, dan tahu kocek yang lezat. Setiap gigitan menawarkan rasa yang enak dan kepuasan yang tak tertandingi, semua dengan harga yang terjangkau. Kunjungi kami dan rasakan kenikmatan gorengan berkualitas tanpa harus merogoh kocek dalam-dalam.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724834244/WhatsApp_Image_2024-08-28_at_15.36.31_249a853c_tnnj7q.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasakan Kelezatan Setiap Gigitan dari Gorengan Bu Lamhatin",
+  
+        deskripsi: "Gorengan Bu Lamhatin menyajikan aneka gorengan lezat yang digemari banyak orang. Jika Anda tertarik mencicipi kelezatannya, datanglah langsung ke tempat kami yang terlihat seperti pada foto disamping. Di sinilah, dengan suasana hangat dan ramah, kami menyajikan gorengan yang dibuat dengan resep turun-temurun. Gerobak khas dan tenda sederhana kami menjadi pusat perhatian, selalu dipadati oleh pelanggan setia. Jadi, jika Anda ingin menikmati gorengan autentik yang renyah, silakan kunjungi lokasi kami seperti yang terlihat di gambar.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826531/gorengan_de_tin_ibrrxe.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Aneka Gorengan","deskripsi":"Nikmati kombinasi camilan lezat di Gorengan Bu Lamhatin! Bakwan kami renyah dengan isian sayuran segar, pisang goreng manis dengan lapisan luar krispi, dan tahu isi yang gurih dengan campuran daging dan sayuran. Setiap gigitan menawarkan kelezatan yang memuaskan dengan harga yang terjangkau.","price":"Rp. 1.000/pcs","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826536/gorengan_detin2_hqb1z3.jpg"},{"name":"Jamblem","deskripsi":"Jamblem kami adalah camilan tradisional yang terbuat dari campuran bahan-bahan segar, digoreng hingga mencapai tekstur renyah dan rasa yang lezat.","price":"Rp. 1.000/pcs","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724834789/gorengan_de_tin5_a7ublf.jpg"},{"name":"Tahu Kocek","deskripsi":"Tahu kocek kami adalah tahu goreng dengan lapisan luar yang renyah dan gurih, memberikan setiap suapan rasa yang kaya dan memuaskan.","price":"Rp. 5.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826532/gorengan_de_tin1_iputip.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.240438102548!2d114.31388037501023!3d-8.278852091755498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDMuOSJTIDExNMKwMTgnNTkuMiJF!5e0!3m2!1sid!2sid!4v1724834283843!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885236826091",
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "warung-rujak-beksaneah" : {   
+      title: "WARUNG RUJAK BEK SANEAH",
+      icon: null,
+      navbarTitle: "WARUNG RUJAK BEK SANEAH",
+      ctaLink: null,
+      keyword: [
+"Warung Rujak Lontong Sayur Bek Saneah","Rujak Lontong Sayur Bek Saneah","Tahu Kecap Bek Saneah","Warung Tahu Kecap dan Lontong Sayur","Rujak Buah dan Lontong Sayur Bek Saneah","Tahu Kecap Enak Bek Saneah","Lontong Sayur Khas Bek Saneah","Warung Rujak Terkenal","Rujak Segar Bek Saneah","Makanan Tradisional Bek Saneah"
+      ]
+      ,
+      color:{"primary":"bg-[#FFD700]","secondary":"bg-[#B8860B]","backgroundColor":"bg-[#FFF8DC]","hoverColor":"hover:bg-[#FFA500]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF4500]"},
+      hero: {
+        tagLine: "Klasik dan Konsisten, Rasa yang Tak Pernah Berubah",
+        deskripsi:"Warung Rujak Bek Saneah telah berdiri sejak lama dan tetap menjadi favorit hingga sekarang. Kami menyajikan rujak segar, lontong sayur gurih, tahu kecap renyah, dan es campur yang menyegarkan dengan kualitas yang tak pernah berubah. Nikmati kelezatan yang sudah teruji waktu dan rasakan mengapa kami tetap menjadi pilihan utama di hati banyak orang.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826390/bek_saneah4_sea4aw.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Tradisi Rasa, Tetap Konsisten dari Masa ke Masa",
+  
+        deskripsi: "Selamat datang di Warung Rujak Bek Saneah! Di sinilah tradisi kuliner kami berlanjut dengan hidangan yang selalu memuaskan. Foto di samping menunjukkan lokasi kami yang telah lama menjadi tempat favorit untuk menikmati rujak segar, lontong sayur yang gurih, tahu kecap yang renyah, dan es campur yang menyegarkan. Kami berkomitmen untuk menjaga cita rasa otentik yang telah memikat pelanggan selama bertahun-tahun.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826392/bek_saneah_a0dbxu.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong Sayur","deskripsi":"Rujak lontong sayur kami menyajikan lontong sayur yang gurih, menawarkan rasa tradisional yang memanjakan lidah dengan setiap suapan.","price":"Rp. 6.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826391/bek_saneah1_jo59rh.jpg"},{"name":"Tahu Kecap","deskripsi":"Tahu kecap kami adalah tahu goreng renyah yang disiram dengan saus kecap manis yang kaya rasa, memberikan sentuhan manis dan gurih yang memikat.","price":"Rp. 6.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826390/bek_saneh2_fqxd2o.jpg"},{"name":"Es Campur","deskripsi":"Es campur kami adalah pilihan segar untuk menghilangkan dahaga, dengan campuran buah-buahan segar dan sirup manis yang menyegarkan di setiap tegukan.","price":"Rp. 4.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826418/bek_saneah3_ypnwc2.webp"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.2404150407265!2d114.31366267501032!3d-8.278854391755564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDMuOSJTIDExNMKwMTgnNTguNSJF!5e0!3m2!1sid!2sid!4v1724830420421!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "warung-emak" : {   
+      title: "WARUNG EMAK",
+      icon: null,
+      navbarTitle: "WARUNG EMAK",
+      ctaLink: "https://wa.me/6283122088336",
+      keyword: [
+"Warung Emak Nasi Pecel","Nasi Pecel Warung Emak","Nasi Campur Warung Emak","Warung Emak Nasi Campur","Nasi Ayam Kare Warung Emak","Warung Emak Nasi Ayam Kare","Nasi Pecel Lezat Warung Emak","Nasi Campur Khas Warung Emak","Nasi Ayam Kare Enak Warung Emak","Menu Nasi Pecel, Campur, dan Ayam Kare Warung Emak"
+      ]
+      ,
+      color:{"primary":"bg-[#FF5722]","secondary":"bg-[#FFC107]","backgroundColor":"bg-[#FFF8E1]","hoverColor":"hover:bg-[#E64A19]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF9800]"},
+      hero: {
+        tagLine: "Rasa Nikmat, Porsi Melimpah, Harga Terjangkau",
+        deskripsi:"Di Warung Emak, kami menyajikan Nasi Pecel, Nasi Campur, dan Nasi Ayam Kare dengan rasa yang menggugah selera dan porsi yang memuaskan. Nikmati hidangan lezat kami dengan harga yang ramah di kantong tanpa mengorbankan kualitas. Setiap piring penuh dengan cita rasa dan kelezatan yang membuat setiap kunjungan menjadi pengalaman kuliner yang menyenangkan dan mengenyangkan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826478/warung_emak4_mczkkt.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dari Dapur Kami ke Meja Anda",
+  
+        deskripsi: "Warung Emak adalah destinasi kuliner Anda untuk menikmati Nasi Pecel, Nasi Campur, dan Nasi Ayam Kare dengan cita rasa yang autentik dan porsi yang memuaskan. Foto di samping menunjukkan lokasi kami yang sederhana namun nyaman, di mana kami menyajikan hidangan lezat dengan harga yang terjangkau. Bergabunglah dengan kami dan nikmati setiap suapan dari hidangan yang telah menjadi favorit banyak pelanggan setia kami.",// optional
+        img: "https://res.cloudinary.com/dp5fubzft/image/upload/v1724826479/warung_emak_hmykzc.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Nasi Pecel","deskripsi":"Nasi Pecel kami menyajikan nasi hangat dengan sambal pecel yang kaya rasa dan segar. Dipadukan dengan sayuran dan tempe goreng, hidangan ini menawarkan kombinasi rasa pedas, manis, dan gurih yang memuaskan.","price":"Rp. 7.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826482/warung_emak2_qe9ms4.jpg"},{"name":"Nasi Campur","deskripsi":"Nasi Campur Warung Emak menawarkan porsi nasi putih yang lengkap dengan berbagai lauk telur merah, mie, kering tempe dan sambal. Setiap suapan menyajikan keanekaragaman rasa dan tekstur yang lezat.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826480/warung_emak1_bixhx1.jpg"},{"name":"Nasi Ayam Kare","deskripsi":"Nasi Ayam Kare kami menyajikan nasi dengan potongan ayam yang dimasak dalam kuah kare yang kental dan penuh rasa. Hidangan ini memberikan sensasi pedas dan gurih yang menyelimuti nasi, cocok untuk pencinta kari yang menyukai porsi melimpah.","price":"Rp. 12.000","img":"https://res.cloudinary.com/dp5fubzft/image/upload/v1724826481/warung_emak3_s2c0af.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.240540376635!2d114.31381347501026!3d-8.278841891755516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTYnNDMuOCJTIDExNMKwMTgnNTkuMCJF!5e0!3m2!1sid!2sid!4v1724831555168!5m2!1sid!2sid",
+      footer: {
+        noHp: "0883122088336",
+        alamat: "Kabat, Banyuwangi",
+      },
+    },
+    "warung-sikembar" : {   
+      title: "WARUNG SI KEMBAR",
+      icon: null,
+      navbarTitle: "WARUNG SI KEMBAR",
+      ctaLink: "https://wa.me/621949747653",
+      keyword: [
+"Warung SiKembar","Nasi pecel ayam","Nasi campur ayam","Warung nasi pecel","Nasi pecel enak","Nasi campur lezat","Nasi pecel tradisional","Nasi campur murah","Warung makan Jawa","Nasi pecel sambal kacang","Nasi campur komplet","Nasi pecel pedas","Tempat makan nasi pecel","Nasi campur ala rumahan","Warung nasi campur ayam","Pecinta nasi pecel","Nasi campur sayur","Nasi pecel sayur segar","Nasi campur tradisional"
+      ]
+      ,
+      color:{"primary":"bg-[#FF0000]","secondary":"bg-[#FF0000]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#00ff40]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF0000]"},
+      hero: {
+        tagLine: "Warung SiKembar: Pilihan Tepat untuk Pecel Ayam dan Nasi Campur Enak!",
+        deskripsi:"Warung SiKembar mengundang Anda untuk menikmati sajian khas Nusantara dengan menu andalan kami: Nasi Pecel Ayam dan Nasi Campur Ayam. Kami mengutamakan rasa dan kualitas dengan menggunakan bahan-bahan segar dan bumbu tradisional yang kaya akan rempah. Setiap hidangan disiapkan dengan hati-hati untuk memastikan Anda mendapatkan cita rasa autentik yang memuaskan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725034859/IMG_20240826_181927_sqftk9.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cita Rasa Tradisional, Nasi Pecel dan Campur Istimewa di SiKembar!",
+  
+        deskripsi: "Untuk Anda yang mencari variasi, Nasi Campur Ayam di Warung SiKembar adalah pilihan sempurna. Nasi campur kami disajikan dengan ayam goreng, sambal khas, aneka sayuran, dan pelengkap lainnya yang kaya rasa. Setiap porsi nasi campur kami menggambarkan kekayaan kuliner Indonesia, menjadikannya hidangan yang mengenyangkan dan memuaskan.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725034859/IMG_20240826_181927_sqftk9.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Nasi Pecel","deskripsi":"Nikmati Nasi Pecel kami yang kaya akan rasa dan tradisi! Hidangan ini terdiri dari nasi putih yang disajikan dengan sayuran segar seperti kacang panjang, tauge, dan kol, yang disiram dengan bumbu pecel kacang yang gurih dan sedikit pedas. Ditambahkan dengan ayam goreng yang renyah dan rempeyek yang kriuk, Nasi Pecel kami menawarkan kombinasi sempurna antara rasa manis, pedas, dan gurih. Bumbu pecel yang kami gunakan adalah campuran kacang tanah yang dipanggang dan diolah dengan bumbu rahasia, menciptakan cita rasa yang autentik dan menggugah selera. Setiap suapan Nasi Pecel kami akan membawa Anda pada pengalaman kuliner yang memuaskan dan penuh kenikmatan.","price":"Rp 10.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725034964/9f9e7927-384c-4f56-a7e5-e677b8f5f345_43_rv6kic.jpg"},{"name":"Nasi Campur","deskripsi":"Cobalah Nasi Campur kami yang penuh dengan kelezatan dan variasi! Hidangan ini menyajikan nasi putih yang disajikan dengan potongan ayam goreng yang lezat, sambal khas yang pedas, serta aneka pelengkap seperti telur dadar, sayuran segar, dan kerupuk. Setiap porsi Nasi Campur kami diracik dengan bumbu yang seimbang, memberikan kombinasi rasa yang kaya dan menggugah selera. Nasi Campur kami adalah pilihan ideal untuk Anda yang mencari hidangan lengkap dan mengenyangkan, dengan paduan cita rasa manis, pedas, dan gurih yang memanjakan lidah. Nikmati hidangan ini di Warung SiKembar dan rasakan kenikmatan masakan tradisional Indonesia yang autentik.","price":"Rp 10.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725034963/isi-piringku-lunch-nasi-rames-nasi-campur-sederhana-foto-resep-utama_otnl7c.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "081949747653",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-buk-wati" : {   
+      title: "WARUNG BUK WATI",
+      icon: null,
+      navbarTitle: "WARUNG BUK WATI",
+      ctaLink: "https://wa.me/622335957384",
+      keyword: [
+"Warung Buk Wati","Rujak lontong enak","Tahu lontong spesial","Tahu lontong murah","Rujak lontong lezat","Kuliner khas Jawa Timur","Warung makan tradisional","Rujak lontong pedas","Tempat makan rujak lontong","Warung rujak dan lontong","Rujak lontong Buk Wati","Tahu lontong Buk Wati","Rujak lontong komplit"
+      ]
+      ,
+      color:{"primary":"bg-[#C20000]","secondary":"bg-[#c20000]","backgroundColor":"bg-[#f0f0f0]","hoverColor":"hover:bg-[#ffe014]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#c20000]"},
+      hero: {
+        tagLine: "Kenikmatan Tradisional Rujak Lontong dan Tahu Lontong di Satu Tempat!",
+        deskripsi:"Selamat datang di Warung Buk Wati, tempat terbaik untuk menikmati hidangan Jawa Timuran! Kami menyajikan rujak lontong dan tahu lontong dengan resep tradisional yang kaya akan cita rasa. Dibuat dari bahan-bahan segar pilihan dan bumbu rempah asli, setiap porsi rujak dan tahu lontong kami menawarkan kombinasi rasa pedas, manis, dan gurih yang sempurna.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725032845/IMG_20240826_175027_xqwyxm.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasa Autentik, Harga Terjangkau di Warung Buk Wati!",
+  
+        deskripsi: "Di Warung Buk Wati, kami mengutamakan kualitas dan kepuasan pelanggan. Setiap hidangan disajikan dengan penuh cinta dan kehangatan, menciptakan pengalaman kuliner yang tak terlupakan. Nikmati kenikmatan kuliner tradisional Jawa Timur dalam suasana warung yang ramah dan nyaman.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725032845/IMG_20240826_175027_xqwyxm.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong","deskripsi":"Nikmati bumbu kacang yang kaya akan cita rasanya","price":"Rp 6.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725032838/unnamed_l8yb8y.jpg"},{"name":"Tahu Lontong","deskripsi":"Tahu lontong dengan ciri khas jawa timurannya memanjakan lidah ","price":"Rp 6.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725032837/lontong-tahu-kecap-khas-blitar-foto-resep-utama_hw3pxx.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "082335957384",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-buk-rutik" : {   
+      title: "WARUNG BUK RUTIK",
+      icon: null,
+      navbarTitle: "WARUNG BUK RUTIK",
+      ctaLink: "https://wa.me/629685069811",
+      keyword: [
+"Warung Buk Rutik","Rujak lontong enak","Tahu lontong spesial","Rujak lontong Surabaya","Tahu lontong murah","Rujak lontong lezat","Kuliner khas Jawa Timur","Warung makan tradisional","Rujak lontong pedas","Tempat makan rujak lontong","Warung rujak dan lontong","Rujak lontong Buk Rutik","Tahu lontong Buk Rutik","Rujak lontong komplit"
+      ]
+      ,
+      color:{"primary":"bg-[#009702]","secondary":"bg-[#009702]","backgroundColor":"bg-[#dedcff]","hoverColor":"hover:bg-[#ffeb17]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#009702]"},
+      hero: {
+        tagLine: "Rujak Lontong Buk Rutik, Pedasnya Pas, Nikmatnya Luar Biasa!",
+        deskripsi:"Selamat datang di Warung Buk Rutik, tempat terbaik untuk menikmati hidangan khas Tradisional !! Kami menyajikan rujak lontong dan tahu lontong dengan resep tradisional yang kaya akan cita rasa. Dibuat dari bahan-bahan segar pilihan dan bumbu rempah asli, setiap porsi rujak dan tahu lontong kami menawarkan kombinasi rasa pedas, manis, dan gurih yang sempurna.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725030179/IMG_20240826_093007_oppm6r.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rujak lontong enak & Tahu lontong spesial",
+  
+        deskripsi: "Di Warung Buk Rutik, kami mengutamakan kualitas dan kepuasan pelanggan. Setiap hidangan disajikan dengan penuh cinta dan kehangatan, menciptakan pengalaman kuliner yang tak terlupakan. Nikmati kenikmatan kuliner tradisional Jawa Timur dalam suasana warung yang ramah dan nyaman.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725030179/IMG_20240826_093007_oppm6r.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong","deskripsi":"dibuat dari bahan yang berkualitas dan segar !!","price":"Rp 7.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725030625/7c03e865-7b13-41fb-a8e0-4bd3974a6c6f_zvi4oz.jpg"},{"name":"Tahu Lontong","deskripsi":"dibuat dari bahan yang berkualitas dan segar !!","price":"Rp 7.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725028975/lontong-tahu-bojonegoro-foto-resep-utama_dyluwc.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3948.1441055036735!2d114.25245!3d-8.288454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwMTcnMTguNCJTIDExNMKwMTUnMDguOCJF!5e0!3m2!1sid!2sid!4v1725029568429!5m2!1sid!2sid",
+      footer: {
+        noHp: "089685069811",
+        alamat: "DSN WIJENAN LOR, RT/002 RW/002, DESA SINGOLATREN, KECAMATAN SINGOJURUH",
+      },
+    },
+    "warung-buk-supriyani" : {   
+      title: "RUMAH BUK SUPRIYANI",
+      icon: null,
+      navbarTitle: "RUMAH BUK SUPRIYANI",
+      ctaLink: "https://wa.me/622231361259",
+      keyword: [
+"Rumah Buk Supriyani","Aneka kue basah","Kue basah tradisional","Kue basah enak","Kue basah Nusantara","Jual kue basah","Kue basah murah","Kue basah khas Indonesia","Kue basah lezat","Kue basah segar","Kue basah pilihan","Pusat kue basah","Pesan kue basah online","Kue basah Buk Supriyani","Kuliner kue basah","Resep kue basah tradisional","Kue basah unik"
+      ]
+      ,
+      color:{"primary":"bg-[#00AFFA]","secondary":"bg-[#0074ad]","backgroundColor":"bg-[#f0f0f0]","hoverColor":"hover:bg-[#1beb00]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#020080]"},
+      hero: {
+        tagLine: "Nikmati Manisnya Tradisi di Setiap Gigitan Kue Basah Buk Supriyani!",
+        deskripsi:"Selamat datang di Rumah Buk Supriyani, surga bagi para pecinta kue basah tradisional! Kami menyajikan berbagai macam kue basah dengan cita rasa asli Nusantara, yang dibuat dengan resep warisan keluarga dan bahan-bahan berkualitas. Setiap kue basah kami diproses dengan penuh ketelitian dan cinta, sehingga menghasilkan tekstur yang lembut dan rasa yang lezat di setiap gigitan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725031890/IMG_20240826_180126_bxqbrr.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Lezatnya Kue Basah Klasik di Rumah Buk Supriyani!",
+  
+        deskripsi: "Di Rumah Buk Supriyani, Anda bisa menemukan beragam pilihan kue basah, mulai dari klepon, onde-onde, kue lapis, nagasari, putu ayu, dan masih banyak lagi. Kami berkomitmen untuk menjaga keaslian rasa dan kualitas setiap produk kami, sehingga Anda bisa merasakan kenikmatan kue basah tradisional yang sesungguhnya.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725031890/IMG_20240826_180126_bxqbrr.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Klepon","deskripsi":"Nikmati sensasi meledak manis di mulut dengan kue klepon kami! Terbuat dari tepung ketan yang kenyal dan lembut, kue ini diisi dengan gula merah yang meleleh ketika digigit. Diselimuti dengan parutan kelapa segar, klepon memberikan kombinasi sempurna antara manis dan gurih. Kue klepon di Rumah Buk Supriyani dibuat dengan bahan-bahan pilihan dan resep tradisional, menghadirkan rasa autentik yang akan membawa Anda kembali ke masa kecil.","price":"Rp 5.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725031880/64fa7899edc0b_ktj9qq.jpg"},{"name":"Kue Ketot","deskripsi":"Kue ketot, salah satu kue tradisional yang unik dan jarang ditemukan, kini tersedia di Rumah Buk Supriyani. Terbuat dari campuran tepung beras dan santan, kue ketot memiliki tekstur kenyal dengan cita rasa manis dan gurih yang memanjakan lidah. Dibungkus dalam daun pisang yang harum, kue ketot kami selalu segar dan dibuat setiap hari untuk memastikan kualitas terbaik. Cocok untuk camilan sehari-hari atau suguhan di acara spesial.","price":"Rp 5.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725031881/hqdefault_gcq4ws.jpg"},{"name":"Ketan","deskripsi":"Kami menyajikan ketan dengan cita rasa klasik yang kaya akan tradisi. Ketan dari Rumah Buk Supriyani diolah dari beras ketan berkualitas yang dimasak hingga pulen, kemudian dipadukan dengan kelapa parut dan taburan gula atau garam sesuai selera. Rasakan kenikmatan ketan yang lembut dan harum dalam setiap gigitan. Cocok dinikmati sebagai sarapan, camilan sore, atau teman minum teh Anda.","price":"Rp 5.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725032269/62abc59c4b2ee_rstoz3.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d246.79989468845523!2d114.1599918275643!3d-8.223027027456387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725031410754!5m2!1sid!2sid",
+      footer: {
+        noHp: "082231361259",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "nasi-goreng-masnur" : {   
+      title: "NASI GORENG MAS NUR",
+      icon: null,
+      navbarTitle: "NASI GORENG MAS NUR",
+      ctaLink: "https://wa.me/625259729707",
+      keyword: [
+"Nasi Goreng Mas Nur","Nasi goreng enak","Mie goreng spesial","Capcay lezat","Nasi goreng terdekat","Mie goreng pedas","Capcay sayur segar","Kuliner malam nasi goreng","Mie goreng ala rumahan","Capcay kuah sedap","Nasi goreng murah","Tempat makan nasi goreng","Capcay masakan rumahan","Nasi goreng ayam","Capcay goreng nikmat","Nasi goreng kampung","Pesan nasi goreng online"
+      ]
+      ,
+      color:{"primary":"bg-[#158000]","secondary":"bg-[#158000]","backgroundColor":"bg-[#f0f0f0]","hoverColor":"hover:bg-[#ffe014]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#158000]"},
+      hero: {
+        tagLine: "Rasa Berkelas, Harga Bersahabat di Nasi Goreng Mas Nur!",
+        deskripsi:"Selamat datang di Nasi Goreng Mas Nur, tempat terbaik untuk menikmati nasi goreng, mie goreng, dan capcay dengan cita rasa autentik! Di sini, kami menggunakan bahan-bahan segar berkualitas dan rempah-rempah pilihan untuk menghadirkan hidangan yang lezat dan memuaskan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725033442/IMG_20240826_180952_sqkffl.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cicipi Kelezatan Sejati di Nasi Goreng Mas Nur!",
+  
+        deskripsi: "Nasi goreng kami dimasak dengan bumbu khas yang kaya akan rasa, disajikan dengan pilihan topping seperti ayam, dan telur mata sapi. Jika Anda menginginkan hidangan mie, mie goreng kami yang kenyal dan penuh rasa adalah pilihan sempurna. Tidak hanya itu, kami juga menyajikan capcay segar dengan sayuran yang beragam dan saus yang nikmat, cocok bagi Anda yang mencari makanan sehat namun tetap lezat.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725033463/IMG_20240826_180755_uezmji.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Nasi Goreng Ayam","deskripsi":"Nikmati kelezatan Nasi Goreng ala Mas Nur yang dimasak dengan bumbu spesial dan bahan-bahan pilihan! Nasi goreng kami memiliki cita rasa yang gurih dan kaya, berkat perpaduan rempah-rempah khas yang meresap sempurna ke dalam nasi. Dilengkapi dengan potongan ayam, telur, sayuran segar, nasi goreng kami adalah sajian yang menggugah selera dan pas untuk setiap kesempatan. Cocok dinikmati kapan saja, baik untuk sarapan, makan siang, atau makan malam.","price":"Rp 12.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725033386/079979700_1587487794-Sajiku_1_yran3h.jpg"},{"name":"Mie Goreng","deskripsi":"Mie Goreng Mas Nur menawarkan perpaduan rasa manis, gurih, dan sedikit pedas yang sempurna. Dibuat dari mie yang kenyal dan berkualitas, mie goreng kami dimasak dengan bumbu khas yang diracik khusus, menciptakan sensasi rasa yang nikmat di setiap suapan. Disajikan dengan tambahan potongan ayam, sayuran segar, dan taburan bawang goreng renyah, mie goreng ini cocok untuk Anda yang mencari hidangan lezat dan mengenyangkan. Sempurna untuk dinikmati bersama keluarga atau teman-teman.","price":"Rp 12.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725033387/resep-bakmi-goreng-kemiri_coa3ei.jpg"},{"name":"Capcay","deskripsi":"Untuk Anda yang menyukai hidangan sehat namun tetap lezat, cobalah Capcay ala Mas Nur! Dibuat dari beragam sayuran segar seperti wortel, kembang kol, dan sawi yang dimasak dalam saus kental gurih yang kaya rasa. Capcay kami juga dilengkapi dengan pilihan tambahan seperti ayam untuk menambah kenikmatan hidangan. Setiap gigitan menawarkan kombinasi tekstur yang segar dan rasa yang memanjakan lidah, menjadikannya pilihan sempurna untuk menu makan siang atau makan malam Anda.","price":"Rp 12.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725033394/sayur-capcay-kuah_wfm4gf.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "085259729707",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-buk-istianah" : {   
+      title: "WARUNG BUK ISTIANAH",
+      icon: null,
+      navbarTitle: "WARUNG BUK ISTIANAH",
+      ctaLink: "tel:625236634122",
+      keyword: [
+"Warung Buk Istianah","Mie ayam enak","Mie ayam spesial","Mie ayam murah","Kuliner mie ayam","Mie ayam lezat","Warung mie ayam","Mie ayam Jawa","Mie ayam komplit","Mie ayam dengan topping","Mie ayam kuah sedap","Tempat makan mie ayam","Mie ayam Buk Istianah","Mie ayam pangsit"
+      ]
+      ,
+      color:{"primary":"bg-[#FF8800]","secondary":"bg-[#FF8800]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#ffc800]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#FF8800]"},
+      hero: {
+        tagLine: "Rasakan Keistimewaan Mie Ayam di Warung Buk Istianah!",
+        deskripsi:"Mie Ayam dari Warung Buk Istianah adalah pilihan sempurna untuk Anda yang mencari hidangan mie yang lezat dan memuaskan. Kami menyajikan mie ayam yang terbuat dari mie segar yang dimasak al dente, dipadu dengan potongan ayam tender yang dimarinasi dan dipanggang dengan bumbu khas. Hidangan ini dilengkapi dengan kuah kaldu ayam yang gurih dan kaya rasa, serta taburan bawang goreng renyah, sawi hijau, dan jamur shiitake yang menambah cita rasa",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035472/IMG_20240826_183052_rv4xti.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Hangat dan Lezat, Mie Ayam Pilihan di Warung Buk Istianah!",
+  
+        deskripsi: "Di Warung Buk Istianah, kami memastikan setiap porsi mie ayam disajikan dengan penuh perhatian terhadap detail, menggunakan bahan-bahan berkualitas tinggi untuk menciptakan hidangan yang tidak hanya memuaskan tetapi juga membuat Anda ingin kembali lagi. Dengan rasa yang seimbang antara gurih, sedikit manis, dan pedas sesuai selera, mie ayam kami cocok dinikmati kapan saja, baik untuk makan siang maupun makan malam.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035472/IMG_20240826_183052_rv4xti.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Mie Ayam","deskripsi":"Nikmati kelezatan Mie Ayam yang menggugah selera di setiap suapan! Hidangan ini menyajikan mie segar yang dimasak al dente, dipadu dengan potongan ayam yang empuk dan bumbu khas yang kaya rasa. Mie Ayam kami disajikan dengan kuah kaldu ayam yang gurih dan aromatik, serta tambahan bawang goreng renyah, sawi hijau, dan irisan jamur shiitake yang memberikan dimensi rasa yang mendalam.","price":"Rp 10.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035489/Pic-1_bau1tg.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "085236634122",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-gorengan-bukasiyati" : {   
+      title: "WARUNG GORENGAN BUK ASIYATI",
+      icon: null,
+      navbarTitle: "WARUNG GORENGAN BUK ASIYATI",
+      ctaLink: "tel:622341134909",
+      keyword: [
+"Warung Gorengan Buk Asiyati","Bakwan enak","Pisang goreng crispy","Pentol tahu","Gorengan tradisional","Bakwan lezat","Pisang goreng khas","Pentol tahu murah","Warung gorengan","Bakwan crispy","Pisang goreng segar","Tahu goreng","Gorengan Buk Asiyati","Camilan gorengan","Bakwan sayur","Pisang goreng renyah","Pentol tahu pedas","Tahu goreng crispy","Camilan murah","Gorengan khas"
+      ]
+      ,
+      color:{"primary":"bg-[#D1001F]","secondary":"bg-[#D1001F]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#850007]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#D1001F]"},
+      hero: {
+        tagLine: "Nikmati Cita Rasa Gorengan Terbaik di Warung Gorengan Buk Asiyati!",
+        deskripsi:"Warung Gorengan Buk Asiyati adalah tempat yang tepat untuk menikmati berbagai macam gorengan lezat dan crispy. Kami menyajikan bakwan yang renyah di luar dan lembut di dalam, dibuat dengan bahan-bahan segar dan bumbu yang pas. Pisang goreng kami disajikan dalam keadaan crispy dan manis, dengan lapisan luar yang garing dan daging pisang yang lembut. Pentol tahu kami adalah pilihan camilan yang memuaskan, dengan tahu yang digoreng hingga krispi dan disajikan dengan saus pedas yang menggugah selera.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725037104/IMG_20240826_183732_jqhuf3.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Camilan Gorengan Terbaik Ada di Warung Buk Asiyati!",
+  
+        deskripsi: "Setiap gorengan di Warung Buk Asiyati dibuat dengan perhatian dan resep khusus, menjadikannya pilihan sempurna untuk camilan sore atau hidangan ringan. Kunjungi kami dan rasakan sendiri kelezatan gorengan yang selalu membuat Anda ingin kembali lagi!",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725037104/IMG_20240826_183732_jqhuf3.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Aneka Gorengan","deskripsi":"Nikmati pilihan gorengan lezat kami! Bakwan kami dibuat dari campuran sayuran segar dan adonan tepung yang digoreng crispy di luar dan lembut di dalam, memberikan rasa gurih dan manis yang memuaskan. Cobalah Pisang Goreng kami yang dibalut adonan ringan dan digoreng hingga garing, menghasilkan camilan manis dengan daging pisang yang lembut. Pentol Tahu kami digoreng hingga crispy dan disajikan dengan saus pedas, menawarkan kombinasi tekstur yang enak dan rasa yang menggugah selera. Setiap gorengan di Warung Buk Asiyati adalah pilihan sempurna untuk camilan atau hidangan ringan yang memuaskan.","price":"Rp 1.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725037155/gorengan-dadan-625a95243794d1017e5a93c2_wq3e1x.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d405.4859159219276!2d114.16445439219969!3d-8.22121628886824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d87868fda07%3A0x6e51d13d316e94c1!2sGorengan%20mbak%20asiyah!5e0!3m2!1sid!2sid!4v1725036983040!5m2!1sid!2sid",
+      footer: {
+        noHp: "082341134909",
+        alamat: "DSN BONGKORAN, RT/001 RW/001, DESA SRAGI, KECAMATAN SONGGON, KABUPATEN BANYUWANGI",
+      },
+    },
+    "warung-buk-suriyah" : {   
+      title: "WARUNG BUK SURIYAH",
+      icon: null,
+      navbarTitle: "WARUNG BUK SURIYAH",
+      ctaLink: "https://wa.me/621327119504",
+      keyword: [
+"Warung Buk Suriyah","Kue lupis","Kue lanun","Kue cenil","Kue basah tradisional","Kue lupis enak","Kue lanun khas","Cenil lezat","Toko kue tradisional","Kue basah murah","Kue lupis ketan","Kue lanun manis","Kue cenil warna-warni","Warung kue basah","Kue lupis Surabaya","Kue cenil segar","Kue lanun autentik","Kue basah Nusantara","Kue lupis dengan kelapa","Kue cenil kenyal"
+      ]
+      ,
+      color:{"primary":"bg-[#00FFAA]","secondary":"bg-[#00FFAA]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#00b87a]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#00FFAA]"},
+      hero: {
+        tagLine: "Warung Buk Suriyah: Kue Lupis, Lanun, dan Cenil yang Menggugah Selera!",
+        deskripsi:"Warung Buk Suriyah adalah tempat ideal untuk menikmati kue basah tradisional yang lezat dan autentik. Kami menyediakan berbagai pilihan kue, termasuk Kue Lupis, Kue Lanun, dan Kue Cenil.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035805/IMG_20240826_182800_xlyopc.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cita Rasa Tradisional dalam Setiap Gigitan di Warung Buk Suriyah!",
+  
+        deskripsi: "Kue Lupis kami terbuat dari ketan yang dikukus lembut, disiram gula merah cair yang manis, dan ditaburi kelapa parut segar. Kue Lanun menawarkan adonan tepung beras yang kenyal dengan rasa manis alami dari kelapa parut, dimasak dengan teknik tradisional. Kue Cenil kami yang berwarna-warni terbuat dari tepung ketan yang dimasak dengan cermat, dilapisi kelapa parut, dan menawarkan rasa manis yang menyenangkan.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035805/IMG_20240826_182800_xlyopc.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Cenil","deskripsi":"Nikmati kelezatan Kue Lupis kami, terbuat dari ketan lembut yang disiram gula merah manis dan parutan kelapa segar. Kue Lanun kami, dengan adonan tepung beras dan kelapa parut, menawarkan tekstur kenyal dan rasa manis yang autentik. Cicipi juga Kue Cenil yang berwarna-warni dan kenyal, terbuat dari tepung ketan dan dilapisi kelapa parut. Setiap kue di Warung Buk Suriyah adalah pilihan sempurna untuk camilan atau dessert yang memuaskan.","price":"Rp 5.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725035806/images_i6xq8j.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "081327119504",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-buk-badriyah" : {   
+      title: "RUMAH BUK BADRIYAH",
+      icon: null,
+      navbarTitle: "RUMAH BUK BADRIYAH",
+      ctaLink: "https://wa.me/621382706299",
+      keyword: [
+"Rumah Buk Badriyah","Donat enak","Puding lezat","Donat homemade","Puding spesial","Toko donat dan puding","Donat fresh","Puding nikmat","Donat dan puding rumah","Kue donat","Puding dengan variasi rasa","Rumah donat dan puding","Donat manis","Puding untuk dessert","Donat Buk Badriyah","Puding rumah","Donat segar","Puding creamy","Kue manis Buk Badriyah","Donat dan puding tradisional"
+      ]
+      ,
+      color:{"primary":"bg-[#5A1FFF]","secondary":"bg-[#5A1FFF]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#010052]","textColor":"text-[#000000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#5A1FFF]"},
+      hero: {
+        tagLine: "Kelezatan Donat dan Puding Istimewa di Rumah Buk Badriyah!",
+        deskripsi:"Rumah Buk Badriyah adalah tempat yang tepat untuk menikmati donat dan puding yang lezat dan menggugah selera. Kami menawarkan donat homemade yang fresh dan bervariasi, mulai dari yang klasik hingga pilihan topping yang kreatif. Setiap donat kami dibuat dengan bahan berkualitas untuk memastikan kelembutan dan rasa yang memuaskan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725036497/IMG_20240826_182900_vc7xl1.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rumah Buk Badriyah: Donat Fresh dan Puding Creamy yang Menggugah Selera!",
+  
+        deskripsi: "Tak kalah istimewa, puding kami disajikan dengan tekstur creamy dan rasa yang kaya, tersedia dalam berbagai varian yang cocok sebagai dessert atau camilan. Di Rumah Buk Badriyah, kami berkomitmen untuk memberikan pengalaman kuliner manis yang menyenangkan dan memuaskan.",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725036497/IMG_20240826_182900_vc7xl1.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Donat","deskripsi":"Nikmati kelezatan donat kami yang freshly baked dan penuh rasa! Setiap donat di Rumah Buk Badriyah terbuat dari adonan yang lembut dan empuk, digoreng dengan cermat hingga berwarna keemasan. Kami menawarkan berbagai varian donat, mulai dari yang klasik seperti donat gula halus dan donat cokelat, hingga pilihan kreatif dengan topping istimewa seperti sprinkles, krim, dan buah segar. Setiap gigitan donat kami memberikan sensasi manis yang memuaskan dan cocok untuk menemani waktu santai Anda.","price":"Rp 1.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725036504/6527434_7042f2a7-6d68-4106-a632-bee5428c41c4_780_780_zyx8vg.jpg"},{"name":"Pudding","deskripsi":"Cobalah puding kami yang creamy dan penuh rasa! Di Rumah Buk Badriyah, puding kami dibuat dengan bahan-bahan berkualitas tinggi dan resep rahasia untuk menghasilkan tekstur lembut dan rasa yang kaya. Kami menawarkan berbagai varian puding, dari puding cokelat yang kaya, puding vanila yang klasik, hingga puding buah yang segar. Setiap porsi puding kami disajikan dengan tampilan menarik dan rasa yang lezat, menjadikannya pilihan sempurna untuk dessert atau camilan penutup yang menyenangkan.","price":"Rp 1.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725036504/ilustrasi-puding-cokelat-saus-keju_43_cz53mn.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79997390288096!2d114.1596721485257!3d-8.222899770960803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1725032572096!5m2!1sid!2sid",
+      footer: {
+        noHp: "081382706299",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "ayo-njajan.co" : {   
+      title: "ayonjajan.co",
+      icon: null,
+      navbarTitle: "ayonjajan.co",
+      ctaLink: "https://wa.me/621217683068",
+      keyword: [
+"ayonjajan.co","Mochi aneka rasa","Samyang roll pedas","Mochi kekinian","Camilan mochi","Samyang roll gurih","Mochi isi cokelat","Samyang roll rasa pedas","Mochi kenyal","Samyang roll","Mochi lezat","Samyang roll enak","Mochi dengan isian","Mochi viral","Mochi manis","Camilan samyang roll","Mochi dengan rasa unik","Jajanan mochi dan samyang roll"
+      ]
+      ,
+      color:{"primary":"bg-[#FF9EAD]","secondary":"bg-[#FF9EAD]","backgroundColor":"bg-[#fffafb]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#3d0000]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+      hero: {
+        tagLine: "Kejutan Rasa di Setiap Gigitan - Hanya di ayonjajan.co!",
+        deskripsi:"ayonjajan.co adalah tempat terbaik untuk menikmati camilan kekinian yang unik dan lezat. Kami menyediakan berbagai varian mochi yang kenyal dan manis, dengan beragam isian yang menggugah selera seperti cokelat, oreo, dan banyak lagi. Mochi kami dibuat dengan bahan-bahan berkualitas untuk memberikan rasa yang autentik dan tekstur yang sempurna di setiap gigitan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725199924/IMG_9716_c84cbm.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Mochi Prasmanan Pertama di Banyuwangi",
+  
+        deskripsi: "Di ayonjajan.co, setiap camilan dibuat dengan cinta dan perhatian untuk memastikan Anda mendapatkan pengalaman jajan yang menyenangkan. Ayo jajan sekarang dan temukan favorit baru Anda!",// optional
+        img: "https://res.cloudinary.com/dwmy3owh8/image/upload/v1725200675/WhatsApp_Image_2024-09-01_at_21.23.49_3a0f2e12_dj3me9.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Varian Mochi","deskripsi":"Nikmati berbagai pilihan mochi kami yang kenyal dan lezat! Dibuat dengan bahan-bahan berkualitas untuk memberikan tekstur yang lembut dan rasa yang otentik. Kami menawarkan berbagai varian rasa yang unik dan menggoda, mulai dari mochi varian kekinian seperti cokelat, oreo, dan buah segar.","price":"Rp 5.000 - Rp 8.000","img":"https://res.cloudinary.com/dwmy3owh8/image/upload/v1725201064/WhatsApp_Image_2024-09-01_at_21.30.24_e4dcda64_bngnmd.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d422.39951908213334!2d114.29606415117303!3d-8.304761339114622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725202867800!5m2!1sid!2sid",
+      footer: {
+        noHp: "081217683068",
+        alamat: "DSN PASAR, RT/003 RW/002, DESA SUMBERARUM, KECAMATAN SONGGON",
+      },
+    },
+    "warung-mbk-hot" : {   
+      title: "WARUNG MBK HOT",
+      icon: null,
+      navbarTitle: "WARUNG MBK HOT",
+      ctaLink: null,
+      keyword: [
+"Warung Mbk Hot","Warung makan Mbk Hot","Kuliner Tradisional","Warung makanan Terbaik","Masakan khas Tradisional","Tempat makan paling enak","Warung makan lokal","Menu enak Nusantara","Kuliner Nusantara","Makanan enak asli Indonesia"
+      ]
+      ,
+      color:{"primary":"bg-[#ff6886]","secondary":"bg-[#62b0d7]","backgroundColor":"bg-[#83cbf4]","hoverColor":"hover:bg-[#b32e49]","textColor":"text-[#971919]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#d33d4a]"},
+      hero: {
+        tagLine: "Pisang Goreng Renyah & Gurih, Sensasi Lezat di Setiap Gigitan - Hanya di Warung Mbk Hot!",
+        deskripsi:"Warung Mbk Timah menghadirkan pisang goreng yang berbeda dari yang lain, renyah dengan sensasi gurih yang bikin ketagihan. Setiap gigitan adalah perpaduan sempurna antara rasa manis dan gurih, memberikan pengalaman kuliner yang tak terlupakan. Segera kunjungi Warung Mbk Timah dan nikmati camilan khas yang menggugah selera!",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1724284012/IMG-20240822-WA0006_g3liep.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kenikmatan Asli Nusantara - Pisang Goreng dari Warung Mbk Hot, Dapur Cita Rasa Keluarga!",
+  
+        deskripsi: "Di Warung Mbk Hot, kami menghidangkan pisang goreng dengan cita rasa asli Nusantara yang mewakili kehangatan dan tradisi keluarga. Setiap potongan pisang diproses dengan resep turun-temurun, menghadirkan kenikmatan yang autentik dan lezat",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1724284012/IMG-20240822-WA0006_g3liep.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Pisang Goreng","deskripsi":"camilan tradisional yang selalu menggoda selera, terbuat dari pisang matang yang dibalut tepung lalu digoreng hingga keemasan. Kombinasi rasa manis pisang yang lembut di dalam dan tekstur renyah di luar menciptakan perpaduan sempurna yang disukai banyak orang","price":"Rp 2.000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1724284035/Resep_Pisang_Goreng_Kipas_Coklat_Keju_Menu_Cemilan_untuk_Ide_Bisnis_Kuliner_yang_Menguntungkan_hb6stj.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d694.5717152600507!2d114.30975338312636!3d-8.232258832781852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1724324891435!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dusun Sukosari",
+      },
+    },
+    "warung-rujak-barokah" : {   
+      title: "Warung Barokah",
+      icon: null,
+      navbarTitle: "Warung Barokah",
+      ctaLink: null,
+      keyword: [
+"Warung Barokah","Kuliner Tradisional Warung Barokah","Masakan Rumahan Warung Barokah","Warung Makan Enak Warung Barokah","Menu Spesial Warung Barokah","Kuliner Murah dan Enak Warung Barokah","Makanan Khas di Warung Barokah","Warung Barokah Masakan Indonesia","Tempat Makan Favorit di Warung Barokah","Warung Barokah Menu Andalan"
+      ]
+      ,
+      color:{"primary":"bg-[#948732]","secondary":"bg-[#948732]","backgroundColor":"bg-[#FFFFFF]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#050315]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#948732]"},
+      hero: {
+        tagLine: "Nikmati Kesegaran Alami, Rujak Buah Khas Warung Barokah",
+        deskripsi:"menawarkan perpaduan sempurna antara buah-buahan segar dan bumbu rujak yang khas. Setiap porsi rujak buah dibuat dengan bahan-bahan berkualitas, memberikan sensasi pedas, manis, dan asam yang menyegarkan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1725201874/IMG-20240822-WA0008_mrpw4i.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Nikmati Kesegaran Alami, Rujak Buah Khas Warung Barokah",
+  
+        deskripsi: "menawarkan perpaduan sempurna antara buah-buahan segar dan bumbu rujak yang khas. Setiap porsi rujak buah dibuat dengan bahan-bahan berkualitas, memberikan sensasi pedas, manis, dan asam yang menyegarkan.",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1725201874/IMG-20240822-WA0008_mrpw4i.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Buah","deskripsi":"hidangan tradisional yang menyegarkan, terdiri dari irisan buah-buahan segar yang dilumuri dengan bumbu rujak pedas, manis, dan asam. Setiap gigitan memberikan sensasi rasa yang menggugah selera, menjadikannya pilihan sempurna untuk pencinta makanan segar dan bercita rasa khas Nusantara.","price":"Rp. 5000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725202157/rujak_serut_c8kh52.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d748.7869642717507!2d114.30947693176607!3d-8.230567879159103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725201528708!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dusun Sukosari",
+      },
+    },
+    "warung-miss-tin" : {   
+      title: "Warung Miss Iin",
+      icon: null,
+      navbarTitle: "Warung Miss Iin",
+      ctaLink: null,
+      keyword: [
+"Warung Miss Iin","Kuliner Warung Miss Iin","Masakan Rumahan Miss Iin","Menu Spesial Warung Miss Iin","Warung Makan Enak Miss Iin","Makanan Khas di Warung Miss Iin","Warung Miss Iin Menu Lezat","Kuliner Tradisional Warung Miss Iin","Tempat Makan Favorit Warung Miss Iin","Warung Miss Iin Masakan Indonesia"
+      ]
+      ,
+      color:{"primary":"bg-[#F87171]","secondary":"bg-[#94bb32]","backgroundColor":"bg-[#dce717]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#66912a]"},
+      hero: {
+        tagLine: "Lezatnya Rujak Lontong, Martabak Darplok, dan Lalapan Spesial Miss Iin",
+        deskripsi:"menghadirkan perpaduan sempurna dari tiga hidangan khas yang penuh cita rasa. Rujak Lontong dengan bumbu segarnya, Martabak Darplok yang gurih dan renyah, serta Lalapan yang segar dan menyehatkan, semuanya dibuat dengan resep tradisional dan bahan-bahan pilihan",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1725229776/WhatsApp_Image_2024-09-02_at_05.26.15_154d55dd_hxeiwl.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Lezatnya Rujak Lontong, Martabak Darplok, dan Lalapan Spesial Miss Iin",
+  
+        deskripsi: "menghadirkan perpaduan sempurna dari tiga hidangan khas yang penuh cita rasa. Rujak Lontong dengan bumbu segarnya, Martabak Darplok yang gurih dan renyah, serta Lalapan yang segar dan menyehatkan, semuanya dibuat dengan resep tradisional dan bahan-bahan pilihan",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1725229776/WhatsApp_Image_2024-09-02_at_05.26.15_154d55dd_hxeiwl.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Rujak Lontong","deskripsi":"sajian khas yang menggabungkan lontong lembut dengan aneka sayuran segar, disiram bumbu rujak yang pedas, manis, dan asam.","price":"Rp. 6000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725230982/download_swjmkh.jpg"},{"name":"Martabak Darplok","deskripsi":"camilan khas yang menggabungkan kulit martabak renyah dengan isian gurih yang kaya rasa. ","price":"Rp. 6000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725230981/Hi_Martabak_Lovers_Martabak_Telur_dari__Martabak_Raja__siap_hangatkan_tubuh_kalian_dari_dinginnya_udara_malam_ini_nalijz.jpg"},{"name":"Lalapan","deskripsi":"hidangan sederhana namun segar yang terdiri dari aneka sayuran mentah seperti timun, kol, dan daun kemangi, disajikan dengan sambal pedas yang menggugah selera.","price":"Rp. 12.000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725230982/Warung_lalapan_terbest_menurut_aing_jfzdw4.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d706.3546408756503!2d114.28164971518635!3d-8.299447080077405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDusun%20Gurit%2C%20pengatigan!5e1!3m2!1sid!2sid!4v1725230111316!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn Gurit, Desa Pengatigan",
+      },
+    },
+    "warung-bu-maskunah" : {   
+      title: "Warung Bu Maskunah",
+      icon: null,
+      navbarTitle: "Warung Bu Maskunah",
+      ctaLink: null,
+      keyword: [
+"Tahu Isi Warung Bu Maskunah","Tahu Isi Enak di Warung Bu Maskunah","Kuliner Tahu Isi Warung Bu Maskunah","Tahu Isi Gurih Warung Bu Maskunah","Tahu Isi Murah dan Enak Bu Maskunah","Cemilan Tahu Isi Bu Maskunah","Warung Tahu Isi Bu Maskunah","Tahu Isi Khas Warung Bu Maskunah","Resep Tahu Isi Warung Bu Maskunah","Warung Bu Maskunah Spesial Tahu Isi"
+      ]
+      ,
+      color:{"primary":"bg-[#f2ec45]","secondary":"bg-[#d4ce0c]","backgroundColor":"bg-[#101011]","hoverColor":"hover:bg-[#ea3434]","textColor":"text-[#FFFFFF]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#f3ee6a]"},
+      hero: {
+        tagLine: "Nikmati Gurihnya Tahu Isi Khas Bu Maskunah",
+        deskripsi:"menghadirkan cita rasa autentik dengan tahu yang renyah di luar dan isian gurih yang melimpah di dalam. Dibuat dengan bahan-bahan pilihan dan resep tradisional, tahu isi ini menawarkan sensasi kenikmatan yang tak terlupakan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1725165496/IMG-20240822-WA0007_zwm01s.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Nikmati Gurihnya Tahu Isi Khas Bu Maskunah",
+  
+        deskripsi: "menghadirkan cita rasa autentik dengan tahu yang renyah di luar dan isian gurih yang melimpah di dalam. Dibuat dengan bahan-bahan pilihan dan resep tradisional, tahu isi ini menawarkan sensasi kenikmatan yang tak terlupakan.",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1725165496/IMG-20240822-WA0007_zwm01s.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Tahu Isi","deskripsi":"cemilan tradisional yang memadukan tahu lembut dengan isian gurih yang kaya rasa. Setiap gigitan menghadirkan kelezatan yang sempurna, membuatnya menjadi pilihan ideal untuk teman bersantai atau berkumpul bersama keluarga","price":"Rp 1000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725164910/Tahu_isi_qqdun2.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d938.7109399052756!2d114.31116610904303!3d-8.233635170148231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd150186c73e523%3A0xbbe19230744e69f4!2sAngkringan%20pinggir%20sawah%20%2FMak%20Kun!5e0!3m2!1sid!2sid!4v1725164053165!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dusun Sukosari",
+      },
+    },
+    "warung-fauzi" : {   
+      title: "Warung Fauzi",
+      icon: null,
+      navbarTitle: "Warung Fauzi",
+      ctaLink: null,
+      keyword: [
+"Warung Fauzi","Kuliner Tradisional Warung Fauzi","Masakan Khas Warung Fauzi","Warung Makan Enak Fauzi","Menu Spesial Warung Fauzi","Kuliner Nusantara di Warung Fauzi","Warung Fauzi Masakan Lezat","Warung Fauzi Tempat Makan Favorit","Makanan Rumahan Warung Fauzi","Warung Fauzi Menu Andalan"
+      ]
+      ,
+      color:{"primary":"bg-[#f25b5b]","secondary":"bg-[#f25b5b]","backgroundColor":"bg-[#ffffff]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#F87171]"},
+      hero: {
+        tagLine: "Nikmati Kesegaran Es Campur, Jus Tape, dan Es Teh Jumbo Khas Warung Fauzi",
+        deskripsi:"menyajikan pilihan minuman yang menyegarkan dan memuaskan. Es Campur kami adalah campuran es serut dengan aneka buah segar dan sirup manis, Jus Tape memberikan rasa unik dari fermentasi tape yang lezat, dan Es Teh Jumbo menawarkan teh dingin yang menyegarkan dalam ukuran besar.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1725232751/WhatsApp_Image_2024-09-02_at_06.12.49_1c359a9a_ujialv.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Nikmati Kesegaran Es Campur, Jus Tape, dan Es Teh Jumbo Khas Warung Fauzi",
+  
+        deskripsi: "menyajikan pilihan minuman yang menyegarkan dan memuaskan. Es Campur kami adalah campuran es serut dengan aneka buah segar dan sirup manis, Jus Tape memberikan rasa unik dari fermentasi tape yang lezat, dan Es Teh Jumbo menawarkan teh dingin yang menyegarkan dalam ukuran besar.",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1725232756/WhatsApp_Image_2024-09-02_at_06.12.48_46bae52c_fhm1z8.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Jus Tape","deskripsi":"minuman segar yang terbuat dari tape singkong yang difermentasi, memberikan rasa manis dan sedikit asam yang unik. Diproses dengan cermat untuk mempertahankan cita rasa khasnya, Jus Tape menawarkan tekstur lembut dan aroma yang memikat.","price":"Rp. 5000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725237672/jus-tape-singkong-foto-resep-utama_lxqgsb.jpg"},{"name":"Es Teh","deskripsi":"minuman teh dingin yang disajikan dengan es batu untuk memberikan kesegaran maksimum. Dihidangkan dalam ukuran besar, Es Teh ini menawarkan rasa teh yang kaya dan menyegarkan, ideal untuk menghilangkan dahaga di hari yang panas.","price":"Rp. 3000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725237609/Jumbo_Iced_Tea_Vector_Iced_Tea_Cup_Jumbo_Iced_Tea_Iced_Tea_PNG_and_Vector_with_Transparent_Background_for_Free_Download_kvsj6m.jpg"},{"name":"Es Campur","deskripsi":"es serut yang dicampur dengan aneka buah segar, agar-agar, dan cincau, lalu disiram dengan sirup manis dan susu kental. Setiap sendok memberikan kombinasi rasa dan tekstur yang menggugah selera, menjadikannya pilihan ideal untuk dinikmati kapan saja.","price":"Rp. 5000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725237608/Es_campur_mehmbo.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d751.8236677139421!2d114.2811164355063!3d-8.29900411836658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDusun%20Gurit%2C%20pengatigan!5e1!3m2!1sid!2sid!4v1725232080741!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dsn Gurit, Desa Pengatigan",
+      },
+    },
+    "warung-mbok-ainiyah" : {   
+      title: "Warung Mbok Ainiyah",
+      icon: null,
+      navbarTitle: "Warung Mbok Ainiyah",
+      ctaLink: null,
+      keyword: [
+"Warung Mbok Ainiyah","Kuliner Tradisional Warung Mbok Ainiyah","Masakan Rumahan Mbok Ainiyah","Warung Makan Enak Mbok Ainiyah","Menu Spesial Warung Mbok Ainiyah","Kuliner Nusantara di Warung Mbok Ainiyah","Makanan Khas Warung Mbok Ainiyah","Warung Mbok Ainiyah Masakan Lezat","Warung Mbok Ainiyah Tempat Makan Favorit","Kuliner Asli Indonesia Warung Mbok Ainiyah"
+      ]
+      ,
+      color:{"primary":"bg-[#5f7540]","secondary":"bg-[#829863]","backgroundColor":"bg-[#cdceb9]","hoverColor":"hover:bg-[#ef4444]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#66912a]"},
+      hero: {
+        tagLine: "Kriuk Gurih Ote-Ote, Camilan Khas Mbok Ainiyah",
+        deskripsi:"menawarkan kelezatan otentik dengan tekstur renyah di luar dan isian gurih di dalam. Dibuat dengan bahan-bahan pilihan dan resep tradisional, Ote-Ote ini menjadi camilan favorit yang selalu memuaskan selera",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dvafjsboi/image/upload/v1725202970/IMG-20240822-WA0005_pdmmtf.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kriuk Gurih Ote-Ote, Camilan Khas Mbok Ainiyah",
+  
+        deskripsi: "menawarkan kelezatan otentik dengan tekstur renyah di luar dan isian gurih di dalam. Dibuat dengan bahan-bahan pilihan dan resep tradisional, Ote-Ote ini menjadi camilan favorit yang selalu memuaskan selera",// optional
+        img: "https://res.cloudinary.com/dvafjsboi/image/upload/v1725202970/IMG-20240822-WA0005_pdmmtf.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Ote ote","deskripsi":"camilan tradisional yang renyah dan gurih, terbuat dari adonan tepung yang diisi dengan sayuran dan daging pilihan, lalu digoreng hingga keemasan. Setiap gigitan menawarkan perpaduan tekstur kriuk di luar dan rasa gurih yang lezat di dalam","price":"Rp. 1000","img":"https://res.cloudinary.com/dvafjsboi/image/upload/v1725203035/Bakwan_Sayur_Weci_Ote2_gxj0ms.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d629.5328732402799!2d114.31032710823601!3d-8.232716512363478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725203213119!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dusun Sukosari",
+      },
+    },
   };
   
   export default dataTaufan;
