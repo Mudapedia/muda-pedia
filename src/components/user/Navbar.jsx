@@ -21,7 +21,14 @@ const NavigationBar = () => {
 
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
-  const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ", "Mitra"];
+  // const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ", "Mitra"];
+const menuItems = [
+  {name: "Tentang", link: '/#aboutUs'},
+  {name: "Layanan", link: '/#features'},
+  {name: "Blog", link: '/#Blog'},
+  {name: "FAQ", link: '/#faq'},
+  {name: "Mitra", link: '/#mitra'},
+]
 
   return (
     <Navbar
@@ -133,17 +140,18 @@ const NavigationBar = () => {
 
       <NavbarMenu>
         {menuItems.map((item, index) => (
-          <NavbarMenuItem key={`${item}-${index}`}>
+          <NavbarMenuItem key={`${item}-${index}`} onClick={() => setIsMenuOpen(false)}>
             <Link
               className="w-full hover:text-[#4F5CDF]"
               color="foreground"
               // color={
               //     index === 2 ? "warning" : index === menuItems.length - 1 ? "danger" : "foreground"
               // }
-              href="#"
+              href={item.link}
               size="lg"
+              onClick={() => setIsMenuOpen(false)}
             >
-              {item}
+              {item.name}
             </Link>
           </NavbarMenuItem>
         ))}
