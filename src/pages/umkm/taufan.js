@@ -2359,6 +2359,425 @@ const dataTaufan = {
         alamat: "Dusun Sukosari",
       },
     },
+    "esteh-jumbo-kepiting" : {   
+      title: "Es Teh Jumbo",
+      icon: null,
+      navbarTitle: "Es Teh Jumbo",
+      ctaLink: "https://wa.me/6281333558712",
+      keyword: [
+      "Es Teh Jumbo","Es Teh Segar","Es Teh Terbaik","Es Teh Murah","Es Teh Jakarta","Es Teh Enak","Es Lemon Tea Jumbo","Es Lemon Tea Segar","Es Lemon Tea Terbaik",
+      "Es Lemon Tea Murah","Es Lemon Tea Jakarta","Tempat Beli Es Teh","Tempat Beli Es Lemon Tea",
+      "Es Teh dan Lemon Tea Homemade","Es Teh Jumbo Delivery","Es Teh Jumbo Promo",
+      "Es Teh Jumbo Review","Es Teh Jumbo Order Online","Es Teh Jumbo Jakarta Selatan",
+      "Es Teh Jumbo Terdekat"
+      ]
+      ,
+      color:{"primary":"bg-[#73c892]",
+        "secondary":"bg-[#a0d9b5]",
+        "backgroundColor":"bg-[#f3faf6]",
+        "hoverColor":"hover:bg-[#adf4c7]",
+        "textColor":"text-[#010010]",
+        "btnTextColor":"text-[#ffffff]",
+        "accentColor":"text-[#6fc990]"},
+      hero: {
+        tagLine: "Rasakan Kelezatan Es Teh dan Es Lemon Tea Jumbo yang Menyegarkan",
+        deskripsi:"Di Es Teh Jumbo, kami menyajikan es teh dan es lemon tea yang tidak hanya menyegarkan, tetapi juga penuh rasa. Setiap gelas dibuat dengan bahan-bahan berkualitas tinggi, menyuguhkan sensasi dingin dan rasa yang lezat, ideal untuk menghilangkan dahaga dan memanjakan lidah Anda",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725017471/1_ynl2ps.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menyajikan Keberagaman Rasa dengan Kualitas Terbaik",
+  
+        deskripsi: "Kami berkomitmen untuk menyajikan berbagai varian rasa yang menggugah selera, semuanya dengan kualitas terbaik. Kami percaya bahwa keberagaman rasa yang kami tawarkan, dipadu dengan standar kualitas yang tinggi, akan menghadirkan pengalaman minum yang istimewa dan menyenangkan. Temukan kelezatan dan kualitas dalam setiap gelas Es Teh Jumbo.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725017474/2_djmxzc.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Es Lemon Tea","deskripsi":"Rasakan keasaman lemon yang menyegarkan dipadukan dengan kehangatan teh dalam setiap tegukan, membuat Es Lemon Tea kami menjadi pilihan yang sempurna untuk setiap kesempatan.","price":"Rp. 7.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725017470/3_nkqbko.jpg"},{"name":"Es Teh","deskripsi":"Rasakan kesegaran dan kelezatan es teh kami yang memberikan keseimbangan sempurna antara manis dan pahit, menjadikannya pilihan minuman yang menyegarkan dan memuaskan.","price":"Rp. 3.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725017470/4_wokkgt.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1215.5770702492912!2d114.36514606081244!3d-8.232690990676943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725017572975!5m2!1sid!2sid",
+      footer: {
+        noHp: "0881333558712",
+        alamat: "Jl. Kepiting GG. Codot",
+      },
+    },
+    "dapur-mama-renatan" : {   
+      title: "Dapur Mama Renatan",
+      icon: null,
+      navbarTitle: "Dapur Mama Renatan",
+      ctaLink: "https://wa.me/6285649557669",
+      keyword: [
+      "Dapur Mama Renatan","Lalapan Ayam Goreng","Lalapan Ayam Kemangi","Lalapan Tempe Penyet",
+      "Ayam Goreng Dapur Mama Renatan","Ayam Kemangi Dapur Mama Renatan",
+      "Tempe Penyet Dapur Mama Renatan","Menu Dapur Mama Renatan",
+      "Kuliner Lalapan Mama Renatan","Lalapan Lezat di Dapur Mama Renatan",
+      "Dapur Mama Renatan Menu Lalapan","Ayam Goreng Khas Dapur Mama Renatan",
+      "Lalapan Pedas Dapur Mama Renatan","Nasi Lalapan Dapur Mama Renatan",
+      "Tempe Penyet Lezat","Lalapan Ayam Khas","Dapur Mama Renatan Rasa Juara",
+      "Lalapan Tradisional Dapur Mama Renatan","Nikmati Lalapan Dapur Mama Renatan",
+      "Tempe Penyet dan Ayam Kemangi"
+      ]
+      ,
+      color:{"primary":"bg-[#cd7700]","secondary":"bg-[#ff9c11]","backgroundColor":"bg-[#e9d5c0]","hoverColor":"hover:bg-[#c0812b]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#fff07f]"},
+      hero: {
+        tagLine: "Kelezatan Lalapan Sejati dari Dapur Mama Renatan",
+        deskripsi:"Kami menyajikan hidangan lalapan yang autentik dan menggugah selera, mulai dari Ayam Goreng yang renyah, Ayam Kemangi dengan aroma segar, hingga Tempe Penyet yang pedas dan lezat. Temukan cita rasa lalapan sejati hanya di Dapur Mama Renatan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725068700/5_dti3rf.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dari Dapur Kami, Untuk Keluarga Anda",
+  
+        deskripsi: "Di Dapur Mama Renatan, setiap hidangan kami dibuat dengan penuh perhatian dan cinta, khusus untuk Anda dan keluarga tercinta. Dengan resep tradisional dan bahan berkualitas, kami berkomitmen untuk menghadirkan pengalaman makan yang memuaskan dan penuh kehangatan. Temukan rasa yang menghubungkan keluarga Anda dengan kelezatan dari dapur kami.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725068700/1_jig7z9.jpg",
+        btn: true, // optional
+        btnText: "Pesan Sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Lalapan Tempe Penyet","deskripsi":"Tempe Penyet kami menyajikan tempe goreng yang renyah dan pedas, dihaluskan dengan sambal yang menggigit dan disertai lalapan segar. Setiap gigitan menawarkan kombinasi tekstur dan rasa yang memuaskan, menjadikannya pilihan favorit bagi pecinta tempe dan sambal pedas.","price":"Rp. 8.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725068701/2_g4q8ku.jpg"},{"name":"Lalapan Ayam Kemangi","deskripsi":"Nikmati sensasi unik dari Ayam Kemangi kami, di mana ayam goreng yang empuk berpadu dengan aroma segar daun kemangi dan bumbu rempah yang harum. Hidangan ini menawarkan kombinasi rasa yang segar dan menggugah selera, cocok untuk Anda yang mencari cita rasa berbeda dalam setiap suapan.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725068700/1_jig7z9.jpg"},{"name":"Lalapan Ayam Goreng","deskripsi":"Rasakan kelezatan ayam goreng kami yang renyah di luar dan juicy di dalam, disajikan dengan sambal pedas dan lalapan segar. Setiap potong ayam goreng diolah dengan bumbu khas yang menggugah selera, menjadikannya pilihan sempurna untuk Anda yang menyukai hidangan gurih dan pedas.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725068699/3_y9m21y.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d493.58816907774786!2d114.3646999866083!3d-8.232355597573381!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725068844055!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885649557669",
+        alamat: "Jl. Kepiting GG. Codot",
+      },
+    },
+    "koptan-pakwo" : {   
+      title: "Koptan Pak Wo",
+      icon: null,
+      navbarTitle: "Koptan Pak Wo",
+      ctaLink: "https://wa.me/6285103928300",
+      keyword: [
+     "Koptan Pak Wo","Kopi Murni Koptan Pak Wo","Ketan Kirip Koptan Pak Wo","Pisang Goreng Koptan Pak Wo","Kopi Murni Terbaik","Ketan Kirip Enak","Pisang Goreng Lezat","Kopi Murni Jakarta","Ketan Kirip Jakarta","Pisang Goreng Jakarta","Tempat Beli Kopi Murni","Tempat Beli Ketan Kirip","Tempat Beli Pisang Goreng","Kopi Murni Berkualitas","Ketan Kirip Tradisional","Pisang Goreng Homemade","Koptan Pak Wo Delivery","Kopi Murni Online Order","Ketan Kirip Online","Pisang Goreng Terdekat"
+      ]
+      ,
+      color:{"primary":"bg-[#106825]","secondary":"bg-[#95e1a7]","backgroundColor":"bg-[#f4fbf6]","hoverColor":"hover:bg-[#1d9b3b]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#59da77]"},
+      hero: {
+        tagLine: "Temukan Kenikmatan Kopi, Ketan, dan Pisang Goreng di Koptan Pak Wo",
+        deskripsi:"Kami menghadirkan pengalaman kuliner yang tak terlupakan dengan sajian kopi murni, ketan kirip, dan pisang goreng yang memikat. Kopi murni kami menawarkan rasa yang kaya dan autentik, sementara ketan kirip kami menggabungkan kelezatan tradisional dengan tekstur yang menggugah selera. Pisang goreng kami, yang digoreng dengan sempurna, melengkapi menu kami dengan camilan manis yang lezat. ",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725020346/4_oqivbo.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kisah Kami: Cita Rasa Kopi, Ketan, dan Pisang Goreng yang Autentik",
+  
+        deskripsi: "Setiap produk kami dibuat dengan bahan-bahan berkualitas tinggi dan resep turun-temurun, memastikan pengalaman kuliner yang memuaskan. Dari kopi murni yang kaya aroma, ketan kirip yang gurih dan kenyal, hingga pisang goreng yang renyah dan manis, kami berkomitmen untuk memberikan rasa yang otentik dan memikat. Bergabunglah dengan kami dan rasakan kisah di balik setiap gigitan dan tegukan yang penuh rasa.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725020347/5_lhjtwm.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Pisang Goreng","deskripsi":"Nikmati Pisang Goreng kami yang lezat, digoreng hingga renyah di luar dan lembut di dalam. Pisang Goreng kami adalah camilan yang ideal untuk menemani waktu santai Anda atau sebagai hidangan penutup yang memuaskan.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725020351/2_ity3nm.jpg"},{"name":"Ketan Kirip","deskripsi":"Rasakan kelezatan Ketan Kirip kami, sajian tradisional yang menawarkan rasa gurih dan tekstur kenyal yang memikat.  Cocok untuk sarapan, camilan, atau sebagai teman makan, Ketan Kirip kami memberikan pengalaman kuliner yang otentik dan memuaskan.","price":"Rp. 4.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725020348/1_hxvtpq.jpg"},{"name":"Kopi Murni","deskripsi":"Kopi Murni kami menyajikan pengalaman kopi yang murni dan autentik, menggunakan biji kopi pilihan yang dipanggang dengan sempurna. Setiap cangkir menawarkan rasa kopi yang kaya dan penuh karakter, dengan aroma yang menggugah selera.","price":"Rp. 3.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725020345/3_rbppch.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d656.7383094801623!2d114.36651958020155!3d-8.234912808570718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15ac458405a05%3A0xbe68fabe9297732c!2sQ988%2B2MV%2C%20Tukangkayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068418!5e0!3m2!1sid!2sid!4v1725020612594!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885103928300",
+        alamat: "Jl. Ikan Wijinongko",
+      },
+    },
+    "pedo-basreng" : {   
+      title: "Pedo Basreng",
+      icon: null,
+      navbarTitle: "Pedo Basreng",
+      ctaLink: "https://wa.me/6285232011765",
+      keyword: [
+     "Pedo Basreng","Basreng Pedo","Basreng Pedas Gurih","Camilan Basreng Pedo","Basreng Enak Pedo","Basreng Pedas Renyah","Jual Basreng Pedo","Basreng Khas Pedo","Basreng Original Pedo","Camilan Basreng Pedas","Basreng Kriuk Pedo","Basreng Pedo Asli","Basreng Pedas Crispy","Basreng Enak dan Murah","Basreng Pedo Terbaik","Camilan Pedas Basreng","Basreng Kriuk Enak","Basreng Gurih Pedo","Basreng Nikmat Pedo","Pedasnya Basreng Pedo"
+      ]
+      ,
+      color:{"primary":"bg-[#3c6b77]","secondary":"bg-[#8cd5e7]","backgroundColor":"bg-[#f6fafb]","hoverColor":"hover:bg-[#8ca8af]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#52cceb]"},
+      hero: {
+        tagLine: "Camilan Basreng Kriuk, Pedasnya Bikin Nagi",
+        deskripsi:"Dengan tekstur yang kriuk dan rasa pedas yang menggigit, setiap potongan basreng kami dibuat dari bahan berkualitas dan bumbu pilihan. Rasakan sensasi pedas yang nikmat dan renyah dalam setiap gigitan, yang pasti akan membuat Anda ingin terus menikmatinya. Basreng Pedo",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725439044/5_b0wgjo.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kriuk Pedas, Komitmen Kami untuk Kualitas",
+  
+        deskripsi: "Setiap potong basreng dibuat dengan bahan terbaik dan resep yang teliti, memastikan rasa pedas yang menggugah selera dan tekstur kriuk yang memuaskan. Kami berdedikasi untuk memberikan pengalaman camilan yang luar biasa, dengan kualitas yang selalu menjadi prioritas utama kami.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725439044/4_fghegd.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [
+          {"name":"Basreng Pedas","deskripsi":"Rasakan pedas yang menggugah selera dalam Basreng Pedas kami. Dibuat dari bahan bakso ikan pilihan dan dipadukan dengan bumbu pedas yang meresap sempurna, camilan ini menawarkan sensasi renyah yang bikin ketagihan. ","price":"Rp. 10.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725439047/3_yij8pj.jpg"}
+        ],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31575.64566912601!2d114.20254895746989!3d-8.406011024101264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fde20ea850e1%3A0x37dc2046ea19af65!2sDusun%20Cempokasari%2C%20Sarimulyo%2C%20Kec.%20Cluring%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1725439295057!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885232011765",
+        alamat: "Dusun Cempokosari RT/RW 003/005 Kel. Sarimulyo Kec. Cluring",
+      },
+    },
+    "warung-mbah-cup" : {   
+      title: "Warung Mbah Cup",
+      icon: null,
+      navbarTitle: "Warung Mbah Cup",
+      ctaLink: "tel:6282310866027",
+      keyword: ["Warung Mbah Cup","Getas Warung Mbah Cup","Pisang Goreng Warung Mbah Cup","Tahu Isi Warung Mbah Cup","Menu Warung Mbah Cup","Getas Lezat Warung Mbah Cup","Pisang Goreng Khas Warung Mbah Cup","Tahu Isi Gurih Warung Mbah Cup","Warung Mbah Cup Snack Tradisional","Kuliner Warung Mbah Cup","Getas Renyah Warung Mbah Cup","Pisang Goreng dan Tahu Isi","Makanan Enak di Warung Mbah Cup","Pisang Goreng Lezat Warung Mbah Cup","Tahu Isi Spesial Warung Mbah Cup","Warung Mbah Cup Getas Terbaik","Getas dan Pisang Goreng Warung Mbah Cup","Nikamti Getas Warung Mbah Cup","Tahu Isi Khas Warung Mbah Cup","Warung Mbah Cup: Getas, Pisang Goreng, Tahu Isi"]
+      ,
+      color:{"primary":"bg-[#bd9b00]","secondary":"bg-[#b3c2c8]","backgroundColor":"bg-[#fdebc7]","hoverColor":"hover:bg-[#bd6d00]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#8d8bab]"},
+      hero: {
+        tagLine: "Kelezatan Tradisional dari Warung Mbah Cup",
+        deskripsi:"Selamat datang di Warung Mbah Cup, tempat di mana camilan tradisional diolah dengan penuh cinta dan keahlian. Kami menyajikan Getas yang renyah, Pisang Goreng yang manis dan gurih, serta Tahu Isi yang lezat dan memuaskan. Temukan cita rasa tradisional yang istimewa hanya di Warung Mbah Cup.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725070468/4_gtsn7p.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dari Resep Tradisional ke Hidangan Istimewa",
+  
+        deskripsi: "Di Warung Mbah Cup, kami menghidangkan camilan dengan rasa yang menghubungkan tradisi dan keistimewaan. Setiap produk, mulai dari Getas yang renyah hingga Pisang Goreng yang manis dan Tahu Isi yang lezat, dibuat dengan resep tradisional yang telah diwariskan turun-temurun.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725070470/5_wir2nn.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Tahu Isi","deskripsi":"Temukan kelezatan Tahu Isi kami yang lezat, dengan tahu goreng renyah yang diisi dengan campuran sayuran dan bumbu spesial. Setiap potong tahu isi memberikan kombinasi rasa dan tekstur yang memuaskan, cocok untuk setiap kesempatan.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725070470/2_avdsbg.png"},{"name":"Pisang Goreng","deskripsi":"Nikmati Pisang Goreng kami yang manis dan gurih, digoreng hingga keemasan untuk mencapai tekstur luar yang renyah dan dalam yang lembut. Camilan klasik ini adalah pilihan ideal untuk Anda yang mencari rasa manis alami dengan sentuhan tradisional.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725070469/1_mw4m8i.png"},{"name":"Getas","deskripsi":"Rasakan sensasi renyah dan gurih dari Getas kami yang dibuat dari bahan berkualitas dan resep tradisional. Setiap gigitan menawarkan tekstur yang krispi dan rasa yang memuaskan, menjadikannya camilan sempurna untuk dinikmati kapan saja.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725070467/3_ajpmsr.png"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d493.5876176651375!2d114.3632994771877!3d-8.232798000955711!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725070649402!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882310866027",
+        alamat: "Jl. Adi Suciptp GG. Jrabangan",
+      },
+    },
+    "tahu-lontong-mbokrehana" : {   
+      title: "Tahu Lontong Mbok Rehana",
+      icon: null,
+      navbarTitle: "Tahu Lontong Mbok Rehana",
+      ctaLink: "https://wa.me/6285608825488",
+      keyword: ["Tahu Lontong Mbok Rehana","Tahu Lontong Enak","Tahu Lontong Terbaik","Tahu Lontong Berkualitas","Tahu Lontong Asli","Tahu Lontong Murah","Tahu Lontong Jakarta","Tahu Lontong Surabaya","Tahu Lontong Terdekat","Tempat Beli Tahu Lontong","Tahu Lontong Homemade","Resep Tahu Lontong","Tahu Lontong Mbok Rehana Delivery","Tahu Lontong Spesial","Tahu Lontong Segar"]
+      ,
+      color:{"primary":"bg-[#a7baae]","secondary":"bg-[#9bd5ca]","backgroundColor":"bg-[#f7fcf9]","hoverColor":"hover:bg-[#8e9590]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#75c5bc]"},
+      hero: {
+        tagLine: "Rasakan Kelezatan Tahu Lontong Sejati dari Mbok Rehana",
+        deskripsi:"Kami menyajikan tahu lontong yang terbuat dari bahan-bahan berkualitas tinggi dan resep tradisional yang diwariskan turun-temurun. Setiap suapan menawarkan rasa yang lezat dan tekstur yang sempurna, menjadikan setiap hidangan kami istimewa.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725015032/3_mym2br.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menjaga Warisan Kuliner dengan Sentuhan Cinta dan Keterampilan",
+  
+        deskripsi: "Di Tahu Lontong Mbok Rehana, kami berdedikasi untuk melestarikan tradisi kuliner dengan sentuhan yang penuh cinta dan keterampilan. Setiap hidangan tahu lontong kami dibuat dengan resep tradisional yang telah diwariskan turun-temurun, menggunakan bahan-bahan berkualitas dan teknik memasak yang teliti. Kami percaya bahwa menjaga warisan kuliner adalah tentang menghormati masa lalu sambil memberikan rasa yang memuaskan untuk masa kini.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725015032/2_ii7nyb.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Tahu Lontong","deskripsi":"Nikmati kelezatan Tahu Lontong kami yang terbuat dari tahu segar dan lontong empuk, disajikan dengan bumbu khas yang menggugah selera. Kombinasi sempurna antara tahu yang lembut dan lontong yang kenyal, dipadu bumbu rempah yang kaya rasa, membuat setiap suapan menjadi pengalaman kuliner yang memuaskan.","price":"Rp. 7.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725015033/1_ges0hk.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1974.3522385717545!2d114.3634079871844!3d-8.232443399999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15ac5fcc0efa5%3A0x56af46d723f71e3e!2sQ997%2B2JM%2C%20Jl.%20Ikan%20Tengiri%20Gg.%20I%2C%20Tukangkayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068418!5e0!3m2!1sid!2sid!4v1725015275585!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885608825488",
+        alamat: "Jl. Kepiting GG. Codot",
+      },
+    },
+    "kerupuk-mama-manja" : {   
+      title: "Krupuk Mama Manja",
+      icon: null,
+      navbarTitle: "Krupuk Mama Manja",
+      ctaLink: "https://wa.me/6287711453475",
+      keyword: ["Krupuk Mama Manja","Krupuk Uyel Besar","Krupuk Blombong","Krupuk Enak","Krupuk Terbaik","Krupuk Uyel Besar Jakarta","Krupuk Blombong Jakarta","Krupuk Mama Manja Murah","Krupuk Uyel Besar Berkualitas","Krupuk Blombong Segar","Krupuk Mama Manja Delivery","Krupuk Uyel Besar Online","Krupuk Blombong Terdekat","Krupuk Mama Manja Promo","Tempat Beli Krupuk Uyel Besar","Tempat Beli Krupuk Blombong","Krupuk Mama Manja Review","Krupuk Uyel Besar Murah","Krupuk Blombong Asli","Krupuk Mama Manja Jakarta Selatan"]
+      ,
+      color:{"primary":"bg-[#d4a8ba]","secondary":"bg-[#e5bc87]","backgroundColor":"bg-[#fcf0f5]","hoverColor":"hover:bg-[#a4778a]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#ddd961]"},
+      hero: {
+        tagLine: "Rasakan Kelezatan Krupuk Uyel Besar dan Blombong yang Memanjakan Lidah",
+        deskripsi:"Di Krupuk Mama Manja, kami menghadirkan krupuk uyel besar dan blombong yang menawarkan kelezatan dan kerenyahan dalam setiap gigitan. Setiap produk dibuat dengan bahan berkualitas dan resep rahasia yang telah teruji, menjadikannya pilihan camilan yang sempurna untuk memanjakan lidah Anda.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725018632/1_jp6n1k.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Tradisi dan Kualitas dalam Setiap Gigitan Krupuk Mama Manja",
+  
+        deskripsi: "Dengan resep turun-temurun dan bahan-bahan pilihan, setiap krupuk dibuat dengan penuh perhatian untuk memastikan kerenyahan dan rasa yang autentik. Temukan kenikmatan dan kelezatan krupuk yang telah menjadi bagian dari tradisi kami di Krupuk Mama Manja.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725018630/2_aazjph.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Krupuk Blombong","deskripsi":"Terbuat dari bahan-bahan segar dan diproses dengan teknik khusus, krupuk ini memiliki tekstur yang halus dan gurih. Krupuk Blombong kami adalah pilihan tepat untuk menemani waktu bersantai atau sebagai teman makan yang menyenangkan, memberikan kepuasan dalam setiap gigitan.","price":"Rp. 3.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725018632/4_iayped.jpg"},{"name":"Krupuk Uyel Besar","deskripsi":" Dibuat dari bahan-bahan berkualitas tinggi dan resep tradisional, krupuk ini menawarkan kerenyahan yang memuaskan dengan setiap gigitan. Krupuk Uyel Besar kami adalah pilihan yang sempurna untuk memanjakan lidah Anda dengan kelezatan yang melimpah.","price":"Rp. 3.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725018630/3_uzuagr.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d986.771780406038!2d114.1925435971271!3d-8.393091960182092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725018960683!5m2!1sid!2sid",
+      footer: {
+        noHp: "0887711453475",
+        alamat: "Dusun Tamanrejo Kecamatan Gambiran",
+      },
+    },
+    "geprek-ella" : {   
+      title: "Geprek Ella",
+      icon: null,
+      navbarTitle: "Geprek Ella",
+      ctaLink: "https://wa.me/6282229703518",
+      keyword: ["Geprek Ella","Ayam Geprek Terbaik","Ayam Recheese Lezat","Nasi Tempong Spesial","Menu Geprek Ella","Kuliner Geprek Ella","Ayam Geprek Pedas","Nasi Tempong Geprek Ella","Ayam Recheese Geprek","Kuliner Khas Geprek Ella","Makan Ayam Geprek Ella","Menu Ayam Geprek Ella","Geprek Ella Rasa Juara","Kuliner Ayam Recheese Ella","Makanan Pedas Geprek Ella","Nikmati Nasi Tempong Ella","Best Ayam Geprek Ella","Geprek Ella Favorit","Nasi Tempong Lezat","Promo Geprek Ella"]
+      ,
+      color:{"primary":"bg-[#a80f0f]","secondary":"bg-[#dc7900]","backgroundColor":"bg-[#fff1b5]","hoverColor":"hover:bg-[#e63c3c]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#e9cb5a]"},
+      hero: {
+        tagLine: "Lezat, Pedas, dan Menggugah Selera di Geprek Ella",
+        deskripsi:"Selamat datang di Geprek Ella, tempat di mana kenikmatan pedas bertemu dengan cita rasa lezat yang tak tertandingi. Kami menyajikan Ayam Geprek yang renyah, Ayam Recheese yang creamy, dan Nasi Tempong dengan sambal khas yang menggugah selera. Nikmati kelezatan yang tak terlupakan di Geprek Ella",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725067105/1_pib7hx.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Geprek Ella: Tempat di Mana Setiap Hidangan Bercerita",
+  
+        deskripsi: "Setiap hidangan kami adalah cerita tentang dedikasi, tradisi, dan cinta terhadap kuliner. Setiap piring yang kami sajikan adalah hasil dari resep turun-temurun dan inovasi terbaru, memberikan pengalaman kuliner yang memuaskan dan penuh makna. Bergabunglah dengan kami dan rasakan cerita di balik setiap gigitan.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725067105/2_ejmved.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Ayam Recheese","deskripsi":"Rasakan perpaduan sempurna antara ayam goreng renyah dengan saus keju yang creamy dan lezat. Ayam Recheese kami adalah pilihan tepat untuk pecinta keju yang ingin menikmati sensasi gurih dan lembut dalam setiap gigitan.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725067105/4_vlwyhw.jpg"},{"name":"Ayam Geprek","deskripsi":"Nikmati kelezatan ayam goreng krispi yang dipadukan dengan sambal geprek pedas yang menggigit. Ayam Geprek kami diolah dengan bumbu rahasia yang kaya rasa, menciptakan hidangan yang pasti membuat Anda ketagihan.","price":"Rp. 10.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725067105/3_r0ydxx.jpg"},{"name":"Nasi Tempong","deskripsi":"Nasi Tempong khas dengan sambal pedas dan segar, disajikan bersama ayam goreng empuk dan sayuran segar. Hidangan ini adalah pilihan sempurna untuk Anda yang mencari cita rasa autentik dan pedas yang memanjakan lidah.","price":"Rp. 8.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725067103/5_s7bnxe.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.7924571700221!2d114.36663230470968!3d-8.234966561902402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15ac458405a05%3A0xbe68fabe9297732c!2sQ988%2B2MV%2C%20Tukangkayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068418!5e0!3m2!1sid!2sid!4v1725067155159!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882229703518",
+        alamat: "Jl. Ikan Wijinongko",
+      },
+    },
+    "nasbung-mbak-asih" : {   
+      title: "Nasbung Mbak Asih",
+      icon: null,
+      navbarTitle: "Nasbung Mbak Asih",
+      ctaLink: "https://wa.me/628988158048",
+      keyword: ["Nasbung Mbak Asih","Nasi Bungkus Ayam","Nasi Bungkus Mbak Asih","Nasi Ayam Mbak Asih","Menu Nasi Bungkus Ayam","Nasi Bungkus Enak","Kuliner Nasi Bungkus Ayam","Nasi Bungkus Mbak Asih Spesial","Nasi Ayam Khas Mbak Asih","Mbak Asih Nasi Bungkus Ayam","Nasi Bungkus Praktis","Nasi Bungkus Ayam Terbaik","Makan Siang Nasi Bungkus","Nasi Bungkus Tradisional","Nasi Bungkus Enak dan Murah","Nasi Bungkus Lezat Mbak Asih","Nasi Bungkus Ayam Pedas","Nasi Bungkus Mbak Asih Harga Terjangkau","Pesan Nasi Bungkus Mbak Asih","Nasi Bungkus Mbak Asih Favorit"]
+      ,
+      color:{"primary":"bg-[#e0a444]","secondary":"bg-[#d2e28a]","backgroundColor":"bg-[#ebe0c6]","hoverColor":"hover:bg-[#a57a36]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#a8d75f]"},
+      hero: {
+        tagLine: "Praktis, Enak, dan Penuh Rasa di Nasbung Mbak Asih",
+        deskripsi:"Di Nasbung Mbak Asih, kami menyajikan nasi bungkus ayam yang praktis dan penuh kelezatan. Setiap bungkus nasi ayam kami dibuat dengan bahan berkualitas dan bumbu khas yang meresap sempurna, menghadirkan rasa autentik yang memuaskan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725434694/2_x9ml6o.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menghidangkan Kelezatan dalam Setiap Bungkus",
+  
+        deskripsi: "Kami menggunakan bahan-bahan berkualitas dan resep tradisional untuk menghadirkan nasi bungkus ayam yang lezat dan memuaskan. Setiap bungkusnya kaya akan rasa dan dipersiapkan dengan cermat, memastikan Anda menikmati kelezatan yang sempurna di setiap gigitan.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725434694/2_x9ml6o.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Nasi Bungkus Ayam","deskripsi":"Nikmati kelezatan Nasi Bungkus Ayam dari Nasbung Mbak Asih. Ayam gurih yang dimasak dengan bumbu rempah tradisional, disajikan dengan nasi hangat, sambal pedas, serundeng kelapa, dan tahu merah, menciptakan perpaduan rasa yang sempurna. Cocok untuk makan siang atau kapan saja Anda ingin menyantap hidangan praktis dan lezat.","price":"Rp. 5.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725434491/nasi_bungkus_iwkhcr.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d374.2426856797101!2d114.36336880363012!3d-8.232660732298651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15ac60e50248d%3A0x4f5b3aec37c2efb4!2sQ987%2BW8G%2C%20Jl.%20Ikan%20Tengiri%20Gg.%20Palem%2C%20Tukangkayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068418!5e0!3m2!1sid!2sid!4v1725434230314!5m2!1sid!2sid",
+      footer: {
+        noHp: "088988158048",
+        alamat: "Jl. Adi Suciptp GG. Jrabangan",
+      },
+    },
+    "tahu-walik-q" : {   
+      title: "Tahu Walek Q",
+      icon: null,
+      navbarTitle: "Tahu Walek Q",
+      ctaLink: "https://wa.me/6283841672773",
+      keyword: ["Tahu Walek Q","Tahu Walek","Krupuk Pangsit","Tahu Walek Terbaik","Krupuk Pangsit Enak","Tahu Walek Jakarta","Krupuk Pangsit Jakarta","Tahu Walek Murah","Krupuk Pangsit Murah","Tempat Beli Tahu Walek","Tempat Beli Krupuk Pangsit","Tahu Walek Kualitas Tinggi","Krupuk Pangsit Segar","Tahu Walek Online","Krupuk Pangsit Online","Tahu Walek Q Delivery","Tahu Walek Promo","Krupuk Pangsit Terdekat","Tahu Walek dan Krupuk Pangsit","Tahu Walek Q Review"]
+      ,
+      color:{"primary":"bg-[#c0271f]","secondary":"bg-[#e49c98]","backgroundColor":"bg-[#fbf7f7]","hoverColor":"hover:bg-[#761915]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#e5665f]"},
+      hero: {
+        tagLine: "Tahu Walek Q: Sajian Tahu Walek dan Krupuk Pangsit yang Terbaik",
+        deskripsi:"Tahu walek kami dibuat dengan bahan berkualitas tinggi dan resep yang sudah teruji, menghasilkan rasa gurih dan tekstur yang memuaskan. Sementara itu, krupuk pangsit kami menawarkan kerenyahan dan rasa yang sempurna, ideal untuk menemani setiap hidangan.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725022040/2_x64lrx.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cerita di Balik Rasa: Dedikasi Kami untuk Tahu Walek dan Krupuk Pangsit Berkualitas",
+  
+        deskripsi: "Di Tahu Walek Q, setiap sajian adalah hasil dari dedikasi dan keahlian kami dalam menciptakan camilan yang istimewa. Kami menggabungkan resep tradisional dengan bahan berkualitas untuk menghasilkan tahu walek yang gurih dan krupuk pangsit yang renyah. Temukan cerita di balik setiap gigitan dan rasakan cinta dan perhatian yang kami tuangkan dalam setiap sajian kami.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725022723/5_glabyl.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Tahu Walek","deskripsi":"Camilan yang terbuat dari tahu berkualitas tinggi dengan bumbu spesial yang khas. Dimasak dengan teknik yang tepat, Tahu Walek menawarkan rasa gurih dan tekstur yang renyah di luar serta lembut di dalam. ","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725022037/4_fgx4li.jpg"},{"name":"Krupuk Pangsit","deskripsi":"Rasakan kerenyahan Krupuk Pangsit kami, camilan ringan yang dibuat dari bahan pangsit pilihan dan digoreng dengan sempurna. Krupuk ini memiliki tekstur yang renyah dan rasa yang gurih, cocok sebagai teman santai atau pelengkap hidangan utama. ","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725022035/3_dmdsay.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d246.79462244536086!2d114.36621565371749!3d-8.231492395005331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15b006fabbc9b%3A0xf4b85218d516846d!2sTahu%20Walik%20Q!5e0!3m2!1sid!2sid!4v1725021968477!5m2!1sid!2sid",
+      footer: {
+        noHp: "0883841672773",
+        alamat: "Jl. Kepiting Tukangkayu",
+      },
+    },
+    "warung-eko" : {   
+      title: "Warung Eko",
+      icon: null,
+      navbarTitle: "Warung Eko",
+      ctaLink: "https://wa.me/6283103544415",
+      keyword: ["Warung Eko","Sosis Warung Eko","Sosis Enak dan Gurih","Scalop Ikan Warung Eko","Camilan Sosis dan Scalop Ikan","Pop Ice Warung Eko","Minuman Segar Pop Ice","Camilan Sosis Gurih","Scalop Ikan Renyah","Sosis Enak untuk Cemilan","Scalop Ikan Terbaik","Pop Ice Segar dan Nikmat","Warung Camilan Sosis","Sosis Renyah Warung Eko","Jual Scalop Ikan","Pop Ice Segar Harga Terjangkau","Warung Eko Sosis dan Scalop","Camilan Gurih Sosis dan Scalop","Warung Sosis Pop Ice","Pop Ice Favorit di Warung Eko"]
+      ,
+      color:{"primary":"bg-[#ccb41b]","secondary":"bg-[#dcd395]","backgroundColor":"bg-[#e8e5d6]","hoverColor":"hover:bg-[#ffe128]","textColor":"text-[#010010]","btnTextColor":"text-[#ffffff]","accentColor":"text-[#dece6b]"},
+      hero: {
+        tagLine: "Kombinasi Camilan dan Minuman Terbaik di Warung Eko",
+        deskripsi:"Warung Eko menghadirkan perpaduan sempurna antara camilan gurih dan minuman segar. Nikmati renyahnya sosis dan scalop ikan yang dipadukan dengan kesegaran Pop Ice favorit Anda. Baik untuk ngemil santai atau menemani aktivitas harian, Warung Eko selalu siap menyajikan pilihan camilan dan minuman terbaik yang akan memuaskan selera Anda.",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+        img:"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725687648/WhatsApp_Image_2024-08-05_at_22.30.22_tz6bkt.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kelezatan dan Kesegaran yang Hadir Setiap Hari di Warung Eko",
+  
+        deskripsi: "Kami berkomitmen untuk menghadirkan camilan lezat dan minuman segar setiap hari. Mulai dari sosis dan scalop ikan yang gurih hingga Pop Ice yang menyegarkan. Dengan kombinasi kelezatan dan kesegaran, Warung Eko siap menjadi pilihan favorit Anda kapan saja.",// optional
+        img: "https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725687655/WhatsApp_Image_2024-08-05_at_22.30.24_zigyfd.jpg",
+        btn: true, // optional
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        // required
+        data: [{"name":"Sosis","deskripsi":"Sosis gurih dan renyah dari Warung Eko menjadi camilan sempurna untuk segala suasana. Sosis ini cocok dinikmati sendiri atau sebagai teman makan santai. Setiap gigitan menghadirkan tekstur yang memuaskan.","price":"Rp. 1.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725687632/WhatsApp_Image_2024-09-07_at_12.37.47_eitryg.jpg"},{"name":"Scalop Ikan","deskripsi":"Rasakan gurihnya Scalop Ikan khas Warung Eko. Camilan berbahan dasar ikan ini diproses dengan bumbu spesial yang menghasilkan rasa lezat dan renyah di luar, lembut di dalam. Ideal untuk Anda yang mencari camilan seafood ringan namun memuaskan.","price":"Rp. 2000/3pcs","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725687632/WhatsApp_Image_2024-09-07_at_12.37.47_1_nnvgbd.jpg"},{"name":"Pop Ice","deskripsi":"Segarkan hari Anda dengan Pop Ice dari Warung Eko. Tersedia dalam berbagai rasa favorit, minuman es yang creamy dan dingin ini menjadi teman sempurna untuk menemani camilan lezat Anda. ","price":"Rp. 4.000","img":"https://res.cloudinary.com/dxsg7zuhw/image/upload/v1725687632/WhatsApp_Image_2024-09-07_at_12.37.46_zuftfl.jpg"}],
+      },
+      location:"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d986.7696069580105!2d114.1940432694314!3d-8.393947246988517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1725688303235!5m2!1sid!2sid",
+      footer: {
+        noHp: "0883103544415",
+        alamat: "Dusun Tamanrejo Kecamatan Gambiran",
+      },
+    },
   };
   
   export default dataTaufan;
