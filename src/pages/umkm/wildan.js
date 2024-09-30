@@ -486,6 +486,1507 @@ const dataWildan = {
         alamat: null,
       },
     },
+    "dadar-gulung-mbak-anis": {
+      title: "Dadar Gulung Mbak Anis",
+      icon: null,
+      navbarTitle: "Dadar Gulung Mbak Anis",
+      ctaLink: "https://wa.me/62881036025248",
+        keyword: [
+          "Dadar Gulung Hijau Isi Kelapa Mbak Anis",
+          "Dadar Gulung Coklat Isi Pisang dan Coklat Mbak Anis",
+          "Kue Dadar Gulung Tradisional Mbak Anis",
+          "Jual Dadar Gulung Hijau Isi Kelapa",
+          "Dadar Gulung Coklat Pisang Banyuwangi",
+          "Kue Tradisional Dadar Gulung Mbak Anis",
+          "Pesan Dadar Gulung Mbak Anis Online",
+          "Dadar Gulung Hijau dan Coklat Mbak Anis",
+          "Kue Dadar Gulung Banyuwangi Mbak Anis",
+          "Dadar Gulung Isi Kelapa dan Pisang Coklat",
+          "Kue Tradisional Dadar Gulung Hijau Banyuwangi",
+          "Jual Kue Dadar Gulung Mbak Anis",
+          "Dadar Gulung Coklat Pisang Enak Banyuwangi",
+          "Dadar Gulung Hijau Isi Kelapa Segar",
+          "Lezatnya Dadar Gulung Coklat Pisang Mbak Anis",
+        ],
+      
+      color: {
+        primary: "bg-[#65A637]",
+        secondary: "bg-[#95e799]",
+        backgroundColor: "bg-[#fbfdfa]",
+        hoverColor: "hover:bg-[#53733C]",
+        textColor: "text-[#010010]",
+        btnTextColor: "text-[#ffffff]",
+        accentColor: "text-[#65A637]",
+      },
+
+      hero: {
+        tagLine:
+          "Dadar Gulung Hijau dan Coklat Buatan Mbak Anis, Otentik dan Menggugah Selera",
+        deskripsi:
+          "Setiap gigitan memberikan kelezatan yang menggugah selera, sempurna untuk dinikmati kapan saja",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726648503/logo_nie1yr.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kue Buatan Tangan yang Menghidupkan Kembali Rasa Otentik",
+        deskripsi:
+          "Mbak Anis menyajikan kue dadar gulung dengan sentuhan tangan yang penuh perhatian, menghidupkan kembali cita rasa otentik yang memikat",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726648503/logo_nie1yr.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Dadar Gulung Hijau",
+            deskripsi:
+              "Dadar gulung hijau dengan aroma pandan yang khas dan isian kelapa parut manis. Kue tradisional ini menghadirkan tekstur lembut dengan rasa manis gurih yang menggugah selera. Nikmati kelezatan autentik setiap kali menggigit",
+            price: "Rp1.500/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726648501/dadar_gulung_hijau_ygv1zu.jpg",
+          },
+          {
+            name: "Dadar Gulung Coklat",
+            deskripsi:
+              "Dadar gulung coklat dengan isian pisang dan coklat yang lumer di mulut. Perpaduan manisnya pisang dan coklat memberikan sensasi nikmat yang sempurna untuk camilan atau hidangan penutup",
+            price: "Rp1.500/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726648075/dadar_gulung_coklat_jd4dqn.jpg",
+          },
+          {
+            name: "Dadar Gulung Hijau dan Coklat",
+            deskripsi:
+              "Kombinasi dadar gulung hijau isi kelapa dan dadar gulung coklat isi pisang-coklat menawarkan dua sensasi rasa dalam satu sajian. Kue tradisional dengan rasa manis dan gurih ini cocok untuk segala acara, menghadirkan kenikmatan yang otentik dan memuaskan",
+            price: "Rp1.500/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726648076/dadar_gulung_coklat._dan_hijaujpeg_cdgjsi.jpg",
+          },
+        ],
+      },
+      location: 
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.900063980754!2d114.36732837381295!3d-8.212804682405746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452fdf4b9c7d%3A0x2ca999baa6cffa5d!2sJl.%20Serayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068415!5e0!3m2!1sid!2sid!4v1726647417919!5m2!1sid!2sid",
+      footer: {
+        noHp: "08881036025248",
+        alamat:
+          "JL. SERAYU, Desa/Kelurahan Panderejo, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "angkringan-teras-klatak": {
+      title: "Angkringan Teras",
+      icon: null,
+      navbarTitle: "Angkringan Teras",
+      ctaLink: "https://wa.me/6287861697039",
+        keyword: [
+          "Angkringan Teras Aneka Makanan dan Minuman",
+          "Aneka Camilan Angkringan Teras",
+          "Menu Lengkap Angkringan Teras",
+          "Makanan dan Minuman Murah di Angkringan Teras",
+          "Aneka Makanan Tradisional di Angkringan Teras",
+          "Minuman Segar dan Camilan Angkringan Teras",
+          "Camilan Gurih dan Manis di Angkringan Teras",
+          "Pilihan Menu Angkringan Teras yang Lezat",
+          "Angkringan Teras: Tempat Nongkrong dengan Aneka Camilan",
+          "Aneka Minuman Segar di Angkringan Teras",
+          "Angkringan Teras Makanan Tradisional dan Modern",
+          "Nikmati Aneka Makanan dan Camilan di Angkringan Teras",
+          "Minuman dan Camilan Lezat Angkringan Teras",
+          "Pilihan Menu Murah dan Lezat di Angkringan Teras",
+          "Camilan Tradisional dan Minuman di Angkringan Teras",
+        ],
+      
+      color: {
+        primary: "bg-[#593B02]",
+        secondary: "bg-[#D9AE30]",
+        backgroundColor: "bg-[#fefcf7]",
+        hoverColor: "hover:bg-[#322101]",
+        textColor: "text-[#010010]",
+        btnTextColor: "text-[#ffffff]",
+        accentColor: "text-[#593B02]",
+      },
+
+      hero: {
+        tagLine: "Kenikmatan Camilan dan Minuman Segar di Angkringan Teras",
+        deskripsi:
+          "Temukan suasana hangat dan ramah, sempurna untuk bersantai bersama teman dan keluarga sambil menikmati hidangan favorit Anda",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727005672/hero_image_qzlhme.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Hangatnya Suasana, Kelezatan Makanan: Selamat Datang di Angkringan Teras",
+        deskripsi:
+          "Di Angkringan Teras, kami menciptakan suasana yang hangat dan ramah untuk semua pengunjung. Dengan berbagai pilihan makanan dan minuman yang lezat, setiap hidangan disiapkan dengan cinta dan perhatian",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727005674/menu_zhbhke.jpg",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Nasi Tempong",
+            deskripsi:
+              "Nikmati kelezatan tempong dengan empat varian pilihan: ayam, lele, telur, dan empela ati. Setiap tempong disajikan dengan bumbu khas yang menggugah selera, cocok untuk menemani waktu bersantai Anda ",
+            price: "Rp11.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727005674/tempong_ojwiwu.jpg",
+          },
+          {
+            name: "Es Capcin",
+            deskripsi:
+              "Dikenal karena kesegaran dan manisnya, es capcin menjadi pilihan sempurna untuk menghilangkan dahaga di hari yang panas",
+            price: "Rp6.000/10.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727005671/es_capcin_la5mjk.jpg",
+          },
+          {
+            name: "Tahu Petis",
+            deskripsi:
+              "Tahu petis adalah camilan yang terbuat dari tahu yang digoreng renyah, disajikan dengan petis yang gurih dan pedas. Dengan tekstur yang crispy dan rasa yang kaya, tahu petis menjadi pilihan yang sempurna untuk menemani waktu santai Anda",
+            price: "Rp8.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727005668/tahu_petis_irvobf.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.308476673726!2d114.3812312763604!3d-8.171645163690089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1458da719d385%3A0x106e9c95d1ec5c03!2sSONAS%20KLATAK%20RAYA!5e0!3m2!1sid!2sid!4v1727006727056!5m2!1sid!2sid",
+      footer: {
+        noHp: "0887861697039",
+        alamat:
+          "Perumahan Sonas Klatak Raya Block.1718, Desa/Kelurahan Klatak, Kec. Kalipuro, Kab. Banyuwangi",
+      },
+    },
+    "dawet-kendil-bubur-sumsum": {
+      title: "Dawet Kendil Bubur Sumsum",
+      icon: null,
+      navbarTitle: "Dawet Kendil Bubur Sumsum",
+      ctaLink: "https://wa.me/6283135951943",
+        keyword: [
+          "Dawet Kendil Bubur Sumbum",
+          "Es Dawet Khas dengan Bubur Sumsum",
+          "Dawet Gula, Santan, Cendol, dan Bubur Sumsum",
+          "Es Dawet Tradisional dengan Tape Ketan Hijau",
+          "Es Dawet Segar dengan Mutiara dan Cendol Hijau",
+          "Menu Es Dawet Komplit Gula Aren dan Bubur Sumsum",
+          "Es Dawet Kendil dengan Santan dan Es Batu Segar",
+          "UMKM Minuman Segar Tradisional Dawet Kendil",
+          "Es Dawet Bubur Sumsum Banyuwangi",
+          "Es Dawet Kendil Bubur Sumsum Tradisional",
+          "Es Dawet Kendil Sumsum Tradisional",
+          "Dawet Bubur Sumsum dan Cendol Hijau",
+          "Minuman Segar Dawet Kendil Bubur Sumbum",
+          "Es Dawet Khas dengan Tape Ketan dan Mutiara",
+          "Dawet Kendil dengan Gula Aren dan Santan Segar",
+          "Es Dawet Komplit dengan Bubur Sumsum dan Cendol",
+          "Minuman Dawet Kendil Segar dengan Es Batu",
+          "Dawet Kendil Bubur Sumsum Cendol Hijau dan Tape",
+          "Es Dawet Kendil Komplit Khas Jawa",
+          "UMKM Dawet Kendil Bubur Sumsum Terbaik",
+        ],
+      
+      color: {
+        primary: "bg-[#03A64A]",
+        secondary: "bg-[#beb177]",
+        backgroundColor: "bg-[#f9fcfb]",
+        hoverColor: "hover:bg-[#007f37]",
+        textColor: "text-[#010010]",
+        btnTextColor: "text-[#ffffff]",
+        accentColor: "text-[#8C5B49]",
+      },
+
+      hero: {
+        tagLine: "Nikmatnya Dawet Kendil dengan Sentuhan Bubur Sumsum",
+        deskripsi:
+          "Nikmati kesegaran sejati dengan Dawet Kendil yang memadukan kelembutan bubur sumsum, manisnya gula aren, dan segarnya santan",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726322458/rombong_depan_qiv7yz.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kehangatan Tradisi dalam Setiap Porsi",
+        deskripsi:
+          "Dari bubur sumsum lembut dalam kendil hingga dawet segar dalam mangkok dan kemasan, setiap sajian kami menghubungkan kamu dengan kehangatan dan kekayaan rasa warisan nenek moyang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726322453/rombong_belakang_ltpwec.jpg",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Bubur Sumsum dalam Kendil",
+            deskripsi:
+              "Bubur sumsum yang telah matang dan disimpan dalam kendil ini memberikan rasa yang autentik dan tradisional",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726322440/sumsum_psfxry.jpg",
+          },
+          {
+            name: "Es Dawet dalam Mangkok",
+            deskripsi:
+              "Dawet hijau segar yang tersaji cantik dalam mangkok, dilengkapi dengan gula aren, santan, dan es batu. Kenikmatan tradisional yang menyegarkan setiap tegukan, dengan cendol kenyal, mutiara, dan tape ketan hijau yang berpadu dalam harmoni sempurna.",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726322428/dawet_wadah_mankok_xlznt8.jpg",
+          },
+          {
+            name: "Es Dawet dalam Gelas Plastik",
+            deskripsi:
+              "Praktis dan menyegarkan! Dawet hijau dengan sentuhan bubur sumsum dan mutiara dalam gelas plastik siap minum, cocok untuk dinikmati kapan pun",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726322434/dawet_wadah_gelas_hr4ogp.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d246.80329366708872!2d114.37574821163801!3d-8.21756487206192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1726323433275!5m2!1sid!2sid",
+      footer: {
+        noHp: "0883135951943",
+        alamat:
+          "JL. IKAN SADAR GG.DEPO, Desa/Kelurahan Karangrejo, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "gadis-using": {
+      title: "Gadis Using",
+      icon: null,
+      navbarTitle: "Gadis Using",
+      ctaLink: null,
+        keyword: [
+          "Memori diperbarui",
+          "Berikut beberapa keyword pencarian untuk website landing page UMKM Gadis Using dengan produk peyek kacang tanah, peyek teri, peyek kacang hijau, peyek geragho, keripik pisang, dan minuman temulawak di daerah Banyuwangi:",
+          "",
+          "Peyek Khas Banyuwangi Gadis Using",
+          "Peyek Kacang Tanah Renyah Gadis Using",
+          "Peyek Teri Lezat Gadis Using Banyuwangi",
+          "Peyek Geragho Khas Gadis Using",
+          "Keripik Pisang Asli Banyuwangi Gadis Using",
+          "Minuman Temulawak Sehat Gadis Using Banyuwangi",
+          "Peyek Tradisional Banyuwangi Gadis Using",
+          "Camilan Renyah Peyek dan Keripik Pisang Gadis Using",
+          "Minuman Herbal Temulawak Gadis Using Banyuwangi",
+          "Oleh-Oleh Khas Banyuwangi Peyek dan Temulawak Gadis Using",
+        ],
+      
+      color: {
+        primary: "bg-[#BF1B28]",
+        secondary: "bg-[#F2C230]",
+        backgroundColor: "bg-[#fbf2f3]",
+        hoverColor: "hover:bg-[#a4242e]",
+        textColor: "text-[#010010]",
+        btnTextColor: "text-[#ffffff]",
+        accentColor: "text-[#ee5663]",
+      },
+
+      hero: {
+        tagLine:
+          "Rasakan Sensasi Kriuk Peyek dan Kesegaran Temulawak dari Gadis Using",
+        deskripsi:
+          "Di Gadis Using, nikmati renyahnya peyek dan kesegaran minuman temulawak khas Banyuwangi, semuanya dibuat dengan bahan berkualitas dan cita rasa tradisional",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442928/gadis_using_bu_ukir_logo_ulhska.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kualitas dan Rasa Otentik dari Banyuwangi",
+        deskripsi:
+          "Di Gadis Using, kami berkomitmen untuk menjaga kualitas dan rasa otentik dalam setiap produk kami. Menggunakan bahan-bahan pilihan dan resep tradisional yang diwariskan turun-temurun, kami menghadirkan camilan dan minuman yang mencerminkan kekayaan cita rasa khas Banyuwangi. Dari peyek yang renyah hingga minuman temulawak yang menyegarkan, setiap produk dibuat dengan dedikasi untuk memberikan pengalaman kuliner yang tak terlupakan",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442928/gadis_using_bu_ukir_logo_ulhska.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Peyek Kacang Tanah",
+            deskripsi:
+              "Peyek kacang tanah dari Gadis Using dibuat dari adonan tepung beras yang gurih, dengan kacang tanah yang renyah di setiap gigitan. Camilan tradisional ini cocok dinikmati sebagai teman makan atau camilan sehari-hari",
+            price: "Rp10.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442927/kacang_tanah_fxrcpd.jpg",
+          },
+          {
+            name: "Peyek Teri",
+            deskripsi:
+              "Peyek teri kami menawarkan perpaduan sempurna antara renyahnya adonan peyek dan gurihnya ikan teri. Setiap lembar peyek memberikan cita rasa tradisional yang kaya dan khas Banyuwangi",
+            price: "Rp10.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442928/peyek_teri_cygre6.jpg",
+          },
+          {
+            name: "Temulawak",
+            deskripsi:
+              "Minuman temulawak khas Gadis Using dikenal segar dan menyehatkan, dibuat dari bahan-bahan alami yang dipercaya mampu meningkatkan daya tahan tubuh. Rasanya yang unik dan khas menjadikannya pilihan minuman herbal yang nikmat kapan saja",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442927/temulawak_bfrq5r.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15796.079799725823!2d114.29574919039001!3d-8.200743941574675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14f94384eaa69%3A0xf0714f9e99213ee5!2sDusun%20Krajan%2C%20Kemiren%2C%20Kec.%20Glagah%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727505017296!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat:
+          "Dusun Krajan, Desa/Kelurahan Kemiren, Kec. Glagah, Kab. Banyuwangi",
+      },
+    },
+    "kedai88": {
+      title: "Kedai88",
+      icon: null,
+      navbarTitle: "Kedai88",
+      ctaLink: "https://wa.me/6282143978758",
+        keyword: [
+          "Es Lumut Segar Kedai88",
+          "Donat Messes Coklat Kedai88",
+          "Minuman Segar Es Lumut Banyuwangi",
+          "Jual Donat Messes Coklat Enak Kedai88",
+          "Kedai88 Es Lumut dan Donat Coklat",
+          "Es Lumut Segar dan Donat Coklat Kedai88",
+          "Es Lumut Kekinian dari Kedai88",
+          "Camilan Donat Messes Coklat Kedai88",
+          "Es Lumut Manis dan Segar Kedai88",
+          "Pesan Es Lumut dan Donat Messes Coklat Kedai88",
+          "Kedai88 Donat Coklat dan Minuman Segar",
+          "Camilan Lezat Donat Coklat dan Es Lumut Kedai88",
+          "Donat Messes Coklat Lembut Kedai88",
+          "Es Lumut Viral Kedai88",
+          "Minuman dan Donat Segar di Kedai88",
+        ],
+        color: {
+          primary: "bg-[#5F7340]",
+          secondary: "bg-[#ACBF8F]",
+          backgroundColor: "bg-[#f9faf7]",
+          hoverColor: "hover:bg-[#516335]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#734E39]",
+        },
+
+      hero: {
+        tagLine: "Segarnya Es Lumut, Lezatnya Donat Coklat di Kedai88",
+        deskripsi:
+          "Kedai88 menghadirkan perpaduan sempurna antara kesegaran es lumut yang menyegarkan dan donat coklat yang manis serta lembut",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726823210/logo_ccjz1g.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kreasi Rasa, Kesegaran yang Tak Terlupakan",
+        deskripsi:
+          "Di Kedai88, kami berkomitmen untuk menyajikan kreasi rasa yang unik dan menyegarkan. Dari es lumut yang memanjakan dahaga hingga donat lembut dengan taburan coklat, setiap produk kami dibuat dengan bahan berkualitas",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726823210/logo_ccjz1g.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Es Lumut",
+            deskripsi:
+              "Minuman segar dengan tampilan unik, Es Lumut memadukan rasa manis dan kesegaran yang pas. Cocok untuk dinikmati di hari panas",
+            price: "Rp7.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726823194/es_lumut_otz3ed.jpg",
+          },
+          {
+            name: "Adonan Donat",
+            deskripsi:
+              "Adonan donat yang telah dibentuk bulat-bulat ini lembut dan kenyal, siap untuk digoreng hingga sempurna",
+            price: "Rp3.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726823882/adonan_donat_tgoifw.jpg",
+          },
+          {
+            name: "Donat Messes Coklat",
+            deskripsi:
+              "Donat lembut yang dilapisi dengan taburan messes coklat melimpah, memberikan perpaduan sempurna antara tekstur empuk dan rasa manis",
+            price: "Rp3.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726823196/donat_woxrix.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.27326791584!2d114.37234967381227!3d-8.175201581940389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd145aea3b8aedf%3A0x1741c73f21761fb6!2sGg.%20Flamboyan%2C%20Klatak%2C%20Kec.%20Kalipuro%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068421!5e0!3m2!1sid!2sid!4v1726825042254!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882143978758",
+        alamat:
+          "JL. DENPASAR LINGK.KLATAKAN, Desa/Kelurahan Klatak, Kec. Kalipuro, Kab. Banyuwangi",
+      },
+    },
+    "kue-basah-bu-slamet": {
+      title: "Kue Basah Bu Slamet",
+      icon: null,
+      navbarTitle: "Kue Basah Bu Slamet",
+      ctaLink: "https://wa.me/6285222510545",
+        keyword: [
+          "Kue Putri Mandi Bu Slamet",
+          "Wingko Buatan Bu Slamet",
+          "Kue Lapis Tradisional Bu Slamet",
+          "Kue Basah Bu Slamet",
+          "Jual Kue Putri Mandi Banyuwangi",
+          "Wingko Asli Banyuwangi",
+          "Kue Lapis Buatan Rumah Bu Slamet",
+          "Pusat Kue Basah Bu Slamet",
+          "Wingko dan Kue Putri Mandi Tradisional",
+          "Kue Lapis Enak Bu Slamet",
+          "Kue Basah Tradisional Bu Slamet",
+          "Jual Wingko, Putri Mandi, Lapis Banyuwangi",
+          "Kue Tradisional Bu Slamet Banyuwangi",
+          "Pesan Kue Basah Bu Slamet Online",
+          "Kue Putri Mandi, Wingko, dan Lapis Bu Slamet",
+        ],
+        color: {
+          primary: "bg-[#078C41]",
+          secondary: "bg-[#BDF26D]",
+          backgroundColor: "bg-[#edfef5]",
+          hoverColor: "hover:bg-[#056b31]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#8348f1]",
+        },
+
+      hero: {
+        tagLine: "Manisnya Tradisi, Lezatnya Kue Basah dari Dapur Bu Slamet",
+        deskripsi:
+          "Setiap gigitan menyuguhkan rasa otentik yang tak terlupakan, sempurna untuk menemani momen istimewa atau camilan sehari-hari",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726484871/logo_zzoibi.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dari Dapur Kecil, untuk Cita Rasa yang Besar",
+        deskripsi:
+          "Bu Slamet memulai usaha ini dengan kesederhanaan, namun dengan tekad besar untuk menghadirkan cita rasa terbaik. Setiap kue yang dibuat mencerminkan dedikasi terhadap kualitas dan keaslian rasa tradisional. Dari dapur kecil kami, kami menyajikan kue-kue yang penuh kelezatan, siap memanjakan lidah Anda dengan kenikmatan yang tak terlupakan",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726484871/logo_zzoibi.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Putri Mandi",
+            deskripsi:
+              "Kue berbentuk segitiga dengan kulit berwarna putih lembut dan isian ungu yang manis legit",
+            price: "Rp1.500",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726484881/putri_mandi_m1tdgg.jpg",
+          },
+          {
+            name: "Wingko",
+            deskripsi:
+              "Wingko yang dipanggang dalam oven, menghasilkan tekstur luar yang renyah namun tetap lembut di dalam",
+            price: "Rp1.500",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726484880/wingko2_dmgeyn.jpg",
+          },
+          {
+            name: "Lapis Hijau",
+            deskripsi:
+              "Kue lapis tradisional dengan lapisan hijau yang lembut dan kenyal, terbuat dari tepung beras dan santan dengan aroma pandan yang harum",
+            price: "Rp1.500",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726484886/lapis_jxlgdq.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d293.503610740035!2d114.37027669814589!3d-8.212997475146565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452fdf4b9c7d%3A0x2ca999baa6cffa5d!2sJl.%20Serayu%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068415!5e0!3m2!1sid!2sid!4v1726486542137!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885222510545",
+        alamat:
+          "JL. SERAYU, Desa/Kelurahan Panderejo, Kec. Banyuwangi, Kab. Banyuwang",
+      },
+    },
+    "kue-pia-luwih": {
+      title: "Kue Pia Luwih",
+      icon: null,
+      navbarTitle: "Kue Pia Luwih",
+      ctaLink: "https://wa.me/6285607154612",
+        keyword: [
+          "Kue Pia Luwih – Pia Tape & Kacang Hijau Terlezat",
+          "Jual Kue Pia Tape dan Kacang Hijau – Kue Pia Luwih",
+          "Pia Tape dan Kacang Hijau – Produk Spesial Kue Pia Luwih",
+          "Kue Pia Luwih – Pia Tape & Kacang Hijau Asli Banyuwangi",
+          "Pia Kacang Hijau & Tape – Kue Pia Luwih UMKM Lokal",
+          "UMKM Pia Tradisional – Kue Pia Luwih",
+          "Kue Pia Tape dan Kacang Hijau – Pia Khas dari Kue Pia Luwih",
+          "Pia Luwih – Kue Pia Tradisional Tape & Kacang Hijau",
+          "Kue Pia Banyuwangi – Kue Pia Tape & Kacang Hijau Khas Luwih",
+          "Kue Pia Luwih – UMKM Pia Tape dan Kacang Hijau",
+        ],
+        color: {
+          primary: "bg-[#c92525]",
+          secondary: "bg-[#e68181]",
+          backgroundColor: "bg-[#f9f1f1]",
+          hoverColor: "hover:bg-[#a31414]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#eb5c5c]",
+        },
+
+      hero: {
+        tagLine: "Kelezatan Kue Pia Tape & Kacang Hijau dalam Satu Gigitan",
+        deskripsi:
+          "Kue pia kami cocok dinikmati kapan saja, baik sebagai teman minum teh di sore hari, camilan saat bersantai, atau oleh-oleh khas yang memikat hati",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726225064/pelaku_umkm_ln8ptj.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Cita Rasa Otentik, Kualitas Terjamin",
+        deskripsi:
+          "Di Kue Pia Luwih, kami berkomitmen untuk menjaga keaslian rasa tradisional dalam setiap produk yang kami buat. Dengan bahan-bahan pilihan dan proses pembuatan yang teliti, kami memastikan setiap kue pia memiliki cita rasa otentik dan kualitas terbaik. Nikmati kelezatan yang selalu konsisten dan tak pernah mengecewakan",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726223012/logo_lyvvi9.jpg",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Kue Pia Tape",
+            deskripsi:
+              "Dibuat dari tape pilihan, Kue Pia Tape menawarkan sensasi rasa unik yang bikin ketagihan di setiap gigitan",
+            price: "Rp1.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726223025/pia_tape_fuhyb8.jpg",
+          },
+          {
+            name: "Kue Pia Kacang Hijau",
+            deskripsi:
+              "Kue Pia Kacang Hijau menghadirkan sensasi kulit pia yang renyah dengan isian kacang hijau yang lembut dan manis",
+            price: "Rp1.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726223022/pia_kacang_hijau_qvb53b.jpg",
+          },
+          {
+            name: "Kue Pia Tape dan Kacang Hijau",
+            deskripsi:
+              "Kue Pia Tape dan Kacang Hijau adalah kombinasi istimewa dari kulit pia yang renyah dengan isian tape manis dan kacang hijau yang lembut",
+            price: "Rp1.000",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726223023/pia_kacang_hijau_dan_tape_xrggg6.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d246.80473409581415!2d114.37339754967788!3d-8.21524901638229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1726224311338!5m2!1sid!2sid",
+      footer: {
+        noHp: "0885607154612",
+        alamat:
+          "JL. KH. ASYARI NO.07, Desa/Kelurahan Tukangkayu, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "pukis-barokah": {
+      title: "Pukis Barokah",
+      icon: null,
+      navbarTitle: "Pukis Barokah",
+      ctaLink: null,
+        keyword: [
+          "Pukis Barokah Tradisional",
+          "Pukis Barokah Kue Lezat",
+          "Pukis Empuk Pukis Barokah",
+          "Kue Pukis Barokah Asli",
+          "Pukis Barokah Enak dan Lembut",
+          "Aneka Pukis di Pukis Barokah",
+          "Pukis Barokah Khas Tradisi Lokal",
+          "Resep Pukis Lembut Pukis Barokah",
+          "Pukis Original dan Topping di Pukis Barokah",
+          "Kue Pukis Pilihan Terbaik Pukis Barokah",
+        ],
+        color: {
+          primary: "bg-[#733E1F]",
+          secondary: "bg-[#F2B66D]",
+          backgroundColor: "bg-[#fcfbfa]",
+          hoverColor: "hover:bg-[#592f17]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#733E1F]",
+        },
+
+      hero: {
+        tagLine: "Setiap Pukis, Sebuah Kelezatan yang Tak Terlupakan",
+        deskripsi:
+          "Di Pukis Barokah, kami menghadirkan kue pukis yang lembut dan gurih dengan cita rasa autentik yang selalu menggoda selera",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442444/logo_pukis_barokah_bu_ernina_rhiz3v.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Komitmen pada Kualitas, Kelezatan di Setiap Pukis",
+        deskripsi:
+          "Di Pukis Barokah, kami selalu mengutamakan kualitas dalam setiap pukis yang kami buat. Dengan bahan-bahan terbaik dan proses yang hati-hati, kami menghadirkan pukis yang empuk dan lezat di setiap gigitan. Kelezatan yang bisa dinikmati kapan saja, selalu dengan rasa yang konsisten dan memuaskan",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442444/logo_pukis_barokah_bu_ernina_rhiz3v.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Pukis",
+            deskripsi:
+              "Tersedia dalam topping coklat, menawarkan sensasi kelezatan pukis yang berbeda namun tetap autentik",
+            price: "Rp1.500",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442446/pukis_barokah_zubt8n.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7895.770713032597!2d114.27119902317301!3d-8.314190177473915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd156d14badfd0f%3A0x7c6e5e9779733beb!2sKabelan%20Kidul%2C%20Lemahbangdewo%2C%20Kec.%20Rogojampi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727443110306!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "DUSUN KEBALEN KIDUL, Desa/Kelurahan Lemahbangdewo, Kec. Rogojampi",
+      },
+    },
+    "seroja": {
+      title: "Seroja",
+      icon: null,
+      navbarTitle: "Seroja",
+      ctaLink: "https://wa.me/6283139758427",
+        keyword: [
+          "Seroja – Kue Bolu Mini Kering Lezat dan Renyah",
+          "Kue Bolu Mini Kering Seroja – Camilan Sempurna untuk Segala Suasana",
+          "Bolu Mini Kering Seroja – Kue Tradisional dengan Rasa Spesial",
+          "Jual Kue Bolu Mini Kering Seroja – Camilan Ringan yang Renyah",
+          "Kue Bolu Mini Kering Seroja – Produk UMKM Berkualitas",
+          "Kue Bolu Mini Kering Renyah – Seroja Bakery",
+          "Seroja – Bolu Mini Kering Asli dan Lezat",
+          "UMKM Seroja – Kue Bolu Mini Kering Tradisional",
+          "Bolu Mini Kering Khas Seroja – Camilan Enak Setiap Saat",
+          "Kue Bolu Mini Kering dari Seroja – Kelezatan Kue Tradisional",
+          "Seroja – Kue Bolu Mini Kering Lezat dan Renyah",
+          "Kue Kering Bolu Mini – Produk Unggulan Seroja",
+          "Bolu Mini Kering Seroja – Camilan Manis dan Gurih",
+          "Kue Bolu Mini Kering – Camilan Praktis dari Seroja",
+          "Seroja – Kue Bolu Mini Kering Pilihan Terbaik",
+          "UMKM Seroja – Produksi Kue Bolu Mini Kering Berkualitas",
+          "Bolu Mini Kering Seroja – Oleh-Oleh Khas dengan Cita Rasa Unik",
+          "Kue Bolu Mini Kering Asli – Seroja UMKM Lokal",
+          "Seroja – Kue Kering Bolu Mini untuk Segala Kesempatan",
+          "Kue Bolu Mini Kering – Kelezatan dalam Ukuran Mini dari Seroja",
+        ],
+        color: {
+          primary: "bg-[#734636]",
+          secondary: "bg-[#F2B872]",
+          backgroundColor: "bg-[#fdf9f7]",
+          hoverColor: "hover:bg-[#402617]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#734636]",
+        },
+
+      hero: {
+        tagLine: "Kecil dalam Ukuran, Besar dalam Rasa",
+        deskripsi:
+          "Kami menciptakan bolu mini kering yang meskipun berukuran kecil, memberikan kelezatan yang luar biasa di setiap gigitan",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726470041/seroja_bu_hariyani_gnk27d.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Renyah dan Lezat, Kue Bolu Mini Kering dari Seroja",
+        deskripsi:
+          "Dibuat dari bahan-bahan berkualitas, camilan ini cocok untuk dinikmati kapan saja, baik sebagai teman minum teh, camilan keluarga, maupun oleh-oleh khas",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726470041/seroja_bu_hariyani_gnk27d.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Bolu Mini Proses Cetak",
+            deskripsi:
+              "Bolu mini ini setelah adonan jadi, lalu dimasukkan kedalam cetakan kertas, setelah itu dihias di atasnya menggunakan pewarna coklat, menciptakan tampilan yang menarik dan unik",
+            price: "Rp70.000/Kg",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726470062/cetakan_uz58uy.jpg",
+          },
+          {
+            name: "Bolu Mini Proses Oven",
+            deskripsi:
+              "Setelah dicetak, bolu mini dipanggang dengan sempurna menggunakan oven. Proses ini memastikan tekstur renyah di luar dan lembut di dalam, dengan aroma khas bolu yang menggugah selera.",
+            price: "Rp70.000/Kg",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726470068/proses_dioven_i9xu5r.jpg",
+          },
+          {
+            name: "Bolu Mini Kering ",
+            deskripsi:
+              "Setelah proses oven selesai, bolu mini kering dikemas rapi dalam plastik yang higienis. Kemasan ini menjaga kelezatan dan kerenyahan bolu tetap terjaga, sekaligus praktis untuk dijadikan oleh-oleh atau camilan harian.",
+            price: "Rp70.000/Kg",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1726470054/hasil_y0z4cu.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.8961437831376!2d114.36645436853661!3d-8.213198764304654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452fc9c44b11%3A0x5b4d98783f684327!2sJl.%20Serayu%20No.2%2C%20Panderejo%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068415!5e0!3m2!1sid!2sid!4v1726469471067!5m2!1sid!2sid",
+      footer: {
+        noHp: "0883139758427",
+        alamat:
+          "JL. SERAYU NO.02, Desa/Kelurahan Panderejo, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "yuli-cake": {
+      title: "Yuli Cake",
+      icon: null,
+      navbarTitle: "Yuli Cake",
+      ctaLink: "https://wa.me/6282233142060",
+        keyword: [
+          "Pie Selai Nanas Yuli Cake",
+          "Pie Selai Coklat Yuli Cake",
+          "Pie Selai Strawberry Yuli Cake",
+          "Donat Messes Coklat Yuli Cake",
+          "Pie Nanas, Coklat, dan Strawberry di Yuli Cake",
+          "Jual Pie Nanas Yuli Cake",
+          "Kue Pie Selai Coklat Enak Yuli Cake",
+          "Pie Buah Strawberry dan Nanas Yuli Cake",
+          "Donat Coklat Messes Lembut Yuli Cake",
+          "Pesan Pie dan Donat Messes Coklat Yuli Cake",
+          "Pie Coklat dan Nanas Yuli Cake, Lezat dan Lembut",
+          "Pie Selai Strawberry Segar Yuli Cake",
+          "Kue Pie Isi Nanas dan Coklat Yuli Cake",
+          "Donat Messes Coklat Yuli Cake, Lembut dan Manis",
+          "Pie Nanas, Coklat, Strawberry dan Donat Coklat di Yuli Cake",
+        ],
+        color: {
+          primary: "bg-[#9F7E6A]",
+          secondary: "bg-[#F2CB57]",
+          backgroundColor: "bg-[#fbf9f8]",
+          hoverColor: "hover:bg-[#826756]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#9F7E6A]",
+        },
+
+      hero: {
+        tagLine: "Yuli Cake: Perpaduan Manis Pie dan Donat yang Menggoda Selera",
+        deskripsi:
+          "Setiap gigitan menghadirkan rasa yang lezat dan memanjakan lidah, sempurna untuk camilan atau hidangan istimewa",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727003262/pelaku_umkm_rhrbne.jpg",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dedikasi untuk Setiap Rasa Manis dan Kualitas Terbaik",
+        deskripsi:
+          "Di Yuli Cake, setiap produk dibuat dengan sepenuh hati untuk menghadirkan rasa manis yang sempurna. Kami selalu mengutamakan kualitas bahan dan detail dalam proses pembuatan, sehingga setiap kue pie dan donat kami memberikan kenikmatan yang tak terlupakan. Komitmen kami adalah memastikan Anda mendapatkan kue terbaik untuk setiap momen spesial",
+        img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727003258/logo_tl42cb.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Pie Selai Nanas",
+            deskripsi:
+              "Pie dengan isian selai nanas segar yang manis dan sedikit asam, dipadukan dengan kulit pie renyah yang lembut. Setiap potongan memberikan rasa yang seimbang, sempurna untuk menemani waktu santai Anda",
+            price: "Rp2.500/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727003260/pie_nanas_b57za5.jpg",
+          },
+          {
+            name: "Pie Selai Coklat",
+            deskripsi:
+              "Pie dengan isian coklat yang lumer dan kaya rasa, terbungkus dalam kulit pie yang garing. Camilan yang sempurna untuk pecinta coklat, menghadirkan perpaduan tekstur dan rasa yang memuaskan",
+            price: "Rp2.500/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727003262/pie_coklat_kujnge.jpg",
+          },
+          {
+            name: "Donat Messes Coklat",
+            deskripsi:
+              "Donat lembut dengan taburan messes coklat yang melimpah. Setiap gigitan memberikan sensasi manis dan empuk yang tak terlupakan, cocok untuk dinikmati kapan saja",
+            price: "Rp2.000/pcs",
+            img: "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727003260/donat_w5se23.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.8749309309987!2d114.37071997381294!3d-8.215330882437053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452e824d41ad%3A0x37724ffaaafb7e05!2sGg.%20Jaya%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727003702882!5m2!1sid!2sid",
+      footer: {
+        noHp: "0882233142060",
+        alamat:
+          "JL. KH. ASYARI NO.07, Desa/Kelurahan Tukangkayu, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "dapur-mama-lutfi": {
+      title: "Dapur Mama Lutfi",
+      icon: null,
+      navbarTitle: "Dapur Mama Lutfi",
+      ctaLink: "https://wa.me/082131019843",
+        keyword: [
+          "Nasi Geprek Enak",
+          "Nasi Geprek Terbaik",
+          "Nasi Geprek Pedas",
+          "Nasi Geprek Menu",
+          "Nasi Geprek Delivery",
+          "Nasi Geprek Harga Murah",
+          "Nasi Geprek Khas [Nama Kota/Daerah]",
+          "Nasi Geprek Promo",
+          "Nasi Geprek Porsi Besar",
+          "Nasi Geprek Terdekat",
+        ],
+        color: {
+          primary: "bg-[#BF1111]",
+          secondary: "bg-[#D98282]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#D95252]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#D95252]",
+        },
+
+      hero: {
+        tagLine: "Nasi Geprek Pedas yang Bikin Ketagihan!",
+        deskripsi:
+          "Kami menyajikan hidangan nasi geprek dengan cita rasa pedas yang menggugah selera. Setiap suapan menawarkan kombinasi sempurna antara nasi pulen, ayam goreng crispy, dan sambal pedas khas yang akan memanjakan lidah Anda. Cocok untuk semua pencinta makanan pedas, menu kami diolah dengan bahan berkualitas dan resep rahasia yang membuat setiap hidangan terasa istimewa.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727537180/logo_geprek_mc7z3m.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menjaga Kualitas, Menyajikan Kebahagiaan!",
+        deskripsi:
+          "Dengan komitmen untuk menjaga kualitas bahan baku terbaik, kami menyajikan Nasi Geprek yang tidak hanya menggugah selera, tetapi juga memberikan kebahagiaan di setiap suapan. Dari proses pengolahan yang teliti hingga cita rasa yang autentik. Bergabunglah dengan kami dan rasakan kebahagiaan yang kami sajikan dalam setiap piring!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727537180/logo_geprek_mc7z3m.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Nasi Geprek",
+            deskripsi:
+              'Nasi Geprek adalah hidangan khas Indonesia yang menggabungkan nasi pulen dengan ayam goreng crispy yang disajikan dengan sambal pedas. Proses penyajian uniknya melibatkan "menggeprek" atau menghancurkan ayam di atas nasi, sehingga semua rasa bercampur sempurna. Nikmati sensasi pedas yang menggugah selera dan kelezatan yang membuat Anda ketagihan',
+            price: "Rp10.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727537177/nasi_geprek_neryxt.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7896.283448166367!2d114.24093957877774!3d-8.288691227107885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15167e899231b%3A0x5a901a5446a22185!2sWijenan%20Lor%2C%20Singolatren%2C%20Kec.%20Singojuruh%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727594081665!5m2!1sid!2sid",
+      footer: {
+        noHp: "082131019843",
+        alamat:
+          "Dusun Wijenan Lor RT/RW 001/002",
+      },
+    },
+    "es-degan-edi": {
+      title: "Es Degan Edi",
+      icon: null,
+      navbarTitle: "Es Degan Edi",
+      ctaLink: "https://wa.me/082131019843",
+        keyword: [
+          "Es Degan Segar",
+          "Minuman Es Degan",
+          "Es Kelapa Muda",
+          "Es Degan untuk Acara",
+          "Es Degan Alami",
+          "Resep Es Degan",
+          "Es Degan Murah",
+          "Es Degan Terbaik",
+          "Es Degan Klatak",
+          "Es Degan Promosi",
+          "Beli Es Degan Online",
+          "Es Degan untuk Berbagai Acara",
+          "Es Degan dan Manfaatnya",
+          "Tempat Jual Es Degan",
+          "Es Degan Terdekat",
+        ],
+        color: {
+          primary: "bg-[#2D7337]",
+          secondary: "bg-[#73A626]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#97BF3F]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#2D7337]",
+        },
+
+      hero: {
+        tagLine: "Segarkan Hari Anda dengan Es Kelapa Muda!",
+        deskripsi:
+          "Nikmati kesegaran yang tiada tara dengan Es Kelapa Muda kami! Terbuat dari kelapa segar pilihan, setiap gelas menawarkan kombinasi rasa manis alami dan tekstur lembut yang memanjakan lidah. Ideal untuk menghilangkan dahaga di hari panas atau sebagai teman santai Anda, Es Kelapa Muda kami siap memuaskan setiap momen.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535346/logo_es_degan_2_yqse2d.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menyegarkan Hari Anda, Satu Kelapa Muda di Setiap Gelas",
+        deskripsi:
+          "Dengan dedikasi pada kesegaran dan kualitas, kami menghadirkan Es Kelapa Muda terbaik untuk menyegarkan hari Anda. Setiap gelas dibuat dari kelapa muda pilihan yang dipetik langsung dari sumbernya, memastikan rasa alami dan kenikmatan di setiap tegukan.Segarkan hari Anda, satu kelapa muda dalam setiap gelas!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535346/logo_es_degan_2_yqse2d.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Es Kelapa Muda",
+            deskripsi:
+              "Es Kelapa Muda adalah minuman segar yang terbuat dari kelapa muda pilihan, disajikan dengan es batu untuk memberikan sensasi dingin yang menyegarkan.Sempurna untuk menghilangkan dahaga di hari yang panas atau sebagai pelengkap momen spesial. Rasakan kesegaran alami yang langsung dari alam dengan setiap gelasnya!",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727592343/es_kelapa_edi_axycwg.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15789.766103768692!2d114.18060038276408!3d-8.358152036919444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15500a282fb49%3A0x3782a217d1e05a2f!2sTemurejo%2C%20Kembiritan%2C%20Kec.%20Genteng%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727591547927!5m2!1sid!2sid",
+      footer: {
+        noHp: "083837721453",
+        alamat: "Dusun Temurejo Desa kembiritan Kecamatan Genteng",
+      },
+    },
+    "warung-panti-pandan": {
+      title: "Warung Panti Pandan",
+      icon: null,
+      navbarTitle: "Warung Panti Pandan",
+      ctaLink: "https://wa.me/0812342420463",
+        keyword: [
+          "Es Degan Segar",
+          "Minuman Es Degan",
+          "Es Kelapa Muda",
+          "Es Degan untuk Acara",
+          "Es Degan Alami",
+          "Resep Es Degan",
+          "Es Degan Murah",
+          "Es Degan Terbaik",
+          "Es Degan Klatak",
+          "Es Degan Promosi",
+          "Beli Es Degan Online",
+          "Es Degan untuk Berbagai Acara",
+          "Es Degan dan Manfaatnya",
+          "Tempat Jual Es Degan",
+          "Es Degan Terdekat",
+        ],
+        color: {
+          primary: "bg-[#84BF2A]",
+          secondary: "bg-[#D9A05B]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#B2D977]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#592B03]",
+        },
+
+      hero: {
+        tagLine: "Es Kelapa Muda: Cita Rasa Segar yang Tak Terlupakan!",
+        deskripsi:
+          "Es Kelapa Muda kami menghadirkan cita rasa segar yang tak terlupakan. Dengan kelapa muda pilihan yang dipetik langsung dari alam, setiap tegukan memberikan sensasi kesegaran alami dan manis yang menyatu sempurna.Rasakan kesegarannya dan biarkan kenikmatannya memanjakan lidah Anda!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535297/logo_es_kelapa_1_q4qfkn.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menghadirkan Kelezatan Kelapa Muda, Langsung dari Sumbernya",
+        deskripsi:
+          "Setiap kelapa dipilih dengan cermat untuk memastikan kesegaran dan kualitas terbaik, sehingga Anda dapat menikmati cita rasa alami yang otentik. Dengan perpaduan air kelapa yang manis dan daging buah yang lembut, Es Kelapa Muda kami menawarkan kesegaran yang menyejukkan dan penuh kenikmatan. Rasakan langsung kebaikan alam di setiap gelas!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535297/logo_es_kelapa_1_q4qfkn.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Es Kelapa Muda",
+            deskripsi:
+              "Es Kelapa Muda adalah minuman segar alami yang terbuat dari kelapa muda pilihan, dikenal dengan daging buahnya yang lembut dan air kelapa yang manis alami. Setiap gelas menawarkan kesegaran tropis yang menyegarkan, sempurna untuk menghilangkan dahaga dan memberikan energi di hari yang panas.",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535305/es_kelapa_1_axhzqb.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8248.310051641669!2d114.19349999436847!3d-8.373287624019735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15598a441aa21%3A0xa3d1dc988c41bd65!2sPandan%2C%20Kembiritan%2C%20Kec.%20Genteng%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727592730636!5m2!1sid!2sid",
+      footer: {
+        noHp: "0812342420463",
+        alamat: "Dusun Pandan RT 003 RW 004 Desa Kembiritan Kecamatan Genteng",
+      },
+    },
+    "gorengan-aan": {
+      title: "Gorengan Aan",
+      icon: null,
+      navbarTitle: "Gorengan Aan",
+      ctaLink: "https://wa.me/085230328383",
+        keyword: [
+          "Gorengan - Nama Usaha dan produk",
+          "Gorengan Terbaik - Kualitas produk",
+          "Gorengan Renyah dan Gurih - Deskripsi rasa",
+          "UMKM Gorengan Lokal - Branding sebagai UMKM lokal",
+          "Jual Gorengan Enak - Fokus pada cita rasa",
+          "Gorengan Tradisional Indonesia - Makanan khas lokal",
+          "Camilan Gorengan - Kata kunci umum untuk produk",
+          "Snack Gorengan Favorit - Pemosisian sebagai pilihan favorit",
+          "Pesan Gorengan Online - Layanan online",
+          "Gorengan untuk Acara - Target pasar untuk event",
+        ],
+        color: {
+          primary: "bg-[#8C0B0B]",
+          secondary: "bg-[#F28B50]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#F28B50]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#BF4949]",
+        },
+
+      hero: {
+        tagLine: "Nikmati Kriuknya, Rasakan Lezatnya",
+        deskripsi:
+          "Temukan sensasi gorengan yang renyah di luar dan lembut di dalam, dibuat dengan bahan-bahan berkualitas dan resep terbaik. Setiap gigitan memberikan perpaduan sempurna antara tekstur kriuk yang memuaskan dan rasa gurih yang menggoda. Cocok untuk dinikmati kapan saja, baik untuk camilan sehari-hari maupun acara spesial. Pesan sekarang dan rasakan sendiri kelezatannya!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727573671/logo_gorengan_k99zwo.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kriuknya Menggoda, Rasa yang Memikat",
+        deskripsi:
+          "Dengan resep tradisional dan bahan-bahan berkualitas, kami menyajikan gorengan yang tidak hanya renyah di luar, tetapi juga kaya rasa di dalam. Setiap gigitan membawa Anda pada perjalanan rasa yang menggugah selera. Kami berkomitmen untuk menghadirkan camilan yang menggoda dan memikat, menjadikan setiap momen istimewa lebih bermakna. Bergabunglah dengan kami untuk menikmati kelezatan yang akan membuat Anda kembali lagi!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727573671/logo_gorengan_k99zwo.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Bakwan Goreng",
+            deskripsi:
+              "Bakwan Goreng adalah camilan tradisional yang terbuat dari adonan sayuran segar, tepung, dan bumbu pilihan, kemudian digoreng hingga kecokelatan. Kriuknya yang renyah di luar dan lembut di dalam menjadikannya teman sempurna untuk bersantai atau sebagai lauk pendamping. Nikmati kelezatannya yang penuh rasa!",
+            price: "Rp1.000/Biji",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727573675/bakwan_tlgchp.jpg",
+          },
+          {
+            name: "Tahu Isi",
+            deskripsi:
+              "Tahu Isi adalah camilan lezat yang terdiri dari tahu berisi sayuran dan bumbu khas, digoreng hingga golden brown. Setiap gigitan memberikan kombinasi tekstur lembut dari tahu dan kerenyahan dari kulitnya. Cocok sebagai camilan atau hidangan pembuka yang memuaskan.",
+            price: "Rp1.000/Biji",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727573682/tahu_isi_xs7sje.jpg",
+          },
+          {
+            name: "Pisang Goreng",
+            deskripsi:
+              "Pisang Goreng adalah camilan manis yang terbuat dari pisang matang yang dibalut adonan tepung dan digoreng hingga kecokelatan. Dengan rasa manis alami dan tekstur renyah, pisang goreng ini menjadi favorit banyak orang. Sempurna untuk dinikmati sebagai camilan sore atau penutup yang menggugah selera!",
+            price: "Rp1.000/Biji",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727573685/pisang_goreng_u0nnww.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10613.328348895595!2d114.1999779526879!3d-8.361488149954967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd155b0485a9859%3A0x960265770a27a4b4!2sRimpis%2C%20Sumbersari%2C%20Kec.%20Srono%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727593443124!5m2!1sid!2sid",
+      footer: {
+        noHp: "085230328383",
+        alamat: "Dusun Rimpis Desa sumbersari Srono Rt 003 Rw 001",
+      },
+    },
+    "ketan-rahemah": {
+      title: "Ketan Rahemah",
+      icon: null,
+      navbarTitle: "Ketan Rahemah",
+      ctaLink: "https://wa.me/082234960893",
+        keyword: [
+          "Ketan Lezat - Spesialis Ketan Manis & Gurih",
+          "Usaha Ketan Lokal - Cita Rasa Tradisional",
+          "Ketan Premium - Olahan Ketan Terbaik",
+          "Varian Ketan Kekinian - Jajanan Favorit Semua Usia",
+          "Kuliner Ketan Nusantara - Rasa Autentik & Berkualitas",
+          "Inovasi Ketan Tradisional - Sajian Ketan Lezat dan Sehat",
+          "Jajanan Ketan Terlaris - Pesan Ketan Online",
+          "Usaha Ketan UMKM - Produk Halal dan Terpercaya",
+          "Ketan Manis & Asin - Solusi Jajanan Keluarga",
+          "Produk Ketan Lokal - UMKM Berkualitas",
+        ],
+        color: {
+          primary: "bg-[#F28E13]",
+          secondary: "bg-[#F2B263]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#F2B263]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#1D591B]",
+        },
+
+      hero: {
+        tagLine: "Nikmati Ketan, Cita Rasa yang Menginspirasi",
+        deskripsi:
+          " Kami mengolah ketan dengan resep tradisional yang dipadukan dengan sentuhan modern, menciptakan varian lezat yang cocok untuk setiap kesempatan. Dari ketan manis yang menggoda hingga ketan gurih yang memuaskan, setiap produk kami dihasilkan dengan bahan berkualitas dan cinta. Bergabunglah dengan kami untuk menikmati kelezatan ketan yang tak hanya memuaskan selera",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727577256/logo_ketan_1_tb2haq.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menyajikan Kelezatan Ketan dengan Cinta dan Tradisi",
+        deskripsi:
+          "Kami menyajikan kelezatan ketan yang terbuat dari resep autentik dan bahan berkualitas. Setiap hidangan kami diolah dengan cinta, menggabungkan tradisi yang kaya dengan cita rasa modern. Nikmati setiap gigitan ketan kami yang menggoda, dan rasakan pengalaman kuliner yang mempererat hubungan dan menciptakan kenangan indah.",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727577256/logo_ketan_1_tb2haq.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Ketan",
+            deskripsi:
+              "Ketan adalah makanan tradisional yang terbuat dari beras ketan, dikenal dengan teksturnya yang kenyal dan rasa yang lezat. Disetiap hidangan ketan menawarkan pengalaman rasa yang unik dan memikat. Cocok untuk dinikmati sebagai camilan atau hidangan penutup, ketan adalah pilihan sempurna untuk menambah kehangatan dalam setiap momen spesial.",
+            price: "Rp5.000/Porsi",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727524443/Ketan_bubuk_kedele_hf9sls.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7896.283448166367!2d114.24093957877774!3d-8.288691227107885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15167e899231b%3A0x5a901a5446a22185!2sWijenan%20Lor%2C%20Singolatren%2C%20Kec.%20Singojuruh%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727589123719!5m2!1sid!2sid",
+      footer: {
+        noHp: "082234960893",
+        alamat: "Singolatren Dsn Wijenan Lor RT/RW 002/001",
+      },
+    },
+    "warung-santai-bambu-asri": {
+      title: "Warung Santai Bambu Asri",
+      icon: null,
+      navbarTitle: "Warung Santai Bambu Asri",
+      ctaLink: "https://wa.me/085228521470",
+        keyword: [
+          "Nasi Campur Enak",
+          "Nasi Campur Terdekat",
+          "Nasi Campur Murah",
+          "Kuliner Nasi Campur",
+          "Warung Nasi Campur",
+          "Nasi Campur Spesial",
+          "Nasi Campur Tradisional",
+          "Nasi Campur Khas Indonesia",
+          "Nasi Campur Favorit",
+          "Menu Nasi Campur Lezat",
+          "Nasi Campur Halal",
+          "Usaha Nasi Campur UMKM",
+          "Warung Makan Nasi Campur",
+          "Restoran Nasi Campur",
+          "Nasi Campur Untuk Acara",
+          "Pesan Antar Nasi Campur",
+        ],
+        color: {
+          primary: "bg-[#8C2108]",
+          secondary: "bg-[#A65F37]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#A65F37]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#345936]",
+        },
+
+      hero: {
+        tagLine: "Nasi Campur Lezat, Harga Bersahabat!",
+        deskripsi:
+          "Kami menghadirkan Nasi Campur dengan cita rasa yang menggugah selera, paduan lauk-pauk pilihan yang lengkap dan lezat.Kami selalu menggunakan bahan-bahan segar dan berkualitas, sehingga setiap piring penuh dengan kehangatan dan rasa autentik. Sempurna untuk santap siang, makan malam, atau saat Anda butuh kelezatan yang cepat dan terjangkau.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523116/logo_nasi_campur_jwp1io.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Dimasak dengan Teliti, Dihidangkan dengan Sepenuh Hati",
+        deskripsi:
+          "Kami percaya bahwa setiap hidangan adalah bentuk perhatian. Itulah sebabnya kami selalu memastikan setiap proses memasak dilakukan dengan teliti, menggunakan bahan-bahan berkualitas terbaik. Setiap piring Nasi Campur yang kami hidangkan dengan penuh kehangatan untuk memberikan pengalaman makan yang tak terlupakan.",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523116/logo_nasi_campur_jwp1io.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Nasi Campur",
+            deskripsi:
+              "Nasi Campur adalah hidangan khas Indonesia yang terdiri dari nasi putih yang disajikan dengan berbagai lauk-pauk, seperti tempe, tahu, telur, sambal, dan mie. Setiap piring menawarkan perpaduan rasa manis, gurih, pedas, dan segar, menciptakan pengalaman kuliner yang kaya dan beragam.",
+            price: "Rp10.000/Porsi",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523384/Nasi_Campur_1_b5uhbc.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.7996351166057!2d114.15725817405712!3d-8.2228944825315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd14d44ee6218eb%3A0x27e94bfd7df10d37!2sPasar%20Sumber%20Arum%2C%20Sragi%20-%20Songgon!5e0!3m2!1sid!2sid!4v1727574578152!5m2!1sid!2sid",
+      footer: {
+        noHp: "085228521470",
+        alamat: "Songgon SumberArum, Dusun pasar",
+      },
+    },
+    "olahan-masakan-rohimah": {
+      title: "Olahan Masakan Rohimah",
+      icon: null,
+      navbarTitle: "Olahan Masakan Rohimah",
+      ctaLink: "https://wa.me/083827948363",
+        keyword: [
+          "Nasi Campur Enak",
+          "Nasi Campur Terdekat",
+          "Nasi Campur Murah",
+          "Kuliner Nasi Campur",
+          "Warung Nasi Campur",
+          "Nasi Campur Spesial",
+          "Nasi Campur Tradisional",
+          "Nasi Campur Khas Indonesia",
+          "Nasi Campur Favorit",
+          "Menu Nasi Campur Lezat",
+          "Nasi Campur Halal",
+          "Usaha Nasi Campur UMKM",
+          "Warung Makan Nasi Campur",
+          "Restoran Nasi Campur",
+          "Nasi Campur Untuk Acara",
+          "Pesan Antar Nasi Campur",
+        ],
+        color: {
+          primary: "bg-[#255941]",
+          secondary: "bg-[#B7BF75]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#B7BF75]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#F29D35]",
+        },
+
+      hero: {
+        tagLine: "Nasi Campur Spesial, Porsi Lezat untuk Anda!",
+        deskripsi:
+          "Kami menyajikan Nasi Campur Spesial dengan pilihan lauk-pauk terbaik yang siap memanjakan lidah Anda. Setiap porsinya diracik dengan perpaduan rasa yang pas, menghadirkan kelezatan yang melimpah di setiap suapan. Cocok untuk Anda yang mencari hidangan nikmat dengan porsi yang memuaskan, siap dinikmati kapan saja, untuk segala suasana.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523800/logo_nasi_campur_2_rvy57s.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menggabungkan Bahan Terbaik untuk Menghasilkan Rasa Terbaik",
+        deskripsi:
+          "Kami selalu memilih bahan-bahan berkualitas tinggi untuk memastikan setiap hidangan yang kami sajikan memiliki rasa yang autentik dan lezat.Mulai dari nasi hingga lauk pauk, diolah dengan hati-hati untuk menghadirkan rasa yang memuaskan. Dengan kombinasi bumbu khas dan bahan segar, kami memberikan pengalaman kuliner yang tak hanya memanjakan lidah, tapi juga meninggalkan kesan mendalam.",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523800/logo_nasi_campur_2_rvy57s.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Nasi Campur",
+            deskripsi:
+              "Nasi Campur adalah sajian khas Indonesia yang menyajikan nasi dengan berbagai lauk-pauk pendamping, seperti  telur, mie, tempe, sambal, dan kerupuk. Setiap porsinya menawarkan kombinasi rasa gurih, manis, pedas, dan segar, menciptakan harmoni rasa yang memanjakan lidah. Nasi Campur cocok dinikmati kapan saja",
+            price: "Rp10.000/Porsi",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727523803/Nasi_Campur_2_xmw7lw.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5371.00877544073!2d114.24849361818809!3d-8.287956581795232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15167e899231b%3A0x5a901a5446a22185!2sWijenan%20Lor%2C%20Singolatren%2C%20Kec.%20Singojuruh%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727575717813!5m2!1sid!2sid",
+      footer: {
+        noHp: "083827948363",
+        alamat: "Dusun Wijenan Lor",
+      },
+    },
+    "rujak-lontong": {
+      title: "Rujak Lontong",
+      icon: null,
+      navbarTitle: "Rujak Lontong",
+      ctaLink: "https://wa.me/083827948363",
+        keyword: [
+          "Rujak Lontong Enak",
+          "Rujak Lontong Terbaik",
+          "Resep Rujak Lontong",
+          "Rujak Lontong Sehat",
+          "Jajanan Tradisional Rujak Lontong",
+          "Rujak Lontong Murah",
+          "Rujak Lontong Pedas",
+          "Rujak Lontong untuk Catering",
+          "Rujak Lontong Delivery",
+          "Rujak Lontong Online",
+          "Tempat Makan Rujak Lontong",
+          "Rujak Lontong Segar",
+          "Rujak Lontong Spesial",
+          "Rujak Lontong Viral",
+        ],
+        color: {
+          primary: "bg-[#357309]",
+          secondary: "bg-[#BABF1F]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#BABF1F]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#F28F38]",
+        },
+
+      hero: {
+        tagLine:
+          "Rujak Lontong Spesial: Cita Rasa Tradisional yang Tak Terlupakan!",
+        deskripsi:
+          "Kami menyajikan rujak lontong yang terbuat dari bahan-bahan segar pilihan, dipadukan dengan bumbu khas yang menggugah selera.Dengan rasa pedas, manis, dan segar yang sempurna. Rujak Lontong Spesial adalah pilihan yang tepat. Bergabunglah dengan kami dan rasakan pengalaman kuliner yang tak terlupakan!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727574101/logo_rujak_a8ua1o.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Tradisi yang Tercipta, Rasa yang Tak Terlupakan!",
+        deskripsi:
+          "Di Rujak Lontong Spesial, kami percaya bahwa setiap hidangan adalah sebuah cerita. Setiap bahan yang kami gunakan dipilih dengan hati-hati, memastikan kualitas dan kesegaran yang terbaik. Dengan perpaduan rasa pedas, manis, dan asam, rujak lontong kami menawarkan pengalaman kuliner yang tak terlupakan. Bergabunglah bersama kami dan rasakan bagaimana tradisi dapat diciptakan dan dihidangkan dalam setiap suapan!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727574101/logo_rujak_a8ua1o.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Rujak Lontong",
+            deskripsi:
+              "Rujak lontong adalah jajanan tradisional Indonesia yang menggabungkan kesegaran lontong (nasi yang dikukus dalam daun) dengan bumbu rujak yang pedas, manis, dan asam. Disajikan dengan potongan sayuran segar,dan tambahan bumbu kacang, rujak lontong menawarkan perpaduan rasa yang menggugah selera. ",
+            price: "Rp10.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727574099/rujak_lontong_z5ew48.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12098.041855556303!2d114.19845517269121!3d-8.360558890690365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd155b0485a9859%3A0x960265770a27a4b4!2sRimpis%2C%20Sumbersari%2C%20Kec.%20Srono%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727594664419!5m2!1sid!2sid",
+      footer: {
+        noHp: null,
+        alamat: "Dusun Rimpis RT/RW 003/001 Sumbersari Srono",
+      },
+    },
+    "kedai-sambal-belut": {
+      title: "Kedai Sambal Belut",
+      icon: null,
+      navbarTitle: "Kedai Sambal Belut",
+      ctaLink: "https://wa.me/081287781634",
+        keyword: [
+          "Sambal Belut Original",
+          "Sambal Belut Enak",
+          "Sambal Belut Pedas",
+          "Sambal Belut Khas Daerah",
+          "Sambal Belut Terbaik",
+          "Sambal Belut untuk Resep",
+          "Jual Sambal Belut Online",
+          "Sambal Belut Buatan Sendiri",
+          "Sambal Belut Organik",
+          "Sambal Belut Fresh",
+          "Sambal Belut untuk Hidangan Sehari-hari",
+          "Sambal Belut dengan Bahan Alami",
+          "Sambal Belut Terjangkau",
+          "Resep Mengolah Sambal Belut",
+          "Sambal Belut Paling Populer",
+        ],
+        color: {
+          primary: "bg-[#730A0A]",
+          secondary: "bg-[#A61103]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#A61103]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#0D0D0D]",
+        },
+
+      hero: {
+        tagLine: "Nikmati Keunikan Sambal Belut, Cita Rasa yang Tak Terlupakan!",
+        deskripsi:
+          "Kami menghadirkan sambal belut yang terbuat dari bahan-bahan pilihan, memberikan rasa yang kaya dan autentik. Setiap sendok sambal kami adalah pengalaman tak terlupakan yang akan menggugah selera Anda. Cocok untuk semua hidangan, sambal belut kami siap menambah kelezatan setiap momen makan Anda.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727590403/logo_sambel-removebg-preview_dc0ixu.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Di Balik Sambal Belut: Cita Rasa Asli yang Terjaga!",
+        deskripsi:
+          "Di Balik Sambal Belut, kami berkomitmen untuk menjaga cita rasa asli sambal yang telah diwariskan turun-temurun. Setiap produk kami dibuat dengan hati-hati, menggabungkan belut segar dan bumbu pilihan yang diolah dengan teknik tradisional. Bergabunglah dengan kami untuk menikmati sambal yang tidak hanya lezat, tetapi juga kaya akan sejarah dan rasa!",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727590403/logo_sambel-removebg-preview_dc0ixu.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Sambal Belut",
+            deskripsi:
+              " Sambal Belut adalah sambal khas yang ditambah belut segar dan bumbu alami pilihan, memberikan rasa yang unik dan menggugah selera. Dengan tekstur yang lembut dan cita rasa yang kaya, sambal ini menjadi pelengkap sempurna untuk berbagai hidangan, mulai dari nasi hingga lauk pauk. Rasakan keunikan Sambal Belut dan jadikan setiap hidangan lebih istimewa!",
+            price: "Rp20.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727525476/sambal_belut_h09nwe.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11784.749629543985!2d114.18198901431751!3d-8.357662440515481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15500a282fb49%3A0x3782a217d1e05a2f!2sTemurejo%2C%20Kembiritan%2C%20Kec.%20Genteng%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727590180250!5m2!1sid!2sid",
+      footer: {
+        noHp: "081287781634",
+        alamat: "Dusun Temurejo RT 001 RW 006 Kembiritan Genteng",
+      },
+    },
+    "tempe-wahyudi": {
+      title: "Tempe Wahyudi",
+      icon: null,
+      navbarTitle: "Tempe Wahyudi",
+      ctaLink: "https://wa.me/082331582363",
+        keyword: [
+          "Tempe Organik",
+          "Tempe Kualitas Terbaik",
+          "Tempe Sehat dan Bergizi",
+          "Resep Tempe Lezat",
+          "Tempe Sumber Protein",
+          "Tempe untuk Diet Sehat",
+          "Pembelian Tempe Online",
+          "Tempe Segar dari UMKM",
+          "Tempe Tradisional",
+          "Sertifikasi Halal Tempe",
+          "Tempe untuk Makanan Sehat",
+          "Tempe Murah Berkualitas",
+          "Tempe Homemade",
+          "Varian Olahan Tempe",
+          "Cara Membuat Tempe Sendiri",
+        ],
+        color: {
+          primary: "bg-[#D9B88F]",
+          secondary: "bg-[#D9B88F]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#F2B544]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#43592D]",
+        },
+
+      hero: {
+        tagLine: "Dari Kedelai Terbaik, Tempe yang Menggugah Selera!",
+        deskripsi:
+          "Tempe diolah dari kedelai berkualitas tinggi yang dipilih dengan cermat. Kami berkomitmen untuk memberikan Anda tempe yang tidak hanya lezat tetapi juga bergizi. Dengan proses pembuatan yang tradisional dan penuh cinta, setiap gigitan tempe kami menawarkan cita rasa otentik yang menggugah selera",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727509669/logo_tempe_vakeq1.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Mengolah Kedelai Terbaik dengan Cinta dan Ketelitian",
+        deskripsi:
+          "Di usaha tempe kami, setiap langkah pembuatan dilakukan dengan cinta dan ketelitian. Kami memilih kedelai terbaik untuk memastikan kualitas dan rasa tempe yang optimal. Proses fermentasi kami dijaga secara cermat, menggabungkan tradisi dan inovasi untuk menciptakan tempe yang lezat dan bergizi",
+        img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727509669/logo_tempe_vakeq1.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Tempe",
+            deskripsi:
+              "Tempe adalah produk fermentasi kedelai yang kaya akan protein dan nutrisi. Dengan tekstur padat dan rasa yang khas, tempe sering digunakan sebagai alternatif daging dalam berbagai masakan. Tempe tidak hanya sehat, tetapi juga mudah diolah, menjadikannya pilihan sempurna untuk hidangan lezat dan bergizi",
+            price: "Rp5.000",
+            img: "https://res.cloudinary.com/dm43j5fur/image/upload/v1727509671/produk_tempe_lwhcu0.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15789.33767613489!2d114.14335098276713!3d-8.368726737331855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1553045436d1d%3A0xb17ec43066e6da6f!2sDusun%20Sawahan%2C%20Genteng%20Kulon%2C%20Kec.%20Genteng%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727509433871!5m2!1sid!2sid",
+      footer: {
+        noHp: "082331582363",
+        alamat: "Dusun Sawahan Desa Genteng Kulon, kec. Genteng",
+      },
+    },
   };
   
   export default dataWildan;
