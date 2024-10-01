@@ -1987,6 +1987,442 @@ const dataWildan = {
         alamat: "Dusun Sawahan Desa Genteng Kulon, kec. Genteng",
       },
     },
+    "di-khitchen": {
+      title: "Di Khitchen",
+      icon: null,
+      navbarTitle: "Di Khitchen",
+      ctaLink: "https://wa.me/082126241255",
+        keyword: [
+          "Bakpia khas Yogyakarta",
+          "Oleh-oleh bakpia premium",
+          "Bakpia rasa original dan kekinian",
+          "Jual bakpia online",
+          "Bakpia enak dan renyah",
+          "Bakpia isi kacang hijau, keju, coklat",
+          "Resep bakpia tradisional Yogyakarta",
+          "Bakpia terlaris oleh-oleh wisata",
+          "Pemesanan bakpia online gratis ongkir",
+          "Bakpia homemade kualitas premium",
+        ],
+        color: {
+          primary: "bg-[#F87171]",
+          secondary: "bg-[#FD7382]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#ef4444]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#F25E5E]",
+        },
+
+      hero: {
+        tagLine: "Bakpia Spesial, Rasa yang Melekat di Hati",
+        deskripsi:
+          "Kelezatan bakpia yang tak terlupakan. Setiap gigitan menghadirkan pengalaman manis dan hangat, menjadikannya oleh-oleh istimewa yang penuh cinta. Rasakan cita rasa yang akan selalu dikenang dan dibagikan dengan orang terkasih!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727421148/LOGO_BAKPIA_rv8jex.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasakan Keunikan Bakpia, Sejak Gigitan Pertama",
+        deskripsi:
+          "Kelezatan bakpia yang tak terlupakan. Setiap gigitan menghadirkan pengalaman manis dan hangat, menjadikannya oleh-oleh istimewa yang penuh cinta. Rasakan cita rasa yang akan selalu dikenang dan dibagikan dengan orang terkasih!",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727421148/LOGO_BAKPIA_rv8jex.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Bakpia Kacang Hijau",
+            deskripsi:
+              " Kue lembut berisi pasta kacang hijau manis dan gurih. Setiap gigitan menawarkan kelezatan yang selalu dirindukan!",
+            price: "Rp 3.000/biji",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727421985/bakpia_kacang_hijau_ukw6uk.jpg",
+          },
+          {
+            name: "Bakpia Coklat",
+            deskripsi:
+              "Kue lembut dengan isian coklat yang manis dan lumer. Setiap gigitan memberikan sensasi kelezatan yang memanjakan dan selalu bikin ketagihan!",
+            price: "Rp 3.000/biji",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727673451/bakpia_produk_2_oy6t9u.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d887.8375069550575!2d114.38167009603457!3d-8.223106378294297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452af7d34121%3A0xca3c480e62ada005!2sJl.%20Ikan%20Paus%2C%20Karangrejo%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727247915635!5m2!1sid!2sid",
+      footer: {
+        noHp: "082126241255",
+        alamat:
+          "PERUM GRIYA GIRI MULYA H-14, RT 005 / 005, Kel/Desa Klatak, Kecamatan Kalipuro",
+      },
+    },
+    "dapoer-bunga": {
+      title: "Dapoer Bunga",
+      icon: null,
+      navbarTitle: "Dapoer Bunga",
+      ctaLink: "https://wa.me/081249449149",
+        keyword: [
+          "Bolu Pisang Topping Keju",
+          "Resep Bolu Pisang Keju",
+          "Bolu Pisang Keju Lezat",
+          "Jual Bolu Pisang Topping Keju",
+          "Bolu Pisang Keju Spesial",
+          "Bolu Pisang dengan Keju Lumer",
+          "Bolu Pisang Topping Keju Enak",
+          "Bolu Pisang dan Keju",
+          "Bolu Pisang Keju untuk Pesta",
+          "Bolu Pisang Keju Homemade",
+          "Bolu Pisang Keju Klasik",
+          "Bolu Pisang Topping Keju Cream",
+          "Bolu Pisang Keju Manis",
+          "Bolu Pisang Keju untuk Acara Spesial",
+        ],
+        color: {
+          primary: "bg-[#F87171]",
+          secondary: "bg-[#FD7382]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#ef4444]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#F87171]",
+        },
+
+      hero: {
+        tagLine: "Rasa Manis yang Menggoda, Bolu Pisang yang Tak Terlupakan!",
+        deskripsi:
+          "Kami menyajikan bolu pisang berkualitas tinggi, terbuat dari bahan alami dan pisang segar pilihan. Dengan rasa manis alami dan tekstur lembut, bolu pisang ini sempurna untuk merayakan setiap momen spesial. Ciptakan kenangan manis di setiap gigitan!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727691801/Logo_Bolu_knxg90.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Rasakan Manisnya Bolu Pisang, Kue Sehat untuk Setiap Momen",
+        deskripsi:
+          "Nikmati bolu pisang lembut kami, terbuat dari pisang matang pilihan dan resep tradisional. Camilan sehat yang sempurna untuk setiap momen—sarapan, snack sore, atau acara spesial!",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727691801/Logo_Bolu_knxg90.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Bolu Pisang",
+            deskripsi:
+              "Bolu pisang kami adalah kue lembut yang terbuat dari pisang matang pilihan. Dengan rasa manis alami, bolu ini sempurna untuk sarapan atau camilan sehat di setiap momen spesial!",
+            price: "Rp 60.000",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727693000/bananacake_whngm0.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d493.7357454333035!2d114.4041413181019!3d-8.113092556588455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd146e9f5910dab%3A0x41561b55023d7542!2sBajulmati%20-%20Ketapang%20No.16%2C%20Lkr.%20Krajan%2C%20Bulusan%2C%20Kec.%20Kalipuro%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068455!5e0!3m2!1sid!2sid!4v1727688555793!5m2!1sid!2sid",
+      footer: {
+        noHp: "081249449149",
+        alamat:
+          "Dusun Selogiri, RT 002/ RW 004, Kel/Desa Ketapang, Kecamatan Kalipuro",
+      },
+    },
+    "cilok-bu-endang": {
+      title: "Cilok Bu Endang",
+      icon: null,
+      navbarTitle: "Cilok Bu Endang",
+      ctaLink: "https://wa.me/083847566449",
+        keyword: [
+          "Jual cilok aci kenyal dan cilok ayam lezat",
+          "Resep cilok aci tradisional dan cilok ayam mudah",
+          "UMKM cilok aci dan cilok ayam terdekat",
+          "Nikmati cilok aci dengan bumbu pedas dan cilok ayam gurih",
+          "Camilan tradisional cilok aci dan cilok ayam homemade",
+          "Cilok aci dan cilok ayam enak dengan saus sambal",
+          "Penjual cilok aci dan cilok ayam spesial",
+          "Cilok aci isi bumbu pedas dan cilok ayam isi daging",
+          "Cicipi kelezatan cilok aci dan cilok ayam di tempat kami",
+          "UMKM kuliner cilok aci dan cilok ayam yang menggugah selera",
+        ],
+        color: {
+          primary: "bg-[#8C441B]",
+          secondary: "bg-[#8C441B]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#F2BE22]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#0D0D0D]",
+        },
+
+      hero: {
+        tagLine: "Cilok Aci dan Ayam, Camilan Lezat untuk Setiap Kesempatan",
+        deskripsi:
+          "Nikmati kelezatan cilok aci yang kenyal dan cilok ayam yang gurih, ideal untuk menemani berbagai acara dan momen spesial. Dibuat dengan resep tradisional dan bahan berkualitas, setiap gigitan menawarkan rasa autentik yang menggoda selera. ",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727713637/log_cilok_lykrmo.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menyajikan Cita Rasa Autentik Cilok dengan Cinta",
+        deskripsi:
+          "Kami berkomitmen menghadirkan cilok isi ayam dengan rasa autentik dari resep tradisional dan bahan berkualitas. Setiap sajian dipersiapkan dengan cinta, menciptakan pengalaman kuliner yang memuaskan dan penuh kenangan.",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727713637/log_cilok_lykrmo.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Cilok Aci",
+            deskripsi:
+              "Cilok aci adalah camilan tradisional Indonesia yang terbuat dari tepung aci, dicampur bumbu, dan direbus hingga kenyal. Disajikan dengan sambal atau saus kacang, cilok aci menawarkan rasa gurih dan sedikit pedas, menjadikannya pilihan favorit untuk makanan ringan.",
+            price: "Rp 1.000",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727713139/Cilok_aci_zcqozo.jpg",
+          },
+          {
+            name: "Cilok Isi Ayam",
+            deskripsi:
+              "Cilok isi ayam adalah camilan tradisional Indonesia terbuat dari adonan tepung tapioka kenyal yang diisi daging ayam berbumbu. Direbus hingga matang dan disajikan dengan saus sambal, cilok ini menawarkan rasa gurih yang menggugah selera.",
+            price: "Rp 5.000",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727713140/Cilok_isi_ayam_jgnqpz.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3295.2448130790476!2d114.240734802518!3d-8.290373886759383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDsn.%20Padang%20Kidul%2C%20RT%20001%2FRW%20002%2C%20Kel%2FDesa%20Padang%2C%20Kec.%20Singojuruh%2C%20Kab.%20Banyuwangi!5e1!3m2!1sid!2sid!4v1727710315948!5m2!1sid!2sid",
+      footer: {
+        noHp: "083847566449",
+        alamat:
+          "Dsn. Padang Kidul, RT 001/RW 002, Kel/Desa Padang, Kec. Singojuruh, Kab. Banyuwangi",
+      },
+    },
+    "puffy": {
+      title: "Puffy",
+      icon: null,
+      navbarTitle: "Puffy",
+      ctaLink: "https://wa.me/081232699363",
+        keyword: [
+          "Donat lezat dan lembut",
+          "Donat premium dengan topping kreatif",
+          "Pesan donat dan chiffon cake online",
+          "Kue chiffon ringan dan empuk",
+          "Chiffon cake berbagai rasa",
+          "Kue untuk acara spesial",
+        ],
+        color: {
+          primary: "bg-[#F2C288]",
+          secondary: "bg-[#F2C288]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#F28DBC]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#0D0D0D]",
+        },
+
+      hero: {
+        tagLine: "Donat Empuk, Topping Berlimpah, Rasanya Juara!",
+        deskripsi:
+          "Nikmati kelezatan donat kami yang menjadikan setiap momen berharga! Dibuat dengan bahan terbaik dan berbagai pilihan rasa, setiap gigitan membawa kebahagiaan. Temukan donat yang sempurna untuk mempermanis hari Anda!",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727680350/Logo_Donat_hr4t8r.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Menghadirkan Donat Terbaik untuk Momen Spesial Anda",
+        deskripsi:
+          "Nikmati donat terbaik kami yang dirancang khusus untuk momen spesial Anda. Dengan bahan pilihan dan sentuhan penuh cinta, setiap gigitan menghadirkan kelembutan dan kelezatan yang sulit dilupakan. Apapun acaranya, donat kami siap membuat hari Anda lebih manis dan berkesan!",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727680350/Logo_Donat_hr4t8r.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Belepotan",
+            deskripsi:
+              "Donat belepotan menawarkan donat empuk dengan topping melimpah! Pilihan rasa meliputi cokelat leleh, glaze vanila, stroberi segar, keju parut, matcha, dan caramel crunch. Setiap gigitan menghadirkan sensasi manis dan gurih yang memanjakan lidah.",
+            price: "Rp 16.000/box",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727681306/donat_produk_1_nqntuj.jpg",
+          },
+          {
+            name: "Bomboloni",
+            deskripsi:
+              "Donat khas Italia dengan tekstur lembut dan isian melimpah. Setiap bomboloni berisi krim, selai, atau cokelat yang meleleh di mulut, memberikan pengalaman manis yang menggoda di setiap gigitan",
+            price: "Rp 27.000/box",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727684496/Sufganiyot_Jelly_Doughnuts_jjynes.jpg",
+          },
+          {
+            name: "Chiffon",
+            deskripsi:
+              "Cake ringan dan lembut dengan tekstur spongy yang halus. Dibuat dengan perpaduan bahan berkualitas dan teknik yang tepat, chiffon cake memberikan sensasi rasa yang ringan namun tetap kaya, sempurna untuk menemani secangkir teh atau kopi.",
+            price: "Rp 50.000",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727685685/Cheese_Chiffon_Cake_foplnc.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3948.895217447424!2d114.3481206741278!3d-8.213291882412419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sJL.HOS.COKROAMINOTO%2077%2C%20RT%20003%20%2F%20002%2C%20Kel%2FDesa%20Banjarsari%2C%20Kec.%20Glagah%2C%20Kab.%20Banyuwangi!5e0!3m2!1sid!2sid!4v1727677520182!5m2!1sid!2sid",
+      footer: {
+        noHp: "081232699363",
+        alamat:
+          "JL.HOS.COKROAMINOTO 77, RT 003 / 002, Kel/Desa Banjarsari, Kec. Glagah, Kab. Banyuwangi",
+      },
+    },
+    "suko-jajan": {
+      title: "Suko Jajan",
+      icon: null,
+      navbarTitle: "Suko Jajan",
+      ctaLink: "https://wa.me/085648479606",
+        keyword: [
+          "Eksplorasi rasa otentik kue talam pandan rangi kelapa lumpur",
+          "Sensasi manis tradisional talam pandan rangi kelapa lumpur",
+          "Perpaduan kenikmatan talam pandan rangi kelapa lumpur",
+          "Sajian lezat kue lumpur talam pandan rangi kelapa",
+          "Temukan kue tradisional talam pandan rangi kelapa lumpur lembut",
+          "Cita rasa klasik Nusantara talam pandan rangi kelapa lumpur",
+          "Manjakan lidah dengan kue lumpur talam pandan rangi kelapa",
+          "Tradisi dalam gigitan kue talam pandan rangi kelapa lumpur",
+          "Kreasi kue basah spesial talam pandan rangi kelapa lumpur",
+          "Sajian nostalgia kue talam pandan rangi kelapa lumpur",
+        ],
+        color: {
+          primary: "bg-[#8C030E]",
+          secondary: "bg-[#F2DCB3]",
+          backgroundColor: "bg-[#FFFFFF]",
+          hoverColor: "hover:bg-[#F2DCB3]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#0D0D0D]",
+        },
+
+      hero: {
+        tagLine: "Kue Khas Nusantara, Lezatnya Menggugah Selera",
+        deskripsi:
+          "Nikmati kue tradisional khas Indonesia dengan cita rasa autentik. Kelembutan talam pandan, gurihnya rangi kelapa, dan manisnya kue lumpur siap menggugah selera Anda, menghadirkan kelezatan Nusantara di setiap gigitan.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727709175/LOGO_lzjwt3.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Mewariskan Cita Rasa Autentik Nusantara",
+        deskripsi:
+          " Nikmati kelezatan kue khas Nusantara yang menggugah selera. Dari kelembutan talam pandan hingga gurihnya rangi kelapa dan manisnya kue lumpur, setiap kue menawarkan cita rasa autentik yang kaya akan tradisi. Dibuat dengan bahan berkualitas dan resep turun-temurun, sajian ini tidak hanya memanjakan lidah tetapi juga membawa kembali kenangan manis dari warisan kuliner Indonesia. Temukan kehangatan dan kelezatan dalam setiap gigitan.",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727709175/LOGO_lzjwt3.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "KUE RANGI",
+            deskripsi:
+              "Kue rangi kelapa adalah kue tradisional Indonesia yang terbuat dari tepung ketan, santan, dan parutan kelapa. Dikenal dengan bentuk bulat pipih, kue ini dimasak dalam cetakan logam, memberikan tekstur kenyal. Rasanya manis dan gurih, dengan aroma santan yang khas. Kue ini sering disajikan sebagai camilan di berbagai acara dan menjadi simbol kekayaan kuliner Indonesia.",
+            price: "Rp 3.000/pcs",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727708127/Kue_Rangin_f8tfms.jpg",
+          },
+          {
+            name: "KUE LUMPUR",
+            deskripsi:
+              "Kue lumpur adalah kue tradisional Indonesia yang terkenal dengan teksturnya yang lembut dan empuk. Terbuat dari campuran tepung terigu, kentang, gula, dan santan, kue ini memiliki rasa manis yang khas. Kue lumpur biasanya dimasak dalam cetakan bulat kecil dan sering dihias dengan irisan telur, kismis, atau parutan kelapa di atasnya. ",
+            price: "Rp 3.000/pcs",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727708137/download_1_wug67e.jpg",
+          },
+          {
+            name: "KUE TALAM",
+            deskripsi:
+              "Kue talam adalah kue tradisional Indonesia yang terbuat dari tepung beras, santan, dan gula. Memiliki tekstur lembut dan kenyal, kue ini biasanya terdiri dari lapisan hijau dari daun pandan dan disajikan dalam cetakan kecil. Rasanya manis dan gurih, menjadikannya camilan atau hidangan penutup yang populer.",
+            price: "Rp 3.000/pcs",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727708169/kue_talam_wqdc3i.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d638.8848018356028!2d114.36931425357783!3d-8.19988881537939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1451827a7b407%3A0x334cd76008795200!2sJl.%20Krakatau%20V%2C%20Singotrunan%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur%2068414!5e1!3m2!1sid!2sid!4v1727698708618!5m2!1sid!2sid",
+      footer: {
+        noHp: "085648479606",
+        alamat:
+          "JL. KRAKATAU V NO.8, Dsn. LK II SINGOWIGNYO, Kel/Desa Singotrunan, Kec. Banyuwangi, Kab. Banyuwangi",
+      },
+    },
+    "rumah-tempe": {
+      title: "Rumah Tempe",
+      icon: null,
+      navbarTitle: "Rumah Tempe",
+      ctaLink: "https://wa.me/085234034136",
+        keyword: [
+          "Rumah Tempe",
+          "Produsen Tempe Lokal",
+          "Tempe Fresh Homemade",
+          "Tempe Organik",
+          "Tempe Halal Berkualitas",
+          "Tempe Sehat & Lezat",
+          "Tempe Khas Rumah Tempe",
+          "Tempe Non-GMO",
+          "Jual Tempe Asli",
+          "Produksi Tempe Higienis",
+          "Supplier Tempe Rumahan",
+          "Tempe Tradisional Buatan Tangan",
+          "Tempe Sehat untuk Keluarga",
+          "Makanan Sehat Berbahan Tempe",
+          "Tempe Kualitas UMKM",
+          "Tempe Homemade Asli Indonesia",
+          "Rumah Produksi Tempe Terbaik",
+          "Pengrajin Tempe Lokal",
+          "Tempe Murah dan Berkualitas",
+          "Supplier Tempe UMKM",
+        ],
+        color: {
+          primary: "bg-[#594A3C]",
+          secondary: "bg-[#D9B18F]",
+          backgroundColor: "bg-[#ffffff]",
+          hoverColor: "hover:bg-[#8C745E]",
+          textColor: "text-[#010010]",
+          btnTextColor: "text-[#ffffff]",
+          accentColor: "text-[#0D0B09]",
+        },
+
+      hero: {
+        tagLine: " Tempe Lokal, Kualitas Global",
+        deskripsi:
+          "Rumah Tempe menghadirkan tempe autentik Indonesia, dibuat dari kedelai pilihan dengan proses alami. Kami menjamin tempe yang lezat, bergizi, dan diproduksi dengan standar tinggi, siap bersaing di pasar global tanpa menghilangkan cita rasa lokal.",
+        btn: true,
+        btnText: "Pesan sekarang",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727258606/rumah_tempe_mitdl2.png",
+      },
+      about: {
+        title: "Tentang",
+        txt: "Kualitas Tempe Lokal, Cita Rasa yang Tak Terlupakan",
+        deskripsi:
+          "Rumah Tempe menyajikan tempe berkualitas tinggi, terbuat dari kacang kedelai pilihan dan proses fermentasi tradisional. Dengan cita rasa autentik yang kaya nutrisi, tempe kami adalah pilihan sempurna untuk setiap hidangan. Rasakan pengalaman kuliner yang tak terlupakan dengan tempe lokal kami.",
+        img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727258606/rumah_tempe_mitdl2.png",
+        btn: true,
+        btnText: "Pesan sekarang",
+      },
+      product: {
+        title: "Produk Kami",
+        data: [
+          {
+            name: "Tempe",
+            deskripsi:
+              "Tempe adalah produk fermentasi kacang kedelai yang kaya akan protein dan nutrisi. Sebagai makanan tradisional Indonesia, tempe memiliki tekstur padat dan cita rasa khas, menjadikannya pilihan sehat dan lezat dalam berbagai hidangan.",
+            price: "Rp 5.000",
+            img: "https://res.cloudinary.com/dajicuqyc/image/upload/v1727250874/PRODUK_TEMPE_my7w1h.jpg",
+          },
+        ],
+      },
+      location:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d887.8375069550575!2d114.38167009603457!3d-8.223106378294297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd1452af7d34121%3A0xca3c480e62ada005!2sJl.%20Ikan%20Paus%2C%20Karangrejo%2C%20Kec.%20Banyuwangi%2C%20Kabupaten%20Banyuwangi%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1727247915635!5m2!1sid!2sid",
+      footer: {
+        noHp: "085234034136",
+        alamat:
+          "JL.IKAN PAUS, Desa/Kelurahan Karangrejo, Kec. Banyuwangi, Kab. Banyuwangi, Provinsi Jawa Timur",
+      },
+    },
   };
   
   export default dataWildan;
