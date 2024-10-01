@@ -128,7 +128,7 @@ const menuItems = [
           <Button
             size="lg"
             onClick={() => {
-              open("https://linktr.ee/Muda_Pedia");
+              open("https://linktr.ee/mudapedia_digital_indonesia");
             }}
             variant="flat"
             className="bg-[#4F5CDF] text-cyan-50 rounded-full text-sm py-2 px-3 sm:text-base sm:py-4 sm:px-5"
