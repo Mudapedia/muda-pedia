@@ -5,7 +5,7 @@ import "./index.css";
 import { NextUIProvider } from "@nextui-org/react";
 import { SkeletonTheme } from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
-import 'swiper/css'
+import "swiper/css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -16,3 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </NextUIProvider>
   </React.StrictMode>
 );
+
+//api secret w6Jbp9kCyYTJZ5KNZyHvKJkvcVA
+// api key 592923251847817
+//cloud name dtiyid0pi
