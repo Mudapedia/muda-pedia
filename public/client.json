@@ -9,9 +9,8 @@
     {
       "name": "Dewa - Dewi Oleh Oleh",
       "descriptions": "Pusat Oleh-Oleh Terlengkap dan Terlezat di rogojampi banyuwangi, rasakan kenikmatannya",
-      "logo": "/src/assets/logo-muda-pedia.png",
+      "logo": "./logo-muda-pedia.png",
       "link": "https://dewadewi-oleholeh.vercel.app/"
     }
-
   ]
 }

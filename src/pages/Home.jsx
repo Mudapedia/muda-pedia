@@ -1,4 +1,3 @@
-import { Button } from "@nextui-org/react";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 
 // components
@@ -8,7 +7,7 @@ import AboutUs from "../components/user/landing page/AboutUs";
 import Features from "../components/user/landing page/Features";
 import Team from "../components/user/landing page/Team";
 import Faq from "../components/user/landing page/Faq";
-import Blog from "../components/user/landing page/Blog";
+// import Blog from "../components/user/landing page/Blog";
 import Footer from "../components/user/Footer";
 import Ourclient from "../components/user/landing page/Ourclient";
 
@@ -32,7 +31,6 @@ const Home = () => {
           <AboutUs />
           <Features />
           <Team />
-          <Blog />
           <Ourclient />
           <Faq />
           <div>
