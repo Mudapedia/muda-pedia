@@ -1,4 +1,5 @@
 import { Instagram, Tiktok } from "../../assets/icons/Icons";
+import AcmeLogo from "../AcmeLogo";
 
 const Footer = () => {
   return (
@@ -67,7 +68,7 @@ const Footer = () => {
       <div className="py-5 pt-16 w-full bg-[#091232] flex justify-center items-center text-white">
         <div className="max-w-screen-lg mx-auto flex justify-between items-center w-full lg:px-0 px-6">
           <div className="flex gap-1 items-center">
-            <img src="../../../public/logo-muda-pedia.png" width={50} alt="" />
+            <AcmeLogo />
             <p className="text-sm">© 2024 MudaPedia. All rights reserved.</p>
           </div>
           <div className="flex items-center gap-3">
