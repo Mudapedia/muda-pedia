@@ -22,13 +22,13 @@ const NavigationBar = () => {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
   // const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ", "Mitra"];
-const menuItems = [
-  {name: "Tentang", link: '/#aboutUs'},
-  {name: "Layanan", link: '/#features'},
-  {name: "Blog", link: '/#Blog'},
-  {name: "FAQ", link: '/#faq'},
-  {name: "Mitra", link: '/#mitra'},
-]
+  const menuItems = [
+    { name: "Tentang", link: "/#aboutUs" },
+    { name: "Layanan", link: "/#features" },
+    { name: "Blog", link: "/#Blog" },
+    { name: "FAQ", link: "/#faq" },
+    { name: "Mitra", link: "/#mitra" },
+  ];
 
   return (
     <Navbar
@@ -114,7 +114,7 @@ const menuItems = [
               FAQ
             </Link>
           </NavbarItem>
-          <NavbarItem>
+          {/* <NavbarItem>
             <Link
               color="foreground"
               href="/cek-domain"
@@ -122,7 +122,7 @@ const menuItems = [
             >
               Check Domain
             </Link>
-          </NavbarItem>
+          </NavbarItem> */}
         </NavbarContent>
         <NavbarItem>
           <Button
@@ -140,7 +140,10 @@ const menuItems = [
 
       <NavbarMenu>
         {menuItems.map((item, index) => (
-          <NavbarMenuItem key={`${item}-${index}`} onClick={() => setIsMenuOpen(false)}>
+          <NavbarMenuItem
+            key={`${item}-${index}`}
+            onClick={() => setIsMenuOpen(false)}
+          >
             <Link
               className="w-full hover:text-[#4F5CDF]"
               color="foreground"
@@ -155,7 +158,7 @@ const menuItems = [
             </Link>
           </NavbarMenuItem>
         ))}
-        <NavbarMenuItem>
+        {/* <NavbarMenuItem>
           <Link
             className="w-full hover:text-[#4F5CDF]"
             color="foreground"
@@ -167,7 +170,7 @@ const menuItems = [
           >
             Check Domain
           </Link>
-        </NavbarMenuItem>
+        </NavbarMenuItem> */}
       </NavbarMenu>
     </Navbar>
   );
