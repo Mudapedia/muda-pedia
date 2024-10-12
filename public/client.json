@@ -1,16 +1,40 @@
 {
   "client": [
     {
-      "name": "Dolay Cut",
-      "descriptions": "Dengan sentuhan profesional, kami memastikan Anda mendapatkan potongan rambut yang rapi dan stylish. Datang dan buktikan sendiri!",
-      "logo": "./dolaycut-logo.png",
-      "link": "https://dolaycut.vercel.app/"
+      "name": "Di Kitchen",
+      "descriptions": "Bakpia Spesial, Rasa yang Melekat di Hati",
+      "logo": "https://res.cloudinary.com/dajicuqyc/image/upload/v1727421148/LOGO_BAKPIA_rv8jex.png",
+      "link": "https://mudapediadigitalindonesia.com/di-khitchen"
     },
     {
-      "name": "Dewa - Dewi Oleh Oleh",
-      "descriptions": "Pusat Oleh-Oleh Terlengkap dan Terlezat di rogojampi banyuwangi, rasakan kenikmatannya",
-      "logo": "./logo-muda-pedia.png",
-      "link": "https://dewadewi-oleholeh.vercel.app/"
+      "name": "Puji Kitchen",
+      "descriptions": "Kue Rumahan Spesial, Kelezatan dalam Setiap Gigitan!",
+      "logo": "https://res.cloudinary.com/dl1zvxvvx/image/upload/v1727424406/Puji_Kitchen_zogjm0.png",
+      "link": "https://mudapediadigitalindonesia.com/puji-kitchen"
+    },
+    {
+      "name": "Pukis Barokah",
+      "descriptions": "Setiap Pukis, Sebuah Kelezatan yang Tak Terlupakan",
+      "logo": "https://res.cloudinary.com/dnsjvfixm/image/upload/v1727442444/logo_pukis_barokah_bu_ernina_rhiz3v.png",
+      "link": "https://mudapediadigitalindonesia.com/pukis-barokah"
+    },
+    {
+      "name": "Tempe Wahyudi",
+      "descriptions": "Dari Kedelai Terbaik, Tempe yang Menggugah Selera!",
+      "logo": "https://res.cloudinary.com/dm43j5fur/image/upload/v1727509669/logo_tempe_vakeq1.png",
+      "link": "https://mudapediadigitalindonesia.com/tempe-wahyudi"
+    },
+    {
+      "name": "Es Degan Edi",
+      "descriptions": "Segarkan Hari Anda dengan Es Kelapa Muda!",
+      "logo": "https://res.cloudinary.com/dm43j5fur/image/upload/v1727535346/logo_es_degan_2_yqse2d.png",
+      "link": "https://mudapediadigitalindonesia.com/es-degan-edi"
+    },
+    {
+      "name": "Kedai Sambal Belut",
+      "descriptions": "Nikmati Keunikan Sambal Belut, Cita Rasa yang Tak Terlupakan!",
+      "logo": "https://res.cloudinary.com/dm43j5fur/image/upload/v1727590403/logo_sambel-removebg-preview_dc0ixu.png",
+      "link": "https://mudapediadigitalindonesia.com/kedai-sambal-belut"
     }
   ]
 }

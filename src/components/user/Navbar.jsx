@@ -23,9 +23,9 @@ const NavigationBar = () => {
 
   // const menuItems = ["Tentang", "Layanan", "Tim Kami", "Blog", "FAQ", "Mitra"];
   const menuItems = [
-    { name: "Tentang", link: "/#aboutUs" },
-    { name: "Layanan", link: "/#features" },
-    { name: "Blog", link: "/#Blog" },
+    { name: "Tentang", link: "/#tentang-kami" },
+    { name: "Layanan", link: "/#layanan" },
+    { name: "Tim Kami", link: "/#tim-kami" },
     { name: "FAQ", link: "/#faq" },
     { name: "Mitra", link: "/#mitra" },
   ];
@@ -63,7 +63,7 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#aboutUs"
+              href="#tentang-kami"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Tentang
@@ -71,7 +71,7 @@ const NavigationBar = () => {
           </NavbarItem>
           <NavbarItem>
             <Link
-              href="#features"
+              href="#layanan"
               color="foreground"
               className="hover:text-[#4F5CDF] font-semibold"
             >
@@ -81,13 +81,13 @@ const NavigationBar = () => {
           <NavbarItem>
             <Link
               color="foreground"
-              href="#team"
+              href="#tim-kami"
               className="hover:text-[#4F5CDF] font-semibold"
             >
               Tim Kami
             </Link>
           </NavbarItem>
-          <NavbarItem>
+          {/* <NavbarItem>
             <Link
               color="foreground"
               href="#Blog"
@@ -95,7 +95,7 @@ const NavigationBar = () => {
             >
               Blog
             </Link>
-          </NavbarItem>
+          </NavbarItem> */}
           <NavbarItem>
             <Link
               color="foreground"

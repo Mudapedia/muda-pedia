@@ -24,7 +24,10 @@ const Ourclient = () => {
   }, [data]);
 
   return (
-    <div className="flex flex-col max-w-screen-lg mx-auto w-full gap-10 py-20" id="mitra">
+    <div
+      className="flex flex-col max-w-screen-lg mx-auto w-full gap-10 py-20"
+      id="mitra"
+    >
       <div className="flex max-w-screen-lg mx-auto w-full gap-16 justify-between">
         <div className="w-1/2 lg:block md:hidden hidden h-80 bg-[url(https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-cover rounded-xl bg-center shadow-lg shadow-gray-400"></div>
         <div className="flex lg:w-1/2 md:w-full w-full lg:px-0 px-6 flex-col gap-3 items-start">
@@ -33,7 +36,13 @@ const Ourclient = () => {
             <p className="text-[12px] mb-0 text-gray-500">Mitra Kami</p>
           </div>
           <p className="text-gray-500">
-          Di Mudapedia, kami sangat bangga dengan klien kami yang beragam dan terhormat. Klien kami mencakup berbagai industri dan sektor, masing-masing mendapatkan manfaat dari solusi inovatif dan layanan khusus kami. Kami percaya dalam membangun hubungan jangka panjang berdasarkan kepercayaan, transparansi, dan pertumbuhan bersama. Berikut adalah beberapa klien berharga yang telah memilih Mudapedia sebagai mitra terpercaya mereka
+            Di Mudapedia, kami sangat bangga dengan klien kami yang beragam dan
+            terhormat. Klien kami mencakup berbagai industri dan sektor,
+            masing-masing mendapatkan manfaat dari solusi inovatif dan layanan
+            khusus kami. Kami percaya dalam membangun hubungan jangka panjang
+            berdasarkan kepercayaan, transparansi, dan pertumbuhan bersama.
+            Berikut adalah beberapa klien berharga yang telah memilih Mudapedia
+            sebagai mitra terpercaya mereka
           </p>
           <Link
             to="/our-mitra"
