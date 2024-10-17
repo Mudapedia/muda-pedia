@@ -51,11 +51,11 @@ const Team = () => {
       image: "/team/pakPutu.png",
       position: "Founder of Digital blockchain indonesia",
     },
-    // {
-    //   name: "Junaidi Abdullah",
-    //   image: "/team/make.jpeg",
-    //   position: "Mentor",
-    // },
+    {
+      name: "Hendri Hidayat",
+      image: "/team/pakHendrik.jpg",
+      position: "komisaris Independen",
+    },
     {
       name: "Omi Gusty Rifani",
       image: "/team/omi.png",
@@ -66,11 +66,11 @@ const Team = () => {
       image: "/team/iqbal.png",
       position: "Programmer",
     },
-    {
-      name: "Muhammad Mu’izzuddin",
-      image: "/team/muiz.png",
-      position: "Programmer",
-    },
+    // {
+    //   name: "Muhammad Mu’izzuddin",
+    //   image: "/team/muiz.png",
+    //   position: "Programmer",
+    // },
     {
       name: "Moh. Haris Sofyan",
       image: "/team/haris.png",
@@ -139,7 +139,7 @@ const Team = () => {
             className="justify-between flex items-center flex-col gap-3"
             key={index}
           >
-            <Image src={item.image} className="rounded-full w-28" />
+            <Image src={item.image} className="rounded-full w-28 h-28 object-cover" />
             <div className="flex flex-col w-full items-center">
               <h4 className="text-lg font-medium">{item.name}</h4>
               <p className="text-md  text-[#66676A] text-center">
@@ -155,7 +155,7 @@ const Team = () => {
             className="justify-between flex items-center flex-col gap-3"
             key={index}
           >
-            <Image src={item.image} className="rounded-full w-28" />
+            <img src={item.image} className="rounded-full w-28 h-28 object-cover" />
             <div className="flex flex-col w-full items-center">
               <h4 className="text-lg font-medium">{item.name}</h4>
               <p className="text-md  text-[#66676A] text-center">
