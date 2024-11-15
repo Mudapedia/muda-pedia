@@ -51,11 +51,11 @@ const Team = () => {
       image: "/team/pakPutu.png",
       position: "Founder of Digital blockchain indonesia",
     },
-    {
-      name: "Hendri Hidayat",
-      image: "/team/pakHendrik.jpg",
-      position: "komisaris Independen",
-    },
+    // {
+    //   name: "Hendri Hidayat",
+    //   image: "/team/pakHendrik.jpg",
+    //   position: "komisaris Independen",
+    // },
     {
       name: "Omi Gusty Rifani",
       image: "/team/omi.png",
